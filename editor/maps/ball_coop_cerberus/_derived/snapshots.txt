@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\_config\image-descriptors.txt" lastModified="1443890895482" length="1284" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\_config\image-descriptors.txt" lastModified="1443902023609" length="1284" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\ball_coop_cerberus.alte" lastModified="1443890757756" length="183267" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\images\Biplane_HD.png" lastModified="1443855785603" length="44751" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\images\Bomber_HD.png" lastModified="1443855785603" length="77406" />
@@ -11,6 +11,7 @@
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\images\cerberus_title.png" lastModified="1443889421585" length="23311" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\images\import_png_rock\00000.png" lastModified="1443845019507" length="183779" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\images\turret_nozzle.png" lastModified="1443885606382" length="12338" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\plus.txt" lastModified="1443901995139" length="110" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\textures\rock.png" lastModified="1443839519856" length="144861" />
   </snapshots>
 </snapshots.txt>
