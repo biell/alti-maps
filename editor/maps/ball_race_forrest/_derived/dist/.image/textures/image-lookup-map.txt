@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="grass.png" value="p0" />
+    <entry key="pavement.png" value="p1" />
+    <entry key="pavement_light.png" value="p2" />
+    <entry key="pavement_medium.png" value="p3" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

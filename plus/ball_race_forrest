@@ -1,0 +1,26 @@
+/set intro Race 2 laps through the forrest
+/set weapons 3
+/set gravity 3
+
+/add powerup cp1 * 656,1395
+/add powerup cp1 * 643,1358
+
+/add powerup cp2 * 2614,1975
+/add powerup cp2 * 2648,1938
+/add powerup cp2 * 2682,1899
+
+/add powerup cp3 * 913,239
+/add powerup cp3 * 913,199
+/add powerup cp3 * 913,160
+
+/add oneway 656,1395 -20
+/add oneway 643,1358 -20
+
+/add oneway 2614,1975 sw
+/add oneway 2648,1938 sw
+/add oneway 2682,1899 sw
+
+/add oneway 913,239 w
+/add oneway 913,199 w
+/add oneway 913,160 w
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="ball_race_forrest.png" value="p0" />
+    <entry key="tree1.png" value="p0" />
+    <entry key="tree2.png" value="p0" />
+    <entry key="tree3.png" value="p0" />
+    <entry key="tree4.png" value="p0" />
+    <entry key="tree5.png" value="p0" />
+    <entry key="tree6.png" value="p0" />
+    <entry key="tree7.png" value="p1" />
+    <entry key="tree8.png" value="p1" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+
