@@ -1,6 +1,7 @@
 /set intro Race 2 laps through the forrest
 /set weapons 3
 /set gravity 3
+/set spawnMode died
 
 /add powerup cp1 * 656,1395
 /add powerup cp1 * 643,1358
