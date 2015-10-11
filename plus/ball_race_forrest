@@ -3,25 +3,38 @@
 /set gravity 3
 /set spawnMode died
 
-/add powerup cp1 * 656,1395
-/add powerup cp1 * 643,1358
+/add powerup cp1 * 635,1359
+/add powerup cp1 * 660,1372
+/add powerup cp1 * 655,1399
 
-/add powerup cp2 * 2614,1975
-/add powerup cp2 * 2648,1938
-/add powerup cp2 * 2682,1899
+/add powerup cp2 * 2601,1979
+/add powerup cp2 * 2631,1979
+/add powerup cp2 * 2631,1949
+/add powerup cp2 * 2661,1949
+/add powerup cp2 * 2661,1919
+/add powerup cp2 * 2691,1919
+/add powerup cp2 * 2691,1889
 
-/add powerup cp3 * 913,239
-/add powerup cp3 * 913,199
-/add powerup cp3 * 913,160
+/add powerup cp3 * 900,252
+/add powerup cp3 * 923,227
+/add powerup cp3 * 900,200
+/add powerup cp3 * 923,174
+/add powerup cp3 * 900,147
 
-/add oneway 656,1395 -20
-/add oneway 643,1358 -20
+/add oneway 635,1359 -20
+/add oneway 660,1372 -20
+/add oneway 655,1399 -20
 
-/add oneway 2614,1975 sw
-/add oneway 2648,1938 sw
-/add oneway 2682,1899 sw
+/add oneway 2601,1979 sw
+/add oneway 2631,1979 sw
+/add oneway 2631,1949 sw
+/add oneway 2661,1949 sw
+/add oneway 2661,1919 sw
+/add oneway 2691,1919 sw
+/add oneway 2691,1889 sw
 
-/add oneway 913,239 w
-/add oneway 913,199 w
-/add oneway 913,160 w
-
+/add oneway 900,252 w
+/add oneway 923,227 w
+/add oneway 900,200 w
+/add oneway 923,174 w
+/add oneway 900,147 w

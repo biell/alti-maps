@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forrest\_config\image-descriptors.txt" lastModified="1444543740001" length="1760" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forrest\ball_race_forrest.alte" lastModified="1444541115178" length="402084" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forrest\_config\image-descriptors.txt" lastModified="1444544426750" length="1760" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forrest\ball_race_forrest.alte" lastModified="1444544066924" length="402600" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forrest\images\ball_race_forrest.png" lastModified="1444455262835" length="23268" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forrest\images\tree1.png" lastModified="1444449865757" length="3901" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forrest\images\tree2.png" lastModified="1444449865757" length="3669" />
