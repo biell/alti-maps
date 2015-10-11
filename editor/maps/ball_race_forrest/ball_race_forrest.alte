@@ -2923,6 +2923,16 @@
             </texture>
           </texturedPoly>
         </geometry>
+        <geometry layer="6" x="883" y="317" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-16724992,14.0,-9.0,14.0,-39.0,44.0,-39.0,44.0,-9.0,">
+            <texture>
+              <image path="textures/grass.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-883.0" y="-317.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
       </geometry>
       <spawnPoints>
         <spawnPoints layer="2" x="759" y="214" orientation="-180.0">
@@ -2955,49 +2965,49 @@
             <String value="Ball" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="2" x="913" y="160" orientation="0.0" spawnTime="0.05" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="2" x="913" y="160" orientation="0.0" spawnTime="0.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="2" x="913" y="199" orientation="0.0" spawnTime="0.05" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="2" x="913" y="199" orientation="0.0" spawnTime="0.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="2" x="913" y="239" orientation="0.0" spawnTime="0.05" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="2" x="913" y="239" orientation="0.0" spawnTime="0.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="2" x="656" y="1395" orientation="0.0" spawnTime="0.05" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="2" x="656" y="1395" orientation="0.0" spawnTime="0.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="2" x="643" y="1358" orientation="0.0" spawnTime="0.05" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="2" x="643" y="1358" orientation="0.0" spawnTime="0.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="2" x="2614" y="1975" orientation="0.0" spawnTime="0.05" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="2" x="2614" y="1975" orientation="0.0" spawnTime="0.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="2" x="2648" y="1938" orientation="0.0" spawnTime="0.05" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="2" x="2648" y="1938" orientation="0.0" spawnTime="0.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="2" x="2682" y="1899" orientation="0.0" spawnTime="0.05" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="2" x="2682" y="1899" orientation="0.0" spawnTime="0.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
