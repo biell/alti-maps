@@ -2947,16 +2947,6 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="315" y="3620" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-121.0,55.0,-156.0,49.0,-177.0,42.0,-194.0,34.0,-215.0,20.0,-226.0,10.0,-229.0,-7.0,-226.0,-13.0,-217.0,-22.0,-203.0,-29.0,-188.0,-33.0,-164.0,-36.0,-141.0,-34.0,-103.0,-27.0,-71.0,-25.0,18.0,-38.0,80.0,-49.0,116.0,-53.0,160.0,-55.0,185.0,-51.0,208.0,-45.0,219.0,-39.0,224.0,-34.0,228.0,-25.0,230.0,-15.0,230.0,9.0,222.0,18.0,210.0,22.0,189.0,24.0,166.0,20.0,141.0,18.0,113.0,20.0,57.0,29.0,-67.0,55.0,">
-            <texture>
-              <image path="images/ball_race_forrest.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-259.0" y="-62.0" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
         <geometry layer="6" x="1306" y="686" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="0.0">
           <texturedPoly hull="!-16724992,1.0,0.0,46.0,-1.0,29.0,12.0,1.0,12.0,">
             <texture>
@@ -4089,6 +4079,26 @@
               <image path="textures/grass.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-1780.0" y="-2.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="281" y="3680" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-121.0,55.0,-156.0,49.0,-177.0,42.0,-194.0,34.0,-215.0,20.0,-226.0,10.0,-229.0,-7.0,-226.0,-13.0,-217.0,-22.0,-203.0,-29.0,-188.0,-33.0,-164.0,-36.0,-141.0,-34.0,-103.0,-27.0,-71.0,-25.0,18.0,-38.0,80.0,-49.0,116.0,-53.0,160.0,-55.0,185.0,-51.0,208.0,-45.0,219.0,-39.0,224.0,-34.0,228.0,-25.0,230.0,-15.0,230.0,9.0,222.0,18.0,210.0,22.0,189.0,24.0,166.0,20.0,141.0,18.0,113.0,20.0,57.0,29.0,-67.0,55.0,">
+            <texture>
+              <image path="images/ball_race_forest.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-259.0" y="-62.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="2067" y="177" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-148.0,14.0,-148.0,-99.0,366.0,-97.0,366.0,15.0,">
+            <texture>
+              <image path="images/start_node.png" />
+              <xform scale="2.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-150.0" y="-110.0" />
               </xform>
             </texture>
           </texturedPoly>

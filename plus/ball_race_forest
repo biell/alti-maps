@@ -5,6 +5,7 @@
 /set weapons 3
 /set gravity 3
 /set spawnMode crash
+/set spawnHealth 200
 
 #Override start so bots can be sequestered:
 /add zone start * 1168,633,w
