@@ -1,7 +1,13 @@
+#ball_race_forrest alti+ map settings
+
+#Basic settings:
 /set intro Race 2 laps through the forrest
 /set weapons 3
 /set gravity 3
-/set spawnMode died
+/set spawnMode crash
+
+#Override start so bots can be sequestered:
+/add zone start * 1168,633,w
 
 #Checkpoints:
 /add powerup cp1 * 998,1821
@@ -46,6 +52,8 @@
 /add oneway 1264,566 w
 /add oneway 1264,671 w
 /add oneway 1264,619 w
+/add oneway 1285,646 w 
+/add oneway 1285,593 w
 
 
 

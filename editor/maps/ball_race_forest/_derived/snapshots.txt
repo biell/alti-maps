@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forest\_config\image-descriptors.txt" lastModified="1444782027951" length="2013" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forest\ball_race_forest.alte" lastModified="1444781477755" length="531000" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forest\images\ball_race_forrest.png" lastModified="1444455262835" length="23268" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forest\images\forrest_map.png" lastModified="1444672520228" length="9044" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forest\images\location.png" lastModified="1444616392782" length="199" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forest\images\tree1.png" lastModified="1444449865757" length="3901" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forest\images\tree2.png" lastModified="1444449865757" length="3669" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forest\images\tree3.png" lastModified="1444449865757" length="4427" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forest\images\tree4.png" lastModified="1444449865757" length="5783" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forest\images\tree5.png" lastModified="1444449865757" length="4610" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forest\images\tree6.png" lastModified="1444449865757" length="3612" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forest\images\tree7.png" lastModified="1444449865757" length="5339" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forest\images\tree8.png" lastModified="1444449865757" length="4225" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forest\textures\grass.png" lastModified="1444273241870" length="7391" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forest\textures\pavement.png" lastModified="1444273241870" length="3411" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forest\textures\pavement_light.png" lastModified="1444273241870" length="3440" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_forest\textures\pavement_medium.png" lastModified="1444273241870" length="3992" />
+  </snapshots>
+</snapshots.txt>
+
