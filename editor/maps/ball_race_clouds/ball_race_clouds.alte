@@ -148,7 +148,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="6" x="609" y="62" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
-          <texturedPoly hull="!-1,-69.0,81.0,-82.0,74.0,-91.0,66.0,-102.0,44.0,-116.0,40.0,-125.0,32.0,-130.0,18.0,-130.0,3.0,-136.0,-3.0,-142.0,-13.0,-147.0,-37.0,-141.0,-58.0,-127.0,-74.0,-117.0,-79.0,-100.0,-83.0,119.0,-84.0,131.0,-80.0,141.0,-71.0,145.0,-61.0,147.0,-49.0,144.0,-38.0,134.0,-26.0,118.0,-21.0,118.0,3.0,114.0,13.0,103.0,26.0,90.0,32.0,71.0,35.0,59.0,32.0,51.0,27.0,47.0,37.0,39.0,45.0,27.0,49.0,14.0,50.0,0.0,44.0,0.0,48.0,-4.0,57.0,-18.0,73.0,-30.0,79.0,-47.0,84.0,">
+          <texturedPoly hull="!-1,-69.0,81.0,-82.0,74.0,-91.0,66.0,-102.0,44.0,-116.0,40.0,-125.0,32.0,-130.0,18.0,-130.0,3.0,-136.0,-3.0,-142.0,-13.0,-147.0,-37.0,-141.0,-58.0,-127.0,-74.0,-117.0,-79.0,-100.0,-83.0,!-1711276033,43.0,-82.0,43.0,-5.0,107.0,-5.0,107.0,-83.0,!-1,119.0,-84.0,131.0,-80.0,141.0,-71.0,145.0,-61.0,147.0,-49.0,144.0,-38.0,134.0,-26.0,118.0,-21.0,118.0,3.0,114.0,13.0,103.0,26.0,90.0,32.0,71.0,35.0,59.0,32.0,51.0,27.0,47.0,37.0,39.0,45.0,27.0,49.0,14.0,50.0,0.0,44.0,0.0,48.0,-4.0,57.0,-18.0,73.0,-30.0,79.0,-47.0,84.0,">
             <texture>
               <image path="images/cloud1.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
@@ -167,7 +167,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="915" y="54" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+        <geometry layer="5" x="947" y="44" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
           <texturedPoly hull="!-1,-37.171234,78.4726,-52.315067,71.58904,-68.83562,57.82192,-74.34247,48.184933,-93.61644,53.69178,-108.76028,55.068493,-123.904106,50.938354,-133.54109,45.431507,-145.9315,33.041096,-152.81506,16.520548,-155.5685,0.0,-176.21918,-2.7534246,-192.73973,-15.143835,-201.0,-44.054794,-198.24658,-55.068493,-192.73973,-64.70548,-185.85617,-71.58904,-166.58218,-78.4726,165.20547,-79.84931,181.72603,-74.34247,192.73973,-64.70548,201.0,-35.79452,198.24658,-24.780823,192.73973,-15.143835,185.85617,-8.260274,162.45206,0.0,158.32191,11.013699,147.30821,24.780823,130.78767,33.041096,114.26712,37.171234,107.38356,50.938354,99.12329,59.19863,83.979454,67.4589,70.212326,71.58904,44.054794,72.96575,23.40411,66.08219,6.8835616,75.71918,-12.390411,81.22603,">
             <texture>
               <image path="images/cloud5.png" />
@@ -418,7 +418,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="2" x="28" y="2" orientation="0.0" visible="false" collidable="true" elasticity="0.0" damageModifier="9.0">
-          <texturedPoly hull="!-1724697805,0.0,0.0,25.0,30.0,68.0,31.0,99.0,61.0,131.0,50.0,132.0,50.0,175.0,70.0,175.0,69.0,203.0,49.0,229.0,91.0,220.0,215.0,262.0,282.0,262.0,283.0,245.0,342.0,300.0,411.0,301.0,409.0,376.0,446.0,479.0,425.0,564.0,339.0,557.0,318.0,531.0,294.0,503.0,269.0,474.0,168.0,460.0,125.0,423.0,85.0,445.0,52.0,479.0,89.0,524.0,134.0,629.0,73.0,629.0,72.0,675.0,69.0,675.0,66.0,710.0,34.0,750.0,46.0,766.0,87.0,824.0,90.0,824.0,91.0,870.0,121.0,914.0,101.0,968.0,102.0,1080.0,21.0,1177.0,39.0,1178.0,39.0,1331.0,14.0,1331.0,15.0,1373.0,234.0,1269.0,344.0,1245.0,420.0,1145.0,433.0,1040.0,499.0,928.0,505.0,915.0,535.0,955.0,553.0,1005.0,592.0,1005.0,591.0,1091.0,525.0,1127.0,534.0,1259.0,501.0,1334.0,427.0,1379.0,416.0,1405.0,384.0,1398.0,341.0,1406.0,278.0,1407.0,278.0,1397.0,236.0,1432.0,186.0,1443.0,119.0,1419.0,35.0,1385.0,-1.0,">
+          <texturedPoly hull="!-1724697805,0.0,0.0,25.0,30.0,68.0,31.0,99.0,61.0,131.0,50.0,132.0,50.0,175.0,70.0,175.0,69.0,203.0,49.0,229.0,91.0,220.0,215.0,262.0,282.0,262.0,283.0,245.0,342.0,300.0,411.0,301.0,409.0,376.0,446.0,479.0,425.0,564.0,339.0,557.0,318.0,531.0,294.0,503.0,269.0,474.0,168.0,460.0,125.0,423.0,85.0,445.0,52.0,479.0,89.0,524.0,134.0,593.0,96.0,609.0,99.0,!-1711276033,626.0,79.0,!-1724697805,653.0,91.0,!-1711276033,678.0,84.0,690.0,62.0,693.0,27.0,714.0,8.0,!-1724697805,773.0,32.0,791.0,70.0,822.0,91.0,849.0,85.0,908.0,118.0,944.0,102.0,1007.0,103.0,1080.0,21.0,1177.0,39.0,1178.0,39.0,1331.0,14.0,1331.0,15.0,1373.0,234.0,1269.0,344.0,1245.0,420.0,1145.0,433.0,1040.0,499.0,928.0,505.0,915.0,535.0,955.0,553.0,1005.0,592.0,1005.0,591.0,1091.0,525.0,1127.0,534.0,1259.0,501.0,1334.0,427.0,1379.0,416.0,1405.0,384.0,1398.0,341.0,1406.0,278.0,1407.0,278.0,1397.0,236.0,1432.0,186.0,1443.0,119.0,1419.0,35.0,1385.0,-1.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-28.0" y="-2.0" />
@@ -507,97 +507,97 @@
             <String value="Ball" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="714" y="231" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="684" y="-16" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Ball" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="1641" y="192" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="1641" y="192" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="1630" y="165" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="1630" y="165" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="1620" y="138" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="1620" y="138" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="1607" y="112" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="1607" y="112" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="1600" y="168" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="1600" y="168" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="1590" y="141" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="1590" y="141" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="1577" y="115" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="1577" y="115" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="1611" y="195" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="1611" y="195" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="1617" y="221" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="1617" y="221" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="720" y="139" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="720" y="139" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="727" y="166" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="727" y="166" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="683" y="137" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="683" y="137" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="693" y="162" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="693" y="162" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="712" y="111" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="712" y="111" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="672" y="111" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="672" y="111" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />

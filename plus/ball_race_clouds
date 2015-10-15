@@ -6,22 +6,22 @@
 /set planeScale 80
 
 #Checkpoints:
-/add powerup cp1 * 672,111
-/add powerup cp1 * 683,137
-/add powerup cp1 * 693,162
-/add powerup cp1 * 712,111
-/add powerup cp1 * 720,139
-/add powerup cp1 * 727,166
+/add powerup cp1 * 1577,115
+/add powerup cp1 * 1590,141
+/add powerup cp1 * 1600,168
+/add powerup cp1 * 1607,112
+/add powerup cp1 * 1611,195
+/add powerup cp1 * 1617,221
+/add powerup cp1 * 1620,138
+/add powerup cp1 * 1630,165
+/add powerup cp1 * 1641,192
 
-/add powerup cp2 * 1577,115
-/add powerup cp2 * 1590,141
-/add powerup cp2 * 1600,168
-/add powerup cp2 * 1607,112
-/add powerup cp2 * 1611,195
-/add powerup cp2 * 1617,221
-/add powerup cp2 * 1620,138
-/add powerup cp2 * 1630,165
-/add powerup cp2 * 1641,192
+/add powerup cp2 * 672,111
+/add powerup cp2 * 683,137
+/add powerup cp2 * 693,162
+/add powerup cp2 * 712,111
+/add powerup cp2 * 720,139
+/add powerup cp2 * 727,166
 
 
 #One-ways:
