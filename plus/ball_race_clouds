@@ -4,6 +4,7 @@
 /set intro A 3-lap race in the clouds
 /set spawnHealth 200
 /set planeScale 80
+/set weapons 3
 
 #Checkpoints:
 /add powerup cp1 * 1577,115
