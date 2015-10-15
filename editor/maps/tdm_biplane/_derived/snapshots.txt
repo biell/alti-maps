@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_biplane\_config\image-descriptors.txt" lastModified="1444876365464" length="251" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_biplane\_config\image-descriptors.txt" lastModified="1444884111508" length="251" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_biplane\images\cloud4.png" lastModified="1444859992466" length="19992" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_biplane\tdm_biplane.alte" lastModified="1444876185694" length="8626" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_biplane\tdm_biplane.alte" lastModified="1444878327017" length="14506" />
   </snapshots>
 </snapshots.txt>
 
