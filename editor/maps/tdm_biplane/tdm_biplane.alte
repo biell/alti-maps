@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Level backgroundColor="-7228929" nameTextColor="-16777216" useBlackSmokeForPlaneDamage="true" backgroundClearRequired="true">
+<Level backgroundColor="-7228929" nameTextColor="-26368" useBlackSmokeForPlaneDamage="false" backgroundClearRequired="true">
   <levelModeConfig objectiveGameTimeSeconds="120" />
   <views>
     <View name="background" size="1280,720">
       <bounds minX="0" minY="0" maxX="1280" maxY="720" />
       <geometry>
         <geometry layer="2" x="630" y="228" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-26368,-20.0,22.0,-30.0,22.0,-30.0,2.0,-20.0,2.0,-20.0,-8.0,-10.0,-8.0,-10.0,-18.0,0.0,-18.0,0.0,-28.0,20.0,-28.0,20.0,-18.0,30.0,-18.0,30.0,-8.0,40.0,-8.0,40.0,2.0,50.0,2.0,50.0,22.0,40.0,22.0,40.0,32.0,30.0,32.0,30.0,42.0,-10.0,42.0,-10.0,32.0,-20.0,32.0,">
+          <texturedPoly hull="!-26368,-20.0,22.0,-30.0,22.0,-30.0,2.0,-20.0,2.0,-20.0,-8.0,-10.0,-8.0,-10.0,-18.0,0.0,-18.0,0.0,-28.0,20.0,-28.0,20.0,-18.0,30.0,-18.0,30.0,-8.0,40.0,-8.0,40.0,2.0,50.0,2.0,50.0,22.0,40.0,22.0,40.0,32.0,30.0,32.0,-10.0,32.0,-20.0,32.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-630.0" y="-188.0" />
@@ -118,7 +118,7 @@
       <Hoop />
       <objectiveDescriptor />
       <powerupSpawner>
-        <powerupSpawner layer="3" x="640" y="240" orientation="0.0" spawnTime="10.0" neverFade="false" spawnAtRoundStart="false">
+        <powerupSpawner layer="3" x="640" y="235" orientation="0.0" spawnTime="10.0" neverFade="false" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Homing Missile" />
