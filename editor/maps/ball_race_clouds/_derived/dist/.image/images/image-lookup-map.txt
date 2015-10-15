@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="altitude_title.png" value="p1" />
+    <entry key="blue-sky-with-birds.png" value="p0" />
+    <entry key="cloud1.png" value="p1" />
+    <entry key="cloud2.png" value="p1" />
+    <entry key="cloud3.png" value="p2" />
+    <entry key="cloud4.png" value="p3" />
+    <entry key="cloud5.png" value="p3" />
+    <entry key="cloud6.png" value="p2" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_clouds\_config\image-descriptors.txt" lastModified="1444947966754" length="1133" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_clouds\ball_race_clouds.alte" lastModified="1444947612571" length="65131" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_clouds\images\altitude_title.png" lastModified="1444947958790" length="24239" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_clouds\images\blue-sky-with-birds.png" lastModified="1444708188500" length="488676" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_clouds\images\cloud1.png" lastModified="1444708762489" length="18002" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_clouds\images\cloud2.png" lastModified="1444708787639" length="23052" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_clouds\images\cloud3.png" lastModified="1444708849386" length="15108" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_clouds\images\cloud4.png" lastModified="1444708905282" length="19992" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_clouds\images\cloud5.png" lastModified="1444708940259" length="13016" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_clouds\images\cloud6.png" lastModified="1444708978942" length="21823" />
+  </snapshots>
+</snapshots.txt>
+
