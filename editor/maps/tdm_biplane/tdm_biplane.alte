@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Level backgroundColor="-7228929" nameTextColor="-26368" useBlackSmokeForPlaneDamage="false" backgroundClearRequired="true">
+<Level backgroundColor="-7228929" nameTextColor="-13421773" useBlackSmokeForPlaneDamage="false" backgroundClearRequired="true">
   <levelModeConfig objectiveGameTimeSeconds="120" />
   <views>
     <View name="background" size="1280,720">
@@ -94,6 +94,114 @@
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-211.0" y="-390.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="637" y="11" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1724697805,0.0,-2.0,0.0,-10.0,1.0,-10.0,1.0,-7.0,3.0,-7.0,3.0,-9.0,2.0,-10.0,3.0,-10.0,4.0,-9.0,4.0,-7.0,3.0,-6.0,1.0,-6.0,1.0,-2.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-620.0" y="-10.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="642" y="11" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1724697805,0.0,-5.0,0.0,-10.0,1.0,-10.0,1.0,-5.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-620.0" y="-10.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="642" y="14" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1724697805,0.0,-6.0,0.0,-7.0,1.0,-7.0,1.0,-6.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-620.0" y="-10.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="644" y="11" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1724697805,0.0,-6.0,0.0,-9.0,1.0,-10.0,3.0,-10.0,4.0,-9.0,4.0,-8.0,3.0,-9.0,1.0,-9.0,1.0,-6.0,3.0,-6.0,3.0,-7.0,2.0,-7.0,2.0,-8.0,4.0,-7.0,4.0,-6.0,3.0,-5.0,1.0,-5.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-620.0" y="-10.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="649" y="11" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1724697805,0.0,-2.0,0.0,-10.0,1.0,-10.0,1.0,-2.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-620.0" y="-10.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="652" y="11" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1724697805,0.0,-2.0,0.0,-10.0,-1.0,-10.0,-1.0,-2.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="620.0" y="-10.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="638" y="7" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1724697805,0.0,-5.0,0.0,-6.0,1.0,-6.0,2.0,-5.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-620.0" y="-10.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="645" y="9" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1724697805,0.0,-5.0,0.0,-6.0,1.0,-6.0,1.0,-5.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-620.0" y="-10.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="627" y="14" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1724697805,2.0,-5.0,2.0,-10.0,3.0,-10.0,3.0,-8.0,4.0,-8.0,4.0,-9.0,4.0,-10.0,5.0,-9.0,5.0,-8.0,4.0,-7.0,3.0,-7.0,3.0,-5.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-620.0" y="-10.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="628" y="10" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1724697805,2.0,-5.0,2.0,-6.0,3.0,-6.0,4.0,-5.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-620.0" y="-10.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="631" y="14" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1724697805,3.0,-6.0,1.0,-11.0,2.0,-11.0,4.0,-6.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-620.0" y="-10.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="631" y="15" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1724697805,0.0,-7.0,2.0,-9.0,3.0,-9.0,1.0,-7.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-620.0" y="-10.0" />
               </xform>
             </texture>
           </texturedPoly>
