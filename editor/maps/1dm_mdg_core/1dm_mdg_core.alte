@@ -641,7 +641,7 @@
             <String value="Shield" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="3047" y="1272" orientation="0.0" spawnTime="9999.0" neverFade="true" spawnAtRoundStart="true">
+        <powerupSpawner layer="1" x="59" y="1496" orientation="0.0" spawnTime="9999.0" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Demolition Charge" />

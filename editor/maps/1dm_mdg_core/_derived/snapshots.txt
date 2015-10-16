@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\1dm_mdg_core.alte" lastModified="1444964071987" length="45220" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\_config\image-descriptors.txt" lastModified="1444964081167" length="3508" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\1dm_mdg_core.alte" lastModified="1444966523343" length="43952" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\_config\image-descriptors.txt" lastModified="1444968764013" length="3508" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\1.png" lastModified="1444964017471" length="39408" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\10.png" lastModified="1444964017467" length="71387" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\11.png" lastModified="1444964017477" length="38514" />
