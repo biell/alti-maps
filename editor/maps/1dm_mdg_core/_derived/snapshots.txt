@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\1dm_mdg_core.alte" lastModified="1444964071987" length="45220" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\_config\image-descriptors.txt" lastModified="1444964081167" length="3508" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\1.png" lastModified="1444964017471" length="39408" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\10.png" lastModified="1444964017467" length="71387" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\11.png" lastModified="1444964017477" length="38514" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\12.png" lastModified="1444964017464" length="41721" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\2.png" lastModified="1444964017467" length="40783" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\3.png" lastModified="1444964017464" length="70474" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\4.png" lastModified="1444964017471" length="30800" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\5.png" lastModified="1444964017471" length="124063" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\6.png" lastModified="1444964017467" length="57618" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\7.png" lastModified="1444964017467" length="147244" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\7b.png" lastModified="1444964017467" length="147306" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\8.png" lastModified="1444964017467" length="121667" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\9.png" lastModified="1444964017471" length="29187" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\bg8a.png" lastModified="1444964017477" length="5881312" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\bg8b.png" lastModified="1444964017471" length="1552164" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\bottom.png" lastModified="1444964017467" length="65840" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\bottoml.png" lastModified="1444964017477" length="104021" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\bottomr.png" lastModified="1444964017464" length="105190" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\maimer.png" lastModified="1444964017477" length="16280" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\mid.png" lastModified="1444964017467" length="25428" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\outerbottoml.png" lastModified="1444964017477" length="96593" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\outertopl.png" lastModified="1444964017467" length="98088" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\redshift.png" lastModified="1444964017467" length="5641" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\side.png" lastModified="1444964017467" length="70101" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\side2.png" lastModified="1444964017464" length="68906" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\top.png" lastModified="1444964017467" length="64698" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\topl.png" lastModified="1444964017467" length="99773" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_mdg_core\images\topr.png" lastModified="1444964017467" length="102981" />
+  </snapshots>
+</snapshots.txt>
+

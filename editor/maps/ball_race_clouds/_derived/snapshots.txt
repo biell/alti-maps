@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_clouds\_config\image-descriptors.txt" lastModified="1444949090708" length="1133" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_clouds\ball_race_clouds.alte" lastModified="1444948728906" length="66311" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_clouds\_config\image-descriptors.txt" lastModified="1444956832201" length="1133" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_clouds\ball_race_clouds.alte" lastModified="1444951790168" length="66442" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_clouds\images\altitude_title.png" lastModified="1444947958790" length="24239" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_clouds\images\blue-sky-with-birds.png" lastModified="1444708188500" length="488676" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_clouds\images\cloud1.png" lastModified="1444708762489" length="18002" />
