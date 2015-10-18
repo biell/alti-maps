@@ -206,6 +206,15 @@
             </texture>
           </texturedPoly>
         </geometry>
+        <geometry layer="1" x="2" y="720" orientation="0.0" visible="false" collidable="true" elasticity="0.0" damageModifier="0.3">
+          <texturedPoly hull="!-6724096,-2.0,0.0,1278.0,0.0,1278.0,1.0,-2.0,1.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-2.0" y="-720.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
       </geometry>
       <spawnPoints>
         <spawnPoints layer="4" x="1137" y="47" orientation="-180.0">
@@ -234,13 +243,13 @@
             <String value="Shield" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="3" x="400" y="50" orientation="0.0" spawnTime="1.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="3" x="434" y="46" orientation="0.0" spawnTime="1.0" neverFade="true" spawnAtRoundStart="false">
           <team index="3" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="3" x="880" y="50" orientation="0.0" spawnTime="1.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="3" x="846" y="46" orientation="0.0" spawnTime="1.0" neverFade="true" spawnAtRoundStart="false">
           <team index="5" />
           <selectedPowerups>
             <String value="Health" />
