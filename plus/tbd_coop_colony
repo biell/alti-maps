@@ -1,0 +1,6 @@
+#tbd_coop_colony alti+ map settings
+
+#Basic settings:
+/set intro "Carpenter ants are getting ready to attack your house;You have been shrunken down to their size;Enter the colony and destroy the colony before they attack"
+/set assignTeam left
+

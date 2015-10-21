@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="tbd_coop_colony_tree.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+
