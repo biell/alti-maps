@@ -35,7 +35,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="2037" y="689" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="5" x="2037" y="689" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,11.318333,-26.193844,6.790999,-22.313276,4.20395,5.8208556,7.7611394,3.5571897,6.790998,-0.32338035,12.611855,-15.52228,14.55214,-13.258614,12.935234,-8.731281,20.696373,-10.671566,30.72118,-9.054661,19.402851,-15.845659,21.666517,-17.785944,45.5967,-4.527328,43.33303,-2.5870428,38.48232,-5.4974704,44.303173,6.7910023,42.686268,11.318332,19.72623,12.935236,18.756088,14.552138,4.20395,11.31833,-0.9701433,12.611853,-1.2935247,16.815804,-5.174094,12.288471,-10.67157,12.28847,-8.084522,17.139183,-12.935236,19.72623,-20.372993,17.462563,-21.343136,13.581993,-25.223705,14.552135,-27.163992,17.785942,-25.870468,11.965088,-29.751038,12.93523,-31.044561,18.756084,-35.57189,22.636654,-34.925133,25.223701,-31.367945,22.960037,-33.30823,26.193844,-35.57189,28.134129,-38.48232,27.487366,-39.129078,24.90032,-41.716125,25.547081,-43.979794,5.49747,-41.392746,10.348183,-32.66147,6.790995,-28.134134,8.4079,-28.780895,5.8208528,-22.960037,-3.8805728,-20.372992,-4.527334,-17.139185,-2.587048,-15.845661,2.5870452,-11.64171,2.9104266,-14.552138,-3.2338095,-11.96509,-3.8805711,-14.552137,-8.731284,-15.198898,-5.8208566,-17.462564,-9.378046,-15.52228,-12.611855,-10.024805,-1.6169052,-0.3233812,4.203951,2.2636654,3.5571892,1.6169045,-4.5273314,6.144238,-24.900326,">
             <texture>
               <image path="images/queen.png" />
@@ -1506,6 +1506,12 @@
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
+        <Turret layer="4" turnLeft="5.0" turnRight="5.0" maxDistance="10.0" x="2080" y="703" health="4000" gunCooldownSeconds="2.0" bulletSpeed="1.0" bulletDirectDamage="1" bulletBlastDamage="1" bulletBlastRadius="1">
+          <team index="6" />
+          <transformation scale="0.3333334" rotate="603.50287" flipX="false" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
       </Turret>
       <Hoop />
       <objectiveDescriptor />
@@ -1534,13 +1540,13 @@
             <String value="Homing Missile" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="2456" y="1055" orientation="0.0" spawnTime="180.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="2456" y="1055" orientation="0.0" spawnTime="180.0" neverFade="true" spawnAtRoundStart="true">
           <team index="7" />
           <selectedPowerups>
             <String value="Bomb" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="2234" y="406" orientation="0.0" spawnTime="900.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="2234" y="406" orientation="0.0" spawnTime="900.0" neverFade="true" spawnAtRoundStart="true">
           <team index="7" />
           <selectedPowerups>
             <String value="Bomb" />
