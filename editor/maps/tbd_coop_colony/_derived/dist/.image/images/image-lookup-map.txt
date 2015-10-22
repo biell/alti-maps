@@ -4,6 +4,7 @@
     <entry key="ant.png" value="p1" />
     <entry key="egg.png" value="p1" />
     <entry key="queen.png" value="p1" />
+    <entry key="tbd_coop_colony_logo.png" value="p1" />
     <entry key="tbd_coop_colony_tree.png" value="p0" />
   </pack-path-by-image-path>
 </image-lookup-map.txt>

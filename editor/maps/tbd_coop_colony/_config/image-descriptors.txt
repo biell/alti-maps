@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <image-descriptors.txt>
   <descriptors>
+    <ImageDescriptor path="images/tbd_coop_colony_logo.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
     <ImageDescriptor path="textures/tbd_coop_colony_tree.png" wrapMode="REPEAT" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
     <ImageDescriptor path="images/tbd_coop_colony_tree.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
     <ImageDescriptor path="images/egg.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
