@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-descriptors.txt>
+  <descriptors>
+    <ImageDescriptor path="images/ball_race_sky_track_logo.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/stars-in-the-night-sky.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="DXT5" packQualifier="" />
+    <ImageDescriptor path="images/background_near.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="DXT5" packQualifier="" />
+    <ImageDescriptor path="images/background_far.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="DXT5" packQualifier="" />
+    <ImageDescriptor path="images/sky_track_bottom.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="DXT5" packQualifier="" />
+    <ImageDescriptor path="images/sky_track_top.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="DXT5" packQualifier="" />
+  </descriptors>
+</image-descriptors.txt>
+

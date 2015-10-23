@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_sky_track\_config\image-descriptors.txt" lastModified="1445561042809" length="929" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_sky_track\ball_race_sky_track.alte" lastModified="1445561031102" length="28026" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_sky_track\images\background_far.png" lastModified="1445492001397" length="358238" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_sky_track\images\background_near.png" lastModified="1445493852320" length="48699" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_sky_track\images\ball_race_sky_track_logo.png" lastModified="1445554584615" length="8613" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_sky_track\images\sky_track_bottom.png" lastModified="1445489756477" length="234907" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_sky_track\images\sky_track_top.png" lastModified="1445489818987" length="235261" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_sky_track\images\stars-in-the-night-sky.png" lastModified="1445551645890" length="91266" />
+  </snapshots>
+</snapshots.txt>
+

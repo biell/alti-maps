@@ -1,0 +1,24 @@
+#ball_race_sky_track alti+ map settings
+
+#Basic settings:
+/set intro A twilight race
+/set spawnMode crash
+/set spawnHealth 200
+/set weapons 3
+
+#Checkpoints:
+/add powerup cp1 * 1570,148
+/add powerup cp1 * 1595,204
+/add powerup cp1 * 1609,165
+/add powerup cp1 * 1624,124
+/add powerup cp1 * 1649,180
+
+/add powerup cp2 * 76,646
+/add powerup cp2 * 76,708
+/add powerup cp2 * 105,678
+/add powerup cp2 * 135,646
+/add powerup cp2 * 135,708
+
+#One-ways:
+/add oneway 76,646 e
+/add oneway 76,708 e

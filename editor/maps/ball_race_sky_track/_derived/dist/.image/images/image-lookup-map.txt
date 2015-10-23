@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="background_far.png" value="p1" />
+    <entry key="background_near.png" value="p2" />
+    <entry key="ball_race_sky_track_logo.png" value="p0" />
+    <entry key="sky_track_bottom.png" value="p3" />
+    <entry key="sky_track_top.png" value="p4" />
+    <entry key="stars-in-the-night-sky.png" value="p5" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+
