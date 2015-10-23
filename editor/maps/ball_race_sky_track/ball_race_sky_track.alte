@@ -5,7 +5,7 @@
     <View name="Background far" size="3050,1536">
       <bounds minX="0" minY="0" maxX="3070" maxY="1536" />
       <geometry>
-        <geometry layer="1" x="1524" y="766" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="1" x="1525" y="768" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-1525.0,-768.0,-1525.0,768.0,1525.0,768.0,1525.0,-768.0,">
             <texture>
               <image path="images/stars-in-the-night-sky.png" />
