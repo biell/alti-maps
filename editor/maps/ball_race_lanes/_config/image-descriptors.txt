@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<image-descriptors.txt>
-  <descriptors>
-    <ImageDescriptor path="images/lane.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="DXT5" packQualifier="" />
-  </descriptors>
-</image-descriptors.txt>
-
