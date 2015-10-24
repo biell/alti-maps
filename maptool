@@ -1,0 +1,34 @@
+#!/bin/sh
+
+case "$1" in
+	add)
+		git add								\
+			editor/maps/$2						\
+			plus/$2							\
+			editor_screenshots/${2}_collapsed.png	\
+			maps/$2.altx
+
+		git commit -am "Add $2"
+		;;
+	delete|rm)
+		git rm -r								\
+			editor/maps/$2						\
+			plus/$2							\
+			editor_screenshots/${2}_collapsed.png	\
+			maps/$2.altx
+
+		git commit -am "Remove $2"
+		;;
+	finish)
+		../alti-server/altx-tool -p maps/$2.altx plus/$2
+		git add -A editor/maps/$2
+		git commit -am "Update $2"
+		;;
+	*)
+		echo "Syntax: $0 <add|delete|finish> <map>"
+		exit 1
+		;;
+esac
+
+git push
+

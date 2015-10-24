@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_lanes\_config\image-descriptors.txt" lastModified="1445567612130" length="248" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_lanes\ball_race_lanes.alte" lastModified="1445484042227" length="26420" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_lanes\images\lane.png" lastModified="1445480137794" length="117365" />
+  </snapshots>
+</snapshots.txt>
+
