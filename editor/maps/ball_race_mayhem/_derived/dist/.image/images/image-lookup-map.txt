@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="background4.png" value="p3" />
+    <entry key="block1.png" value="p5" />
+    <entry key="block2.png" value="p6" />
+    <entry key="block2b.png" value="p9" />
+    <entry key="block3.png" value="p4" />
+    <entry key="block4.png" value="p10" />
+    <entry key="block5t.png" value="p4" />
+    <entry key="block6b.png" value="p5" />
+    <entry key="block6t.png" value="p6" />
+    <entry key="block7.png" value="p8" />
+    <entry key="block8.png" value="p8" />
+    <entry key="danger.png" value="p7" />
+    <entry key="explosionbottom.png" value="p0" />
+    <entry key="explosionmiddle.png" value="p1" />
+    <entry key="explosiontop.png" value="p2" />
+    <entry key="maimersign.png" value="p5" />
+    <entry key="middlebottom.png" value="p4" />
+    <entry key="middletop.png" value="p6" />
+    <entry key="miniblock.png" value="p8" />
+    <entry key="outer1.png" value="p6" />
+    <entry key="outer18.png" value="p11" />
+    <entry key="outer19a.png" value="p10" />
+    <entry key="outer19b.png" value="p9" />
+    <entry key="outer2.png" value="p10" />
+    <entry key="outer20.png" value="p11" />
+    <entry key="outer21.png" value="p11" />
+    <entry key="outer22.png" value="p6" />
+    <entry key="outer3.png" value="p10" />
+    <entry key="outer4.png" value="p10" />
+    <entry key="outer5a.png" value="p11" />
+    <entry key="outer5b.png" value="p4" />
+    <entry key="outer6.png" value="p6" />
+    <entry key="outer7a.png" value="p5" />
+    <entry key="outer8.png" value="p8" />
+    <entry key="redshiftsign.png" value="p5" />
+    <entry key="tankbeamtop.png" value="p4" />
+    <entry key="tankbottomb.png" value="p9" />
+    <entry key="tankglow.png" value="p7" />
+    <entry key="tanktopb.png" value="p10" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+
