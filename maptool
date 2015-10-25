@@ -2,6 +2,7 @@
 
 case "$1" in
 	add)
+		../alti-server/altx-tool -p maps/$2.altx plus/$2
 		git add								\
 			editor/maps/$2						\
 			plus/$2							\
