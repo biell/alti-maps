@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_eastern_creek\_config\image-descriptors.txt" lastModified="1446066706352" length="1052" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_eastern_creek\ball_race_eastern_creek.alte" lastModified="1446066665572" length="27232" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_eastern_creek\_config\image-descriptors.txt" lastModified="1446068708713" length="1052" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_eastern_creek\ball_race_eastern_creek.alte" lastModified="1446068692890" length="31182" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_eastern_creek\images\altitude_title.png" lastModified="1446007410365" length="25277" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_eastern_creek\images\eastern_creek-0-0.png" lastModified="1445992824309" length="285286" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_eastern_creek\images\eastern_creek-1-0.png" lastModified="1445992835652" length="327039" />
