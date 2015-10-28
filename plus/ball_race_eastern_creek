@@ -5,6 +5,7 @@
 /set spawnMode crash
 /set spawnHealth 200
 /set weapons 3
+/set gravity 3
 /set cameraScale 80
 /set planeScale 60
 
