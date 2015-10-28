@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="altitude_title.png" value="p0" />
+    <entry key="eastern_creek-0-0.png" value="p1" />
+    <entry key="eastern_creek-1-0.png" value="p2" />
+    <entry key="eastern_creek-2-0.png" value="p3" />
+    <entry key="eastern_creek-3-0.png" value="p4" />
+    <entry key="jersey-wall-caution.png" value="p0" />
+    <entry key="mini_map.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

@@ -1,0 +1,24 @@
+#ball_race_eastern_creek alti+ map settings
+
+#Basic settings:
+/set intro Long, Fast track fashioned after the proposed Eastern Creek Course
+/set spawnMode crash
+/set spawnHealth 200
+/set weapons 3
+/set cameraScale 80
+/set planeScale 60
+
+#Checkpoints:
+/add powerup cp1 * 3097,469
+/add powerup cp1 * 3099,501
+/add powerup cp1 * 3132,467
+/add powerup cp1 * 3134,499
+
+/add powerup cp2 * 1829,3040
+/add powerup cp2 * 1829,3072
+/add powerup cp2 * 1864,3040
+/add powerup cp2 * 1864,3072
+
+#One-ways:
+/add oneway 1829,3040 w
+/add oneway 1829,3072 w
