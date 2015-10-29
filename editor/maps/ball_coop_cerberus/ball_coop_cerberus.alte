@@ -1495,25 +1495,19 @@
             <String value="Ball" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="2772" y="2164" orientation="0.0" spawnTime="15.0" neverFade="false" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="2772" y="2164" orientation="0.0" spawnTime="30.0" neverFade="false" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Bomb" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="2772" y="2118" orientation="0.0" spawnTime="15.0" neverFade="false" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="2772" y="2118" orientation="0.0" spawnTime="30.0" neverFade="false" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Bomb" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="5564" y="746" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
-          <team index="2" />
-          <selectedPowerups>
-            <String value="Bomb" />
-          </selectedPowerups>
-        </powerupSpawner>
-        <powerupSpawner layer="1" x="2860" y="849" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="2860" y="849" orientation="0.0" spawnTime="300.0" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Bomb" />
@@ -1591,6 +1585,114 @@
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="2860" y="849" orientation="0.0" spawnTime="300.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="2860" y="849" orientation="0.0" spawnTime="300.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="2860" y="849" orientation="0.0" spawnTime="300.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="2860" y="849" orientation="0.0" spawnTime="300.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="5565" y="746" orientation="0.0" spawnTime="600.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="5565" y="746" orientation="0.0" spawnTime="600.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="5565" y="746" orientation="0.0" spawnTime="600.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="5565" y="746" orientation="0.0" spawnTime="600.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="5565" y="746" orientation="0.0" spawnTime="600.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="5565" y="746" orientation="0.0" spawnTime="600.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="5565" y="746" orientation="0.0" spawnTime="600.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="5565" y="746" orientation="0.0" spawnTime="600.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="5565" y="746" orientation="0.0" spawnTime="600.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="5565" y="746" orientation="0.0" spawnTime="600.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="5565" y="746" orientation="0.0" spawnTime="300.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="5565" y="746" orientation="0.0" spawnTime="600.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="5565" y="746" orientation="0.0" spawnTime="600.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="5565" y="746" orientation="0.0" spawnTime="600.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Bomb" />
           </selectedPowerups>
         </powerupSpawner>
       </powerupSpawner>
