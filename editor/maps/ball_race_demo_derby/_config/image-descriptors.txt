@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-descriptors.txt>
+  <descriptors>
+    <ImageDescriptor path="images/demo_derby_track.jpg" wrapMode="CLAMP" filter="LINEAR" internalFormat="DXT5" packQualifier="" />
+  </descriptors>
+</image-descriptors.txt>
+

@@ -1,0 +1,69 @@
+#ball_race_demo_derby alti+ map settings
+
+#Basic settings:
+/set intro Demolition Derby, 3 laps
+/set spawnMode health
+
+#Orange Checkpoints:
+/add powerup cp1 orange 2670,990
+/add powerup cp1 orange 2670,1050
+/add powerup cp1 orange 2700,1020
+/add powerup cp1 orange 2730,1050
+/add powerup cp1 orange 2730,990
+/add powerup cp1 orange 2760,1020
+/add powerup cp1 orange 2790,1050
+/add powerup cp1 orange 2790,990
+/add powerup cp1 orange 2820,1020
+/add powerup cp1 orange 2850,990
+/add powerup cp1 orange 2850,1050
+/add powerup cp1 orange 2880,1020
+/add powerup cp1 orange 2910,990
+/add powerup cp1 orange 2910,1050
+
+/add powerup cp2 orange 90,990
+/add powerup cp2 orange 90,1050
+/add powerup cp2 orange 120,1020
+/add powerup cp2 orange 150,1050
+/add powerup cp2 orange 150,990
+/add powerup cp2 orange 180,1020
+/add powerup cp2 orange 210,1050
+/add powerup cp2 orange 210,990
+/add powerup cp2 orange 240,1020
+/add powerup cp2 orange 270,990
+/add powerup cp2 orange 270,1050
+/add powerup cp2 orange 300,1020
+/add powerup cp2 orange 330,990
+/add powerup cp2 orange 330,1050
+
+
+#Blue Checkpoints:
+/add powerup cp1 blue 90,990
+/add powerup cp1 blue 90,1050
+/add powerup cp1 blue 120,1020
+/add powerup cp1 blue 150,1050
+/add powerup cp1 blue 150,990
+/add powerup cp1 blue 180,1020
+/add powerup cp1 blue 210,1050
+/add powerup cp1 blue 210,990
+/add powerup cp1 blue 240,1020
+/add powerup cp1 blue 270,990
+/add powerup cp1 blue 270,1050
+/add powerup cp1 blue 300,1020
+/add powerup cp1 blue 330,990
+/add powerup cp1 blue 330,1050
+
+/add powerup cp2 blue 2670,990
+/add powerup cp2 blue 2670,1050
+/add powerup cp2 blue 2700,1020
+/add powerup cp2 blue 2730,1050
+/add powerup cp2 blue 2730,990
+/add powerup cp2 blue 2760,1020
+/add powerup cp2 blue 2790,1050
+/add powerup cp2 blue 2790,990
+/add powerup cp2 blue 2820,1020
+/add powerup cp2 blue 2850,990
+/add powerup cp2 blue 2850,1050
+/add powerup cp2 blue 2880,1020
+/add powerup cp2 blue 2910,990
+/add powerup cp2 oblue 2910,1050
+
