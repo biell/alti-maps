@@ -7,17 +7,17 @@
 /set weapons 3
 
 #Checkpoints:
-/add powerup cp1 * 1570,148
-/add powerup cp1 * 1595,204
-/add powerup cp1 * 1609,165
-/add powerup cp1 * 1624,124
-/add powerup cp1 * 1649,180
+/add powerup 1 * 1570,148
+/add powerup 1 * 1595,204
+/add powerup 1 * 1609,165
+/add powerup 1 * 1624,124
+/add powerup 1 * 1649,180
 
-/add powerup cp2 * 76,646
-/add powerup cp2 * 76,708
-/add powerup cp2 * 105,678
-/add powerup cp2 * 135,646
-/add powerup cp2 * 135,708
+/add powerup 2 * 76,646
+/add powerup 2 * 76,708
+/add powerup 2 * 105,678
+/add powerup 2 * 135,646
+/add powerup 2 * 135,708
 
 #One-ways:
 /add oneway 76,646 e

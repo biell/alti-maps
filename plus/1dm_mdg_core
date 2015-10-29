@@ -1,7 +1,7 @@
 #1dm_mdg_core alti+ map settings
 
 #Basic settings:
-/set intro Asymmetric Game: multiple Orange against one blue
+/set intro Asymmetric Game: multiple Orange against one Blue
 /set assignTeam left
 
 /add zone spawn right 2800,900,nw

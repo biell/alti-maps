@@ -1,7 +1,7 @@
 #ball_race_forrest alti+ map settings
 
 #Basic settings:
-/set intro Race 2 laps through the forrest
+/set intro Race 2 laps through the forest
 /set weapons 3
 /set gravity 3
 /set spawnMode crash
@@ -11,42 +11,42 @@
 /add zone start * 1168,633,w
 
 #Checkpoints:
-/add powerup cp1 * 998,1821
-/add powerup cp1 * 1010,1793
-/add powerup cp1 * 1025,1833
-/add powerup cp1 * 1037,1805
-/add powerup cp1 * 1044,1778
-/add powerup cp1 * 1064,1818
-/add powerup cp1 * 1069,1791
+/add powerup 1 * 998,1821
+/add powerup 1 * 1010,1793
+/add powerup 1 * 1025,1833
+/add powerup 1 * 1037,1805
+/add powerup 1 * 1044,1778
+/add powerup 1 * 1064,1818
+/add powerup 1 * 1069,1791
 
-/add powerup cp2 * 2980,2391
-/add powerup cp2 * 2980,2361
-/add powerup cp2 * 3010,2368
-/add powerup cp2 * 3010,2338
-/add powerup cp2 * 3010,2398
-/add powerup cp2 * 3040,2308
-/add powerup cp2 * 3040,2398
-/add powerup cp2 * 3040,2368
-/add powerup cp2 * 3040,2338
-/add powerup cp2 * 3058,2278
-/add powerup cp2 * 3070,2308
-/add powerup cp2 * 3070,2368
-/add powerup cp2 * 3070,2338
-/add powerup cp2 * 3100,2338
-/add powerup cp2 * 3100,2308
+/add powerup 2 * 2980,2391
+/add powerup 2 * 2980,2361
+/add powerup 2 * 3010,2368
+/add powerup 2 * 3010,2338
+/add powerup 2 * 3010,2398
+/add powerup 2 * 3040,2308
+/add powerup 2 * 3040,2398
+/add powerup 2 * 3040,2368
+/add powerup 2 * 3040,2338
+/add powerup 2 * 3058,2278
+/add powerup 2 * 3070,2308
+/add powerup 2 * 3070,2368
+/add powerup 2 * 3070,2338
+/add powerup 2 * 3100,2338
+/add powerup 2 * 3100,2308
 
-/add powerup cp3 * 1241,593
-/add powerup cp3 * 1241,646
-/add powerup cp3 * 1264,619
-/add powerup cp3 * 1264,566
-/add powerup cp3 * 1264,671
-/add powerup cp3 * 1285,646
-/add powerup cp3 * 1285,593
-/add powerup cp3 * 1309,566
-/add powerup cp3 * 1309,671
-/add powerup cp3 * 1309,619
-/add powerup cp3 * 1332,646
-/add powerup cp3 * 1332,593
+/add powerup 3 * 1241,593
+/add powerup 3 * 1241,646
+/add powerup 3 * 1264,619
+/add powerup 3 * 1264,566
+/add powerup 3 * 1264,671
+/add powerup 3 * 1285,646
+/add powerup 3 * 1285,593
+/add powerup 3 * 1309,566
+/add powerup 3 * 1309,671
+/add powerup 3 * 1309,619
+/add powerup 3 * 1332,646
+/add powerup 3 * 1332,593
 
 
 #Oneways:
@@ -56,85 +56,4 @@
 /add oneway 1285,646 w 
 /add oneway 1285,593 w
 
-
-
-#Remoe old Checkpoints:
-/del powerup cp1 * 589,1402
-/del powerup cp1 * 616,1414
-/del powerup cp1 * 601,1374
-/del powerup cp1 * 628,1386
-/del powerup cp1 * 635,1359
-/del powerup cp1 * 660,1372
-/del powerup cp1 * 655,1399
-
-/del powerup cp2 * 2601,1979
-/del powerup cp2 * 2631,1979
-/del powerup cp2 * 2631,1949
-/del powerup cp2 * 2661,1949
-/del powerup cp2 * 2661,1919
-/del powerup cp2 * 2691,1919
-/del powerup cp2 * 2691,1889
-
-/del powerup cp2 * 2571,1972
-/del powerup cp2 * 2571,1942
-/del powerup cp2 * 2601,1919
-/del powerup cp2 * 2601,1949
-/del powerup cp2 * 2631,1919
-/del powerup cp2 * 2631,1889
-/del powerup cp2 * 2649,1859
-/del powerup cp2 * 2661,1889
-
-
-/del powerup cp3 * 900,252
-/del powerup cp3 * 923,227
-/del powerup cp3 * 900,200
-/del powerup cp3 * 923,174
-/del powerup cp3 * 900,147
-/del powerup cp3 * 832,174
-/del powerup cp3 * 832,227
-/del powerup cp3 * 855,147
-/del powerup cp3 * 855,200
-/del powerup cp3 * 855,252
-/del powerup cp3 * 876,174
-/del powerup cp3 * 876,227
-
-
-#Remove old One ways:
-
-/del oneway 589,1402 -15
-/del oneway 616,1414 -15
-/del oneway 601,1374 -15
-/del oneway 628,1386 -15
-/del oneway 635,1359 -15
-/del oneway 660,1372 -15
-/del oneway 655,1399 -15
-
-/del oneway 2601,1979 sw
-/del oneway 2631,1979 sw
-/del oneway 2631,1949 sw
-/del oneway 2661,1949 sw
-/del oneway 2661,1919 sw
-/del oneway 2691,1919 sw
-/del oneway 2691,1889 sw
-/del oneway 2571,1972 sw
-/del oneway 2571,1942 sw
-/del oneway 2601,1919 sw
-/del oneway 2601,1949 sw
-/del oneway 2631,1919 sw
-/del oneway 2631,1889 sw
-/del oneway 2649,1859 sw
-/del oneway 2661,1889 sw
-
-/del oneway 900,252 w
-/del oneway 923,227 w
-/del oneway 900,200 w
-/del oneway 923,174 w
-/del oneway 900,147 w
-/del oneway 832,174 w
-/del oneway 832,227 w
-/del oneway 855,147 w
-/del oneway 855,200 w
-/del oneway 855,252 w
-/del oneway 876,174 w
-/del oneway 876,227 w
 
