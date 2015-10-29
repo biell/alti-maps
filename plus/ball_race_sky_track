@@ -3,7 +3,7 @@
 #Basic settings:
 /set intro A twilight race
 /set spawnMode crash
-/set spawnHealth 200
+/set spawnHealth 400
 /set weapons 3
 
 #Checkpoints:
