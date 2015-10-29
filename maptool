@@ -1,29 +1,38 @@
 #!/bin/sh
 
-case "$1" in
-	add)
-		../alti-server/altx-tool -p maps/$2.altx plus/$2
-		git add								\
-			editor/maps/$2						\
-			plus/$2							\
-			editor_screenshots/${2}_collapsed.png	\
-			maps/$2.altx
+command="$1"
+shift
 
-		git commit -am "Add $2"
+case "$command" in
+	add)
+		for map in "$@"; do
+			../alti-server/altx-tool -p maps/$map.altx plus/$map
+			git add								\
+				editor/maps/$map					\
+				plus/$map							\
+				editor_screenshots/${map}_collapsed.png	\
+				maps/$map.altx
+		done
+
+		git commit -am "Add $*"
 		;;
 	delete|rm)
-		git rm -r								\
-			editor/maps/$2						\
-			plus/$2							\
-			editor_screenshots/${2}_collapsed.png	\
-			maps/$2.altx
+		for map in "$@"; do
+			git rm -r								\
+				editor/maps/$map					\
+				plus/$map							\
+				editor_screenshots/${map}_collapsed.png	\
+				maps/$map.altx
+		done
 
-		git commit -am "Remove $2"
+		git commit -am "Remove $*"
 		;;
 	finish)
-		../alti-server/altx-tool -p maps/$2.altx plus/$2
-		git add -A editor/maps/$2
-		git commit -am "Update $2"
+		for map in "$@"; do
+			../alti-server/altx-tool -p maps/$map.altx plus/$map
+			git add -A editor/maps/$map
+		done
+		git commit -am "Update $*"
 		;;
 	*)
 		echo "Syntax: $0 <add|delete|finish> <map>"
