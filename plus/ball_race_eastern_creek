@@ -14,7 +14,11 @@
 /add powerup 1 * 3099,501
 /add powerup 1 * 3132,467
 /add powerup 1 * 3134,499
+/add powerup 1 * 3169,496
+/add powerup 1 * 3167,464
 
+/add powerup 2 * 1795,3040
+/add powerup 2 * 1795,3072
 /add powerup 2 * 1829,3040
 /add powerup 2 * 1829,3072
 /add powerup 2 * 1864,3040

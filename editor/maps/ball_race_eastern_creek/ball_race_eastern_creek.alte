@@ -311,13 +311,13 @@
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="1829" y="3040" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="false">
-          <team index="2" />
+          <team index="7" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="1829" y="3072" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="false">
-          <team index="2" />
+          <team index="4" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
@@ -335,12 +335,36 @@
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="3132" y="467" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="false">
-          <team index="2" />
+          <team index="4" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="3134" y="499" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="false">
+          <team index="7" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="1795" y="3040" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="1795" y="3072" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="3167" y="464" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="3169" y="496" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
