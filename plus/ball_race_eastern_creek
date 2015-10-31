@@ -2,7 +2,7 @@
 
 #Basic settings:
 /set intro 3 Laps based on the proposed Eastern Creek course
-/set spawnMode crash
+/set spawnMode died
 /set spawnHealth 400
 /set weapons 3
 /set gravity 3

@@ -4,7 +4,7 @@
 /set intro Race 2 laps through the forest
 /set weapons 3
 /set gravity 3
-/set spawnMode crash
+/set spawnMode died
 /set spawnHealth 400
 
 #Override start so bots can be sequestered:
