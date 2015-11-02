@@ -8,23 +8,23 @@
 /set planeScale 85
 
 #Checkpoints:
-/add powerup 1 * 4446,244
-/add powerup 1 * 4466,300
-/add powerup 1 * 4484,262
-/add powerup 1 * 4502,224
-/add powerup 1 * 4522,280
+/add powerup 1 * 2242,1487
+/add powerup 1 * 2242,1547
+/add powerup 1 * 2272,1517
+/add powerup 1 * 2302,1487
+/add powerup 1 * 2302,1547
 
-/add powerup 2 * 2242,1487
-/add powerup 2 * 2242,1547
-/add powerup 2 * 2272,1517
-/add powerup 2 * 2302,1487
-/add powerup 2 * 2302,1547
+/add powerup 2 * 4940,2355
+/add powerup 2 * 4940,2415
+/add powerup 2 * 4970,2385
+/add powerup 2 * 5000,2355
+/add powerup 2 * 5000,2415
 
-/add powerup 3 * 4940,2355
-/add powerup 3 * 4940,2415
-/add powerup 3 * 4970,2385
-/add powerup 3 * 5000,2355
-/add powerup 3 * 5000,2415
+/add powerup 3 * 720,240
+/add powerup 3 * 720,300
+/add powerup 3 * 750,270
+/add powerup 3 * 780,240
+/add powerup 3 * 780,300
 
 #One-ways:
 /add oneway 720,240 e
