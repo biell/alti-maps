@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-descriptors.txt>
+  <descriptors>
+    <ImageDescriptor path="images/beacon2.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/beacon1.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/ballon-in-sky.jpg" wrapMode="CLAMP" filter="LINEAR" internalFormat="DXT5" packQualifier="" />
+  </descriptors>
+</image-descriptors.txt>
+

@@ -1,0 +1,24 @@
+#ball_race_baloon alti+ map settings
+
+#Basic settings:
+/set intro Stay between the beacons or die
+/set spawnMode died
+/set spawnHealth 400
+/set weapons 3
+
+#Checkpoints:
+/add powerup 1 * 4446,244
+/add powerup 1 * 4466,300
+/add powerup 1 * 4484,262
+/add powerup 1 * 4502,224
+/add powerup 1 * 4522,280
+
+/add powerup 2 * 720,240
+/add powerup 2 * 720,300
+/add powerup 2 * 750,270
+/add powerup 2 * 780,240
+/add powerup 2 * 780,300
+
+#One-ways:
+/add oneway 720,240 e
+/add oneway 720,300 e

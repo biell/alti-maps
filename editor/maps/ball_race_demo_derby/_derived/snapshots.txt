@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_demo_derby\_config\image-descriptors.txt" lastModified="1446263731855" length="381" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_demo_derby\ball_race_demo_derby.alte" lastModified="1446262852623" length="46405" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_demo_derby\_config\image-descriptors.txt" lastModified="1446302144103" length="381" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_demo_derby\ball_race_demo_derby.alte" lastModified="1446263846381" length="47103" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_demo_derby\images\demo_derby_track.jpg" lastModified="1446084832371" length="1451298" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_demo_derby\images\logo.png" lastModified="1446263723555" length="5527" />
   </snapshots>
