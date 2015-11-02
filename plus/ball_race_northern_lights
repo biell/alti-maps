@@ -1,0 +1,12 @@
+#ball_race_northern_lights alti+ map settings
+
+#Basic settings:
+/set intro First one to the ball wins
+/set ballScore 5 5
+/set spawnMode died
+/set spawnHealth 400
+/set weapons 3
+/set planeScale 90
+
+#Checkpoints:
+/add powerup Finish * 116,1769
