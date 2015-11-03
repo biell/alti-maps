@@ -3895,7 +3895,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="4" x="5014" y="610" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="10.0">
-          <texturedPoly hull="!-1,90.0,200.0,-145.0,-5.0,95.0,-290.0,">
+          <texturedPoly hull="!-1,104.0,2039.0,-81.0,2039.0,76.0,1896.0,44.0,1388.0,-5.0,1148.0,90.0,872.0,94.0,234.0,-145.0,-5.0,91.0,-311.0,30.0,-490.0,2.0,-534.0,-178.0,-584.0,106.0,-590.0,106.0,-404.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-5014.0" y="-610.0" />
@@ -3940,7 +3940,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="4" x="1327" y="2591" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="10.0">
-          <texturedPoly hull="!-1,12.0,-110.0,562.0,58.0,-474.0,58.0,">
+          <texturedPoly hull="!-1,12.0,-110.0,562.0,58.0,-1344.0,63.0,-1324.0,-227.0,-1199.0,-27.0,-869.0,33.0,-254.0,33.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-1327.0" y="-2591.0" />
