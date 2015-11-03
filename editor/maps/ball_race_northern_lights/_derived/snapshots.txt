@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_northern_lights\_config\image-descriptors.txt" lastModified="1446437460560" length="518" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_northern_lights\_config\image-descriptors.txt" lastModified="1446518682554" length="518" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_northern_lights\ball_race_northern_lights.alte" lastModified="1446437400090" length="44726" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_northern_lights\images\logo.png" lastModified="1446437109288" length="5237" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_northern_lights\images\northern_lights.jpg" lastModified="1446432387662" length="1287715" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_northern_lights\images\northern_lights_track.png" lastModified="1446432627172" length="901520" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_northern_lights\images\northern_lights_track.png" lastModified="1446518630054" length="972371" />
   </snapshots>
 </snapshots.txt>
 
