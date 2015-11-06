@@ -5,11 +5,11 @@
     <entry key="asteroids_01_02b.png" value="p6" />
     <entry key="asteroids_01_03.png" value="p2" />
     <entry key="asteroids_01_04.png" value="p9" />
-    <entry key="asteroids_01_05.png" value="p8" />
+    <entry key="asteroids_01_05.png" value="p9" />
     <entry key="asteroids_01_06.png" value="p3" />
     <entry key="asteroids_01_07.png" value="p9" />
     <entry key="asteroids_01_08.png" value="p9" />
-    <entry key="asteroids_01_09.png" value="p9" />
+    <entry key="asteroids_01_09.png" value="p10" />
     <entry key="asteroids_02_02.png" value="p7" />
     <entry key="asteroids_02_03.png" value="p8" />
     <entry key="asteroids_05.png" value="p6" />
@@ -23,7 +23,7 @@
     <entry key="asteroids_13.png" value="p6" />
     <entry key="asteroids_14.png" value="p6" />
     <entry key="asteroids_15.png" value="p8" />
-    <entry key="asteroids_16.png" value="p8" />
+    <entry key="asteroids_16.png" value="p9" />
     <entry key="asteroids_17.png" value="p9" />
     <entry key="asteroids_21.png" value="p6" />
     <entry key="asteroids_22.png" value="p7" />
@@ -35,6 +35,7 @@
     <entry key="asteroids_planet_01_05.png" value="p7" />
     <entry key="asteroids_planet_02.png" value="p5" />
     <entry key="asteroids_stars.png" value="p1" />
+    <entry key="logo.png" value="p8" />
   </pack-path-by-image-path>
 </image-lookup-map.txt>
 

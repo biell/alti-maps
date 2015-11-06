@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\_config\image-descriptors.txt" lastModified="1446797406989" length="5701" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\ball_race_asteroids.alte" lastModified="1446797393406" length="911793" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\_config\image-descriptors.txt" lastModified="1446835959020" length="5822" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\ball_race_asteroids.alte" lastModified="1446835895327" length="929934" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\images\asteroids_01_01.png" lastModified="1446677658629" length="25347" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\images\asteroids_01_02b.png" lastModified="1446677658629" length="25976" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\images\asteroids_01_03.png" lastModified="1446677658629" length="64263" />
@@ -44,6 +44,7 @@
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\images\import_png_surface\00004.png" lastModified="1446604677654" length="38833" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\images\import_png_surface\00005.png" lastModified="1446604677654" length="11172" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\images\import_png_surface\00006.png" lastModified="1446604677654" length="20229" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\images\logo.png" lastModified="1446834886712" length="47179" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\textures\00006.png" lastModified="1446605796347" length="20229" />
   </snapshots>
 </snapshots.txt>

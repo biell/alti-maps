@@ -25,42 +25,72 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="5119" y="1974" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-231.83412,-229.63316,-231.83412,230.36682,232.56778,230.36682,232.56778,-229.63316,">
+        <geometry layer="2" x="5280" y="2025" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-211.21547,-209.21027,-211.21547,209.87868,211.88388,209.87868,211.88388,-209.21027,">
             <texture>
               <image path="images/asteroids_planet_01_02.png" />
-              <xform scale="0.7336523" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-231.83412" y="-229.63316" />
+              <xform scale="0.66840345" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-211.21547" y="-209.21027" />
               </xform>
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="5442" y="2049" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-90.972885,-97.57575,-90.972885,97.57575,91.706535,97.57575,91.706535,-97.57575,">
+        <geometry layer="2" x="5574" y="2094" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-82.88203,-88.89765,-82.88203,88.89765,83.55042,88.89765,83.55042,-88.89765,">
             <texture>
               <image path="images/asteroids_planet_01_04.png" />
-              <xform scale="0.7336523" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-90.972885" y="-97.57575" />
+              <xform scale="0.66840345" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-82.88203" y="-88.89765" />
               </xform>
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="4794" y="1899" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-92.440186,-93.90749,-92.440186,93.90749,93.17384,93.90749,93.17384,-93.90749,">
+        <geometry layer="2" x="4984" y="1957" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-84.21883,-85.55564,-84.21883,85.55564,84.88724,85.55564,84.88724,-85.55564,">
             <texture>
               <image path="images/asteroids_planet_01_05.png" />
-              <xform scale="0.7336523" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-92.440186" y="-93.90749" />
+              <xform scale="0.66840345" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-84.21883" y="-85.55564" />
               </xform>
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="1577" y="1293" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-216.0,-216.0,-216.0,216.54,216.0,216.54,216.0,-216.0,">
+        <geometry layer="2" x="1844" y="1466" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,216.0,-216.0,216.0,216.54,-216.0,216.54,-216.0,-216.0,">
             <texture>
               <image path="images/asteroids_planet_02.png" />
-              <xform scale="0.54" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-216.0" y="-216.0" />
+              <xform scale="0.54" rotate="0.0" flipX="true" flipY="false">
+                <translate x="216.0" y="-216.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="4393" y="1616" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-19.0,-24.0,-19.0,25.0,19.0,25.0,19.0,-24.0,">
+            <texture>
+              <image path="images/asteroids_25.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-19.0" y="-24.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="4379" y="1664" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-32.70666,27.060566,25.814358,34.56326,33.698544,-26.933403,-24.822475,-34.436096,">
+            <texture>
+              <image path="images/asteroids_23.png" />
+              <xform scale="1.0" rotate="-82.694244" flipX="false" flipY="false">
+                <translate x="-32.70666" y="27.060566" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="4444" y="1641" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,20.973373,-36.906876,38.51901,19.423847,-20.675991,37.861637,-38.221626,-18.46909,">
+            <texture>
+              <image path="images/asteroids_23.png" />
+              <xform scale="1.0" rotate="17.300528" flipX="true" flipY="false">
+                <translate x="20.973373" y="-36.906876" />
               </xform>
             </texture>
           </texturedPoly>
@@ -167,7 +197,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="5691" y="3409" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="6" x="5691" y="3409" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,-73.87859,-7.422692,-71.286415,-43.89842,-70.07124,-45.71294,-57.00883,-53.745968,-47.5357,-60.947853,-44.17821,-62.33858,-39.893562,-61.490974,-38.214817,-62.186333,-32.811005,-61.802307,-31.787846,-60.914932,-30.109102,-61.61029,-24.473503,-60.66669,-22.794758,-61.362053,-9.285232,-60.401985,-2.6991634,-46.08463,-0.1892736,-43.190712,2.9762077,-41.87953,8.323786,-36.88306,11.489268,-35.571888,13.999161,-32.677967,15.350113,-32.581963,16.836847,-30.575418,18.1878,-30.479412,22.51222,-26.370321,26.70086,-24.171768,27.396223,-22.493021,29.770332,-21.509638,30.465696,-19.830889,42.743595,-9.182366,47.028236,-8.334764,49.26657,-9.261915,54.670383,-8.877888,56.908707,-9.8050375,60.401985,-9.285232,65.901794,-10.252158,88.15343,43.467754,75.06772,40.36536,66.90577,44.401768,25.592669,60.203114,21.40403,58.004555,20.284866,58.468132,12.930745,54.958397,11.81158,55.421974,-4.575409,49.097874,-31.650694,51.790176,-56.030933,35.665154,">
             <texture>
               <image path="images/asteroids_02_02.png" />
@@ -1007,7 +1037,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="3615" y="3597" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="6" x="3615" y="3597" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,-26.0,90.0,-77.0,76.0,-108.0,8.0,-89.0,-60.0,-82.0,-61.0,-4.0,-89.0,56.0,-52.0,108.0,-16.0,108.0,79.0,62.0,64.0,11.0,75.0,-17.0,88.0,-18.0,90.0,">
             <texture>
               <image path="images/asteroids_02_03.png" />
@@ -2347,7 +2377,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="832" y="3918" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="3" x="832" y="3918" orientation="0.0" visible="true" collidable="false" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,-67.47573,-5.7814593,-56.390976,11.302105,-56.890877,13.649465,-51.098553,21.017567,-51.598454,23.36493,-42.361156,37.601234,-40.013794,38.10113,-38.666233,43.295753,-28.50521,58.955692,-26.15785,59.455593,-23.63661,64.90016,-21.28925,65.40006,-15.996823,75.115524,-13.649462,75.61542,-10.878275,79.886314,-3.5862432,80.21234,20.963234,74.39828,22.636812,72.30086,27.581484,72.12699,29.25506,70.02958,39.644302,67.33446,45.588776,62.465855,54.55439,60.69447,57.30384,47.783993,55.43465,27.75536,57.01042,14.594928,44.65418,-13.801609,45.98,-25.788359,44.012997,-56.880013,0.06520271,-80.96218,-8.476579,-75.41981,-10.82394,-75.91971,-18.192043,-70.12738,-20.539402,-70.62728,-29.331135,-63.91123,-31.678495,-64.411125,-37.62297,-59.542526,-39.97032,-60.042427,-43.06754,-57.021286,-45.414898,-57.521187,-48.512108,-54.50005,-57.72767,-51.554977,">
             <texture>
               <image path="images/asteroids_09.png" />
@@ -2647,7 +2677,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="384" y="1978" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="6" x="384" y="1978" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,28.0,-123.0,-25.0,-97.0,-25.0,-72.0,-27.0,-66.0,-55.0,-20.0,-71.0,13.0,-73.0,15.0,-107.0,26.0,-107.0,122.0,-88.0,109.0,-74.0,110.0,-1.0,108.0,25.0,85.0,25.0,83.0,27.0,83.0,38.0,73.0,81.0,59.0,106.0,21.0,108.0,-58.0,96.0,-83.0,80.0,-113.0,34.0,-123.0,">
             <texture>
               <image path="images/asteroids_02_02.png" />
@@ -2747,7 +2777,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="810" y="2144" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="5" x="808" y="2147" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,166.10133,30.534386,106.27133,25.91147,40.95256,8.178508,30.770144,3.898508,-66.24893,-52.202293,-146.45877,-118.62054,-313.6103,-142.91815,-328.5742,-116.89739,281.58206,207.43323,300.826,171.23004,271.4961,145.44716,172.28236,33.81993,">
             <texture>
               <image path="images/asteroids_01_03.png" />
@@ -2757,7 +2787,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="668" y="2160" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="6" x="668" y="2160" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,16.410603,41.565517,80.40916,40.47676,89.35065,40.699657,96.001045,43.1022,179.91006,104.69178,193.9267,116.67235,213.17062,80.469154,-186.83052,-132.1528,-189.6467,-126.85477,-183.46565,-123.569214,-115.50645,-68.192825,-63.966404,-18.146603,">
             <texture>
               <image path="images/asteroids_01_07.png" />
@@ -2997,7 +3027,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="1161" y="2690" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="6" x="1161" y="2690" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,63.12003,-36.67236,122.8488,12.576762,186.7902,45.325756,179.56822,82.63317,-198.41483,9.463551,-192.90337,-19.007906,-186.03093,-17.677544,-154.32861,-28.85623,-109.79924,-58.941708,-108.84898,-63.850586,">
             <texture>
               <image path="images/asteroids_01_04.png" />
@@ -3127,7 +3157,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="1622" y="2540" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="6" x="1622" y="2540" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,26.0,-90.0,77.0,-76.0,108.0,-8.0,89.0,60.0,82.0,61.0,4.0,89.0,-56.0,52.0,-108.0,16.0,-108.0,-79.0,-62.0,-64.0,-11.0,-75.0,17.0,-88.0,18.0,-90.0,">
             <texture>
               <image path="images/asteroids_02_03.png" />
@@ -3637,7 +3667,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="6" x="1410" y="1560" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="4" x="1410" y="1560" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,88.350365,-11.145069,95.15005,-2.732914,120.38256,10.394159,100.09222,75.2964,-126.111206,4.5785675,-121.933784,-8.783659,-94.61057,-19.10075,-82.08225,-25.661325,-80.23264,-28.226273,-5.663435,-32.154713,19.98801,-30.421692,32.874004,-34.77499,">
             <texture>
               <image path="images/asteroids_01_05.png" />
@@ -3997,7 +4027,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="621" y="526" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="6" x="621" y="526" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,70.221504,55.630905,69.80558,13.70816,53.788956,6.047132,50.557842,2.9271514,29.667578,-29.107782,13.428675,-49.470985,12.760227,-51.3652,16.131907,-76.51868,-45.371983,-105.937035,-42.865707,-89.780655,-47.79655,-81.11779,-68.88544,-33.73632,-62.117596,-10.030865,-60.836277,-9.417986,-61.449154,-8.136655,-58.413353,1.9750811,-62.621006,33.81388,-45.936745,61.475277,4.0629478,86.96548,23.756882,86.93852,47.87991,85.8811,68.38286,59.4749,">
             <texture>
               <image path="images/asteroids_02_02.png" />
@@ -4403,16 +4433,6 @@
               <image path="images/asteroids_05.png" />
               <xform scale="1.0" rotate="-21.457691" flipX="false" flipY="false">
                 <translate x="-273.84744" y="-40.639565" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
-        <geometry layer="5" x="4713" y="1984" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
-          <texturedPoly hull="!-1,-161.77321,74.13563,-169.52432,10.876559,-166.52388,-65.13435,-140.8952,-83.88704,-71.88531,-107.51543,-5.375771,-104.89005,82.13678,-133.64417,167.77406,-59.258495,149.02138,82.01178,61.25878,135.64447,-10.751554,124.01779,-47.00674,115.26654,-49.757133,110.76588,-61.508823,111.76603,-101.38954,102.13965,-104.13993,97.639,-157.64761,80.8866,">
-            <texture>
-              <image path="images/asteroids_09.png" />
-              <xform scale="2.6372561" rotate="58.57044" flipX="false" flipY="false">
-                <translate x="74.51069" y="-237.15903" />
               </xform>
             </texture>
           </texturedPoly>
@@ -5447,7 +5467,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="3977" y="3068" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="6" x="3977" y="3068" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,-292.2443,233.79543,-270.32596,193.61185,-226.48932,149.77519,-204.571,138.81602,-3.6530535,-18.265268,368.9584,-135.16298,401.83588,-138.81602,474.89694,-94.979385,474.89694,-233.79543,-474.89694,-233.79543,-474.89694,-135.16298,-467.59085,-135.16298,-442.01947,-109.591606,-401.83588,-10.959161,-398.18283,43.836643,-412.79504,160.73436,-357.99924,230.14238,">
             <texture>
               <image path="images/asteroids_01_01.png" />
@@ -5467,7 +5487,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="4624" y="2941" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="4" x="4624" y="2941" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,41.541897,-143.79887,123.02793,-121.43017,172.55865,-12.782123,142.20111,95.86592,131.01675,97.463684,6.3910613,142.20111,-89.47486,83.08379,-172.55865,25.564245,-172.55865,-126.22346,-99.06145,-102.25698,-17.575418,-119.8324,27.16201,-140.60335,28.759775,-143.79887,">
             <texture>
               <image path="images/asteroids_02_03.png" />
@@ -5477,7 +5497,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="3389" y="2806" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="4" x="3389" y="2806" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,-29.693024,-130.43721,26.511627,-102.86511,26.511627,-76.353485,28.632557,-69.9907,58.32558,-21.209301,75.29302,13.786046,77.413956,15.906977,113.469765,27.572092,113.469765,129.37674,93.32093,115.5907,78.47442,116.65116,1.0604651,114.53023,-26.511627,90.139534,-26.511627,88.0186,-28.632557,88.0186,-40.297672,77.413956,-85.897675,62.56744,-112.4093,22.269768,-114.53023,-61.506977,-101.80465,-88.0186,-84.837204,-119.83256,-36.055813,-130.43721,">
             <texture>
               <image path="images/asteroids_02_02.png" />
@@ -6437,7 +6457,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="3308" y="1253" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="6" x="3308" y="1253" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,-48.6863,-80.03527,-3.8730044,-108.12029,67.17527,-84.94398,104.39647,-24.947475,100.39708,-19.1161,68.24615,57.2666,0.40667963,76.41881,-61.284042,90.35632,-131.24245,26.084862,-89.075455,2.3583894,-62.672283,-42.640186,-53.30236,-72.05454,-54.098633,-74.144035,">
             <texture>
               <image path="images/asteroids_02_03.png" />
@@ -8447,7 +8467,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="5563" y="2345" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="6" x="5563" y="2345" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,-114.26723,-40.448574,-135.50272,-39.437363,-159.77187,-40.448574,-165.83916,-32.35886,-170.89523,-30.336432,-228.53445,10.1121435,-280.10638,13.145787,-280.10638,42.471,281.11758,42.471,281.11758,4.0448575,202.24287,-19.213072,59.661648,-35.392506,-11.123358,6.0672865,-23.257929,9.100929,-95.05415,-16.17943,-102.132645,-23.257929,-104.15508,-38.426144,-103.14387,-42.471,">
             <texture>
               <image path="images/asteroids_01_06.png" />
@@ -9077,7 +9097,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="2689" y="2461" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="6" x="2689" y="2461" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,-51.74035,115.04754,-78.38472,62.36853,-63.32566,42.412968,-61.307934,36.41891,-55.949493,-17.165483,-48.843094,-53.14463,-49.234818,-55.945805,-69.7484,-85.20657,-11.921603,-161.83594,-4.5860815,-140.01416,7.191398,-132.3793,64.25693,-86.81042,71.15638,-52.789864,69.95165,-51.193424,71.548096,-49.988693,74.304924,-35.380478,100.19543,1.6962233,97.261215,47.08775,51.271027,111.35206,26.633286,124.079285,-4.209146,138.38817,-46.95101,118.661705,">
             <texture>
               <image path="images/asteroids_02_02.png" />
@@ -9837,7 +9857,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="4386" y="2285" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="5" x="4318" y="1671" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,-17.0,47.0,-37.0,23.0,-41.0,16.0,-40.0,-34.0,-35.0,-35.0,-26.0,-44.0,-18.0,-47.0,4.0,-45.0,40.0,-2.0,41.0,8.0,39.0,10.0,37.0,27.0,33.0,36.0,21.0,36.0,10.0,31.0,-3.0,41.0,-5.0,43.0,-5.0,46.0,">
             <texture>
               <image path="images/asteroids_12.png" />
@@ -10147,7 +10167,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="4282" y="2157" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="5" x="5042" y="1665" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,-31.0,39.0,-38.0,25.0,-44.0,19.0,-54.0,13.0,-54.0,-6.0,-40.0,-42.0,-1.0,-42.0,2.0,-37.0,10.0,-34.0,11.0,-31.0,40.0,-2.0,42.0,-2.0,51.0,6.0,55.0,18.0,54.0,27.0,15.0,36.0,-2.0,42.0,">
             <texture>
               <image path="images/asteroids_13.png" />
@@ -10187,7 +10207,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="4324" y="2225" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="5" x="4234" y="1667" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
           <texturedPoly hull="!-1,-3.0,24.0,-4.0,20.0,-17.0,9.0,-18.0,-12.0,-17.0,-14.0,-8.0,-14.0,0.0,-22.0,6.0,-23.0,16.0,-14.0,19.0,16.0,2.0,24.0,">
             <texture>
               <image path="images/asteroids_25.png" />
@@ -11017,7 +11037,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="870" y="3828" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="3" x="870" y="3828" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
           <texturedPoly hull="!-1,45.056053,13.636434,23.84382,27.990572,23.445097,32.974648,12.480128,32.097454,-44.93643,-2.5917187,-43.022545,-26.515284,-29.904459,-27.472227,-23.524841,-31.977835,-19.457834,-32.65567,3.5486615,-31.818344,43.939617,-22.567898,45.21554,-13.437071,42.424458,-3.6284087,42.942802,2.4322283,45.773754,4.6650953,">
             <texture>
               <image path="images/asteroids_10.png" />
@@ -11037,7 +11057,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="773" y="3826" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="3" x="773" y="3826" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
           <texturedPoly hull="!-1,-40.57899,-29.177822,-12.032976,-41.871315,-4.2072325,-43.809807,43.62314,-29.206535,43.22108,-24.123394,49.424236,-13.009399,50.12784,-4.4944153,42.20158,16.125343,-8.988838,39.028202,-18.882301,37.262028,-20.26078,34.79225,-36.07022,28.230112,-43.637497,21.926441,-40.363605,10.381673,-32.55222,1.1630907,-38.62615,-14.071981,-40.004627,-16.541758,-42.89082,-17.36023,">
             <texture>
               <image path="images/asteroids_12.png" />
@@ -11047,7 +11067,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="691" y="3845" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="3" x="691" y="3845" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
           <texturedPoly hull="!-1,26.129734,-1.4956436,45.408035,-19.05546,26.391998,-39.70469,17.867935,-40.862415,-13.230617,-39.924316,-23.555231,-30.416298,-50.717983,7.189356,-38.7698,28.051788,-14.30948,18.117363,-11.482336,18.03208,-0.5181103,29.727623,16.359455,26.388792,27.66802,26.04766,">
             <texture>
               <image path="images/asteroids_17.png" />
@@ -11057,12 +11077,201 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="937" y="3842" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.6">
+        <geometry layer="3" x="937" y="3842" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
           <texturedPoly hull="!-1,-9.0,19.0,-22.0,8.0,-23.0,3.0,-17.0,-4.0,-18.0,-16.0,-16.0,-18.0,2.0,-19.0,21.0,-6.0,23.0,-4.0,23.0,-1.0,17.0,18.0,3.0,17.0,-1.0,19.0,">
             <texture>
               <image path="images/asteroids_22.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-27.0" y="-23.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="4639" y="1974" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,85.44055,139.42986,81.52145,134.4988,39.25287,160.35657,-59.61686,162.50034,-121.87085,179.17607,-157.86455,171.26721,-158.99258,169.06918,-161.19063,170.19722,-178.35596,166.5103,-179.48401,164.31224,-191.0962,163.32932,-240.62634,129.04408,-247.24947,129.66615,-253.3666,125.86311,-264.9498,127.64223,-273.61322,91.82265,-287.62662,72.63339,-271.51865,28.266495,-272.64667,26.068466,-261.07983,-29.852615,-226.14355,-69.997574,-216.28143,-77.8358,-179.95587,-90.9243,-77.81811,-97.522156,-64.0659,-103.191376,-29.490446,-125.10101,-17.459318,-136.82932,-7.5391617,-139.14342,53.644836,-152.49313,91.24353,-149.57335,100.59968,-152.98645,113.758835,-162.51672,197.24237,-156.76427,250.40138,-145.16843,261.76886,-114.90199,272.31107,-110.59298,279.05023,-100.16684,303.8961,-49.04812,280.86215,19.700283,278.12915,22.491356,237.85545,27.886742,200.30219,81.87099,160.73764,102.175644,156.37059,107.19377,105.280876,134.80164,">
+            <texture>
+              <image path="images/asteroids_05.png" />
+              <xform scale="1.2352941" rotate="-27.167034" flipX="false" flipY="false">
+                <translate x="-341.59824" y="-16.299778" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="4350" y="1904" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,31.0,39.0,38.0,25.0,44.0,19.0,54.0,13.0,54.0,-6.0,40.0,-42.0,1.0,-42.0,-2.0,-37.0,-10.0,-34.0,-11.0,-31.0,-40.0,-2.0,-42.0,-2.0,-51.0,6.0,-55.0,18.0,-54.0,27.0,-15.0,36.0,2.0,42.0,">
+            <texture>
+              <image path="images/asteroids_13.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="59.0" y="-47.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="4326" y="1989" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,21.0,-43.0,50.0,-15.0,52.0,18.0,32.0,40.0,13.0,43.0,-5.0,25.0,-39.0,13.0,-52.0,6.0,-53.0,-6.0,-49.0,-19.0,-35.0,-27.0,-24.0,-31.0,-12.0,-41.0,8.0,-41.0,">
+            <texture>
+              <image path="images/asteroids_14.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="true">
+                <translate x="57.0" y="48.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="8" x="42" y="3939" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="10.0">
+          <texturedPoly hull="!-1,-42.0,61.0,-42.0,-24.0,41.0,-3.0,82.0,5.0,631.0,-16.0,652.0,-97.0,652.0,-94.0,748.0,-118.0,837.0,-120.0,844.0,-112.0,904.0,-49.0,904.0,-46.0,982.0,-7.0,1582.0,-112.0,1897.0,-304.0,2023.0,-613.0,1906.0,-754.0,1645.0,-847.0,1405.0,-853.0,1180.0,-976.0,970.0,-922.0,760.0,-910.0,724.0,-811.0,586.0,-727.0,586.0,-730.0,586.0,-733.0,472.0,-886.0,472.0,-889.0,490.0,-1147.0,370.0,-1204.0,370.0,-1207.0,334.0,-1507.0,421.0,-1576.0,499.0,-1531.0,496.0,-1447.0,613.0,-1192.0,661.0,-1195.0,559.0,-964.0,775.0,-931.0,1084.0,-970.0,1084.0,-967.0,1183.0,-997.0,1405.0,-880.0,1463.0,-864.0,1462.0,-864.0,1666.0,-861.0,1946.0,-752.0,1956.0,-780.0,1817.0,-1214.0,1607.0,-1358.0,1292.0,-1492.0,1292.0,-1732.0,1124.0,-1978.0,458.0,-2344.0,236.0,-2197.0,197.0,-2116.0,176.0,-2215.0,203.0,-2416.0,158.0,-2590.0,191.0,-2695.0,242.0,-2791.0,260.0,-2938.0,266.0,-3094.0,166.0,-3537.0,349.0,-3643.0,353.0,-3366.0,272.0,-3160.0,273.0,-3075.0,273.0,-3074.0,281.0,-2885.0,281.0,-2887.0,637.0,-2958.0,779.0,-3042.0,803.0,-3305.0,765.0,-3456.0,805.0,-3685.0,783.0,-3726.0,827.0,-3749.0,846.0,-3655.0,845.0,-3655.0,844.0,-3655.0,843.0,-3655.0,806.0,-3620.0,805.0,-3620.0,799.0,-3382.0,976.0,-3303.0,829.0,-3157.0,794.0,-2951.0,793.0,-2951.0,266.0,-2831.0,193.0,-2665.0,188.0,-2538.0,344.0,-2380.0,453.0,-2376.0,992.0,-2098.0,1092.0,-2131.0,1291.0,-1906.0,1299.0,-1749.0,1299.0,-1750.0,1388.0,-1486.0,1583.0,-1412.0,1725.0,-1408.0,1806.0,-1590.0,1833.0,-1793.0,2043.0,-2113.0,2228.0,-2268.0,2278.0,-2463.0,2238.0,-2548.0,2175.0,-2628.0,2103.0,-2923.0,1398.0,-2933.0,1403.0,-2933.0,1528.0,-3023.0,1451.0,-3422.0,1450.0,-3422.0,1345.0,-3664.0,1378.0,-3718.0,1421.0,-3720.0,1532.0,-3151.0,1588.0,-3003.0,1943.0,-3028.0,2025.0,-3265.0,1853.0,-3718.0,1882.0,-3767.0,1910.0,-3712.0,1911.0,-3617.0,2043.0,-3358.0,2053.0,-3203.0,2137.0,-3115.0,2203.0,-2898.0,2183.0,-2808.0,2213.0,-2614.0,2339.0,-2400.0,2486.0,-2506.0,2630.0,-2647.0,2612.0,-2821.0,2855.0,-2635.0,3194.0,-2632.0,3245.0,-2764.0,3200.0,-3310.0,3026.0,-3544.0,2906.0,-3643.0,2972.0,-3721.0,3080.0,-3673.0,3197.0,-3772.0,3248.0,-3595.0,3320.0,-3547.0,3224.0,-3355.0,3437.0,-3202.0,3713.0,-3235.0,3863.0,-3340.0,4085.0,-3637.0,4394.0,-3709.0,4511.0,-3667.0,4793.0,-3754.0,4946.0,-3712.0,5117.0,-3403.0,5429.0,-3385.0,5453.0,-3502.0,5390.0,-3718.0,5462.0,-3772.0,5462.0,-3769.0,5510.0,-3706.0,5522.0,-3271.0,5597.0,-2854.0,5504.0,-2734.0,5504.0,-2737.0,5423.0,-2764.0,5423.0,-2770.0,5456.0,-2827.0,5531.0,-2911.0,5501.0,-3049.0,5336.0,-3295.0,5147.0,-3376.0,5003.0,-3280.0,5003.0,-3289.0,4961.0,-3379.0,4973.0,-3499.0,4877.0,-3628.0,4484.0,-3592.0,4382.0,-3427.0,4373.0,-3424.0,4199.0,-3289.0,3887.0,-3313.0,3791.0,-3250.0,3629.0,-3181.0,3473.0,-2845.0,3644.0,-2458.0,3815.0,-2380.0,4238.0,-2365.0,4586.0,-2542.0,4835.0,-2800.0,4925.0,-2701.0,4931.0,-2560.0,4907.0,-2518.0,5243.0,-2224.0,5504.0,-2158.0,5726.0,-2206.0,5654.0,-2149.0,5504.0,-2128.0,5372.0,-2095.0,5372.0,-2098.0,5144.0,-2218.0,4973.0,-2401.0,4361.0,-2377.0,4100.0,-2290.0,4034.0,-2221.0,4034.0,-2224.0,3845.0,-2251.0,3572.0,-2152.0,3383.0,-2056.0,3311.0,-2032.0,3308.0,-2032.0,3305.0,-2029.0,3194.0,-1873.0,3194.0,-1876.0,3152.0,-1999.0,3152.0,-2002.0,3272.0,-2230.0,3305.0,-2401.0,3125.0,-2551.0,3122.0,-2551.0,2849.0,-2605.0,2714.0,-2614.0,2546.0,-2464.0,2546.0,-2467.0,2543.0,-2467.0,2537.0,-2302.0,2537.0,-2305.0,2537.0,-2308.0,2372.0,-2230.0,2354.0,-1888.0,2581.0,-1735.0,2581.0,-1730.0,2761.0,-1235.0,2671.0,-1205.0,2596.0,-1395.0,2616.0,-1550.0,2476.0,-1690.0,2241.0,-1830.0,1951.0,-1840.0,1856.0,-1730.0,1861.0,-1370.0,1986.0,-1090.0,2146.0,-515.0,2426.0,-500.0,2616.0,-535.0,2621.0,-535.0,2736.0,-620.0,2646.0,-455.0,2476.0,-395.0,2476.0,60.0,838.0,61.0,838.0,-81.0,731.0,-81.0,731.0,61.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-42.0" y="-3939.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="6" x="4563" y="1938" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-98.97989,101.47559,-140.88268,12.254929,99.39476,-100.59221,141.29755,-11.371555,">
+            <texture>
+              <image path="images/logo.png" />
+              <xform scale="0.97594684" rotate="-25.15726" flipX="false" flipY="false">
+                <translate x="-140.88268" y="12.254929" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="4464" y="3476" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-21.0,43.0,-50.0,15.0,-52.0,-18.0,-32.0,-40.0,-13.0,-43.0,5.0,-25.0,39.0,-13.0,52.0,-6.0,53.0,6.0,49.0,19.0,35.0,27.0,24.0,31.0,12.0,41.0,-8.0,41.0,">
+            <texture>
+              <image path="images/asteroids_14.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-57.0" y="-48.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="4305" y="3302" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-34.262016,36.16787,-40.022884,21.61409,-45.48055,15.116868,-54.92318,8.2731285,-53.277214,-10.655443,-36.21118,-45.30729,2.6422036,-41.928734,5.1977773,-36.68764,12.907813,-33.005886,13.644165,-29.930532,40.022884,1.4727037,42.015366,1.645963,50.288494,10.395555,53.233902,22.69696,51.457993,31.576496,11.824943,37.16411,-5.630925,41.668846,">
+            <texture>
+              <image path="images/asteroids_13.png" />
+              <xform scale="1.0" rotate="4.969741" flipX="false" flipY="false">
+                <translate x="-54.706604" y="-51.93446" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="4350" y="3416" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-30.576073,60.150677,-47.788803,43.18831,-64.81376,19.90418,-61.621582,8.293407,-46.69345,-14.990725,-26.319834,-29.887562,-7.104164,-59.05532,35.865074,-57.146275,63.593224,-10.765783,50.167294,25.850393,26.03817,39.370216,13.2068615,45.31643,11.329107,44.627922,8.074336,47.694916,-6.040105,54.235756,-7.917857,53.547245,-27.759443,61.18344,">
+            <texture>
+              <image path="images/asteroids_09.png" />
+              <xform scale="1.0" rotate="20.136303" flipX="false" flipY="false">
+                <translate x="-33.76825" y="-88.004005" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="4282" y="3368" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-46.52369,7.1795826,-33.600445,-14.93353,-35.39534,-19.600258,-25.128536,-23.549026,41.641575,-17.087406,50.257072,5.312889,38.841537,11.84631,35.03636,18.666912,31.661957,21.036175,10.553986,30.226038,-29.867058,39.34411,-34.96456,31.661957,-36.68766,21.610542,-39.774883,16.369448,-43.292877,15.579693,">
+            <texture>
+              <image path="images/asteroids_10.png" />
+              <xform scale="1.0" rotate="68.96249" flipX="false" flipY="false">
+                <translate x="34.3184" y="-52.84172" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="4685" y="3499" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-3.0,24.0,-4.0,20.0,-17.0,9.0,-18.0,-12.0,-17.0,-14.0,-8.0,-14.0,0.0,-22.0,6.0,-23.0,16.0,-14.0,19.0,16.0,2.0,24.0,">
+            <texture>
+              <image path="images/asteroids_25.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-19.0" y="-24.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="4230" y="3305" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-3.0,24.0,-4.0,20.0,-17.0,9.0,-18.0,-12.0,-17.0,-14.0,-8.0,-14.0,0.0,-22.0,6.0,-23.0,16.0,-14.0,19.0,16.0,2.0,24.0,">
+            <texture>
+              <image path="images/asteroids_25.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-19.0" y="-24.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="4383" y="3475" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-12.0,26.0,-26.0,16.0,-27.0,-5.0,-25.0,-8.0,-23.0,-10.0,-7.0,-11.0,13.0,-22.0,22.0,-25.0,26.0,-19.0,27.0,-8.0,23.0,12.0,12.0,24.0,">
+            <texture>
+              <image path="images/asteroids_23.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-31.0" y="-29.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="4255" y="3434" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,23.878452,10.715387,35.627304,33.99552,10.497816,46.505867,2.1213198,44.547726,-26.598093,32.581303,-32.853268,20.016562,-44.81969,-24.803127,-26.217342,-40.033123,-6.907889,-22.029095,-4.2970333,-20.941238,10.117065,-27.957914,24.694345,-18.81992,35.137768,-14.4684925,">
+            <texture>
+              <image path="images/asteroids_17.png" />
+              <xform scale="1.0" rotate="-112.380135" flipX="false" flipY="false">
+                <translate x="-17.89524" y="66.848785" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="4197" y="3355" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,34.106228,36.534435,3.6321983,43.414364,-4.421364,43.788715,-48.483253,20.133907,-47.09715,15.226899,-51.012638,3.1162033,-50.04135,-5.3724117,-38.244305,-24.049393,16.430883,-36.524323,25.789608,-32.86177,26.659718,-30.170507,40.88498,-20.6499,47.076912,-12.990923,41.61344,-2.3068008,32.15354,5.210532,35.138218,21.33789,36.008324,24.029156,38.679356,25.395023,">
+            <texture>
+              <image path="images/asteroids_12.png" />
+              <xform scale="1.0" rotate="-62.91645" flipX="false" flipY="false">
+                <translate x="-67.69646" y="18.171103" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="4365" y="3236" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-3.0,24.0,-4.0,20.0,-17.0,9.0,-18.0,-12.0,-17.0,-14.0,-8.0,-14.0,0.0,-22.0,6.0,-23.0,16.0,-14.0,19.0,16.0,2.0,24.0,">
+            <texture>
+              <image path="images/asteroids_25.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-19.0" y="-24.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="5586" y="2232" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-12.02439,33.2439,-26.17073,16.268291,-29.0,11.317073,-28.292683,-24.04878,-24.756098,-24.756098,-18.390244,-31.12195,-12.731707,-33.2439,2.8292682,-31.829268,28.292683,-1.4146341,29.0,5.6585364,27.585365,7.0731707,26.17073,19.09756,23.341463,25.463413,14.853658,25.463413,7.0731707,21.926828,-2.121951,29.0,-3.5365853,30.414633,-3.5365853,32.536583,">
+            <texture>
+              <image path="images/asteroids_12.png" />
+              <xform scale="0.70731705" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-33.2439" y="-36.780487" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="5439" y="2249" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-21.0,43.0,-50.0,15.0,-52.0,-18.0,-32.0,-40.0,-13.0,-43.0,5.0,-25.0,39.0,-13.0,52.0,-6.0,53.0,6.0,49.0,19.0,35.0,27.0,24.0,31.0,12.0,41.0,-8.0,41.0,">
+            <texture>
+              <image path="images/asteroids_14.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-57.0" y="-48.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="5496" y="2208" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-12.531915,11.87234,-29.680851,13.191489,-31.0,-5.2765956,-27.702127,-9.893617,-13.191489,-24.404255,-3.9574466,-25.06383,26.382978,-21.106382,31.0,-5.93617,15.170213,1.3191489,13.851064,2.6382978,14.510638,13.191489,5.2765956,19.787233,0.0,25.06383,">
+            <texture>
+              <image path="images/asteroids_17.png" />
+              <xform scale="0.65957445" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-36.276596" y="-27.702127" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="5364" y="2252" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-3.0,24.0,-4.0,20.0,-17.0,9.0,-18.0,-12.0,-17.0,-14.0,-8.0,-14.0,0.0,-22.0,6.0,-23.0,16.0,-14.0,19.0,16.0,2.0,24.0,">
+            <texture>
+              <image path="images/asteroids_25.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-19.0" y="-24.0" />
               </xform>
             </texture>
           </texturedPoly>
@@ -11077,13 +11286,13 @@
         </spawnPoints>
       </spawnPoints>
       <Base>
-        <Base layer="8" x="1832" y="1211">
+        <Base layer="6" x="1832" y="1211">
           <team index="7" />
           <transformation scale="2.21875" rotate="0.0" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Base>
-        <Base layer="8" x="4168" y="1211">
+        <Base layer="6" x="4168" y="1211">
           <team index="4" />
           <transformation scale="2.21875" rotate="0.0" flipX="true" flipY="false">
             <translate x="0.0" y="0.0" />
@@ -11094,19 +11303,19 @@
       <Hoop />
       <objectiveDescriptor />
       <powerupSpawner>
-        <powerupSpawner layer="5" x="707" y="4174" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="707" y="4174" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
           <team index="7" />
           <selectedPowerups>
             <String value="Ball" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="5" x="5293" y="4174" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="5293" y="4174" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
           <team index="4" />
           <selectedPowerups>
             <String value="Ball" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="5" x="2794" y="4205" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="831" y="3902" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Ball" />
@@ -11240,13 +11449,13 @@
         </powerupSpawner>
       </powerupSpawner>
       <Goal>
-        <Goal layer="5" x="635" y="4174">
+        <Goal layer="1" x="635" y="4174">
           <team index="7" />
           <transformation scale="1.0" rotate="0.0" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Goal>
-        <Goal layer="5" x="5365" y="4174">
+        <Goal layer="1" x="5365" y="4174">
           <team index="4" />
           <transformation scale="1.0" rotate="0.0" flipX="true" flipY="false">
             <translate x="0.0" y="0.0" />
