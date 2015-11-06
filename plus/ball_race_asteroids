@@ -3,7 +3,6 @@
 #Basic settings:
 /set intro 2 laps through the asteroid field
 /set weapons 3
-/set gravity 3
 /set spawnMode died
 /set spawnHealth 400
 
