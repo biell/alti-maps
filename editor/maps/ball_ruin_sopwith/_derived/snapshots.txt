@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_sopwith\_config\image-descriptors.txt" lastModified="1447206131940" length="249" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_sopwith\ball_ruin_sopwith.alte" lastModified="1447204512386" length="138876" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_sopwith\images\logo.png" lastModified="1447206122946" length="6073" />
+  </snapshots>
+</snapshots.txt>
+
