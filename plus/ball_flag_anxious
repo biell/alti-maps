@@ -3,6 +3,6 @@
 #Basic settings:
 /set intro Capture the flag, 6 captures wins.
 
-#Flags
-/add powerup flag < 244,631
-/add powerup flag > 2316,631
+#Flags (Remember these are kind of backwards, which one will your team pickup)
+/add powerup flag < 2316,631
+/add powerup flag > 244,631
