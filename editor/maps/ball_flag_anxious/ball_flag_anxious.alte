@@ -734,13 +734,13 @@
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="244" y="631" orientation="0.0" spawnTime="1.0" neverFade="true" spawnAtRoundStart="true">
+        <powerupSpawner layer="1" x="244" y="632" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
           <team index="4" />
           <selectedPowerups>
             <String value="Shield" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="2316" y="631" orientation="0.0" spawnTime="1.0" neverFade="true" spawnAtRoundStart="true">
+        <powerupSpawner layer="1" x="2316" y="631" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
           <team index="7" />
           <selectedPowerups>
             <String value="Shield" />
