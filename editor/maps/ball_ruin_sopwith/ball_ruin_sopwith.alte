@@ -1923,6 +1923,15 @@
             </texture>
           </texturedPoly>
         </geometry>
+        <geometry layer="8" x="5" y="727" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="0.75">
+          <texturedPoly hull="!-6697729,-5.0,-7.0,8195.0,-7.0,8195.0,15.0,-5.0,18.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-5.0" y="-727.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
       </geometry>
       <spawnPoints>
         <spawnPoints layer="1" x="3556" y="223" orientation="0.0">
