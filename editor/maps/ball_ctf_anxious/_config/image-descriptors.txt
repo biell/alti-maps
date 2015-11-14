@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-descriptors.txt>
+  <descriptors>
+    <ImageDescriptor path="images/blue_flag.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/orange_flag.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/background.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/wall.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/triangle.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="textures/inside.png" wrapMode="REPEAT" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/turn.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/plus.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/half-circle.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/big_rectangle.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/small_rectangle.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+  </descriptors>
+</image-descriptors.txt>
+

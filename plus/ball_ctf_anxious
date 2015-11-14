@@ -1,0 +1,8 @@
+#tdm_biplane alti+ map settings
+
+#Basic settings:
+/set intro Capture the flag, 6 captures wins.
+
+#Flags
+/add powerup flag < 244,631
+/add powerup flag > 2316,631
