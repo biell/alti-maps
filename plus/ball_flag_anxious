@@ -1,7 +1,7 @@
-#tdm_biplane alti+ map settings
+#ball_flag_anxious alti+ map settings
 
 #Basic settings:
-/set intro Capture the flag, 6 captures wins.
+/set intro Capture the opposing flag to score points and win
 
 #Flags (Remember these are kind of backwards, which one will your team pickup)
 /add powerup flag < 2316,631
