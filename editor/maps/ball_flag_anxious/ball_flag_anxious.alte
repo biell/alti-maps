@@ -650,13 +650,13 @@
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="8" turnLeft="65.0" turnRight="55.0" maxDistance="450.0" x="2269" y="821" health="600" gunCooldownSeconds="0.5" bulletSpeed="17.0" bulletDirectDamage="15" bulletBlastDamage="30" bulletBlastRadius="120">
+        <Turret layer="8" turnLeft="55.0" turnRight="65.0" maxDistance="450.0" x="2269" y="821" health="600" gunCooldownSeconds="0.5" bulletSpeed="17.0" bulletDirectDamage="15" bulletBlastDamage="30" bulletBlastRadius="120">
           <team index="4" />
           <transformation scale="1.0" rotate="-81.314705" flipX="true" flipY="true">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="8" turnLeft="55.0" turnRight="45.0" maxDistance="450.0" x="2269" y="203" health="600" gunCooldownSeconds="0.5" bulletSpeed="17.0" bulletDirectDamage="15" bulletBlastDamage="30" bulletBlastRadius="120">
+        <Turret layer="8" turnLeft="45.0" turnRight="55.0" maxDistance="450.0" x="2269" y="203" health="600" gunCooldownSeconds="0.5" bulletSpeed="17.0" bulletDirectDamage="15" bulletBlastDamage="30" bulletBlastRadius="120">
           <team index="4" />
           <transformation scale="1.0" rotate="-81.314705" flipX="true" flipY="false">
             <translate x="0.0" y="0.0" />
@@ -668,15 +668,27 @@
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="8" turnLeft="90.0" turnRight="45.0" maxDistance="450.0" x="1972" y="723" health="600" gunCooldownSeconds="0.5" bulletSpeed="17.0" bulletDirectDamage="15" bulletBlastDamage="30" bulletBlastRadius="120">
+        <Turret layer="8" turnLeft="45.0" turnRight="90.0" maxDistance="450.0" x="1972" y="723" health="600" gunCooldownSeconds="0.5" bulletSpeed="17.0" bulletDirectDamage="15" bulletBlastDamage="30" bulletBlastRadius="120">
           <team index="4" />
           <transformation scale="1.0" rotate="-179.2666" flipX="true" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="8" turnLeft="90.0" turnRight="45.0" maxDistance="450.0" x="1917" y="221" health="600" gunCooldownSeconds="0.5" bulletSpeed="17.0" bulletDirectDamage="15" bulletBlastDamage="30" bulletBlastRadius="120">
+        <Turret layer="8" turnLeft="45.0" turnRight="90.0" maxDistance="450.0" x="1917" y="221" health="600" gunCooldownSeconds="0.5" bulletSpeed="17.0" bulletDirectDamage="15" bulletBlastDamage="30" bulletBlastRadius="120">
           <team index="4" />
           <transformation scale="1.0" rotate="-88.5679" flipX="true" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="8" turnLeft="80.0" turnRight="10.0" maxDistance="600.0" x="805" y="972" health="600" gunCooldownSeconds="0.5" bulletSpeed="17.0" bulletDirectDamage="15" bulletBlastDamage="30" bulletBlastRadius="120">
+          <team index="7" />
+          <transformation scale="1.0" rotate="-91.12944" flipX="true" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="8" turnLeft="10.0" turnRight="80.0" maxDistance="600.0" x="1755" y="972" health="600" gunCooldownSeconds="0.5" bulletSpeed="17.0" bulletDirectDamage="15" bulletBlastDamage="30" bulletBlastRadius="120">
+          <team index="4" />
+          <transformation scale="1.0" rotate="-91.12944" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
@@ -734,7 +746,7 @@
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="244" y="632" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+        <powerupSpawner layer="1" x="244" y="631" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
           <team index="4" />
           <selectedPowerups>
             <String value="Shield" />
