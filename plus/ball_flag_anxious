@@ -7,6 +7,3 @@
 /add powerup flag < 2338,821
 /add powerup flag > 222,821
 
-#Old flags
-/del powerup flag < 2316,631
-/del powerup flag > 244,631
