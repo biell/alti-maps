@@ -4,5 +4,9 @@
 /set intro Capture the opposing flag to score points and win
 
 #Flags (Remember these are kind of backwards, which one will your team pickup)
-/add powerup flag < 2316,631
-/add powerup flag > 244,631
+/add powerup flag < 2338,821
+/add powerup flag > 222,821
+
+#Old flags
+/del powerup flag < 2316,631
+/del powerup flag > 244,631
