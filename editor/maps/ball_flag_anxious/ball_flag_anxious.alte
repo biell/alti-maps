@@ -698,7 +698,7 @@
             <String value="Ball" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="1280" y="1127" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="1278" y="1127" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Ball" />
