@@ -1,0 +1,28 @@
+#ball_race_silverstone alti+ map settings
+
+#Basic settings:
+/set intro 3 Laps at the Home of British Motor Racing
+/set spawnMode died
+/set spawnHealth 400
+/set weapons 3
+/set gravity 3
+/set cameraScale 80
+/set planeScale 60
+
+#Checkpoints:
+/add powerup 1 * 1355,4342
+/add powerup 1 * 1362,4311
+/add powerup 1 * 1386,4333
+/add powerup 1 * 1410,4353
+/add powerup 1 * 1417,4322
+
+/add powerup 2 * 5347,961
+/add powerup 2 * 5364,986
+/add powerup 2 * 5378,956
+/add powerup 2 * 5394,928
+/add powerup 2 * 5411,953
+
+#One-ways:
+/add oneway 5394,928 nw
+/add oneway 5411,953 nw
+
