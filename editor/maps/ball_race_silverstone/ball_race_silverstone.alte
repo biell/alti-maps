@@ -516,6 +516,58 @@
         </Goal>
       </Goal>
     </View>
+    <View name="Minimap" size="200,120">
+      <bounds minX="824" minY="0" maxX="8602" maxY="5066" />
+      <geometry>
+        <geometry layer="2" x="100" y="60" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-83.0,-50.0,-83.0,50.0,84.0,50.0,84.0,-50.0,">
+            <texture>
+              <image path="images/silverstone-track.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-83.0" y="-50.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="16" y="111" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!2029977598,-4.0,-3.0,-3.0,1.0,-2.0,3.0,0.0,4.0,4.0,5.0,164.0,5.0,168.0,4.0,170.0,3.0,171.0,1.0,172.0,-3.0,172.0,-99.0,171.0,-103.0,170.0,-105.0,168.0,-106.0,164.0,-107.0,4.0,-107.0,0.0,-106.0,-2.0,-105.0,-3.0,-103.0,-4.0,-99.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-16.0" y="-111.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+      </geometry>
+      <spawnPoints />
+      <Base />
+      <Turret />
+      <Hoop />
+      <objectiveDescriptor />
+      <powerupSpawner />
+      <Goal />
+    </View>
+    <View name="Dot" size="6,6">
+      <bounds minX="725" minY="5" maxX="8597" maxY="5066" />
+      <geometry>
+        <geometry layer="1" x="3" y="3" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-65538,-2.0,-2.0,-3.0,0.0,-2.0,2.0,0.0,3.0,2.0,2.0,3.0,0.0,2.0,-2.0,0.0,-3.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-3.0" y="-3.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+      </geometry>
+      <spawnPoints />
+      <Base />
+      <Turret />
+      <Hoop />
+      <objectiveDescriptor />
+      <powerupSpawner />
+      <Goal />
+    </View>
   </views>
 </Level>
 

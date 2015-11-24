@@ -17,6 +17,7 @@
     <entry key="silverstone-4-0.png" value="p12" />
     <entry key="silverstone-4-1.png" value="p13" />
     <entry key="silverstone-4-2.png" value="p14" />
+    <entry key="silverstone-track.png" value="p15" />
   </pack-path-by-image-path>
 </image-lookup-map.txt>
 
