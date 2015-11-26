@@ -10,19 +10,19 @@
 /set planeScale 60
 
 #Checkpoints:
-/add powerup 1 * 1355,4342
-/add powerup 1 * 1362,4311
-/add powerup 1 * 1386,4333
-/add powerup 1 * 1410,4353
-/add powerup 1 * 1417,4322
+/add powerup 1 * 819,2657
+/add powerup 1 * 824,2629
+/add powerup 1 * 849,2648
+/add powerup 1 * 874,2667
+/add powerup 1 * 879,2639
 
-/add powerup 2 * 5347,961
-/add powerup 2 * 5364,986
-/add powerup 2 * 5378,956
-/add powerup 2 * 5394,928
-/add powerup 2 * 5411,953
+/add powerup 2 * 3209,630
+/add powerup 2 * 3226,653
+/add powerup 2 * 3240,625
+/add powerup 2 * 3254,597
+/add powerup 2 * 3271,620
 
 #One-ways:
-/add oneway 5394,928 nw
-/add oneway 5411,953 nw
+/add oneway 3254,597 nw
+/add oneway 3271,620 nw
 
