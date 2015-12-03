@@ -707,32 +707,24 @@
         <powerupSpawner layer="1" x="1190" y="612" orientation="0.0" spawnTime="123.0" neverFade="false" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
-            <String value="Wall" />
             <String value="Shield" />
-            <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="1370" y="612" orientation="0.0" spawnTime="145.0" neverFade="false" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
-            <String value="Wall" />
-            <String value="Shield" />
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="1370" y="412" orientation="0.0" spawnTime="137.0" neverFade="false" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
-            <String value="Wall" />
             <String value="Shield" />
-            <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="1190" y="412" orientation="0.0" spawnTime="117.0" neverFade="false" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
-            <String value="Wall" />
-            <String value="Shield" />
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
