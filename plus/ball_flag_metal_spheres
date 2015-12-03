@@ -1,0 +1,9 @@
+#ball_flag_metal_spheres alti+ map settings
+
+#Basic settings:
+/set intro Capture the opposing flag to score points and win
+
+#Flags (Remember these are kind of backwards, which one will your team pickup)
+/add powerup flag < 2744,759
+/add powerup flag > 328,759
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="across_sky_gradient.png" value="p0" />
+    <entry key="blue_flag.png" value="p3" />
+    <entry key="down_sky_gradient.png" value="p1" />
+    <entry key="flying_sphere.png" value="p3" />
+    <entry key="orange_flag.png" value="p3" />
+    <entry key="whispy_cloud.png" value="p2" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

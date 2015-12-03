@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-descriptors.txt>
+  <descriptors>
+    <ImageDescriptor path="images/orange_flag.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/blue_flag.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/whispy_cloud.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/down_sky_gradient.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/flying_sphere.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/across_sky_gradient.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+  </descriptors>
+</image-descriptors.txt>
+
