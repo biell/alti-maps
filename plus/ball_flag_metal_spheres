@@ -2,6 +2,7 @@
 
 #Basic settings:
 /set intro Capture the opposing flag to score points and win
+/set spawnHealth 75
 
 #Flags (Remember these are kind of backwards, which one will your team pickup)
 /add powerup flag < 2744,759
