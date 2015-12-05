@@ -1436,41 +1436,41 @@
           </texturedPoly>
         </geometry>
         <geometry layer="5" x="711" y="1182" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-512.0,-128.0,-512.0,128.0,512.0,128.0,512.0,-128.0,">
+          <texturedPoly hull="!-1,512.0,-128.0,512.0,128.0,-512.0,128.0,-512.0,-128.0,">
             <texture>
               <image path="images/whispy_cloud.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-512.0" y="-128.0" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="512.0" y="-128.0" />
               </xform>
             </texture>
           </texturedPoly>
         </geometry>
         <geometry layer="5" x="2411" y="1032" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-512.0,-128.0,-512.0,128.0,512.0,128.0,512.0,-128.0,">
+          <texturedPoly hull="!-1,-475.0,-118.75,-475.0,118.75,475.0,118.75,475.0,-118.75,">
             <texture>
               <image path="images/whispy_cloud.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-512.0" y="-128.0" />
+              <xform scale="0.9277344" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-475.0" y="-118.75" />
               </xform>
             </texture>
           </texturedPoly>
         </geometry>
         <geometry layer="5" x="1721" y="567" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-512.0,-128.0,-512.0,128.0,512.0,128.0,512.0,-128.0,">
+          <texturedPoly hull="!-1,-596.0,149.0,-596.0,-149.0,596.0,-149.0,596.0,149.0,">
             <texture>
               <image path="images/whispy_cloud.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-512.0" y="-128.0" />
+              <xform scale="1.1640625" rotate="0.0" flipX="false" flipY="true">
+                <translate x="-596.0" y="149.0" />
               </xform>
             </texture>
           </texturedPoly>
         </geometry>
         <geometry layer="5" x="631" y="192" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-512.0,-128.0,-512.0,128.0,512.0,128.0,512.0,-128.0,">
+          <texturedPoly hull="!-1,-473.0,-118.25,-473.0,118.25,473.0,118.25,473.0,-118.25,">
             <texture>
               <image path="images/whispy_cloud.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-512.0" y="-128.0" />
+              <xform scale="0.9238281" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-473.0" y="-118.25" />
               </xform>
             </texture>
           </texturedPoly>
@@ -1488,31 +1488,31 @@
       <bounds minX="11" minY="-2" maxX="2911" maxY="1278" />
       <geometry>
         <geometry layer="1" x="539" y="509" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-512.0,-128.0,-512.0,128.0,512.0,128.0,512.0,-128.0,">
+          <texturedPoly hull="!-1,-471.0,117.75,-471.0,-117.75,471.0,-117.75,471.0,117.75,">
             <texture>
               <image path="images/whispy_cloud.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-512.0" y="-128.0" />
+              <xform scale="0.9199219" rotate="0.0" flipX="false" flipY="true">
+                <translate x="-471.0" y="117.75" />
               </xform>
             </texture>
           </texturedPoly>
         </geometry>
         <geometry layer="1" x="1474" y="819" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-512.0,-128.0,-512.0,128.0,512.0,128.0,512.0,-128.0,">
+          <texturedPoly hull="!-1,-436.0,-109.0,-436.0,109.0,436.0,109.0,436.0,-109.0,">
             <texture>
               <image path="images/whispy_cloud.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-512.0" y="-128.0" />
+              <xform scale="0.8515625" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-436.0" y="-109.0" />
               </xform>
             </texture>
           </texturedPoly>
         </geometry>
         <geometry layer="1" x="1464" y="219" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-512.0,-128.0,-512.0,128.0,512.0,128.0,512.0,-128.0,">
+          <texturedPoly hull="!-1,450.0,-112.5,450.0,112.5,-450.0,112.5,-450.0,-112.5,">
             <texture>
               <image path="images/whispy_cloud.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-512.0" y="-128.0" />
+              <xform scale="0.87890625" rotate="0.0" flipX="true" flipY="false">
+                <translate x="450.0" y="-112.5" />
               </xform>
             </texture>
           </texturedPoly>
@@ -1530,61 +1530,61 @@
       <bounds minX="0" minY="0" maxX="3400" maxY="1700" />
       <geometry>
         <geometry layer="1" x="1813" y="1806" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-512.0,-128.0,-512.0,128.0,512.0,128.0,512.0,-128.0,">
+          <texturedPoly hull="!-1,-461.0,115.25,-461.0,-115.25,461.0,-115.25,461.0,115.25,">
             <texture>
               <image path="images/whispy_cloud.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-512.0" y="-128.0" />
+              <xform scale="0.9003906" rotate="0.0" flipX="false" flipY="true">
+                <translate x="-461.0" y="115.25" />
               </xform>
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="3018" y="1371" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-512.0,-128.0,-512.0,128.0,512.0,128.0,512.0,-128.0,">
+        <geometry layer="1" x="3174" y="1411" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,748.0,187.0,748.0,-187.0,-748.0,-187.0,-748.0,187.0,">
             <texture>
               <image path="images/whispy_cloud.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-512.0" y="-128.0" />
+              <xform scale="1.4609375" rotate="0.0" flipX="true" flipY="true">
+                <translate x="748.0" y="187.0" />
               </xform>
             </texture>
           </texturedPoly>
         </geometry>
         <geometry layer="1" x="658" y="1791" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-512.0,-128.0,-512.0,128.0,512.0,128.0,512.0,-128.0,">
+          <texturedPoly hull="!-1,-604.0,-151.0,-604.0,151.0,604.0,151.0,604.0,-151.0,">
             <texture>
               <image path="images/whispy_cloud.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-512.0" y="-128.0" />
+              <xform scale="1.1796875" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-604.0" y="-151.0" />
               </xform>
             </texture>
           </texturedPoly>
         </geometry>
         <geometry layer="1" x="893" y="891" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-512.0,-128.0,-512.0,128.0,512.0,128.0,512.0,-128.0,">
+          <texturedPoly hull="!-1,-668.0,-167.0,-668.0,167.0,668.0,167.0,668.0,-167.0,">
             <texture>
               <image path="images/whispy_cloud.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-512.0" y="-128.0" />
+              <xform scale="1.3046875" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-668.0" y="-167.0" />
               </xform>
             </texture>
           </texturedPoly>
         </geometry>
         <geometry layer="1" x="2563" y="311" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-512.0,-128.0,-512.0,128.0,512.0,128.0,512.0,-128.0,">
+          <texturedPoly hull="!-1,772.0,193.0,772.0,-193.0,-772.0,-193.0,-772.0,193.0,">
             <texture>
               <image path="images/whispy_cloud.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-512.0" y="-128.0" />
+              <xform scale="1.5078125" rotate="0.0" flipX="true" flipY="true">
+                <translate x="772.0" y="193.0" />
               </xform>
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="1838" y="1201" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-512.0,-128.0,-512.0,128.0,512.0,128.0,512.0,-128.0,">
+        <geometry layer="1" x="1810" y="1217" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,468.0,-117.0,468.0,117.0,-468.0,117.0,-468.0,-117.0,">
             <texture>
               <image path="images/whispy_cloud.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-512.0" y="-128.0" />
+              <xform scale="0.9140625" rotate="0.0" flipX="true" flipY="false">
+                <translate x="468.0" y="-117.0" />
               </xform>
             </texture>
           </texturedPoly>
