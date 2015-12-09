@@ -1,0 +1,33 @@
+#ball_race_gauntlet alti+ map settings
+
+#Basic settings:
+/set intro Make multiple passes through the guantlet
+/set spawnMode died
+/set cameraScale 90
+/set planeScale 80
+
+#Checkpoints:
+/add powerup blue * 4005,707
+/add powerup blue * 4005,677
+/add powerup blue * 4035,707
+/add powerup blue * 4035,677
+/add powerup blue * 4065,707
+/add powerup blue * 4065,677
+
+/add powerup orange * 4005,195
+/add powerup orange * 4005,165
+/add powerup orange * 4035,195
+/add powerup orange * 4035,165
+/add powerup orange * 4065,195
+/add powerup orange * 4065,165
+
+
+#Portals:
+/add portal orange 3810,602 90,301,ne
+/add portal orange 3840,602 90,301,ne
+/add portal orange 3870,602 90,301,ne
+
+/add portal blue 3810,90 90,813,ne
+/add portal blue 3840,90 90,813,ne
+/add portal blue 3870,90 90,813,ne
+
