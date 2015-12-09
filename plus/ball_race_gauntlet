@@ -6,20 +6,35 @@
 /set cameraScale 90
 /set planeScale 80
 
-#Checkpoints:
-/add powerup blue * 4005,707
-/add powerup blue * 4005,677
-/add powerup blue * 4035,707
-/add powerup blue * 4035,677
-/add powerup blue * 4065,707
-/add powerup blue * 4065,677
+#Orange Checkpoints:
+/add powerup 1:blue orange 4005,707
+/add powerup 1:blue orange 4005,677
+/add powerup 1:blue orange 4035,707
+/add powerup 1:blue orange 4035,677
+/add powerup 1:blue orange 4065,707
+/add powerup 1:blue orange 4065,677
 
-/add powerup orange * 4005,195
-/add powerup orange * 4005,165
-/add powerup orange * 4035,195
-/add powerup orange * 4035,165
-/add powerup orange * 4065,195
-/add powerup orange * 4065,165
+/add powerup 2:orange orange 4005,195
+/add powerup 2:orange orange 4005,165
+/add powerup 2:orange orange 4035,195
+/add powerup 2:orange orange 4035,165
+/add powerup 2:orange orange 4065,195
+/add powerup 2:orange orange 4065,165
+
+#Blue Checkpoints:
+/add powerup 2:blue blue 4005,707
+/add powerup 2:blue blue 4005,677
+/add powerup 2:blue blue 4035,707
+/add powerup 2:blue blue 4035,677
+/add powerup 2:blue blue 4065,707
+/add powerup 2:blue blue 4065,677
+
+/add powerup 1:orange blue 4005,195
+/add powerup 1:orange blue 4005,165
+/add powerup 1:orange blue 4035,195
+/add powerup 1:orange blue 4035,165
+/add powerup 1:orange blue 4065,195
+/add powerup 1:orange blue 4065,165
 
 
 #Portals:
