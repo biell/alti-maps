@@ -14,12 +14,12 @@
 /add powerup 1:blue orange 4065,707
 /add powerup 1:blue orange 4065,677
 
-/add powerup 2:orange orange 4005,195
-/add powerup 2:orange orange 4005,165
-/add powerup 2:orange orange 4035,195
-/add powerup 2:orange orange 4035,165
-/add powerup 2:orange orange 4065,195
-/add powerup 2:orange orange 4065,165
+/add powerup 2:orange orange 4005,317
+/add powerup 2:orange orange 4005,347
+/add powerup 2:orange orange 4035,317
+/add powerup 2:orange orange 4035,347
+/add powerup 2:orange orange 4065,317
+/add powerup 2:orange orange 4065,347
 
 #Blue Checkpoints:
 /add powerup 2:blue blue 4005,707
@@ -29,20 +29,20 @@
 /add powerup 2:blue blue 4065,707
 /add powerup 2:blue blue 4065,677
 
-/add powerup 1:orange blue 4005,195
-/add powerup 1:orange blue 4005,165
-/add powerup 1:orange blue 4035,195
-/add powerup 1:orange blue 4035,165
-/add powerup 1:orange blue 4065,195
-/add powerup 1:orange blue 4065,165
+/add powerup 1:orange blue 4005,317
+/add powerup 1:orange blue 4005,347
+/add powerup 1:orange blue 4035,317
+/add powerup 1:orange blue 4035,347
+/add powerup 1:orange blue 4065,317
+/add powerup 1:orange blue 4065,347
 
 
 #Portals:
-/add portal orange 3841,631 90,301,ne
-/add portal orange 3841,573 90,301,ne
-/add portal orange 3870,602 90,301,ne
+/add portal orange 3841,573 90,301,se
+/add portal orange 3841,631 90,301,se
+/add portal orange 3870,602 90,301,se
 
-/add portal blue 3811,62 90,813,ne
-/add portal blue 3841,119 90,813,ne
-/add portal blue 3870,90 90,813,ne
+/add portal blue 3841,393 90,813,ne
+/add portal blue 3841,451 90,813,ne
+/add portal blue 3870,422 90,813,ne
 
