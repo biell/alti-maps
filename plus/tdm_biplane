@@ -1,8 +1,8 @@
 #tdm_biplane alti+ map settings
 
 #Basic settings:
-/set intro A long time ago, in a childhood where biell did play ...
+/set intro A long time ago, biell had a favorite game
 /set planes Biplane
-/set spawnHealth 125
-/set planeScale 75
+/set spawnHealth 85
+/set planeScale 70
 

@@ -235,7 +235,7 @@
       <Hoop />
       <objectiveDescriptor />
       <powerupSpawner>
-        <powerupSpawner layer="3" x="640" y="235" orientation="0.0" spawnTime="15.0" neverFade="false" spawnAtRoundStart="false">
+        <powerupSpawner layer="3" x="640" y="235" orientation="0.0" spawnTime="25.0" neverFade="false" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Homing Missile" />
@@ -243,13 +243,13 @@
             <String value="Shield" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="3" x="434" y="46" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="3" x="434" y="46" orientation="0.0" spawnTime="15.0" neverFade="true" spawnAtRoundStart="false">
           <team index="3" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="3" x="846" y="46" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="3" x="846" y="46" orientation="0.0" spawnTime="15.0" neverFade="true" spawnAtRoundStart="false">
           <team index="5" />
           <selectedPowerups>
             <String value="Health" />
