@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Level backgroundColor="-6250241" nameTextColor="-16777216" useBlackSmokeForPlaneDamage="true" backgroundClearRequired="true">
+  <levelModeConfig objectiveGameTimeSeconds="120" />
+  <views>
+    <View name="Background" size="2048,1536">
+      <bounds minX="0" minY="0" maxX="2048" maxY="1536" />
+      <geometry>
+        <geometry layer="1" x="0" y="1536" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-4022943,0.0,0.0,0.0,-1536.0,2048.0,-1536.0,2048.0,0.0,">
+            <texture>
+              <image path="textures/Wood.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="-1536.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+      </geometry>
+      <spawnPoints />
+      <Base />
+      <Turret />
+      <Hoop />
+      <objectiveDescriptor />
+      <powerupSpawner />
+      <Goal />
+    </View>
+    <View name="Game" size="2048,1536">
+      <bounds minX="0" minY="0" maxX="2048" maxY="1536" />
+      <geometry>
+        <geometry layer="4" x="-96" y="0" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!16777215,0.0,0.0,96.0,96.0,96.0,1440.0,0.0,1536.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="12.0" y="12.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="2144" y="0" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!16777215,0.0,0.0,-96.0,96.0,-96.0,1440.0,0.0,1536.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="-12.0" y="12.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="3" x="960" y="22" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1711341568,0.0,0.0,128.0,0.0,128.0,1492.0,0.0,1492.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-994.0" y="-22.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="3" x="-96" y="0" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,96.0,96.0,1056.0,96.0,1056.0,22.0,1184.0,22.0,1184.0,96.0,2144.0,96.0,2240.0,0.0,">
+            <texture>
+              <image path="textures/Wood.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="3" x="-96" y="1536" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,96.0,-96.0,1056.0,-96.0,1056.0,-22.0,1184.0,-22.0,1184.0,-96.0,2144.0,-96.0,2240.0,0.0,">
+            <texture>
+              <image path="textures/Wood.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="true">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1024" y="1472" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-52.0,6.0,52.0,6.0,52.0,-6.0,-52.0,-6.0,">
+            <texture>
+              <image path="images/MangoL3.png" />
+              <xform scale="0.5" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-52.0" y="-6.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+      </geometry>
+      <spawnPoints>
+        <spawnPoints layer="1" x="121" y="768" orientation="0.0">
+          <team index="3" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="121" y="668" orientation="0.0">
+          <team index="3" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="121" y="868" orientation="0.0">
+          <team index="3" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="121" y="968" orientation="0.0">
+          <team index="3" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="121" y="1068" orientation="0.0">
+          <team index="3" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="121" y="568" orientation="0.0">
+          <team index="3" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="121" y="468" orientation="0.0">
+          <team index="3" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="1930" y="968" orientation="-180.0">
+          <team index="4" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="1930" y="1068" orientation="-180.0">
+          <team index="4" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="1930" y="768" orientation="-180.0">
+          <team index="4" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="1930" y="468" orientation="-180.0">
+          <team index="4" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="1930" y="568" orientation="-180.0">
+          <team index="4" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="1930" y="868" orientation="-180.0">
+          <team index="4" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="1930" y="668" orientation="-180.0">
+          <team index="4" />
+        </spawnPoints>
+      </spawnPoints>
+      <Base />
+      <Turret>
+        <Turret layer="1" turnLeft="3.0" turnRight="1.0" maxDistance="2000.0" x="994" y="1517" health="99999" gunCooldownSeconds="0.05" bulletSpeed="90.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="10">
+          <team index="6" />
+          <transformation scale="0.47191012" rotate="0.0" flipX="false" flipY="true">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="1" turnLeft="4.0" turnRight="0.0" maxDistance="2000.0" x="964" y="1517" health="99999" gunCooldownSeconds="0.05" bulletSpeed="90.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="10">
+          <team index="6" />
+          <transformation scale="0.47191012" rotate="0.0" flipX="false" flipY="true">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="1" turnLeft="2.0" turnRight="2.0" maxDistance="2000.0" x="1024" y="1517" health="99999" gunCooldownSeconds="0.05" bulletSpeed="90.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="10">
+          <team index="6" />
+          <transformation scale="0.47191012" rotate="0.0" flipX="true" flipY="true">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="1" turnLeft="0.0" turnRight="4.0" maxDistance="2000.0" x="1084" y="1517" health="99999" gunCooldownSeconds="0.05" bulletSpeed="90.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="10">
+          <team index="6" />
+          <transformation scale="0.47191012" rotate="0.0" flipX="true" flipY="true">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="1" turnLeft="1.0" turnRight="3.0" maxDistance="2000.0" x="1054" y="1517" health="99999" gunCooldownSeconds="0.05" bulletSpeed="90.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="10">
+          <team index="6" />
+          <transformation scale="0.47191012" rotate="0.0" flipX="false" flipY="true">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="2" turnLeft="55.0" turnRight="0.0" maxDistance="2000.0" x="981" y="1517" health="99999" gunCooldownSeconds="0.05" bulletSpeed="90.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="10">
+          <team index="4" />
+          <transformation scale="0.47191012" rotate="0.0" flipX="false" flipY="true">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="2" turnLeft="45.0" turnRight="2.0" maxDistance="2000.0" x="1009" y="1517" health="99999" gunCooldownSeconds="0.05" bulletSpeed="90.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="10">
+          <team index="4" />
+          <transformation scale="0.47191012" rotate="0.0" flipX="false" flipY="true">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="2" turnLeft="2.0" turnRight="45.0" maxDistance="2000.0" x="1039" y="1517" health="99999" gunCooldownSeconds="0.05" bulletSpeed="90.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="10">
+          <team index="3" />
+          <transformation scale="0.47191012" rotate="0.0" flipX="false" flipY="true">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="2" turnLeft="0.0" turnRight="55.0" maxDistance="2000.0" x="1067" y="1517" health="99999" gunCooldownSeconds="0.05" bulletSpeed="90.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="10">
+          <team index="3" />
+          <transformation scale="0.47191012" rotate="0.0" flipX="false" flipY="true">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="1" turnLeft="3.0" turnRight="1.0" maxDistance="2000.0" x="1054" y="19" health="99999" gunCooldownSeconds="0.05" bulletSpeed="90.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="10">
+          <team index="6" />
+          <transformation scale="0.47191012" rotate="0.0" flipX="true" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="1" turnLeft="2.0" turnRight="2.0" maxDistance="2000.0" x="1024" y="19" health="99999" gunCooldownSeconds="0.05" bulletSpeed="90.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="10">
+          <team index="6" />
+          <transformation scale="0.47191012" rotate="0.0" flipX="false" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="1" turnLeft="1.0" turnRight="3.0" maxDistance="2000.0" x="994" y="19" health="99999" gunCooldownSeconds="0.05" bulletSpeed="90.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="10">
+          <team index="6" />
+          <transformation scale="0.47191012" rotate="0.0" flipX="true" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="1" turnLeft="4.0" turnRight="0.0" maxDistance="2000.0" x="1084" y="19" health="99999" gunCooldownSeconds="0.05" bulletSpeed="90.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="10">
+          <team index="6" />
+          <transformation scale="0.47191012" rotate="0.0" flipX="true" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="1" turnLeft="0.0" turnRight="4.0" maxDistance="2000.0" x="964" y="19" health="99999" gunCooldownSeconds="0.05" bulletSpeed="90.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="10">
+          <team index="6" />
+          <transformation scale="0.47191012" rotate="0.0" flipX="false" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="2" turnLeft="0.0" turnRight="55.0" maxDistance="2000.0" x="981" y="19" health="99999" gunCooldownSeconds="0.05" bulletSpeed="90.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="10">
+          <team index="4" />
+          <transformation scale="0.47191012" rotate="0.0" flipX="true" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="2" turnLeft="2.0" turnRight="45.0" maxDistance="2000.0" x="1009" y="19" health="99999" gunCooldownSeconds="0.05" bulletSpeed="90.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="10">
+          <team index="4" />
+          <transformation scale="0.47191012" rotate="0.0" flipX="true" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="2" turnLeft="45.0" turnRight="2.0" maxDistance="2000.0" x="1039" y="19" health="99999" gunCooldownSeconds="0.05" bulletSpeed="90.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="10">
+          <team index="3" />
+          <transformation scale="0.47191012" rotate="0.0" flipX="true" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="2" turnLeft="55.0" turnRight="0.0" maxDistance="2000.0" x="1067" y="19" health="99999" gunCooldownSeconds="0.05" bulletSpeed="90.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="10">
+          <team index="3" />
+          <transformation scale="0.47191012" rotate="0.0" flipX="true" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+      </Turret>
+      <Hoop />
+      <objectiveDescriptor />
+      <powerupSpawner>
+        <powerupSpawner layer="1" x="38" y="768" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="3" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="2010" y="768" orientation="0.0" spawnTime="60.0" neverFade="false" spawnAtRoundStart="false">
+          <team index="4" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="4" x="1024" y="-21" orientation="0.0" spawnTime="9999.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Demolition Charge" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="2010" y="768" orientation="0.0" spawnTime="15.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="4" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="38" y="768" orientation="0.0" spawnTime="60.0" neverFade="false" spawnAtRoundStart="false">
+          <team index="3" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="740" y="768" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="860" y="768" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="860" y="868" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="860" y="1068" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="860" y="968" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="860" y="1368" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="860" y="1268" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="860" y="1168" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="740" y="918" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="740" y="1218" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="740" y="1068" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="740" y="1368" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="740" y="468" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="860" y="368" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="860" y="568" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="740" y="168" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="860" y="668" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="860" y="468" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="860" y="268" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="860" y="168" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="740" y="618" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="740" y="318" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1308" y="1068" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1188" y="768" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1188" y="1168" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1188" y="968" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1188" y="168" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1308" y="468" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1188" y="668" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1308" y="1368" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1308" y="768" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1188" y="468" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1188" y="868" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1308" y="318" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1188" y="1068" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1188" y="1268" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1188" y="1368" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1308" y="918" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1308" y="1218" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1308" y="618" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1188" y="268" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1188" y="568" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1188" y="368" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="5" x="1308" y="168" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+      </powerupSpawner>
+      <Goal />
+    </View>
+    <View name="Foreground" size="2048,1536">
+      <bounds minX="0" minY="0" maxX="2048" maxY="1536" />
+      <geometry>
+        <geometry layer="1" x="960" y="22" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,128.0,0.0,128.0,74.0,0.0,74.0,">
+            <texture>
+              <image path="textures/Wood.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="true">
+                <translate x="-32.0" y="-22.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="960" y="1514" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,128.0,0.0,128.0,-74.0,0.0,-74.0,">
+            <texture>
+              <image path="textures/Wood.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-32.0" y="22.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+      </geometry>
+      <spawnPoints />
+      <Base />
+      <Turret />
+      <Hoop />
+      <objectiveDescriptor />
+      <powerupSpawner />
+      <Goal />
+    </View>
+  </views>
+</Level>
+

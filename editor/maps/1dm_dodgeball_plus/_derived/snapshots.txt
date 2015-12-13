@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_dodgeball_plus\1dm_dodgeball_plus.alte" lastModified="1450048735400" length="152508" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_dodgeball_plus\_config\image-descriptors.txt" lastModified="1450048735487" length="503" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_dodgeball_plus\images\MangoL3.png" lastModified="1450048735390" length="5507" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_dodgeball_plus\textures\Wood.png" lastModified="1450048735390" length="175853" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_dodgeball_plus\textures\letters.png" lastModified="1450048735390" length="964" />
+  </snapshots>
+</snapshots.txt>
+
