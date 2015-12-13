@@ -1,0 +1,8 @@
+#1dm_dodgeball_plus alti+ map settings
+
+#Basic settings:
+/set intro Eliminate all members of the opposing team and do not cross the red line
+/set spawnHealth 40
+/set gravity 3
+/set weapons 3
+
