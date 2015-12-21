@@ -505,19 +505,7 @@
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="2445" y="317" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="false">
-          <team index="2" />
-          <selectedPowerups>
-            <String value="Health" />
-          </selectedPowerups>
-        </powerupSpawner>
-        <powerupSpawner layer="1" x="1485" y="437" orientation="0.0" spawnTime="1.0" neverFade="true" spawnAtRoundStart="false">
-          <team index="2" />
-          <selectedPowerups>
-            <String value="Health" />
-          </selectedPowerups>
-        </powerupSpawner>
-        <powerupSpawner layer="1" x="1485" y="587" orientation="0.0" spawnTime="1.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="1485" y="450" orientation="0.0" spawnTime="1.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
@@ -542,6 +530,42 @@
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="3841" y="389" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="1485" y="420" orientation="0.0" spawnTime="1.0" neverFade="true" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="2445" y="676" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="1485" y="604" orientation="0.0" spawnTime="1.0" neverFade="true" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="1485" y="574" orientation="0.0" spawnTime="1.0" neverFade="true" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="2445" y="348" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="2445" y="317" orientation="0.0" spawnTime="0.01" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
