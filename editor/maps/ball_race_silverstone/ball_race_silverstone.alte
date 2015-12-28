@@ -458,7 +458,7 @@
       <Goal />
     </View>
     <View name="Dot" size="6,6">
-      <bounds minX="847" minY="8" maxX="5226" maxY="2838" />
+      <bounds minX="844" minY="8" maxX="5226" maxY="2841" />
       <geometry>
         <geometry layer="1" x="3" y="3" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-65538,-2.0,-2.0,-3.0,0.0,-2.0,2.0,0.0,3.0,2.0,2.0,3.0,0.0,2.0,-2.0,0.0,-3.0,">
