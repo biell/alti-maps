@@ -1,7 +1,7 @@
 #ball_race_silverstone alti+ map settings
 
 #Basic settings:
-/set intro 3 Laps at the Home of British Motor Racing
+/set intro The Home of British Motor Racing
 /set spawnMode died
 /set spawnHealth 400
 /set weapons 3
