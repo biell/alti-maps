@@ -427,7 +427,7 @@
       </Goal>
     </View>
     <View name="Minimap" size="200,120">
-      <bounds minX="824" minY="0" maxX="5242" maxY="2825" />
+      <bounds minX="829" minY="0" maxX="5242" maxY="2845" />
       <geometry>
         <geometry layer="2" x="100" y="60" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-83.0,-50.0,-83.0,50.0,84.0,50.0,84.0,-50.0,">
@@ -458,7 +458,7 @@
       <Goal />
     </View>
     <View name="Dot" size="6,6">
-      <bounds minX="844" minY="8" maxX="5224" maxY="2822" />
+      <bounds minX="845" minY="8" maxX="5226" maxY="2841" />
       <geometry>
         <geometry layer="1" x="3" y="3" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-65538,-2.0,-2.0,-3.0,0.0,-2.0,2.0,0.0,3.0,2.0,2.0,3.0,0.0,2.0,-2.0,0.0,-3.0,">
