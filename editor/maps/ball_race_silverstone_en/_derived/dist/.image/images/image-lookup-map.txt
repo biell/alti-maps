@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="race_barrier.png" value="p6" />
+    <entry key="silverstone-0-0.png" value="p0" />
+    <entry key="silverstone-0-1.png" value="p1" />
+    <entry key="silverstone-1-0.png" value="p2" />
+    <entry key="silverstone-1-1.png" value="p3" />
+    <entry key="silverstone-2-0.png" value="p4" />
+    <entry key="silverstone-2-1.png" value="p5" />
+    <entry key="silverstone-track.png" value="p6" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+
