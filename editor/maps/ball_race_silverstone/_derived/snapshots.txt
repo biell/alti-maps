@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_silverstone\_config\image-descriptors.txt" lastModified="1448458496216" length="1183" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_silverstone\ball_race_silverstone.alte" lastModified="1448458487962" length="39249" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_silverstone\_config\image-descriptors.txt" lastModified="1451261379347" length="1183" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_silverstone\ball_race_silverstone.alte" lastModified="1448501195749" length="39250" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_silverstone\images\race_barrier.png" lastModified="1448292444841" length="2591" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_silverstone\images\silverstone-0-0.png" lastModified="1448422981635" length="144914" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_silverstone\images\silverstone-0-1.png" lastModified="1448422981965" length="139330" />
