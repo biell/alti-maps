@@ -26,7 +26,7 @@
     <View name="Game" size="640,360">
       <bounds minX="0" minY="0" maxX="640" maxY="360" />
       <geometry>
-        <geometry layer="3" x="160" y="64" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="3" x="160" y="64" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
           <texturedPoly hull="!-1,-38.19348,10.826498,-40.599373,10.225027,-44.50894,7.8191376,-47.21556,2.4058886,-47.516296,-2.1051526,-46.313354,-5.413249,-43.305992,-8.721346,-40.599373,-9.92429,-37.892746,-10.525763,37.892746,-10.826498,42.10305,-9.623554,45.711884,-6.616194,47.21556,-3.0073607,47.817036,1.8044164,46.01262,6.3154573,43.606728,8.721346,38.19348,10.826498,">
             <texture>
               <image path="images/wall2.png" />
@@ -36,7 +36,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="3" x="47" y="198" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="3" x="47" y="198" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
           <texturedPoly hull="!-1,-10.826496,38.19348,-10.225025,40.599373,-7.8191357,44.50894,-2.4058864,47.21556,2.1051548,47.516296,5.413251,46.313354,8.721348,43.305992,9.924292,40.599373,10.525764,37.892746,10.826496,-37.892746,9.623552,-42.10305,6.616192,-45.711884,3.0073586,-47.21556,-1.8044186,-47.817036,-6.3154593,-46.01262,-8.721348,-43.606728,-10.8265,-38.19348,">
             <texture>
               <image path="images/wall2.png" />
@@ -46,17 +46,17 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="3" x="593" y="198" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,10.826496,38.19348,10.225025,40.599373,7.8191357,44.50894,2.4058864,47.21556,-2.1051548,47.516296,-5.413251,46.313354,-8.721348,43.305992,-9.924292,40.599373,-10.525764,37.892746,-10.826496,-37.892746,-9.623552,-42.10305,-6.616192,-45.711884,-3.0073586,-47.21556,1.8044186,-47.817036,6.3154593,-46.01262,8.721348,-43.606728,10.8265,-38.19348,">
+        <geometry layer="3" x="593" y="198" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
+          <texturedPoly hull="!-1,-10.826496,38.19348,-10.225025,40.599373,-7.8191357,44.50894,-2.4058864,47.21556,2.1051548,47.516296,5.413251,46.313354,8.721348,43.305992,9.924292,40.599373,10.525764,37.892746,10.826496,-37.892746,9.623552,-42.10305,6.616192,-45.711884,3.0073586,-47.21556,-1.8044186,-47.817036,-6.3154593,-46.01262,-8.721348,-43.606728,-10.8265,-38.19348,">
             <texture>
               <image path="images/wall2.png" />
-              <xform scale="0.30073607" rotate="90.0" flipX="true" flipY="true">
-                <translate x="-12.330181" y="49.01998" />
+              <xform scale="0.30073607" rotate="90.0" flipX="false" flipY="true">
+                <translate x="12.330181" y="49.01998" />
               </xform>
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="3" x="275" y="225" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="3" x="275" y="225" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
           <texturedPoly hull="!-1,-34.662357,-19.35138,-35.93828,-21.477905,-37.00154,-25.94361,-35.087666,-31.685225,-32.110527,-35.08766,-28.92074,-36.57623,-24.455036,-36.788883,-21.69056,-35.725624,-19.35138,-34.237057,34.449707,19.13873,36.576233,22.966473,37.001537,27.644825,35.51297,31.259918,32.535835,35.08766,28.070133,37.001537,24.66769,37.001534,19.35138,34.662357,">
             <texture>
               <image path="images/wall2.png" />
@@ -66,7 +66,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="3" x="275" y="135" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="3" x="275" y="135" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
           <texturedPoly hull="!-1,-34.662357,19.35138,-35.93828,21.477905,-37.00154,25.94361,-35.087666,31.685225,-32.110527,35.08766,-28.92074,36.57623,-24.455036,36.788883,-21.69056,35.725624,-19.35138,34.237057,34.449707,-19.13873,36.576233,-22.966473,37.001537,-27.644825,35.51297,-31.259918,32.535835,-35.08766,28.070133,-37.001537,24.66769,-37.001534,19.35138,-34.662357,">
             <texture>
               <image path="images/wall2.png" />
@@ -76,7 +76,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="3" x="365" y="135" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="3" x="365" y="135" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
           <texturedPoly hull="!-1,34.662357,19.35138,35.93828,21.477905,37.00154,25.94361,35.087666,31.685225,32.110527,35.08766,28.92074,36.57623,24.455036,36.788883,21.69056,35.725624,19.35138,34.237057,-34.449707,-19.13873,-36.576233,-22.966473,-37.001537,-27.644825,-35.51297,-31.259918,-32.535835,-35.08766,-28.070133,-37.001537,-24.66769,-37.001534,-19.35138,-34.662357,">
             <texture>
               <image path="images/wall2.png" />
@@ -86,7 +86,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="3" x="365" y="225" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="3" x="365" y="225" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
           <texturedPoly hull="!-1,34.662357,-19.35138,35.93828,-21.477905,37.00154,-25.94361,35.087666,-31.685225,32.110527,-35.08766,28.92074,-36.57623,24.455036,-36.788883,21.69056,-35.725624,19.35138,-34.237057,-34.449707,19.13873,-36.576233,22.966473,-37.001537,27.644825,-35.51297,31.259918,-32.535835,35.08766,-28.070133,37.001537,-24.66769,37.001534,-19.35138,34.662357,">
             <texture>
               <image path="images/wall2.png" />
@@ -96,7 +96,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="3" x="160" y="296" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="3" x="160" y="296" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
           <texturedPoly hull="!-1,-38.19348,10.826498,-40.599373,10.225027,-44.50894,7.8191376,-47.21556,2.4058886,-47.516296,-2.1051526,-46.313354,-5.413249,-43.305992,-8.721346,-40.599373,-9.92429,-37.892746,-10.525763,37.892746,-10.826498,42.10305,-9.623554,45.711884,-6.616194,47.21556,-3.0073607,47.817036,1.8044164,46.01262,6.3154573,43.606728,8.721346,38.19348,10.826498,">
             <texture>
               <image path="images/wall2.png" />
@@ -106,7 +106,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="3" x="480" y="296" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="3" x="480" y="296" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
           <texturedPoly hull="!-1,38.19348,10.826498,40.599373,10.225027,44.50894,7.8191376,47.21556,2.4058886,47.516296,-2.1051526,46.313354,-5.413249,43.305992,-8.721346,40.599373,-9.92429,37.892746,-10.525763,-37.892746,-10.826498,-42.10305,-9.623554,-45.711884,-6.616194,-47.21556,-3.0073607,-47.817036,1.8044164,-46.01262,6.3154573,-43.606728,8.721346,-38.19348,10.826498,">
             <texture>
               <image path="images/wall2.png" />
@@ -116,7 +116,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="3" x="480" y="64" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="3" x="480" y="64" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
           <texturedPoly hull="!-1,38.19348,10.826498,40.599373,10.225027,44.50894,7.8191376,47.21556,2.4058886,47.516296,-2.1051526,46.313354,-5.413249,43.305992,-8.721346,40.599373,-9.92429,37.892746,-10.525763,-37.892746,-10.826498,-42.10305,-9.623554,-45.711884,-6.616194,-47.21556,-3.0073607,-47.817036,1.8044164,-46.01262,6.3154573,-43.606728,8.721346,-38.19348,10.826498,">
             <texture>
               <image path="images/wall2.png" />
@@ -126,7 +126,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="3" x="320" y="11" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="3" x="320" y="11" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
           <texturedPoly hull="!-1,-38.19348,10.826498,-40.599373,10.225027,-44.50894,7.8191376,-47.21556,2.4058886,-47.516296,-2.1051526,-46.313354,-5.413249,-43.305992,-8.721346,-40.599373,-9.92429,-37.892746,-10.525763,37.892746,-10.826498,42.10305,-9.623554,45.711884,-6.616194,47.21556,-3.0073607,47.817036,1.8044164,46.01262,6.3154573,43.606728,8.721346,38.19348,10.826498,">
             <texture>
               <image path="images/wall2.png" />
@@ -136,7 +136,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="3" x="320" y="348" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="3" x="320" y="348" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
           <texturedPoly hull="!-1,-38.19348,10.826498,-40.599373,10.225027,-44.50894,7.8191376,-47.21556,2.4058886,-47.516296,-2.1051526,-46.313354,-5.413249,-43.305992,-8.721346,-40.599373,-9.92429,-37.892746,-10.525763,37.892746,-10.826498,42.10305,-9.623554,45.711884,-6.616194,47.21556,-3.0073607,47.817036,1.8044164,46.01262,6.3154573,43.606728,8.721346,38.19348,10.826498,">
             <texture>
               <image path="images/wall2.png" />
@@ -166,22 +166,16 @@
         </geometry>
       </geometry>
       <spawnPoints>
-        <spawnPoints layer="1" x="96" y="190" orientation="0.0">
+        <spawnPoints layer="1" x="96" y="210" orientation="25.0">
           <team index="7" />
         </spawnPoints>
-        <spawnPoints layer="1" x="96" y="210" orientation="0.0">
+        <spawnPoints layer="1" x="96" y="170" orientation="-25.0">
           <team index="7" />
         </spawnPoints>
-        <spawnPoints layer="1" x="96" y="170" orientation="0.0">
-          <team index="7" />
-        </spawnPoints>
-        <spawnPoints layer="1" x="544" y="170" orientation="-180.0">
+        <spawnPoints layer="1" x="544" y="170" orientation="-155.0">
           <team index="4" />
         </spawnPoints>
-        <spawnPoints layer="1" x="544" y="210" orientation="-180.0">
-          <team index="4" />
-        </spawnPoints>
-        <spawnPoints layer="1" x="544" y="190" orientation="-180.0">
+        <spawnPoints layer="1" x="544" y="210" orientation="155.0">
           <team index="4" />
         </spawnPoints>
       </spawnPoints>
