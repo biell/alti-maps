@@ -1,0 +1,9 @@
+#tdm_crazyloopyfun alti+ map settings
+
+#Basic settings:
+/set intro Fly fast and destroy
+/set planes Loopy
+/set spawnHealth 120
+/set planeScale 40
+/set cameraScale 50
+
