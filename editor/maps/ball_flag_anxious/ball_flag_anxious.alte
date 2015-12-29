@@ -6,7 +6,7 @@
       <bounds minX="0" minY="0" maxX="2560" maxY="1024" />
       <geometry>
         <geometry layer="1" x="460" y="497" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-6697729,-640.0,-512.0,-640.0,512.0,640.0,512.0,640.0,-512.0,">
+          <texturedPoly hull="!-10027162,-640.0,-512.0,-640.0,512.0,640.0,512.0,640.0,-512.0,">
             <texture>
               <image path="images/background.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
@@ -16,7 +16,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="1" x="1740" y="497" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-6697729,-640.0,-512.0,-640.0,512.0,640.0,512.0,640.0,-512.0,">
+          <texturedPoly hull="!-10027162,-640.0,-512.0,-640.0,512.0,640.0,512.0,640.0,-512.0,">
             <texture>
               <image path="images/background.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
