@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\_config\image-descriptors.txt" lastModified="1446261487459" length="5008" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\ball_race_mayhem.alte" lastModified="1446222553636" length="111970" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\_config\image-descriptors.txt" lastModified="1451497881110" length="5129" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\ball_race_mayhem.alte" lastModified="1446263188109" length="111995" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\images\background4.png" lastModified="1445746174242" length="5920620" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\images\block1.png" lastModified="1445746174235" length="131983" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\images\block2.png" lastModified="1445746174249" length="86279" />
@@ -18,6 +18,7 @@
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\images\explosionbottom.png" lastModified="1445746174252" length="344306" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\images\explosionmiddle.png" lastModified="1445746174245" length="664797" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\images\explosiontop.png" lastModified="1445746174245" length="363528" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\images\logo.png" lastModified="1451497872503" length="2376" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\images\maimersign.png" lastModified="1445746174252" length="22217" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\images\middlebottom.png" lastModified="1445746174249" length="28180" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\images\middletop.png" lastModified="1445746174252" length="26018" />
