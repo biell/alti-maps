@@ -318,6 +318,16 @@
             </texture>
           </texturedPoly>
         </geometry>
+        <geometry layer="1" x="1530" y="3276" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-96.0,28.0,-112.0,24.0,-116.0,21.0,-118.0,16.0,-119.0,5.0,-116.0,-2.0,-111.0,-7.0,-87.0,-13.0,-58.0,-16.0,-11.0,-15.0,18.0,-24.0,63.0,-29.0,106.0,-28.0,114.0,-25.0,117.0,-22.0,120.0,-10.0,118.0,-4.0,113.0,1.0,93.0,5.0,82.0,5.0,81.0,15.0,79.0,19.0,76.0,23.0,70.0,26.0,63.0,28.0,-37.0,30.0,">
+            <texture>
+              <image path="images/logo.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-126.0" y="-31.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
       </geometry>
       <spawnPoints>
         <spawnPoints layer="1" x="3324" y="566" orientation="143.32565">
