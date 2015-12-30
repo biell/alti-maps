@@ -1475,6 +1475,26 @@
             </texture>
           </texturedPoly>
         </geometry>
+        <geometry layer="9" x="1440" y="50" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-39.86885,-38.0,-39.86885,38.0,39.86885,38.0,39.86885,-38.0,">
+            <texture>
+              <image path="logo1.png" />
+              <xform scale="0.6229508" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-39.86885" y="-38.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="1640" y="34" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-28.0,-23.692308,-28.0,24.410257,28.0,24.410257,28.0,-23.692308,">
+            <texture>
+              <image path="logo2.png" />
+              <xform scale="0.71794873" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-28.0" y="-23.692308" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
       </geometry>
       <spawnPoints />
       <Base />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_metal_spheres\_config\image-descriptors.txt" lastModified="1449626822179" length="911" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_metal_spheres\_config\image-descriptors.txt" lastModified="1451496040605" length="1141" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_metal_spheres\ball_flag_metal_spheres.alte" lastModified="1449336185126" length="149828" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_metal_spheres\images\across_sky_gradient.png" lastModified="1449109188540" length="74010" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_metal_spheres\images\blue_flag.png" lastModified="1449111617667" length="2640" />
@@ -9,6 +9,8 @@
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_metal_spheres\images\flying_sphere.png" lastModified="1449109172830" length="33448" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_metal_spheres\images\orange_flag.png" lastModified="1449111608914" length="2541" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_metal_spheres\images\whispy_cloud.png" lastModified="1449336137130" length="88476" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_metal_spheres\logo1.png" lastModified="1451495958108" length="2050" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_metal_spheres\logo2.png" lastModified="1451496033758" length="875" />
   </snapshots>
 </snapshots.txt>
 
