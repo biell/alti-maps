@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_gauntlet\_config\image-descriptors.txt" lastModified="1450043949155" length="378" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_gauntlet\ball_race_gauntlet.alte" lastModified="1449943345399" length="43711" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_gauntlet\_config\image-descriptors.txt" lastModified="1451495156772" length="499" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_gauntlet\ball_race_gauntlet.alte" lastModified="1450741240241" length="44807" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_gauntlet\images\hole.png" lastModified="1449635205815" length="10400" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_gauntlet\images\logo.png" lastModified="1451495143199" length="2148" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_gauntlet\images\partial_hole.png" lastModified="1449636019264" length="10296" />
   </snapshots>
 </snapshots.txt>

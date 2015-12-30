@@ -2,6 +2,7 @@
 <image-lookup-map.txt>
   <pack-path-by-image-path>
     <entry key="hole.png" value="p0" />
+    <entry key="logo.png" value="p0" />
     <entry key="partial_hole.png" value="p0" />
   </pack-path-by-image-path>
 </image-lookup-map.txt>
