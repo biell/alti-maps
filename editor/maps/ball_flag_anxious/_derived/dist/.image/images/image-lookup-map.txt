@@ -5,6 +5,7 @@
     <entry key="big_rectangle.png" value="p3" />
     <entry key="blue_flag.png" value="p2" />
     <entry key="half-circle.png" value="p2" />
+    <entry key="logo.png" value="p2" />
     <entry key="orange_flag.png" value="p2" />
     <entry key="plus.png" value="p2" />
     <entry key="small_rectangle.png" value="p4" />
