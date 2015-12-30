@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_metal_spheres\_config\image-descriptors.txt" lastModified="1451496040605" length="1141" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_metal_spheres\ball_flag_metal_spheres.alte" lastModified="1449336185126" length="149828" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_metal_spheres\_config\image-descriptors.txt" lastModified="1451496281951" length="1141" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_metal_spheres\ball_flag_metal_spheres.alte" lastModified="1451496238301" length="150902" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_metal_spheres\images\across_sky_gradient.png" lastModified="1449109188540" length="74010" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_metal_spheres\images\blue_flag.png" lastModified="1449111617667" length="2640" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_metal_spheres\images\down_sky_gradient.png" lastModified="1449109183093" length="41131" />
