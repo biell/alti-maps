@@ -164,6 +164,16 @@
             </texture>
           </texturedPoly>
         </geometry>
+        <geometry layer="9" x="489" y="22" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-1.2,3.6000001,-1.6,1.6,-4.0,0.4,-4.8,-3.2,-2.4,-3.6000001,-1.2,-2.8,-1.2,-3.6000001,1.2,0.0,2.0,0.0,0.8,-3.6000001,1.6,-3.6000001,3.6000001,0.0,4.0,-1.2,3.2,-3.6000001,4.8,1.2,4.0,1.2,2.8,-0.8,2.4,1.2,1.6,1.2,0.8,-0.4,0.8,1.2,0.0,1.2,-0.8,-2.4,-2.0,-2.4,-0.4,3.6000001,">
+            <texture>
+              <image path="images/logo.png" />
+              <xform scale="0.4" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-9.2" y="-13.6" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
       </geometry>
       <spawnPoints>
         <spawnPoints layer="1" x="147" y="308" orientation="25.0">

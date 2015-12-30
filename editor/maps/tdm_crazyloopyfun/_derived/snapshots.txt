@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_crazyloopyfun\_config\image-descriptors.txt" lastModified="1451369033717" length="250" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_crazyloopyfun\_config\image-descriptors.txt" lastModified="1451492116275" length="371" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_crazyloopyfun\images\logo.png" lastModified="1451492110895" length="4401" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_crazyloopyfun\images\wall2.png" lastModified="1451355749040" length="33624" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_crazyloopyfun\tdm_crazyloopyfun.alte" lastModified="1451367160872" length="13619" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_crazyloopyfun\tdm_crazyloopyfun.alte" lastModified="1451452426059" length="13620" />
   </snapshots>
 </snapshots.txt>
 
