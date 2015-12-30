@@ -6,7 +6,7 @@
       <bounds minX="0" minY="0" maxX="2560" maxY="1024" />
       <geometry>
         <geometry layer="1" x="460" y="497" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-10027162,-640.0,-512.0,-640.0,512.0,640.0,512.0,640.0,-512.0,">
+          <texturedPoly hull="!-13421569,-640.0,-512.0,-640.0,512.0,640.0,512.0,640.0,-512.0,">
             <texture>
               <image path="images/background.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
@@ -16,7 +16,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="1" x="1740" y="497" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-10027162,-640.0,-512.0,-640.0,512.0,640.0,512.0,640.0,-512.0,">
+          <texturedPoly hull="!-13421569,-640.0,-512.0,-640.0,512.0,640.0,512.0,640.0,-512.0,">
             <texture>
               <image path="images/background.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
@@ -599,13 +599,13 @@
           <team index="7" />
         </spawnPoints>
         <spawnPoints layer="1" x="2495" y="689" orientation="-180.0">
-          <team index="4" />
+          <team index="9" />
         </spawnPoints>
         <spawnPoints layer="1" x="2495" y="598" orientation="-180.0">
-          <team index="4" />
+          <team index="9" />
         </spawnPoints>
         <spawnPoints layer="1" x="2495" y="778" orientation="-180.0">
-          <team index="4" />
+          <team index="9" />
         </spawnPoints>
       </spawnPoints>
       <Base />
@@ -641,37 +641,37 @@
           </transformation>
         </Turret>
         <Turret layer="8" turnLeft="15.0" turnRight="90.0" maxDistance="450.0" x="1776" y="961" health="600" gunCooldownSeconds="0.4" bulletSpeed="19.0" bulletDirectDamage="25" bulletBlastDamage="30" bulletBlastRadius="120">
-          <team index="4" />
+          <team index="9" />
           <transformation scale="1.0" rotate="-91.12944" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
         <Turret layer="8" turnLeft="80.0" turnRight="80.0" maxDistance="600.0" x="1916" y="607" health="600" gunCooldownSeconds="0.5" bulletSpeed="17.0" bulletDirectDamage="15" bulletBlastDamage="30" bulletBlastRadius="120">
-          <team index="4" />
+          <team index="9" />
           <transformation scale="1.0" rotate="-91.12944" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
         <Turret layer="8" turnLeft="60.0" turnRight="40.0" maxDistance="500.0" x="2072" y="265" health="600" gunCooldownSeconds="0.5" bulletSpeed="17.0" bulletDirectDamage="15" bulletBlastDamage="30" bulletBlastRadius="120">
-          <team index="4" />
+          <team index="9" />
           <transformation scale="1.0" rotate="-1.2739465" flipX="true" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
         <Turret layer="8" turnLeft="45.0" turnRight="90.0" maxDistance="450.0" x="2015" y="826" health="600" gunCooldownSeconds="0.5" bulletSpeed="17.0" bulletDirectDamage="15" bulletBlastDamage="30" bulletBlastRadius="120">
-          <team index="4" />
+          <team index="9" />
           <transformation scale="1.0" rotate="-179.2666" flipX="true" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
         <Turret layer="8" turnLeft="55.0" turnRight="55.0" maxDistance="600.0" x="2455" y="108" health="600" gunCooldownSeconds="0.5" bulletSpeed="17.0" bulletDirectDamage="15" bulletBlastDamage="30" bulletBlastRadius="120">
-          <team index="4" />
+          <team index="9" />
           <transformation scale="1.0" rotate="-44.9848" flipX="true" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
         <Turret layer="8" turnLeft="55.0" turnRight="55.0" maxDistance="600.0" x="2455" y="916" health="600" gunCooldownSeconds="0.5" bulletSpeed="17.0" bulletDirectDamage="15" bulletBlastDamage="30" bulletBlastRadius="120">
-          <team index="4" />
+          <team index="9" />
           <transformation scale="1.0" rotate="-44.9848" flipX="true" flipY="true">
             <translate x="0.0" y="0.0" />
           </transformation>
@@ -693,7 +693,7 @@
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="2244" y="1126" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
-          <team index="4" />
+          <team index="9" />
           <selectedPowerups>
             <String value="Ball" />
           </selectedPowerups>
@@ -729,7 +729,7 @@
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="222" y="821" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
-          <team index="4" />
+          <team index="9" />
           <selectedPowerups>
             <String value="Shield" />
           </selectedPowerups>
@@ -741,7 +741,7 @@
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="2321" y="226" orientation="0.0" spawnTime="60.0" neverFade="true" spawnAtRoundStart="false">
-          <team index="4" />
+          <team index="9" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
@@ -761,7 +761,7 @@
           </transformation>
         </Goal>
         <Goal layer="1" x="2320" y="1126">
-          <team index="4" />
+          <team index="9" />
           <transformation scale="1.0" rotate="0.0" flipX="true" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
