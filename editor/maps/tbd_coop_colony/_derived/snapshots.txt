@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_colony\_config\image-descriptors.txt" lastModified="1451545391094" length="904" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_colony\_config\image-descriptors.txt" lastModified="1451546348342" length="904" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_colony\images\ant.png" lastModified="1445294091441" length="7297" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_colony\images\egg.png" lastModified="1445234719046" length="1226" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_colony\images\queen.png" lastModified="1445233524821" length="6687" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_colony\images\tbd_coop_colony_logo.png" lastModified="1445494947471" length="18519" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_colony\images\tbd_coop_colony_tree.png" lastModified="1445293723169" length="653724" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_colony\tbd_coop_colony.alte" lastModified="1451545143697" length="132479" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_colony\tbd_coop_colony.alte" lastModified="1451546020073" length="132446" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_colony\textures\tbd_coop_colony_tree.png" lastModified="1445297386529" length="173842" />
   </snapshots>
 </snapshots.txt>
