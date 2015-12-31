@@ -1,7 +1,7 @@
 #ball_race_demo_derby alti+ map settings
 
 #Basic settings:
-/set intro Demolition Derby, 3 laps
+/set intro Demolition Derby, try not to get shot down
 /set spawnMode health
 
 #Orange Checkpoints:

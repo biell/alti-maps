@@ -1,7 +1,7 @@
 #ball_race_eastern_creek alti+ map settings
 
 #Basic settings:
-/set intro 3 Laps based on the proposed Eastern Creek course
+/set intro The proposed Eastern Creek course
 /set spawnMode died
 /set spawnHealth 400
 /set weapons 3

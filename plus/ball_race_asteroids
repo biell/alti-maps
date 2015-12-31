@@ -1,7 +1,7 @@
 #ball_race_asteroids alti+ map settings
 
 #Basic settings:
-/set intro 2 laps through the asteroid field
+/set intro Race through an asteroid field
 /set weapons 3
 /set spawnMode died
 /set spawnHealth 400

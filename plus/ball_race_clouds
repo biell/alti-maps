@@ -1,7 +1,7 @@
 #ball_race_clouds alti+ map settings
 
 #Basic settings:
-/set intro A 3-lap race in the clouds
+/set intro A race amongst the clouds
 /set spawnMode died
 /set spawnHealth 400
 /set planeScale 80

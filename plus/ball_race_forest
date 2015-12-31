@@ -1,7 +1,7 @@
 #ball_race_forrest alti+ map settings
 
 #Basic settings:
-/set intro Race 2 laps through the forest
+/set intro Race through the forest
 /set weapons 3
 /set gravity 3
 /set spawnMode died
