@@ -1,0 +1,6 @@
+#ball_ruin_dombination alti+ map settings
+
+#Basic settings:
+/set intro *** OBJECTIVE: Destroy all enemy turrets first! ***
+/set weapons 1
+/set planes Biplane Bomber
