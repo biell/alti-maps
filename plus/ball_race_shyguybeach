@@ -1,0 +1,35 @@
+#ball_race_shyguybeach alti+ map settings
+
+#Basic settings:
+/set intro GBA Mario Kart track
+/set spawnMode died
+/set spawnHealth 400
+/set weapons 3
+/set planeScale 90
+
+#Checkpoints:
+/add powerup 1 * 43,822
+/add powerup 1 * 71,850
+/add powerup 1 * 71,794
+/add powerup 1 * 99,822
+
+/add powerup 2 * 1616,658
+/add powerup 2 * 1644,686
+/add powerup 2 * 1672,658
+/add powerup 2 * 1700,686
+/add powerup 2 * 1728,658
+/add powerup 2 * 1756,686
+/add powerup 2 * 1784,658
+/add powerup 2 * 1812,686
+/add powerup 2 * 1840,658
+
+#One-ways:
+/add oneway 1616,658 n
+/add oneway 1644,686 n
+/add oneway 1672,658 n
+/add oneway 1700,686 n
+/add oneway 1728,658 n
+/add oneway 1756,686 n
+/add oneway 1784,658 n
+/add oneway 1812,686 n
+/add oneway 1840,658 n

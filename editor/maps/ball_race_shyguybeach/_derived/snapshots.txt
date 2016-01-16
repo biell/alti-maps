@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_ShyGuyBeach\_config\image-descriptors.txt" lastModified="1452911544900" length="509" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_ShyGuyBeach\ball_race_ShyGuyBeach.alte" lastModified="1452911543817" length="61552" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_ShyGuyBeach\images\map.png" lastModified="1452911543794" length="3401324" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_ShyGuyBeach\textures\deep water.png" lastModified="1452911543794" length="787" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_ShyGuyBeach\textures\transparent.png" lastModified="1452911543794" length="74" />
+  </snapshots>
+</snapshots.txt>
+
