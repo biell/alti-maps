@@ -5,7 +5,7 @@
 /set spawnMode died
 /set spawnHealth 400
 /set weapons 3
-/set planeScale 90
+/set planeScale 100
 
 #Checkpoints:
 /add powerup 1 * 43,822
