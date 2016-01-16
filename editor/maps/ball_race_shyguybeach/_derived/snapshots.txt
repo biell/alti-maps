@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_shyguybeach\_config\image-descriptors.txt" lastModified="1452914545944" length="509" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_shyguybeach\ball_race_shyguybeach.alte" lastModified="1452913864078" length="66532" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_shyguybeach\_config\image-descriptors.txt" lastModified="1452914660840" length="509" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_shyguybeach\ball_race_shyguybeach.alte" lastModified="1452914592410" length="66532" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_shyguybeach\images\map.png" lastModified="1452911543794" length="3401324" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_shyguybeach\textures\deep water.png" lastModified="1452911543794" length="787" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_shyguybeach\textures\transparent.png" lastModified="1452911543794" length="74" />
