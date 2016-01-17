@@ -897,7 +897,7 @@
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="1" turnLeft="6.0" turnRight="5.0" maxDistance="65.0" x="2938" y="1748" health="400" gunCooldownSeconds="0.1" bulletSpeed="200.0" bulletDirectDamage="300" bulletBlastDamage="300" bulletBlastRadius="100">
+        <Turret layer="1" turnLeft="6.0" turnRight="5.0" maxDistance="650.0" x="2938" y="1748" health="400" gunCooldownSeconds="0.1" bulletSpeed="200.0" bulletDirectDamage="300" bulletBlastDamage="300" bulletBlastRadius="100">
           <team index="4" />
           <transformation scale="1.0666667" rotate="89.1186" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
