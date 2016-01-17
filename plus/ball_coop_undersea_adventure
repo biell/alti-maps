@@ -1,0 +1,5 @@
+#ball_coop_undersea_adventure alti+ map settings
+
+/set assignTeam left
+/set ballScore -1 0
+/set intro Make your way through the undersea tunnels and score a goal

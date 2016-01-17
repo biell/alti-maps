@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="Underwater-blender-0-0.jpg" value="p5" />
+    <entry key="Underwater-blender-0-1.jpg" value="p6" />
+    <entry key="Underwater-blender-1-0.jpg" value="p7" />
+    <entry key="Underwater-blender-1-1.jpg" value="p8" />
+    <entry key="bubbles.png" value="p0" />
+    <entry key="eel.png" value="p4" />
+    <entry key="hull.png" value="p1" />
+    <entry key="plant1.png" value="p2" />
+    <entry key="rock1.png" value="p4" />
+    <entry key="tube.png" value="p3" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

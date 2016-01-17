@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-descriptors.txt>
+  <descriptors>
+    <ImageDescriptor path="images/Underwater-blender-0-1.jpg" wrapMode="CLAMP" filter="LINEAR" internalFormat="DXT5" packQualifier="" />
+    <ImageDescriptor path="images/Underwater-blender-0-0.jpg" wrapMode="CLAMP" filter="LINEAR" internalFormat="DXT5" packQualifier="" />
+    <ImageDescriptor path="images/Underwater-blender-1-1.jpg" wrapMode="CLAMP" filter="LINEAR" internalFormat="DXT5" packQualifier="" />
+    <ImageDescriptor path="images/Underwater-blender-1-0.jpg" wrapMode="CLAMP" filter="LINEAR" internalFormat="DXT5" packQualifier="" />
+    <ImageDescriptor path="images/eel.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/plant1.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/hull.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/rock1.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/bubbles.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/tube.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+  </descriptors>
+</image-descriptors.txt>
+
