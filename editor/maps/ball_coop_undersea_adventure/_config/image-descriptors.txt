@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <image-descriptors.txt>
   <descriptors>
+    <ImageDescriptor path="images/logo.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
     <ImageDescriptor path="images/Underwater-blender-0-1.jpg" wrapMode="CLAMP" filter="LINEAR" internalFormat="DXT5" packQualifier="" />
     <ImageDescriptor path="images/Underwater-blender-0-0.jpg" wrapMode="CLAMP" filter="LINEAR" internalFormat="DXT5" packQualifier="" />
     <ImageDescriptor path="images/Underwater-blender-1-1.jpg" wrapMode="CLAMP" filter="LINEAR" internalFormat="DXT5" packQualifier="" />

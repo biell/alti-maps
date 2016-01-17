@@ -8,6 +8,7 @@
     <entry key="bubbles.png" value="p0" />
     <entry key="eel.png" value="p4" />
     <entry key="hull.png" value="p1" />
+    <entry key="logo.png" value="p4" />
     <entry key="plant1.png" value="p2" />
     <entry key="rock1.png" value="p4" />
     <entry key="tube.png" value="p3" />
