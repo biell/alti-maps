@@ -173,9 +173,6 @@
         <spawnPoints layer="1" x="224" y="3073" orientation="0.0">
           <team index="7" />
         </spawnPoints>
-        <spawnPoints layer="1" x="1708" y="596" orientation="0.0">
-          <team index="7" />
-        </spawnPoints>
       </spawnPoints>
       <Base />
       <Turret>
