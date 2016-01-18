@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\_config\image-descriptors.txt" lastModified="1453081084875" length="5155" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\ball_race_vanillalake.alte" lastModified="1453081083218" length="90074" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00000.png" lastModified="1453081083211" length="20448" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00001.png" lastModified="1453081083201" length="117582" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00002.png" lastModified="1453081083195" length="142376" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00003.png" lastModified="1453081083198" length="134509" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00004.png" lastModified="1453081083211" length="344624" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00005.png" lastModified="1453081083198" length="306" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00006.png" lastModified="1453081083198" length="85147" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00007.png" lastModified="1453081083201" length="154054" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00008.png" lastModified="1453081083201" length="110240" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00009.png" lastModified="1453081083201" length="86738" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00010.png" lastModified="1453081083198" length="177880" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00011.png" lastModified="1453081083198" length="306" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00012.png" lastModified="1453081083195" length="116820" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00013.png" lastModified="1453081083201" length="144335" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00014.png" lastModified="1453081083215" length="164508" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00015.png" lastModified="1453081083201" length="129328" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00016.png" lastModified="1453081083198" length="105884" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00017.png" lastModified="1453081083211" length="306" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00018.png" lastModified="1453081083195" length="110251" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00019.png" lastModified="1453081083211" length="173052" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00020.png" lastModified="1453081083195" length="81128" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00021.png" lastModified="1453081083198" length="100498" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00022.png" lastModified="1453081083198" length="157079" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00023.png" lastModified="1453081083198" length="306" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00024.png" lastModified="1453081083201" length="84520" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00025.png" lastModified="1453081083195" length="147271" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00026.png" lastModified="1453081083198" length="163021" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00027.png" lastModified="1453081083198" length="175092" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00028.png" lastModified="1453081083198" length="66766" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00029.png" lastModified="1453081083201" length="352" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00030.png" lastModified="1453081083201" length="668" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00031.png" lastModified="1453081083201" length="668" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00032.png" lastModified="1453081083201" length="1336" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00033.png" lastModified="1453081083198" length="5715" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00034.png" lastModified="1453081083195" length="680" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\images\import_png_vl\00035.png" lastModified="1453081083211" length="177" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_vanillalake\textures\transparent.png" lastModified="1453081083215" length="74" />
+  </snapshots>
+</snapshots.txt>
+

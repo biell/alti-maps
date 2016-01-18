@@ -1,0 +1,37 @@
+#ball_race_vanillalake alti+ map settings
+
+#Basic settings:
+/set intro Vanilla Lake Mario Kart track
+/set spawnMode died
+/set spawnHealth 400
+/set weapons 3
+
+#Checkpoints:
+/add powerup 1 * 2104,1740
+/add powerup 1 * 2132,1712
+/add powerup 1 * 2132,1768
+/add powerup 1 * 2160,1740
+
+/add powerup 2 * 315,1262
+/add powerup 2 * 371,1262
+/add powerup 2 * 427,1262
+/add powerup 2 * 483,1262
+/add powerup 2 * 539,1262
+/add powerup 2 * 343,1290
+/add powerup 2 * 399,1290
+/add powerup 2 * 455,1290
+/add powerup 2 * 511,1290
+/add powerup 2 * 567,1290
+
+#One-ways:
+/add oneway 315,1262 s
+/add oneway 371,1262 s
+/add oneway 427,1262 s
+/add oneway 483,1262 s
+/add oneway 539,1262 s
+/add oneway 343,1290 s
+/add oneway 399,1290 s
+/add oneway 455,1290 s
+/add oneway 511,1290 s
+/add oneway 567,1290 s
+
