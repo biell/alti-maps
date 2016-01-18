@@ -3,3 +3,6 @@
 /set assignTeam left
 /set ballScore -1 0
 /set intro Make your way through the undersea tunnels and score a goal
+/add note 3842,2752 Pass the ball to anoter player through the portal below
+/add note 3872,2752 Pass the ball to anoter player through the portal below
+/add note 3902,2752 Pass the ball to anoter player through the portal below
