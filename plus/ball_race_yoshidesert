@@ -1,0 +1,30 @@
+#ball_race_yoshidesert alti+ map settings
+#By Oyster
+
+#Basic settings:
+/set intro Yoshi Desert Mario Kart track
+/set spawnMode died
+/set spawnHealth 400
+/set weapons 3
+
+#Checkpoints:
+/add powerup 1 * 1259,1239
+/add powerup 1 * 1287,1267
+/add powerup 1 * 1287,1211
+/add powerup 1 * 1315,1239
+
+/add powerup 2 * 2226,1613
+/add powerup 2 * 2254,1585
+/add powerup 2 * 2282,1613
+/add powerup 2 * 2310,1585
+/add powerup 2 * 2338,1613
+/add powerup 2 * 2366,1585
+
+#One-ways:
+/add oneway 2226,1613 n
+/add oneway 2254,1585 n
+/add oneway 2282,1613 n
+/add oneway 2310,1585 n
+/add oneway 2338,1613 n
+/add oneway 2366,1585 n
+

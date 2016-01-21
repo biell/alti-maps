@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\_config\image-descriptors.txt" lastModified="1453340176536" length="5133" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\ball_race_yoshidesert.alte" lastModified="1453340174496" length="117131" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\block1.png" lastModified="1453340174416" length="2632" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\block2.png" lastModified="1453340174416" length="4571" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\block3.png" lastModified="1453340174416" length="1749" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00000.png" lastModified="1453340174432" length="487290" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00001.png" lastModified="1453340174429" length="535972" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00002.png" lastModified="1453340174419" length="554540" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00003.png" lastModified="1453340174422" length="497400" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00004.png" lastModified="1453340174432" length="505568" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00005.png" lastModified="1453340174419" length="285052" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00006.png" lastModified="1453340174422" length="510131" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00007.png" lastModified="1453340174429" length="550087" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00008.png" lastModified="1453340174429" length="541395" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00009.png" lastModified="1453340174432" length="516358" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00010.png" lastModified="1453340174422" length="503146" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00011.png" lastModified="1453340174426" length="276109" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00012.png" lastModified="1453340174416" length="477446" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00013.png" lastModified="1453340174426" length="481912" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00014.png" lastModified="1453340174432" length="511204" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00015.png" lastModified="1453340174426" length="547771" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00016.png" lastModified="1453340174422" length="524804" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00017.png" lastModified="1453340174432" length="260114" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00018.png" lastModified="1453340174419" length="509030" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00019.png" lastModified="1453340174432" length="526476" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00020.png" lastModified="1453340174416" length="468400" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00021.png" lastModified="1453340174426" length="487236" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00022.png" lastModified="1453340174419" length="585453" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00023.png" lastModified="1453340174426" length="284811" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00024.png" lastModified="1453340174429" length="377335" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00025.png" lastModified="1453340174419" length="412228" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00026.png" lastModified="1453340174426" length="424118" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00027.png" lastModified="1453340174422" length="407985" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00028.png" lastModified="1453340174422" length="449984" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\import_png_yoshi desert\00029.png" lastModified="1453340174429" length="225069" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\textures\brick.png" lastModified="1453340174436" length="931" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\textures\transparent.png" lastModified="1453340174436" length="74" />
+  </snapshots>
+</snapshots.txt>
+
