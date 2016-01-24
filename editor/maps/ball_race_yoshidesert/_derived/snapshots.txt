@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\_config\image-descriptors.txt" lastModified="1453340176536" length="5133" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\ball_race_yoshidesert.alte" lastModified="1453340174496" length="117131" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\_config\image-descriptors.txt" lastModified="1453567174822" length="5133" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\ball_race_yoshidesert.alte" lastModified="1453340612138" length="116291" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\block1.png" lastModified="1453340174416" length="2632" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\block2.png" lastModified="1453340174416" length="4571" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_yoshidesert\images\block3.png" lastModified="1453340174416" length="1749" />
