@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="bumper.png" value="p0" />
+    <entry key="felt.png" value="p1" />
+    <entry key="wood-texture.png" value="p2" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+
