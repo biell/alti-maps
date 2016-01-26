@@ -275,6 +275,16 @@
             </texture>
           </texturedPoly>
         </geometry>
+        <geometry layer="8" x="1556" y="11" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-1.7429196,3.921569,-3.0501087,1.3071897,-3.0501087,-3.4858391,-0.4357299,-3.4858391,-1.3071897,-2.6143794,-1.3071897,0.8714598,0.0,1.3071897,-1.3071897,1.7429196,-0.8714598,3.4858391,0.0,2.1786494,0.8714598,2.1786494,0.4357299,-3.4858391,3.0501087,-3.4858391,2.1786494,-2.6143794,2.1786494,3.0501087,0.8714598,3.0501087,0.4357299,3.921569,">
+            <texture>
+              <image path="images/logo.png" />
+              <xform scale="0.4357299" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-25.272331" y="-8.714598" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
       </geometry>
       <spawnPoints />
       <Base />
@@ -743,16 +753,6 @@
               <image path="textures/bumper.png" />
               <xform scale="1.0" rotate="0.0" flipX="true" flipY="true">
                 <translate x="238.0" y="1017.0" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
-        <geometry layer="8" x="1556" y="13" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-1.7429196,3.921569,-3.0501087,1.3071897,-3.0501087,-3.4858391,-0.4357299,-3.4858391,-1.3071897,-2.6143794,-1.3071897,0.8714598,0.0,1.3071897,-1.3071897,1.7429196,-0.8714598,3.4858391,0.0,2.1786494,0.8714598,2.1786494,0.4357299,-3.4858391,3.0501087,-3.4858391,2.1786494,-2.6143794,2.1786494,3.0501087,0.8714598,3.0501087,0.4357299,3.921569,">
-            <texture>
-              <image path="images/logo.png" />
-              <xform scale="0.4357299" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-25.272331" y="-8.714598" />
               </xform>
             </texture>
           </texturedPoly>
