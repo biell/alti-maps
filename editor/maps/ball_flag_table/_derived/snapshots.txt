@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_table\_config\image-descriptors.txt" lastModified="1453776720534" length="885" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_table\ball_flag_table.alte" lastModified="1453763334958" length="63912" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_table\_config\image-descriptors.txt" lastModified="1453956423087" length="885" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_table\ball_flag_table.alte" lastModified="1453776779927" length="63912" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_table\images\blue_flag.png" lastModified="1453736147066" length="2640" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_table\images\logo.png" lastModified="1453762815383" length="2781" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_table\images\orange_flag.png" lastModified="1453736147066" length="2541" />

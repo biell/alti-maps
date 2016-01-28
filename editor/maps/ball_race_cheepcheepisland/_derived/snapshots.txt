@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\_config\image-descriptors.txt" lastModified="1453876715410" length="6463" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\ball_race_cheepcheepisland.alte" lastModified="1453876712861" length="165791" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\_config\image-descriptors.txt" lastModified="1453954450270" length="6463" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\ball_race_cheepcheepisland.alte" lastModified="1453952003335" length="170405" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00000.png" lastModified="1453876712824" length="547478" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00001.png" lastModified="1453876712757" length="609183" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00002.png" lastModified="1453876712744" length="547594" />
