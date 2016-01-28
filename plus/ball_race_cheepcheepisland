@@ -1,0 +1,47 @@
+#ball_race_cheepcheepisland alti+ map settings
+#By Oyster
+
+#Basic settings:
+/set intro Cheep Cheep Island Mario Kart track
+/set spawnMode died
+/set spawnHealth 400
+/set weapons 3
+
+#Checkpoints:
+/add powerup 1 * 346,734
+/add powerup 1 * 362,706
+/add powerup 1 * 382,734
+/add powerup 1 * 402,706
+/add powerup 1 * 417,734
+
+/add powerup 2 * 2587,1520
+/add powerup 2 * 2615,1492
+/add powerup 2 * 2643,1520
+/add powerup 2 * 2723,1492
+/add powerup 2 * 2751,1520
+/add powerup 2 * 2779,1492
+/add powerup 2 * 2807,1520
+/add powerup 2 * 2835,1492
+/add powerup 2 * 2863,1520
+/add powerup 2 * 2891,1492
+/add powerup 2 * 2919,1520
+
+#One-ways:
+/add oneway 346,734 s
+/add oneway 362,706 s
+/add oneway 382,734 s
+/add oneway 402,706 s
+/add oneway 417,734 s
+
+/add oneway 2587,1520 n
+/add oneway 2615,1492 n
+/add oneway 2643,1520 n
+/add oneway 2723,1492 n
+/add oneway 2751,1520 n
+/add oneway 2779,1492 n
+/add oneway 2807,1520 n
+/add oneway 2835,1492 n
+/add oneway 2863,1520 n
+/add oneway 2891,1492 n
+/add oneway 2919,1520 n
+

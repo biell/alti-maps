@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\_config\image-descriptors.txt" lastModified="1453876715410" length="6463" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\ball_race_cheepcheepisland.alte" lastModified="1453876712861" length="165791" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00000.png" lastModified="1453876712824" length="547478" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00001.png" lastModified="1453876712757" length="609183" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00002.png" lastModified="1453876712744" length="547594" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00003.png" lastModified="1453876712747" length="634334" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00004.png" lastModified="1453876712827" length="619172" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00005.png" lastModified="1453876712744" length="588285" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00006.png" lastModified="1453876712747" length="576291" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00007.png" lastModified="1453876712757" length="631931" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00008.png" lastModified="1453876712824" length="697399" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00009.png" lastModified="1453876712824" length="632821" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00010.png" lastModified="1453876712751" length="600163" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00011.png" lastModified="1453876712751" length="547883" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00012.png" lastModified="1453876712741" length="628105" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00013.png" lastModified="1453876712754" length="692752" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00014.png" lastModified="1453876712827" length="604068" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00015.png" lastModified="1453876712754" length="627429" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00016.png" lastModified="1453876712747" length="665358" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00017.png" lastModified="1453876712827" length="572912" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00018.png" lastModified="1453876712741" length="531380" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00019.png" lastModified="1453876712824" length="640270" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00020.png" lastModified="1453876712741" length="606528" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00021.png" lastModified="1453876712754" length="612860" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00022.png" lastModified="1453876712744" length="613501" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00023.png" lastModified="1453876712751" length="524302" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00024.png" lastModified="1453876712757" length="604273" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00025.png" lastModified="1453876712741" length="650469" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00026.png" lastModified="1453876712754" length="596646" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00027.png" lastModified="1453876712751" length="607166" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00028.png" lastModified="1453876712747" length="609895" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00029.png" lastModified="1453876712757" length="518463" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00030.png" lastModified="1453876712821" length="535774" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00031.png" lastModified="1453876712821" length="569503" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00032.png" lastModified="1453876712754" length="511427" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00033.png" lastModified="1453876712751" length="530622" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00034.png" lastModified="1453876712741" length="490983" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\import_png_cheep cheep island\00035.png" lastModified="1453876712827" length="455490" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\wall1.png" lastModified="1453876712737" length="5041" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\wall2.png" lastModified="1453876712831" length="2865" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\wall3.png" lastModified="1453876712737" length="1100" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\wall4.png" lastModified="1453876712831" length="2279" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\wall5.png" lastModified="1453876712737" length="1146" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\images\wall6.png" lastModified="1453876712737" length="1681" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_cheepcheepisland\textures\transparent.png" lastModified="1453876712831" length="74" />
+  </snapshots>
+</snapshots.txt>
+
