@@ -868,19 +868,7 @@
             <String value="Ball" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="600" y="635" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="true">
-          <team index="4" />
-          <selectedPowerups>
-            <String value="Shield" />
-          </selectedPowerups>
-        </powerupSpawner>
-        <powerupSpawner layer="1" x="2570" y="635" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="true">
-          <team index="7" />
-          <selectedPowerups>
-            <String value="Shield" />
-          </selectedPowerups>
-        </powerupSpawner>
-        <powerupSpawner layer="1" x="825" y="645" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="825" y="643" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="false">
           <team index="7" />
           <selectedPowerups>
             <String value="Health" />
@@ -946,6 +934,18 @@
             <String value="Shield" />
           </selectedPowerups>
         </powerupSpawner>
+        <powerupSpawner layer="1" x="363" y="645" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="4" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="2807" y="645" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="7" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
       </powerupSpawner>
       <Goal>
         <Goal layer="1" x="172" y="1403">
@@ -965,7 +965,7 @@
     <View name="flag" size="3170,1280">
       <bounds minX="0" minY="0" maxX="3170" maxY="1280" />
       <geometry>
-        <geometry layer="9" x="2608" y="662" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="9" x="2845" y="673" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-41.0,32.0,-42.0,17.0,-41.0,-30.0,-37.0,-32.0,-35.0,-30.0,-35.0,-2.0,-16.0,-5.0,-5.0,4.0,3.0,8.0,17.0,12.0,42.0,15.0,21.0,22.0,-1.0,26.0,-22.0,20.0,-34.0,24.0,-35.0,32.0,">
             <texture>
               <image path="images/blue_flag.png" />
@@ -975,7 +975,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="562" y="662" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="9" x="325" y="673" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,41.0,32.0,42.0,17.0,41.0,-30.0,37.0,-32.0,35.0,-30.0,35.0,-2.0,16.0,-5.0,5.0,4.0,-3.0,8.0,-17.0,12.0,-42.0,15.0,-21.0,22.0,1.0,26.0,22.0,20.0,34.0,24.0,35.0,32.0,">
             <texture>
               <image path="images/orange_flag.png" />
