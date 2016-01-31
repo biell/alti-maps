@@ -6,6 +6,6 @@
 /set planeScale 95
 
 #Flags (Remember these are kind of backwards, which one will your team pickup)
-/add powerup flag orange 2570,635
-/add powerup flag blue 600,635
+/add powerup flag orange 2807,645
+/add powerup flag blue 363,645
 
