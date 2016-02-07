@@ -19,8 +19,8 @@
 /add powerup 2 * 2509,1225
 
 #Portals:
-/add portal * 1894,2455 337,2032,223
-/add portal * 1908,2434 337,2032,223
-/add portal * 1918,2472 337,2032,223
-/add portal * 1929,2450 337,2032,223
+/add portal leg2 1894,2455 337,2032,223
+/add portal leg2 1908,2434 337,2032,223
+/add portal leg2 1918,2472 337,2032,223
+/add portal leg2 1929,2450 337,2032,223
 
