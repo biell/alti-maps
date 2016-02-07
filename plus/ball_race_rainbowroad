@@ -1,0 +1,26 @@
+#ball_race_rainbowroad alti+ map settings
+#By Oyster
+
+#Basic settings:
+/set intro Rainbow Road Mario Kart track
+/set spawnMode died
+/set spawnHealth 400
+/set weapons 3
+
+#Checkpoints:
+/add powerup 1 * 1894,2455
+/add powerup 1 * 1908,2434
+/add powerup 1 * 1918,2472
+/add powerup 1 * 1929,2450
+
+/add powerup 2 * 2464,1215
+/add powerup 2 * 2482,1240
+/add powerup 2 * 2491,1200
+/add powerup 2 * 2509,1225
+
+#Portals:
+/add portal * 1894,2455 337,2032,223
+/add portal * 1908,2434 337,2032,223
+/add portal * 1918,2472 337,2032,223
+/add portal * 1929,2450 337,2032,223
+

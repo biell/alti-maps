@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="STARBOT.png" value="p3" />
+    <entry key="STARS2.png" value="p0" />
+    <entry key="STARS3.png" value="p1" />
+    <entry key="STARTOP.png" value="p3" />
+    <entry key="WALL7.png" value="p3" />
+    <entry key="bg1.png" value="p2" />
+    <entry key="checkerboard.png" value="p3" />
+    <entry key="wall6.png" value="p3" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+
