@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="ball_description.png" value="p0" />
+    <entry key="ball_use.png" value="p0" />
+    <entry key="bounce_splat.png" value="p0" />
+    <entry key="cube.png" value="p0" />
+    <entry key="logo.png" value="p0" />
+    <entry key="observer.png" value="p0" />
+    <entry key="portal_ball.png" value="p0" />
+    <entry key="portal_bounce.png" value="p0" />
+    <entry key="portal_in.png" value="p0" />
+    <entry key="portal_out.png" value="p0" />
+    <entry key="portal_sentry.png" value="p0" />
+    <entry key="portal_turret.png" value="p0" />
+    <entry key="powerup.png" value="p0" />
+    <entry key="the_ball_is_a_lie.png" value="p0" />
+    <entry key="tile_in_corner.png" value="p0" />
+    <entry key="tile_out_corner.png" value="p0" />
+    <entry key="tile_wall.png" value="p0" />
+    <entry key="tile_wall_small.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\_config\image-descriptors.txt" lastModified="1455763755859" length="2695" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\ball_race_portal.alte" lastModified="1455763727182" length="395891" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\ball_description.png" lastModified="1455747479338" length="1113" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\ball_use.png" lastModified="1455748747260" length="912" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\bounce_splat.png" lastModified="1455574313577" length="11460" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\cube.png" lastModified="1455426249459" length="1516" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\logo.png" lastModified="1455695325674" length="3932" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\observer.png" lastModified="1455577768971" length="1790" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\portal_ball.png" lastModified="1455693842277" length="5743" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\portal_bounce.png" lastModified="1455693842277" length="5431" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\portal_in.png" lastModified="1455411219766" length="7980" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\portal_out.png" lastModified="1455411219766" length="7663" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\portal_sentry.png" lastModified="1455694511402" length="9897" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\portal_turret.png" lastModified="1455693842277" length="5599" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\powerup.png" lastModified="1455428627580" length="8488" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\the_ball_is_a_lie.png" lastModified="1455695569657" length="886" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\tile_in_corner.png" lastModified="1455396807607" length="2266" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\tile_out_corner.png" lastModified="1455412390875" length="1914" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\tile_wall.png" lastModified="1455396807607" length="6108" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\tile_wall_small.png" lastModified="1455419769036" length="3624" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\textures\concrete_fill.png" lastModified="1455403883434" length="3055" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\textures\tile_floor.png" lastModified="1455396807607" length="1384" />
+  </snapshots>
+</snapshots.txt>
+
