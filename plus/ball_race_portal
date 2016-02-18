@@ -11,5 +11,5 @@
 /add powerup finish * 2273,224
 
 #Portal:
-/add portal * 812,207 1287,1953,n
+/add portal hidden 812,207 1287,1953,n
 
