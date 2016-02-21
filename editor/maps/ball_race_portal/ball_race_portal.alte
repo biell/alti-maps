@@ -117,7 +117,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="320" y="443" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="1" x="495" y="286" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-31.0,32.0,-32.0,13.0,-30.0,10.0,-28.0,-10.0,-31.0,-13.0,-32.0,-29.0,-30.0,-32.0,-12.0,-32.0,-7.0,-28.0,10.0,-28.0,13.0,-31.0,29.0,-32.0,32.0,-29.0,32.0,-14.0,28.0,-8.0,28.0,9.0,31.0,12.0,32.0,31.0,13.0,32.0,8.0,28.0,-10.0,28.0,-12.0,32.0,">
             <texture>
               <image path="images/cube.png" />
@@ -127,7 +127,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="321" y="257" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="1" x="255" y="223" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-31.0,32.0,-32.0,13.0,-30.0,10.0,-28.0,-10.0,-31.0,-13.0,-32.0,-29.0,-30.0,-32.0,-12.0,-32.0,-7.0,-28.0,10.0,-28.0,13.0,-31.0,29.0,-32.0,32.0,-29.0,32.0,-14.0,28.0,-8.0,28.0,9.0,31.0,12.0,32.0,31.0,13.0,32.0,8.0,28.0,-10.0,28.0,-12.0,32.0,">
             <texture>
               <image path="images/cube.png" />
@@ -137,7 +137,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="385" y="351" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="1" x="416" y="352" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-31.0,32.0,-32.0,13.0,-30.0,10.0,-28.0,-10.0,-31.0,-13.0,-32.0,-29.0,-30.0,-32.0,-12.0,-32.0,-7.0,-28.0,10.0,-28.0,13.0,-31.0,29.0,-32.0,32.0,-29.0,32.0,-14.0,28.0,-8.0,28.0,9.0,31.0,12.0,32.0,31.0,13.0,32.0,8.0,28.0,-10.0,28.0,-12.0,32.0,">
             <texture>
               <image path="images/cube.png" />
@@ -147,17 +147,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="480" y="224" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-31.0,32.0,-32.0,13.0,-30.0,10.0,-28.0,-10.0,-31.0,-13.0,-32.0,-29.0,-30.0,-32.0,-12.0,-32.0,-7.0,-28.0,10.0,-28.0,13.0,-31.0,29.0,-32.0,32.0,-29.0,32.0,-14.0,28.0,-8.0,28.0,9.0,31.0,12.0,32.0,31.0,13.0,32.0,8.0,28.0,-10.0,28.0,-12.0,32.0,">
-            <texture>
-              <image path="images/cube.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-32.0" y="-32.0" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
-        <geometry layer="1" x="544" y="320" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="1" x="576" y="352" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-31.0,32.0,-32.0,13.0,-30.0,10.0,-28.0,-10.0,-31.0,-13.0,-32.0,-29.0,-30.0,-32.0,-12.0,-32.0,-7.0,-28.0,10.0,-28.0,13.0,-31.0,29.0,-32.0,32.0,-29.0,32.0,-14.0,28.0,-8.0,28.0,9.0,31.0,12.0,32.0,31.0,13.0,32.0,8.0,28.0,-10.0,28.0,-12.0,32.0,">
             <texture>
               <image path="images/cube.png" />
@@ -6917,10 +6907,10 @@
         </geometry>
       </geometry>
       <spawnPoints>
-        <spawnPoints layer="2" x="247" y="423" orientation="-90.0">
+        <spawnPoints layer="2" x="550" y="183" orientation="169.44391">
           <team index="7" />
         </spawnPoints>
-        <spawnPoints layer="2" x="251" y="424" orientation="-90.0">
+        <spawnPoints layer="2" x="552" y="186" orientation="169.44391">
           <team index="4" />
         </spawnPoints>
       </spawnPoints>
