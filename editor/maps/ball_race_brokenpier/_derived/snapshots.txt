@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_brokenpier\_config\image-descriptors.txt" lastModified="1456069683599" length="1481" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_brokenpier\ball_race_brokenpier.alte" lastModified="1456069680359" length="82132" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_brokenpier\images\boo1.png" lastModified="1456069680312" length="57089" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_brokenpier\images\boo2.png" lastModified="1456069680312" length="40627" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_brokenpier\images\boo3.png" lastModified="1456069680312" length="32562" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_brokenpier\images\boo4.png" lastModified="1456069680312" length="31092" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_brokenpier\images\boo5.png" lastModified="1456069680312" length="163160" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_brokenpier\images\brokenpier.png" lastModified="1456069680312" length="8514499" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_brokenpier\images\wall4.png" lastModified="1456069680312" length="2003" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_brokenpier\images\wall5.png" lastModified="1456069680312" length="1153" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_brokenpier\images\wall6.png" lastModified="1456069680312" length="1658" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_brokenpier\textures\black.png" lastModified="1456069680316" length="73" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_brokenpier\textures\transparent.png" lastModified="1456069680316" length="74" />
+  </snapshots>
+</snapshots.txt>
+

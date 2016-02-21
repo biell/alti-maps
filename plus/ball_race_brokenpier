@@ -1,0 +1,30 @@
+#ball_race_brokenpier alti+ map settings
+#By Oyster
+
+#Basic settings:
+/set intro Broken Pier Mario Kart track
+/set spawnMode died
+/set spawnHealth 400
+/set weapons 3
+
+#Checkpoints:
+/add powerup 1 * 3153,967
+/add powerup 1 * 3153,802
+/add powerup 1 * 3153,857
+/add powerup 1 * 3153,912
+/add powerup 1 * 3180,939
+/add powerup 1 * 3180,829
+/add powerup 1 * 3180,884
+
+/add powerup 2 * 603,2519
+/add powerup 2 * 630,2492
+/add powerup 2 * 658,2519
+/add powerup 2 * 685,2492
+/add powerup 2 * 713,2519
+/add powerup 2 * 740,2492
+/add powerup 2 * 768,2519
+
+#One-ways:
+/add oneway 630,2492 s
+/add oneway 685,2492 s
+/add oneway 740,2492 s
