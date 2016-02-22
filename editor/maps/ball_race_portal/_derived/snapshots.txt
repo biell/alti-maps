@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\_config\image-descriptors.txt" lastModified="1456073405712" length="2695" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\ball_race_portal.alte" lastModified="1456018506817" length="396091" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\_config\image-descriptors.txt" lastModified="1456112811755" length="2695" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\ball_race_portal.alte" lastModified="1456073761128" length="395391" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\ball_description.png" lastModified="1455747479338" length="1113" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\ball_use.png" lastModified="1455748747260" length="912" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_portal\images\bounce_splat.png" lastModified="1455574313577" length="11460" />
