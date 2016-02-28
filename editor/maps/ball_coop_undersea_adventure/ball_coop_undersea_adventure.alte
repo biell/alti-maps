@@ -183,6 +183,9 @@
         <spawnPoints layer="1" x="224" y="3073" orientation="0.0">
           <team index="7" />
         </spawnPoints>
+        <spawnPoints layer="1" x="1728" y="575" orientation="0.0">
+          <team index="7" />
+        </spawnPoints>
       </spawnPoints>
       <Base />
       <Turret>
@@ -660,7 +663,7 @@
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="1" turnLeft="10.0" turnRight="0.0" maxDistance="1400.0" x="3172" y="56" health="10" gunCooldownSeconds="1.0" bulletSpeed="3.0" bulletDirectDamage="1" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="1" turnLeft="10.0" turnRight="0.0" maxDistance="1150.0" x="3172" y="56" health="10" gunCooldownSeconds="1.0" bulletSpeed="3.0" bulletDirectDamage="1" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="6" />
           <transformation scale="0.7000001" rotate="66.98718" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
