@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\_config\image-descriptors.txt" lastModified="1456700192187" length="1655" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\ball_coop_undersea_adventure.alte" lastModified="1456698396485" length="111824" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\_config\image-descriptors.txt" lastModified="1456714418509" length="1655" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\ball_coop_undersea_adventure.alte" lastModified="1456700451026" length="111946" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\images\Underwater-blender-0-0.jpg" lastModified="1452965333067" length="339789" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\images\Underwater-blender-0-1.jpg" lastModified="1452965420664" length="334147" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\images\Underwater-blender-1-0.jpg" lastModified="1452965297061" length="225144" />
