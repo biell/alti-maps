@@ -1146,7 +1146,7 @@
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="1126" y="1094" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="1126" y="1094" orientation="0.0" spawnTime="15.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Shield" />
