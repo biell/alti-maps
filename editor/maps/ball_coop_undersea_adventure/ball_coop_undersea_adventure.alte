@@ -159,16 +159,6 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="3686" y="1844" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-16.0,18.0,-21.0,14.0,-22.0,8.0,5.0,-5.0,6.0,-8.0,10.0,-8.0,23.0,-18.0,23.0,-6.0,0.0,8.0,-4.0,11.0,-4.0,13.0,-12.0,18.0,">
-            <texture>
-              <image path="images/plant2.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-30.0" y="-67.0" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
       </geometry>
       <spawnPoints>
         <spawnPoints layer="1" x="224" y="3200" orientation="0.0">
@@ -1240,6 +1230,16 @@
               <image path="images/logo.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-225.0" y="-94.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="3685" y="1845" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-16.0,18.0,-21.0,14.0,-22.0,8.0,5.0,-5.0,6.0,-8.0,10.0,-8.0,23.0,-18.0,23.0,-6.0,0.0,8.0,-4.0,11.0,-4.0,13.0,-12.0,18.0,">
+            <texture>
+              <image path="images/plant2.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-30.0" y="-67.0" />
               </xform>
             </texture>
           </texturedPoly>
