@@ -6,3 +6,7 @@
 /add note 3842,2752 Pass the ball to another player through the portal below
 /add note 3872,2752 Pass the ball to another player through the portal below
 /add note 3902,2752 Pass the ball to another player through the portal below
+
+/add zone checkpoint * 1126,1094,s
+/set spawnMode powerup
+
