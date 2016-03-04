@@ -6,6 +6,7 @@
     <entry key="Underwater-blender-1-0.jpg" value="p7" />
     <entry key="Underwater-blender-1-1.jpg" value="p8" />
     <entry key="bubbles.png" value="p0" />
+    <entry key="checkpoint.png" value="p4" />
     <entry key="eel.png" value="p4" />
     <entry key="hull.png" value="p1" />
     <entry key="logo.png" value="p4" />

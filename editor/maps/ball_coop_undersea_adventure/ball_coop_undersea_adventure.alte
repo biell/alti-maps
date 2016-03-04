@@ -55,6 +55,16 @@
             </texture>
           </texturedPoly>
         </geometry>
+        <geometry layer="9" x="2580" y="1170" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-28.0,-28.0,-28.0,28.0,28.0,28.0,28.0,-28.0,">
+            <texture>
+              <image path="images/checkpoint.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-28.0" y="-28.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
       </geometry>
       <spawnPoints />
       <Base />

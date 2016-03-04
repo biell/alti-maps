@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\_config\image-descriptors.txt" lastModified="1456969837845" length="1655" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\_config\image-descriptors.txt" lastModified="1457049867717" length="1782" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\ball_coop_undersea_adventure.alte" lastModified="1456804238839" length="111823" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\images\Underwater-blender-0-0.jpg" lastModified="1452965333067" length="339789" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\images\Underwater-blender-0-1.jpg" lastModified="1452965420664" length="334147" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\images\Underwater-blender-1-0.jpg" lastModified="1452965297061" length="225144" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\images\Underwater-blender-1-1.jpg" lastModified="1452965477510" length="479983" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\images\bubbles.png" lastModified="1452835746224" length="656295" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\images\checkpoint.png" lastModified="1457049857047" length="2389" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\images\eel.png" lastModified="1452961067941" length="2345" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\images\hull.png" lastModified="1452836656769" length="1156479" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_undersea_adventure\images\logo.png" lastModified="1453005578477" length="11460" />
