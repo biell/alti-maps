@@ -7,6 +7,7 @@
     <entry key="Loopy_HD.png" value="p1" />
     <entry key="Miranda_HD.png" value="p1" />
     <entry key="cerberus_title.png" value="p2" />
+    <entry key="detonate.png" value="p0" />
     <entry key="turret_nozzle.png" value="p0" />
   </pack-path-by-image-path>
 </image-lookup-map.txt>

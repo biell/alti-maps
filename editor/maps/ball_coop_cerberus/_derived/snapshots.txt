@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\_config\image-descriptors.txt" lastModified="1456980087491" length="1284" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\_config\image-descriptors.txt" lastModified="1457244879391" length="1409" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\ball_coop_cerberus.alte" lastModified="1456971782273" length="218454" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\images\Biplane_HD.png" lastModified="1443855785603" length="44751" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\images\Bomber_HD.png" lastModified="1443855785603" length="77406" />
@@ -9,6 +9,7 @@
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\images\Loopy_HD.png" lastModified="1443855785603" length="53303" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\images\Miranda_HD.png" lastModified="1443855785603" length="43787" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\images\cerberus_title.png" lastModified="1443889421585" length="23311" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\images\detonate.png" lastModified="1457244872227" length="1999" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\images\import_png_rock\00000.png" lastModified="1443845019507" length="183779" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\images\turret_nozzle.png" lastModified="1443885606382" length="12338" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_cerberus\textures\rock.png" lastModified="1443839519856" length="144861" />

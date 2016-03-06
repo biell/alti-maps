@@ -15,6 +15,26 @@
             </texture>
           </texturedPoly>
         </geometry>
+        <geometry layer="9" x="3318" y="938" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-23.938725,17.954042,-23.938725,-17.954042,23.938725,-17.954042,23.938725,17.954042,">
+            <texture>
+              <image path="images/detonate.png" />
+              <xform scale="0.74808514" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-23.938725" y="-17.954042" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="5332" y="2038" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-23.938725,-17.954042,-23.938725,17.954042,23.938725,17.954042,23.938725,-17.954042,">
+            <texture>
+              <image path="images/detonate.png" />
+              <xform scale="0.74808514" rotate="0.0" flipX="false" flipY="true">
+                <translate x="-23.938725" y="17.954042" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
       </geometry>
       <spawnPoints />
       <Base />
@@ -77,7 +97,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="8" x="2854" y="938" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="9" x="2854" y="938" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-6724096,-183.0,610.0,-204.0,603.0,-229.0,601.0,-248.0,593.0,-256.0,587.0,-266.0,574.0,-271.0,564.0,-275.0,549.0,-281.0,546.0,-291.0,537.0,-313.0,500.0,-329.0,490.0,-338.0,478.0,-348.0,475.0,-381.0,473.0,-405.0,463.0,-414.0,465.0,-437.0,465.0,-459.0,455.0,-469.0,446.0,-479.0,428.0,-483.0,413.0,-484.0,396.0,-480.0,381.0,-469.0,363.0,-456.0,353.0,-443.0,347.0,-441.0,343.0,-432.0,336.0,-432.0,334.0,-419.0,320.0,-417.0,320.0,-388.0,296.0,-385.0,282.0,-375.0,261.0,-368.0,252.0,-364.0,226.0,-357.0,209.0,-352.0,188.0,-341.0,170.0,-337.0,158.0,-319.0,121.0,-300.0,97.0,-267.0,71.0,-261.0,63.0,-260.0,50.0,-266.0,35.0,-268.0,19.0,-296.0,-49.0,-306.0,-83.0,-308.0,-254.0,-314.0,-269.0,-316.0,-292.0,-312.0,-307.0,-301.0,-325.0,-296.0,-330.0,-294.0,-330.0,-294.0,-332.0,-289.0,-337.0,-287.0,-337.0,-285.0,-341.0,-280.0,-346.0,-278.0,-346.0,-272.0,-354.0,-268.0,-356.0,-268.0,-358.0,-255.0,-372.0,-242.0,-380.0,-237.0,-393.0,-228.0,-405.0,-228.0,-428.0,-225.0,-437.0,-213.0,-460.0,-212.0,-552.0,-208.0,-567.0,-201.0,-580.0,-192.0,-590.0,-184.0,-595.0,-157.0,-607.0,-85.0,-609.0,-59.0,-602.0,-5.0,-578.0,25.0,-570.0,43.0,-559.0,53.0,-546.0,58.0,-536.0,68.0,-506.0,70.0,-490.0,74.0,-482.0,78.0,-467.0,79.0,-328.0,75.0,-313.0,74.0,-273.0,67.0,-245.0,59.0,-234.0,53.0,-220.0,29.0,-196.0,-15.0,-172.0,-31.0,-169.0,-40.0,-165.0,-113.0,-164.0,-117.0,-152.0,-118.0,-21.0,-5.0,-21.0,4.0,-17.0,26.0,-16.0,34.0,-13.0,58.0,-23.0,74.0,-25.0,95.0,-32.0,165.0,-33.0,186.0,-40.0,271.0,-41.0,292.0,-48.0,340.0,-49.0,352.0,-53.0,370.0,-50.0,397.0,-30.0,422.0,-2.0,464.0,33.0,496.0,54.0,532.0,71.0,555.0,80.0,570.0,87.0,584.0,97.0,596.0,103.0,608.0,108.0,618.0,110.0,628.0,111.0,637.0,111.0,641.0,106.0,644.0,101.0,645.0,96.0,643.0,90.0,642.0,84.0,644.0,79.0,649.0,73.0,651.0,66.0,653.0,57.0,652.0,51.0,647.0,44.0,662.0,49.0,673.0,53.0,697.0,73.0,705.0,84.0,708.0,103.0,707.0,106.0,711.0,119.0,710.0,122.0,691.0,119.0,686.0,120.0,683.0,126.0,681.0,129.0,678.0,130.0,677.0,130.0,676.0,130.0,673.0,129.0,670.0,125.0,666.0,124.0,661.0,127.0,659.0,130.0,657.0,138.0,640.0,168.0,631.0,171.0,609.0,180.0,581.0,197.0,549.0,202.0,521.0,198.0,499.0,183.0,473.0,171.0,437.0,166.0,408.0,162.0,384.0,156.0,370.0,145.0,363.0,129.0,358.0,115.0,346.0,100.0,330.0,95.0,322.0,85.0,315.0,76.0,293.0,68.0,259.0,63.0,217.0,60.0,175.0,63.0,153.0,71.0,141.0,80.0,128.0,90.0,111.0,97.0,91.0,99.0,74.0,104.0,40.0,119.0,23.0,121.0,-19.0,122.0,-30.0,126.0,-47.0,129.0,-62.0,135.0,-98.0,139.0,-98.0,163.0,-106.0,182.0,-116.0,194.0,-107.0,206.0,-94.0,232.0,-89.0,255.0,-78.0,273.0,-74.0,288.0,-73.0,488.0,-77.0,503.0,-85.0,522.0,-106.0,557.0,-116.0,577.0,-125.0,587.0,-128.0,588.0,-128.0,590.0,-133.0,595.0,-151.0,605.0,-166.0,610.0,">
             <texture>
               <image path="textures/rock.png" />
@@ -1469,13 +1489,13 @@
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="1" turnLeft="25.0" turnRight="0.0" maxDistance="150.0" x="3534" y="1033" health="6000" gunCooldownSeconds="0.5" bulletSpeed="5.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="100">
+        <Turret layer="1" turnLeft="25.0" turnRight="20.0" maxDistance="150.0" x="3546" y="1045" health="6000" gunCooldownSeconds="0.5" bulletSpeed="25.0" bulletDirectDamage="1000" bulletBlastDamage="1000" bulletBlastRadius="30">
           <team index="6" />
           <transformation scale="0.26666668" rotate="125.185104" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="3" turnLeft="2.0" turnRight="25.0" maxDistance="430.0" x="5469" y="1748" health="6000" gunCooldownSeconds="0.5" bulletSpeed="1.0" bulletDirectDamage="1500" bulletBlastDamage="2000" bulletBlastRadius="120">
+        <Turret layer="3" turnLeft="2.0" turnRight="25.0" maxDistance="430.0" x="5469" y="1738" health="6000" gunCooldownSeconds="0.5" bulletSpeed="25.0" bulletDirectDamage="1500" bulletBlastDamage="2000" bulletBlastRadius="100">
           <team index="6" />
           <transformation scale="0.73333335" rotate="-1.1345637" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
@@ -1657,13 +1677,6 @@
           <team index="2" />
           <selectedPowerups>
             <String value="Homing Missile" />
-          </selectedPowerups>
-        </powerupSpawner>
-        <powerupSpawner layer="1" x="5515" y="2115" orientation="0.0" spawnTime="5.0" neverFade="true" spawnAtRoundStart="false">
-          <team index="2" />
-          <selectedPowerups>
-            <String value="Shield" />
-            <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="1035" y="2729" orientation="0.0" spawnTime="3.0" neverFade="true" spawnAtRoundStart="false">

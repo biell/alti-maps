@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <image-descriptors.txt>
   <descriptors>
+    <ImageDescriptor path="images/detonate.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
     <ImageDescriptor path="images/cerberus_title.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
     <ImageDescriptor path="images/turret_nozzle.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
     <ImageDescriptor path="images/Loopy_HD.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
