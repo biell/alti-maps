@@ -25,7 +25,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="5332" y="2038" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="9" x="5304" y="2011" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-23.938725,-17.954042,-23.938725,17.954042,23.938725,17.954042,23.938725,-17.954042,">
             <texture>
               <image path="images/detonate.png" />
