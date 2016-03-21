@@ -1,0 +1,10 @@
+#ball_whl alti+ map settings
+
+#People URL: http://www.freepik.com/free-vector/people-icon-pack_759921.htm
+
+/set intro Welcome to the North London Derby
+
+/set planeScale 85
+/set spawnMode died
+/set spawnHealth 200
+
