@@ -5,6 +5,7 @@
 /set intro Welcome to the North London Derby
 
 /set planeScale 85
-/set spawnMode died
+/set spawnMode died center
 /set spawnHealth 200
+#/set gravity 2
 
