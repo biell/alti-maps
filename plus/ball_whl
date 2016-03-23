@@ -5,7 +5,21 @@
 /set intro Welcome to the North London Derby
 
 /set planeScale 85
-/set spawnMode died center
+/set spawnMode near
 /set spawnHealth 200
-#/set gravity 2
+/set gravity 2
+
+/add zone goal    < 251,1025,c
+/add zone back1   < 380,1358,c
+/add zone back2   < 380,690,c
+/add zone mid1    < 663,1550,c
+/add zone mid2    < 663,498,c
+/add zone forward < 1350,1025,c
+
+/add zone goal    > 2821,1025,c
+/add zone back1   > 2692,1358,c
+/add zone back2   > 2692,690,c
+/add zone mid1    > 2409,1550,c
+/add zone mid2    > 2409,498,c
+/add zone forward > 1722,1025,c
 
