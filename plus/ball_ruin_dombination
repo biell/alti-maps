@@ -3,4 +3,5 @@
 #Basic settings:
 /set intro *** OBJECTIVE: Destroy all enemy turrets first! ***
 /set weapons 1
-/set planes Biplane Bomber
+/add plane +Biplane
+/add plane +Bomber

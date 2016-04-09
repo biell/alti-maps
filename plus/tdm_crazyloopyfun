@@ -2,7 +2,7 @@
 
 #Basic settings:
 /set intro Fly fast and destroy
-/set planes Loopy
 /set spawnHealth 120
 /set planeScale 65
 /set cameraScale 80
+/add plane +Loopy

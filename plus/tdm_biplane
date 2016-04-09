@@ -2,7 +2,6 @@
 
 #Basic settings:
 /set intro A long time ago biell had a favorite game
-/set planes Biplane
 /set spawnHealth 120
 /set planeScale 70
-
+/add plane +Biplane
