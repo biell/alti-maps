@@ -883,54 +883,54 @@
         <powerupSpawner layer="1" x="120" y="660" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
-            <String value="Wall" />
+            <String value="Homing Missile" />
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="3050" y="660" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
-            <String value="Wall" />
+            <String value="Homing Missile" />
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="600" y="1117" orientation="0.0" spawnTime="3.0" neverFade="true" spawnAtRoundStart="false">
           <team index="7" />
           <selectedPowerups>
-            <String value="Wall" />
+            <String value="Homing Missile" />
             <String value="Shield" />
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="600" y="163" orientation="0.0" spawnTime="3.0" neverFade="true" spawnAtRoundStart="false">
           <team index="7" />
           <selectedPowerups>
-            <String value="Wall" />
+            <String value="Homing Missile" />
             <String value="Shield" />
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="2570" y="1117" orientation="0.0" spawnTime="3.0" neverFade="true" spawnAtRoundStart="false">
           <team index="4" />
           <selectedPowerups>
-            <String value="Wall" />
+            <String value="Homing Missile" />
             <String value="Shield" />
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="2570" y="163" orientation="0.0" spawnTime="3.0" neverFade="true" spawnAtRoundStart="false">
           <team index="4" />
           <selectedPowerups>
-            <String value="Wall" />
+            <String value="Homing Missile" />
             <String value="Shield" />
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="1335" y="645" orientation="0.0" spawnTime="3.0" neverFade="true" spawnAtRoundStart="false">
           <team index="7" />
           <selectedPowerups>
-            <String value="Wall" />
+            <String value="Homing Missile" />
             <String value="Shield" />
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="1835" y="645" orientation="0.0" spawnTime="3.0" neverFade="true" spawnAtRoundStart="false">
           <team index="4" />
           <selectedPowerups>
-            <String value="Wall" />
+            <String value="Homing Missile" />
             <String value="Shield" />
           </selectedPowerups>
         </powerupSpawner>
