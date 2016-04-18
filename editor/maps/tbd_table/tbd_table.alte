@@ -325,6 +325,26 @@
             </texture>
           </texturedPoly>
         </geometry>
+        <geometry layer="5" x="2879" y="1285" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-3355393,0.0,-1.0,-30.0,-1.0,-60.0,-31.0,-60.0,-61.0,-30.0,-91.0,0.0,-91.0,30.0,-61.0,30.0,-31.0,">
+            <texture>
+              <image path="textures/wood-texture.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="true">
+                <translate x="1290.0" y="149.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2879" y="155" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-3355393,0.0,1.0,-30.0,1.0,-60.0,31.0,-60.0,61.0,-30.0,91.0,0.0,91.0,30.0,61.0,30.0,31.0,">
+            <texture>
+              <image path="textures/wood-texture.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="1290.0" y="-149.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
       </geometry>
       <spawnPoints />
       <Base />
