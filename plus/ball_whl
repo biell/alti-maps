@@ -14,12 +14,12 @@
 /add zone back2   < 380,690,c
 /add zone mid1    < 663,1550,c
 /add zone mid2    < 663,498,c
-/add zone forward < 1350,1025,c
+/add zone forward < 1260,1025,c
 
 /add zone goal    > 2821,1025,c
 /add zone back1   > 2692,1358,c
 /add zone back2   > 2692,690,c
 /add zone mid1    > 2409,1550,c
 /add zone mid2    > 2409,498,c
-/add zone forward > 1722,1025,c
+/add zone forward > 1812,1025,c
 
