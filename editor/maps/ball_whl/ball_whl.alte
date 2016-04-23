@@ -582,111 +582,159 @@
       </spawnPoints>
       <Base />
       <Turret>
-        <Turret layer="2" turnLeft="20.0" turnRight="0.0" maxDistance="320.0" x="144" y="949" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="200" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="2" turnLeft="25.0" turnRight="0.0" maxDistance="320.0" x="144" y="949" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="4" />
           <transformation scale="0.46666667" rotate="-45.246616" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="2" turnLeft="60.0" turnRight="60.0" maxDistance="230.0" x="140" y="992" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="200" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="2" turnLeft="60.0" turnRight="60.0" maxDistance="230.0" x="140" y="992" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="4" />
           <transformation scale="0.46666667" rotate="-88.726974" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="2" turnLeft="60.0" turnRight="60.0" maxDistance="230.0" x="140" y="1059" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="200" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="2" turnLeft="60.0" turnRight="60.0" maxDistance="230.0" x="140" y="1059" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="4" />
           <transformation scale="0.46666667" rotate="-88.726974" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="2" turnLeft="60.0" turnRight="60.0" maxDistance="230.0" x="140" y="1025" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="200" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="2" turnLeft="60.0" turnRight="60.0" maxDistance="230.0" x="140" y="1025" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="4" />
           <transformation scale="0.46666667" rotate="-88.726974" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="2" turnLeft="0.0" turnRight="20.0" maxDistance="320.0" x="144" y="1097" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="200" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="2" turnLeft="0.0" turnRight="25.0" maxDistance="320.0" x="144" y="1097" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="4" />
           <transformation scale="0.46666667" rotate="-45.246616" flipX="false" flipY="true">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="2" turnLeft="90.0" turnRight="60.0" maxDistance="170.0" x="202" y="896" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="200" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="2" turnLeft="90.0" turnRight="45.0" maxDistance="170.0" x="202" y="896" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="4" />
           <transformation scale="0.23333335" rotate="-103.87264" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="2" turnLeft="60.0" turnRight="90.0" maxDistance="170.0" x="202" y="1152" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="200" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="2" turnLeft="45.0" turnRight="90.0" maxDistance="170.0" x="202" y="1152" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="4" />
           <transformation scale="0.23333335" rotate="-103.87264" flipX="false" flipY="true">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="2" turnLeft="30.0" turnRight="0.0" maxDistance="300.0" x="202" y="920" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="200" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="2" turnLeft="30.0" turnRight="0.0" maxDistance="300.0" x="202" y="920" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="4" />
           <transformation scale="0.23333335" rotate="-32.44675" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="2" turnLeft="0.0" turnRight="30.0" maxDistance="300.0" x="202" y="1127" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="200" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="2" turnLeft="0.0" turnRight="30.0" maxDistance="300.0" x="202" y="1127" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="4" />
           <transformation scale="0.23333335" rotate="-32.44675" flipX="false" flipY="true">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="2" turnLeft="60.0" turnRight="60.0" maxDistance="230.0" x="2932" y="1025" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="200" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="2" turnLeft="60.0" turnRight="60.0" maxDistance="230.0" x="2932" y="1025" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="3" />
           <transformation scale="0.46666667" rotate="-88.726974" flipX="true" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="2" turnLeft="60.0" turnRight="60.0" maxDistance="230.0" x="2932" y="992" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="200" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="2" turnLeft="60.0" turnRight="60.0" maxDistance="230.0" x="2932" y="992" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="3" />
           <transformation scale="0.46666667" rotate="-88.726974" flipX="true" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="2" turnLeft="30.0" turnRight="0.0" maxDistance="300.0" x="2870" y="1127" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="200" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="2" turnLeft="30.0" turnRight="0.0" maxDistance="300.0" x="2870" y="1127" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="3" />
           <transformation scale="0.23333335" rotate="-32.44675" flipX="true" flipY="true">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="2" turnLeft="0.0" turnRight="20.0" maxDistance="320.0" x="2928" y="949" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="200" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="2" turnLeft="0.0" turnRight="25.0" maxDistance="320.0" x="2928" y="949" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="3" />
           <transformation scale="0.46666667" rotate="-45.246616" flipX="true" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="2" turnLeft="60.0" turnRight="90.0" maxDistance="170.0" x="2870" y="896" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="200" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="2" turnLeft="45.0" turnRight="90.0" maxDistance="170.0" x="2870" y="896" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="3" />
           <transformation scale="0.23333335" rotate="-103.87264" flipX="true" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="2" turnLeft="60.0" turnRight="60.0" maxDistance="230.0" x="2932" y="1059" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="200" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="2" turnLeft="60.0" turnRight="60.0" maxDistance="230.0" x="2932" y="1059" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="3" />
           <transformation scale="0.46666667" rotate="-88.726974" flipX="true" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="2" turnLeft="0.0" turnRight="30.0" maxDistance="300.0" x="2870" y="920" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="200" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="2" turnLeft="0.0" turnRight="30.0" maxDistance="300.0" x="2870" y="920" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="3" />
           <transformation scale="0.23333335" rotate="-32.44675" flipX="true" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="2" turnLeft="20.0" turnRight="0.0" maxDistance="320.0" x="2928" y="1097" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="200" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="2" turnLeft="25.0" turnRight="0.0" maxDistance="320.0" x="2928" y="1097" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="3" />
           <transformation scale="0.46666667" rotate="-45.246616" flipX="true" flipY="true">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="2" turnLeft="90.0" turnRight="60.0" maxDistance="170.0" x="2870" y="1152" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="200" bulletBlastDamage="1" bulletBlastRadius="1">
+        <Turret layer="2" turnLeft="90.0" turnRight="45.0" maxDistance="170.0" x="2870" y="1152" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
           <team index="3" />
           <transformation scale="0.23333335" rotate="-103.87264" flipX="true" flipY="true">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="2" turnLeft="45.0" turnRight="45.0" maxDistance="150.0" x="2878" y="1152" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
+          <team index="3" />
+          <transformation scale="0.23333335" rotate="-132.68344" flipX="true" flipY="true">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="2" turnLeft="45.0" turnRight="45.0" maxDistance="150.0" x="2878" y="896" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
+          <team index="3" />
+          <transformation scale="0.23333335" rotate="-132.68344" flipX="true" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="2" turnLeft="45.0" turnRight="45.0" maxDistance="150.0" x="194" y="896" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
+          <team index="4" />
+          <transformation scale="0.23333335" rotate="-132.68344" flipX="false" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="2" turnLeft="45.0" turnRight="45.0" maxDistance="150.0" x="194" y="1152" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
+          <team index="4" />
+          <transformation scale="0.23333335" rotate="-132.68344" flipX="false" flipY="true">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="2" turnLeft="10.0" turnRight="10.0" maxDistance="340.0" x="190" y="919" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
+          <team index="4" />
+          <transformation scale="0.23333335" rotate="-18.650648" flipX="false" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="2" turnLeft="10.0" turnRight="10.0" maxDistance="340.0" x="190" y="1129" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
+          <team index="4" />
+          <transformation scale="0.23333335" rotate="-18.650648" flipX="false" flipY="true">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="2" turnLeft="10.0" turnRight="10.0" maxDistance="340.0" x="2882" y="1129" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
+          <team index="3" />
+          <transformation scale="0.23333335" rotate="-18.650648" flipX="true" flipY="true">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="2" turnLeft="10.0" turnRight="10.0" maxDistance="340.0" x="2882" y="919" health="10000" gunCooldownSeconds="0.2" bulletSpeed="60.0" bulletDirectDamage="250" bulletBlastDamage="1" bulletBlastRadius="1">
+          <team index="3" />
+          <transformation scale="0.23333335" rotate="-18.650648" flipX="true" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
@@ -756,7 +804,7 @@
       <bounds minX="0" minY="0" maxX="3072" maxY="2048" />
       <geometry>
         <geometry layer="1" x="632" y="720" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1728053249,-87.0,-9.0,-88.0,-12.0,-88.0,-21.0,-87.0,-24.0,-85.0,-26.0,-83.0,-27.0,!-1744830464,102.0,-27.0,104.0,-26.0,106.0,-24.0,107.0,-21.0,107.0,-12.0,106.0,-9.0,104.0,-7.0,102.0,-6.0,!-1728053249,-83.0,-6.0,-85.0,-7.0,">
+          <texturedPoly hull="!-1728053249,-87.0,-9.0,-88.0,-12.0,-88.0,-21.0,-87.0,-24.0,-85.0,-26.0,-83.0,-27.0,!-1744830464,104.0,-27.0,106.0,-26.0,108.0,-24.0,109.0,-21.0,109.0,-12.0,108.0,-9.0,106.0,-7.0,104.0,-6.0,!-1728053249,-83.0,-6.0,-85.0,-7.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-632.0" y="-768.0" />

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_whl\_config\image-descriptors.txt" lastModified="1461043903001" length="1013" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_whl\ball_whl.alte" lastModified="1461043607941" length="58634" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_whl\_config\image-descriptors.txt" lastModified="1461291148639" length="1013" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_whl\ball_whl.alte" lastModified="1461044348327" length="58634" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_whl\images\blue_goal.png" lastModified="1458519205709" length="49554" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_whl\images\chant_arse.png" lastModified="1458406770974" length="3612" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_whl\images\chant_coys.png" lastModified="1458406704344" length="2811" />
