@@ -1105,7 +1105,7 @@
             <String value="Homing Missile" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="2160" y="720" orientation="0.0" spawnTime="90.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="2160" y="720" orientation="0.0" spawnTime="90.0" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Bomb" />
