@@ -1,0 +1,6 @@
+#ball_half_court alti+ map settings
+
+#Basic settings:
+/set intro One goal for both teams
+/set planeScale 90
+

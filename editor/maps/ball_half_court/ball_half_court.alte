@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Level backgroundColor="-3368704" nameTextColor="-16777216" useBlackSmokeForPlaneDamage="true" backgroundClearRequired="true">
+  <levelModeConfig objectiveGameTimeSeconds="120" />
+  <views>
+    <View name="Background" size="1280,720">
+      <bounds minX="0" minY="0" maxX="1280" maxY="720" />
+      <geometry>
+        <geometry layer="1" x="0" y="0" orientation="0.0" visible="true" collidable="true" elasticity="0.25" damageModifier="1.0">
+          <texturedPoly hull="!-13312,0.0,0.0,1280.0,0.0,1280.0,720.0,0.0,720.0,">
+            <texture>
+              <image path="textures/Wood.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="40" y="450" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-2013265921,0.0,0.0,319.0,0.0,333.0,-3.0,343.0,-7.0,350.0,-12.0,361.0,-21.0,368.0,-31.0,374.0,-42.0,381.0,-61.0,383.0,-85.0,383.0,-94.0,380.0,-119.0,373.0,-137.0,365.0,-149.0,359.0,-157.0,353.0,-163.0,343.0,-171.0,334.0,-177.0,319.0,-180.0,0.0,-180.0,0.0,-183.0,323.0,-183.0,335.0,-180.0,345.0,-173.0,355.0,-165.0,362.0,-158.0,368.0,-150.0,376.0,-138.0,383.0,-119.0,386.0,-94.0,386.0,-85.0,384.0,-61.0,377.0,-41.0,371.0,-30.0,363.0,-19.0,353.0,-10.0,344.0,-4.0,334.0,0.0,323.0,3.0,0.0,3.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-41.0" y="-450.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+      </geometry>
+      <spawnPoints />
+      <Base />
+      <Turret />
+      <Hoop />
+      <objectiveDescriptor />
+      <powerupSpawner />
+      <Goal />
+    </View>
+    <View name="Game" size="1280,720">
+      <bounds minX="0" minY="0" maxX="1280" maxY="720" />
+      <geometry>
+        <geometry layer="2" x="57" y="296" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-14.0,11.0,-14.0,-11.0,13.0,-10.0,15.0,6.0,11.0,11.0,">
+            <texture>
+              <image path="images/red_goal.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-15.0" y="-11.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="3" x="0" y="720" orientation="0.0" visible="true" collidable="true" elasticity="0.5" damageModifier="0.5">
+          <texturedPoly hull="!-6724096,0.0,0.0,1280.0,0.0,1280.0,-3.0,0.0,-3.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="true">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1280" y="0" orientation="0.0" visible="true" collidable="true" elasticity="0.5" damageModifier="0.5">
+          <texturedPoly hull="!-6724096,0.0,0.0,0.0,720.0,-3.0,720.0,-3.0,0.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-1280.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="0" y="0" orientation="0.0" visible="true" collidable="true" elasticity="0.5" damageModifier="0.5">
+          <texturedPoly hull="!-6724096,0.0,0.0,-2.0,309.0,-3.0,313.0,-3.0,406.0,0.0,412.0,0.0,720.0,40.0,720.0,40.0,435.0,39.0,425.0,3.0,411.0,0.0,407.0,0.0,312.0,4.0,308.0,39.0,294.0,40.0,285.0,40.0,0.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="1280.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="3" x="0" y="0" orientation="0.0" visible="true" collidable="true" elasticity="0.5" damageModifier="0.5">
+          <texturedPoly hull="!-6724096,0.0,0.0,1280.0,0.0,1280.0,3.0,0.0,3.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+      </geometry>
+      <spawnPoints>
+        <spawnPoints layer="1" x="120" y="600" orientation="0.0">
+          <team index="3" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="120" y="120" orientation="0.0">
+          <team index="4" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="120" y="540" orientation="0.0">
+          <team index="4" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="120" y="180" orientation="0.0">
+          <team index="3" />
+        </spawnPoints>
+      </spawnPoints>
+      <Base />
+      <Turret />
+      <Hoop />
+      <objectiveDescriptor />
+      <powerupSpawner>
+        <powerupSpawner layer="1" x="1170" y="360" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Ball" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="2" x="1168" y="360" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+          <team index="4" />
+          <selectedPowerups>
+            <String value="Ball" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="1172" y="360" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+          <team index="3" />
+          <selectedPowerups>
+            <String value="Ball" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="61" y="696" orientation="0.0" spawnTime="17.0" neverFade="false" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="61" y="24" orientation="0.0" spawnTime="18.0" neverFade="false" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="1256" y="24" orientation="0.0" spawnTime="20.0" neverFade="false" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="1256" y="696" orientation="0.0" spawnTime="19.0" neverFade="false" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Wall" />
+          </selectedPowerups>
+        </powerupSpawner>
+      </powerupSpawner>
+      <Goal>
+        <Goal layer="1" x="36" y="360">
+          <team index="3" />
+          <transformation scale="1.0" rotate="0.0" flipX="false" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Goal>
+        <Goal layer="2" x="36" y="360">
+          <team index="4" />
+          <transformation scale="1.0" rotate="0.0" flipX="false" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Goal>
+      </Goal>
+    </View>
+  </views>
+</Level>
+
