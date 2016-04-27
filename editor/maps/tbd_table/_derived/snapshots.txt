@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_table\_config\image-descriptors.txt" lastModified="1461041616377" length="885" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_table\_config\image-descriptors.txt" lastModified="1461722941411" length="885" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_table\images\blue_flag.png" lastModified="1453736147066" length="2640" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_table\images\logo.png" lastModified="1460953835072" length="2218" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_table\images\orange_flag.png" lastModified="1453736147066" length="2541" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_table\tbd_table.alte" lastModified="1461003232166" length="76003" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_table\tbd_table.alte" lastModified="1461621857986" length="75457" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_table\textures\bumper.png" lastModified="1453755152384" length="2922" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_table\textures\felt.png" lastModified="1453736147069" length="273804" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_table\textures\wood-texture.png" lastModified="1453736147066" length="380382" />
