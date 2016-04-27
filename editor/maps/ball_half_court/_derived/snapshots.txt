@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_half_court\_config\image-descriptors.txt" lastModified="1461645602748" length="377" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_half_court\ball_half_court.alte" lastModified="1461645498375" length="5182" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_half_court\_config\image-descriptors.txt" lastModified="1461714205279" length="377" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_half_court\ball_half_court.alte" lastModified="1461648340346" length="7788" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_half_court\images\red_goal.png" lastModified="1461644343856" length="1079" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_half_court\textures\Wood.png" lastModified="1461645597542" length="175853" />
   </snapshots>
