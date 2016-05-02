@@ -1630,7 +1630,7 @@
       <bounds minX="0" minY="0" maxX="3000" maxY="2000" />
       <geometry>
         <geometry layer="1" x="0" y="-2" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!1744830463,0.0,0.0,0.0,2000.0,3000.0,2000.0,3000.0,0.0,">
+          <texturedPoly hull="!1174405119,0.0,0.0,0.0,2000.0,3000.0,2000.0,3000.0,0.0,">
             <texture>
               <image path="textures/tbd_coop_colony_tree.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="true">
