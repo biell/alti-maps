@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="control.png" value="p1" />
+    <entry key="destroy.png" value="p1" />
+    <entry key="door.png" value="p1" />
+    <entry key="emp.png" value="p1" />
+    <entry key="missle.png" value="p1" />
+    <entry key="powerup.png" value="p1" />
+    <entry key="rush.png" value="p1" />
+    <entry key="throw.png" value="p2" />
+    <entry key="title.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+
