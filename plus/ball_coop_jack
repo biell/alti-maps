@@ -1,0 +1,24 @@
+#ball_coop_jack alti+ map settings
+
+/set assignTeam left
+/set ballScore 5 0
+/set intro Collect all 6 keys, then shoot the ball down to the goal
+
+/add note 5892,5774 Shoot the ball down
+/add note 5920,5774 Shoot the ball down
+/add note 5948,5774 Shoot the ball down
+
+/add key Door < 657,5422
+/add key Door < 529,4494
+/add key Door < 144,496
+/add key Door < 528,271
+/add key Door < 1648,336
+/add key Door < 2225,688
+
+/add portal Start 657,5442 4534,5100,e
+/add portal Start 529,4494 4534,5100,e
+/add portal Start 144,496 4534,5100,e
+/add portal Start 528,271 4534,5100,e
+/add portal Start 1648,336 4534,5100,e
+/add portal Start 2225,688 4534,5100,e
+
