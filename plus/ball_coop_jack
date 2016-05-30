@@ -23,7 +23,7 @@
 /add key Door < 1648,336
 /add key Door < 2225,688
 
-/add portal Start 657,5442 4534,5100,e
+/add portal Start 657,5422 4534,5100,e
 /add portal Start 529,4494 4534,5100,e
 /add portal Start 144,496 4534,5100,e
 /add portal Start 528,271 4534,5100,e
