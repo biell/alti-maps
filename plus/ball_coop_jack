@@ -2,11 +2,19 @@
 
 /set assignTeam left
 /set ballScore 5 0
+/set spawnMode portal
 /set intro Collect all 6 keys, then shoot the ball down to the goal
 
 /add note 5892,5774 Shoot the ball down
 /add note 5920,5774 Shoot the ball down
 /add note 5948,5774 Shoot the ball down
+
+/add door Door < 4944,5200
+/add door Door < 4944,5232
+/add door Door < 4944,5264
+/add door Door < 4976,5200
+/add door Door < 4976,5232
+/add door Door < 4976,5264
 
 /add key Door < 657,5422
 /add key Door < 529,4494
