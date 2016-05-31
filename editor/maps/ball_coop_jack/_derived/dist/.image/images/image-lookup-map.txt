@@ -5,8 +5,9 @@
     <entry key="destroy.png" value="p1" />
     <entry key="door.png" value="p1" />
     <entry key="emp.png" value="p1" />
+    <entry key="hop.png" value="p1" />
     <entry key="missle.png" value="p1" />
-    <entry key="powerup.png" value="p1" />
+    <entry key="powerup.png" value="p2" />
     <entry key="rush.png" value="p1" />
     <entry key="throw.png" value="p2" />
     <entry key="title.png" value="p0" />
