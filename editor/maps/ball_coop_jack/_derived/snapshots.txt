@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_jack\_config\image-descriptors.txt" lastModified="1464641051331" length="1229" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_jack\ball_coop_jack.alte" lastModified="1464640476592" length="170915" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_jack\_config\image-descriptors.txt" lastModified="1464654566988" length="1229" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_jack\ball_coop_jack.alte" lastModified="1464642078207" length="171259" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_jack\images\control.png" lastModified="1464571088148" length="3062" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_jack\images\destroy.png" lastModified="1464571088148" length="3454" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_jack\images\door.png" lastModified="1464571088148" length="4926" />
