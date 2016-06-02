@@ -20,13 +20,13 @@
 /add key Door < 529,4494
 /add key Door < 144,496
 /add key Door < 528,271
-/add key Door < 1648,336
+/add key Door < 1215,317
 /add key Door < 2225,688
 
 /add portal Start 657,5422 4534,5100,e
 /add portal Start 529,4494 4534,5100,e
 /add portal Start 144,496 4534,5100,e
 /add portal Start 528,271 4534,5100,e
-/add portal Start 1648,336 4534,5100,e
+/add portal Start 1215,317 4534,5100,e
 /add portal Start 2225,688 4534,5100,e
 
