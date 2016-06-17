@@ -16,12 +16,12 @@
 /add door Door < 4976,5232
 /add door Door < 4976,5264
 
-/add key Door < 657,5422
-/add key Door < 529,4494
-/add key Door < 144,496
-/add key Door < 528,271
-/add key Door < 1215,317
-/add key Door < 2225,688
+/add key Missle  Door < 657,5422
+/add key Control Door < 529,4494
+/add key EMP     Door < 144,496
+/add key Rush    Door < 528,271
+/add key Destroy Door < 1215,317
+/add key PowerUp Door < 2225,688
 
 /add portal Start 657,5422 4534,5100,e
 /add portal Start 529,4494 4534,5100,e
