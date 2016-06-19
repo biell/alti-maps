@@ -5,9 +5,9 @@
 /set spawnMode portal
 /set intro Collect all 6 keys, then shoot the ball down to the goal
 
-/add note 5364,5776 Shoot the ball down the shaft to the goal
-/add note 5392,5776 Shoot the ball down the shaft to the goal
-/add note 5420,5776 Shoot the ball down the shaft to the goal
+/add note 5300,5872 Shoot the ball down the shaft to the goal
+/add note 5328,5872 Shoot the ball down the shaft to the goal
+/add note 5356,5872 Shoot the ball down the shaft to the goal
 
 /add door Door < 4944,5200
 /add door Door < 4944,5232
