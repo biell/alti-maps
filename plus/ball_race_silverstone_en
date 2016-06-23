@@ -7,7 +7,7 @@
 /set weapons 3
 /set gravity 3
 /set cameraScale 80
-/set planeScale 50
+/set planeScale 60
 
 #Checkpoints:
 /add powerup 1 * 1842,2248
