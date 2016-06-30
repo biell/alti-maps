@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Level backgroundColor="-3355444" nameTextColor="-16777216" useBlackSmokeForPlaneDamage="true" backgroundClearRequired="true">
+  <levelModeConfig objectiveGameTimeSeconds="120" />
+  <views>
+    <View name="Background" size="1280,720">
+      <bounds minX="0" minY="0" maxX="1280" maxY="720" />
+      <geometry>
+        <geometry layer="1" x="351" y="639" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-6710887,9.0,1.0,9.0,-16.0,1.0,-16.0,1.0,1.0,-63.0,1.0,-63.0,-95.0,1.0,-95.0,1.0,-79.0,9.0,-79.0,9.0,-95.0,1.0,-102.0,-63.0,-102.0,-73.0,-95.0,-73.0,1.0,-63.0,9.0,1.0,9.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-351.0" y="-639.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="447" y="639" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-6710887,9.0,1.0,9.0,-31.0,1.0,-31.0,1.0,1.0,-63.0,1.0,-63.0,-95.0,1.0,-95.0,1.0,-63.0,9.0,-63.0,9.0,-95.0,1.0,-102.0,-63.0,-102.0,-73.0,-95.0,-73.0,1.0,-63.0,9.0,1.0,9.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-351.0" y="-639.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="543" y="639" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-6710887,9.0,1.0,9.0,-31.0,1.0,-31.0,1.0,1.0,-63.0,1.0,-63.0,-95.0,1.0,-95.0,1.0,-63.0,9.0,-63.0,9.0,-95.0,1.0,-102.0,-63.0,-102.0,-73.0,-95.0,-73.0,1.0,-63.0,9.0,1.0,9.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-351.0" y="-639.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="447" y="607" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-6710887,9.0,1.0,9.0,-31.0,1.0,-31.0,1.0,1.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-351.0" y="-639.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="543" y="607" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-6710887,9.0,1.0,9.0,-31.0,1.0,-31.0,1.0,1.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-351.0" y="-639.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="639" y="639" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-6710887,9.0,1.0,9.0,-31.0,1.0,-38.0,-62.0,-38.0,-62.0,-31.0,1.0,-31.0,1.0,1.0,-63.0,1.0,-63.0,-95.0,-63.0,-102.0,-73.0,-102.0,-73.0,9.0,-63.0,9.0,1.0,9.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-351.0" y="-639.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="703" y="607" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-6710887,9.0,33.0,9.0,-10.0,48.0,-10.0,48.0,-18.0,9.0,-18.0,9.0,-63.0,1.0,-63.0,1.0,-18.0,-38.0,-18.0,-38.0,-10.0,1.0,-10.0,1.0,33.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-351.0" y="-639.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+      </geometry>
+      <spawnPoints />
+      <Base />
+      <Turret />
+      <Hoop />
+      <objectiveDescriptor />
+      <powerupSpawner />
+      <Goal />
+    </View>
+    <View name="Game" size="1280,720">
+      <bounds minX="0" minY="0" maxX="1280" maxY="720" />
+      <geometry>
+        <geometry layer="2" x="128" y="-32" orientation="0.0" visible="true" collidable="true" elasticity="0.25" damageModifier="0.0">
+          <texturedPoly hull="!-6710887,0.0,0.0,0.0,768.0,32.0,768.0,32.0,0.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-128.0" y="32.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="3" x="128" y="704" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="0.0">
+          <texturedPoly hull="!-6710887,0.0,0.0,1024.0,0.0,1024.0,32.0,0.0,32.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-128.0" y="-704.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="1152" y="-32" orientation="0.0" visible="true" collidable="true" elasticity="0.25" damageModifier="0.0">
+          <texturedPoly hull="!-6710887,0.0,0.0,0.0,768.0,-32.0,768.0,-32.0,0.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="128.0" y="32.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="3" x="128" y="16" orientation="0.0" visible="true" collidable="true" elasticity="0.35" damageModifier="0.0">
+          <texturedPoly hull="!-6710887,0.0,0.0,1024.0,0.0,1024.0,-32.0,0.0,-32.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="true">
+                <translate x="-128.0" y="704.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+      </geometry>
+      <spawnPoints>
+        <spawnPoints layer="1" x="264" y="439" orientation="0.0">
+          <team index="4" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="1016" y="439" orientation="-180.0">
+          <team index="7" />
+        </spawnPoints>
+      </spawnPoints>
+      <Base>
+        <Base layer="1" x="62" y="385">
+          <team index="4" />
+          <transformation scale="0.7398119" rotate="-90.0" flipX="false" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Base>
+        <Base layer="1" x="1218" y="385">
+          <team index="7" />
+          <transformation scale="0.7398119" rotate="-90.0" flipX="true" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Base>
+      </Base>
+      <Turret />
+      <Hoop />
+      <objectiveDescriptor />
+      <powerupSpawner>
+        <powerupSpawner layer="1" x="55" y="575" orientation="0.0" spawnTime="30.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="4" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="1225" y="575" orientation="0.0" spawnTime="30.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="7" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="640" y="351" orientation="0.0" spawnTime="30.0" neverFade="true" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+      </powerupSpawner>
+      <Goal />
+    </View>
+  </views>
+</Level>
+
