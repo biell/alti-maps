@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_lobby\_config\image-descriptors.txt" lastModified="1467329187419" length="112" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_lobby\tbd_coop_lobby.alte" lastModified="1467329187412" length="1240" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_lobby\_config\image-descriptors.txt" lastModified="1467558940943" length="112" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_lobby\tbd_coop_lobby.alte" lastModified="1467330880442" length="8205" />
   </snapshots>
 </snapshots.txt>
 
