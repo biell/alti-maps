@@ -153,8 +153,8 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="2" x="4865" y="255" orientation="0.0" visible="true" collidable="true" elasticity="0.2" damageModifier="0.0">
-          <texturedPoly hull="!13408512,31.0,1.0,1.0,-33.0,-160.0,-33.0,-191.0,-64.0,-191.0,-191.0,-161.0,-221.0,191.0,-221.0,221.0,-191.0,221.0,-63.0,191.0,-33.0,139.0,-33.0,111.0,1.0,64.0,1.0,64.0,4.0,148.0,4.0,152.0,-16.0,195.0,-16.0,240.0,-56.0,240.0,-241.0,-213.0,-241.0,-213.0,-50.0,-171.0,-12.0,-11.0,-12.0,-3.0,4.0,63.0,4.0,63.0,1.0,">
+        <geometry layer="2" x="4865" y="255" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!13408512,38.0,-63.0,38.0,-159.0,89.0,-159.0,89.0,-63.0,64.0,-31.0,56.0,-21.0,71.0,-9.0,64.0,1.0,159.0,1.0,159.0,-191.0,-33.0,-191.0,-33.0,1.0,63.0,1.0,70.0,-9.0,55.0,-21.0,63.0,-31.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-4865.0" y="-255.0" />
@@ -968,7 +968,7 @@
         <spawnPoints layer="1" x="208" y="608" orientation="0.0">
           <team index="7" />
         </spawnPoints>
-        <spawnPoints layer="1" x="5025" y="81" orientation="-180.0">
+        <spawnPoints layer="1" x="4932" y="138" orientation="90.0">
           <team index="9" />
         </spawnPoints>
         <spawnPoints layer="1" x="208" y="640" orientation="0.0">
@@ -1519,7 +1519,7 @@
             <String value="Homing Missile" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="4928" y="209" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="4928" y="160" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
