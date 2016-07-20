@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Level backgroundColor="-16751002" nameTextColor="-16777216" useBlackSmokeForPlaneDamage="true" backgroundClearRequired="true">
+<Level backgroundColor="-8209981" nameTextColor="-16777216" useBlackSmokeForPlaneDamage="true" backgroundClearRequired="true">
   <levelModeConfig objectiveGameTimeSeconds="240" />
   <views>
     <View name="Background" size="5120,1440">
       <bounds minX="0" minY="0" maxX="5120" maxY="1440" />
       <geometry>
         <geometry layer="1" x="256" y="256" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-540213249,-256.0,-256.0,-256.0,1184.0,4864.0,1184.0,4864.0,-256.0,">
+          <texturedPoly hull="!-1664286721,-256.0,-256.0,-256.0,1184.0,4864.0,1184.0,4864.0,-256.0,">
             <texture>
               <image path="textures/sci-fi_floor_texture1-512.jpg" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
@@ -963,6 +963,16 @@
             </texture>
           </texturedPoly>
         </geometry>
+        <geometry layer="9" x="1205" y="1397" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-3342388,-6.9304466,-8.316536,-6.237402,-11.088714,-5.544357,-10.395669,-4.8513126,-11.781759,-4.8513126,-6.9304466,-3.4652233,-6.9304466,-4.158268,-9.009581,-3.4652233,-8.316536,-0.6930446,-11.088714,2.7721784,-12.474804,6.9304466,-11.088714,0.0,-5.544357,5.544357,-1.3860892,5.544357,2.7721784,2.7721784,2.7721784,-0.6930446,0.0,0.6930446,8.316536,0.0,6.237402,-1.3860892,12.474804,">
+            <texture>
+              <image path="images/logo.png" />
+              <xform scale="0.6930446" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-185.04292" y="-60.294884" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
       </geometry>
       <spawnPoints>
         <spawnPoints layer="1" x="208" y="608" orientation="0.0">
@@ -1519,7 +1529,7 @@
             <String value="Homing Missile" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="4928" y="160" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="4927" y="144" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
