@@ -1,0 +1,6 @@
+#1de_coop_alternate alti+ map settings
+
+/set assignTeam left
+/set intro Alternate bomb carry duties, and don't loose it (no gravity).
+
+/set gravity 1

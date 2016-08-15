@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="outlier-galaxy-ugc-4879-1600.jpg" value="p0" />
+    <entry key="rock1.png" value="p1" />
+    <entry key="rock10.png" value="p1" />
+    <entry key="rock11.png" value="p1" />
+    <entry key="rock12.png" value="p1" />
+    <entry key="rock13.png" value="p1" />
+    <entry key="rock14.png" value="p1" />
+    <entry key="rock15.png" value="p1" />
+    <entry key="rock16.png" value="p1" />
+    <entry key="rock17.png" value="p1" />
+    <entry key="rock18.png" value="p2" />
+    <entry key="rock19.png" value="p2" />
+    <entry key="rock2.png" value="p2" />
+    <entry key="rock20.png" value="p2" />
+    <entry key="rock21.png" value="p2" />
+    <entry key="rock22.png" value="p2" />
+    <entry key="rock23.png" value="p2" />
+    <entry key="rock3.png" value="p2" />
+    <entry key="rock4.png" value="p2" />
+    <entry key="rock5.png" value="p3" />
+    <entry key="rock6.png" value="p3" />
+    <entry key="rock7.png" value="p3" />
+    <entry key="rock8.png" value="p3" />
+    <entry key="rock9.png" value="p3" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

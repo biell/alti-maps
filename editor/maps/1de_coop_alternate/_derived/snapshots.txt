@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\1de_coop_alternate.alte" lastModified="1471230718435" length="263661" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\_config\image-descriptors.txt" lastModified="1471230825962" length="3093" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\outlier-galaxy-ugc-4879-1600.jpg" lastModified="1471191770932" length="398981" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock1.png" lastModified="1471190663945" length="4176" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock10.png" lastModified="1471191174339" length="3914" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock11.png" lastModified="1471191221982" length="4132" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock12.png" lastModified="1471191245609" length="4939" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock13.png" lastModified="1471191266929" length="4979" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock14.png" lastModified="1471191289179" length="4438" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock15.png" lastModified="1471191319555" length="3783" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock16.png" lastModified="1471191340189" length="5182" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock17.png" lastModified="1471191369362" length="4301" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock18.png" lastModified="1471191392935" length="5114" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock19.png" lastModified="1471191419895" length="4368" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock2.png" lastModified="1471190752169" length="4802" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock20.png" lastModified="1471191447189" length="6029" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock21.png" lastModified="1471191469492" length="4276" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock22.png" lastModified="1471191498635" length="4341" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock23.png" lastModified="1471191521815" length="4406" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock3.png" lastModified="1471190789269" length="4801" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock4.png" lastModified="1471190831162" length="2628" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock5.png" lastModified="1471190980249" length="3610" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock6.png" lastModified="1471191021699" length="4669" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock7.png" lastModified="1471191084172" length="4599" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock8.png" lastModified="1471191123769" length="5963" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock9.png" lastModified="1471191151015" length="3150" />
+  </snapshots>
+</snapshots.txt>
+
