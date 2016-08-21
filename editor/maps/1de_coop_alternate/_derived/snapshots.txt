@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\1de_coop_alternate.alte" lastModified="1471577325492" length="332894" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\_config\image-descriptors.txt" lastModified="1471577512995" length="3093" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\1de_coop_alternate.alte" lastModified="1471577622235" length="332895" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\_config\image-descriptors.txt" lastModified="1471813066504" length="3093" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\outlier-galaxy-ugc-4879-1600.jpg" lastModified="1471191770932" length="398981" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock1.png" lastModified="1471190663945" length="4176" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_alternate\images\rock10.png" lastModified="1471191174339" length="3914" />

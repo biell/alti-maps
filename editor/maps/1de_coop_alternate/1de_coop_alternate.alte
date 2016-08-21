@@ -3342,6 +3342,18 @@
             <String value="Wall" />
           </selectedPowerups>
         </powerupSpawner>
+        <powerupSpawner layer="1" x="2321" y="226" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="4544" y="1055" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
       </powerupSpawner>
       <Goal />
     </View>
