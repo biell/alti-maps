@@ -1698,7 +1698,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="4" x="7680" y="512" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="0.0">
-          <texturedPoly hull="!16777215,0.0,0.0,-33.0,-64.0,-32.0,-505.0,507.0,-507.0,508.0,32.0,32.0,32.0,19.0,0.0,5.0,0.0,32.0,64.0,545.0,64.0,545.0,-544.0,-97.0,-543.0,-97.0,33.0,0.0,32.0,">
+          <texturedPoly hull="!16777215,0.0,0.0,-33.0,-64.0,-32.0,-507.0,507.0,-507.0,508.0,32.0,32.0,32.0,19.0,0.0,5.0,0.0,32.0,64.0,545.0,64.0,545.0,-544.0,-97.0,-543.0,-97.0,33.0,0.0,32.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-7680.0" y="-512.0" />
@@ -2317,6 +2317,16 @@
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-0.0" y="-0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="7948" y="77" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!889192447,1.0,11.0,-2.0,4.0,1.0,5.0,0.0,-11.0,3.0,-10.0,3.0,11.0,">
+            <texture>
+              <image path="images/logo.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-12.0" y="-73.0" />
               </xform>
             </texture>
           </texturedPoly>
