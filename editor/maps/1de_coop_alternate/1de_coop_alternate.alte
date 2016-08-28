@@ -3000,12 +3000,6 @@
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="8" turnLeft="50.0" turnRight="20.0" maxDistance="900.0" x="7980" y="82" health="2000" gunCooldownSeconds="0.6" bulletSpeed="16.0" bulletDirectDamage="160" bulletBlastDamage="10" bulletBlastRadius="10">
-          <team index="3" />
-          <transformation scale="1.0" rotate="34.44935" flipX="true" flipY="false">
-            <translate x="0.0" y="0.0" />
-          </transformation>
-        </Turret>
       </Turret>
       <Hoop />
       <objectiveDescriptor />
