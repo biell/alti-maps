@@ -3000,6 +3000,24 @@
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
+        <Turret layer="1" turnLeft="6.0" turnRight="3.0" maxDistance="1400.0" x="2178" y="-15" health="99999" gunCooldownSeconds="0.5" bulletSpeed="17.0" bulletDirectDamage="0" bulletBlastDamage="0" bulletBlastRadius="0">
+          <team index="8" />
+          <transformation scale="1.0" rotate="0.0" flipX="false" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="1" turnLeft="3.0" turnRight="6.0" maxDistance="1400.0" x="4386" y="1296" health="99999" gunCooldownSeconds="0.5" bulletSpeed="17.0" bulletDirectDamage="0" bulletBlastDamage="0" bulletBlastRadius="0">
+          <team index="8" />
+          <transformation scale="1.0" rotate="0.0" flipX="false" flipY="true">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="1" turnLeft="7.0" turnRight="3.0" maxDistance="1400.0" x="6624" y="-16" health="99999" gunCooldownSeconds="0.5" bulletSpeed="17.0" bulletDirectDamage="0" bulletBlastDamage="0" bulletBlastRadius="0">
+          <team index="8" />
+          <transformation scale="1.0" rotate="0.0" flipX="false" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
       </Turret>
       <Hoop />
       <objectiveDescriptor />
