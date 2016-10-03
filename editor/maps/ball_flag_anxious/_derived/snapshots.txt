@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_anxious\_config\image-descriptors.txt" lastModified="1451492975691" length="1634" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_anxious\ball_flag_anxious.alte" lastModified="1451450755445" length="74653" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_anxious\_config\image-descriptors.txt" lastModified="1475457760156" length="1634" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_anxious\ball_flag_anxious.alte" lastModified="1451493784880" length="75957" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_anxious\images\background.png" lastModified="1447482228554" length="996197" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_anxious\images\big_rectangle.png" lastModified="1447384975654" length="18879" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_flag_anxious\images\blue_flag.png" lastModified="1447483821811" length="2640" />
