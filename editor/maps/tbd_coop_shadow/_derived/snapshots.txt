@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_shadow\_config\image-descriptors.txt" lastModified="1475967015832" length="1342" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_shadow\images\abc123.png" lastModified="1475967014888" length="5424" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_shadow\images\as23.png" lastModified="1475967014892" length="1226" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_shadow\images\bg1.png" lastModified="1475967014888" length="630038" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_shadow\images\im.png" lastModified="1475967014888" length="30173" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_shadow\images\im011.png" lastModified="1475967014892" length="2471" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_shadow\images\im012.png" lastModified="1475967014892" length="1175" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_shadow\images\im03.png" lastModified="1475967014888" length="35245" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_shadow\images\im07.png" lastModified="1475967014888" length="6241" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_shadow\images\jh6.png" lastModified="1475967014888" length="2722" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_shadow\images\mini.png" lastModified="1475967014888" length="4036" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_shadow\tbd_coop_shadow.alte" lastModified="1475967014898" length="109631" />
+  </snapshots>
+</snapshots.txt>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="abc123.png" value="p7" />
+    <entry key="as23.png" value="p7" />
+    <entry key="bg1.png" value="p4" />
+    <entry key="im.png" value="p5" />
+    <entry key="im011.png" value="p0" />
+    <entry key="im012.png" value="p1" />
+    <entry key="im03.png" value="p6" />
+    <entry key="im07.png" value="p2" />
+    <entry key="jh6.png" value="p3" />
+    <entry key="mini.png" value="p7" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+
