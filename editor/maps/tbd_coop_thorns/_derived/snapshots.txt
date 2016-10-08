@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_thorns\_config\image-descriptors.txt" lastModified="1475956060596" length="47592" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_thorns\_config\image-descriptors.txt" lastModified="1475956539326" length="47592" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_thorns\images\import_png_bg\00000.png" lastModified="1475956057943" length="76807" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_thorns\images\import_png_bg\00001.png" lastModified="1475956057943" length="69747" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_thorns\images\import_png_bg\00002.png" lastModified="1475956057939" length="21808" />
@@ -342,7 +342,7 @@
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_thorns\images\right07.png" lastModified="1475956057946" length="21820" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_thorns\images\right08.png" lastModified="1475956057926" length="20684" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_thorns\images\right09.png" lastModified="1475956057926" length="40257" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_thorns\tbd_coop_thorns.alte" lastModified="1475956057996" length="326838" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_thorns\tbd_coop_thorns.alte" lastModified="1475956433169" length="326838" />
   </snapshots>
 </snapshots.txt>
 
