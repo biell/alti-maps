@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_bank_robbery_expert\1de_coop_bank_robbery_expert.alte" lastModified="1475957811312" length="210977" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_bank_robbery_expert\_config\image-descriptors.txt" lastModified="1475957815045" length="48328" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_bank_robbery_expert\1de_coop_bank_robbery_expert.alte" lastModified="1475957976842" length="210977" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_bank_robbery_expert\_config\image-descriptors.txt" lastModified="1475960093674" length="48328" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_bank_robbery_expert\images\import_png_1de_coop_bank_robbery_hard C\00000.png" lastModified="1475957811248" length="6914" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_bank_robbery_expert\images\import_png_1de_coop_bank_robbery_hard C\00001.png" lastModified="1475957811242" length="6898" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_bank_robbery_expert\images\import_png_1de_coop_bank_robbery_hard C\00002.png" lastModified="1475957811222" length="17707" />
