@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="left02.png" value="p2" />
+    <entry key="left03.png" value="p0" />
+    <entry key="left04.png" value="p3" />
+    <entry key="left05.png" value="p3" />
+    <entry key="left06.png" value="p2" />
+    <entry key="left07.png" value="p1" />
+    <entry key="left08.png" value="p1" />
+    <entry key="left09.png" value="p1" />
+    <entry key="right02.png" value="p3" />
+    <entry key="right03.png" value="p0" />
+    <entry key="right04.png" value="p3" />
+    <entry key="right05.png" value="p3" />
+    <entry key="right06.png" value="p2" />
+    <entry key="right07.png" value="p1" />
+    <entry key="right08.png" value="p2" />
+    <entry key="right09.png" value="p1" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

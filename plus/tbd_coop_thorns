@@ -1,0 +1,9 @@
+#tbd_coop_thorns
+
+#Map by Brutal
+#Modified by biell to close down cheats, added damage(99) inner walls
+
+/set assignTeam left
+/set spawnMode health
+/set planeScale 90
+
