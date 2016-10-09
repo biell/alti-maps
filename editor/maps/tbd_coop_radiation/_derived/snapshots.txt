@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\_config\image-descriptors.txt" lastModified="1476038062574" length="5983" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\a2.png" lastModified="1476038060954" length="27759" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\a4.png" lastModified="1476038060964" length="25502" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\a6.png" lastModified="1476038060957" length="2707" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\a8.png" lastModified="1476038060964" length="96422" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\a9.png" lastModified="1476038060954" length="95646" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\background4.png" lastModified="1476038060954" length="5925696" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\backgroundtop.png" lastModified="1476038060960" length="845540" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\blanksign.png" lastModified="1476038060957" length="64540" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\block1.png" lastModified="1476038060950" length="135724" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\block3.png" lastModified="1476038060957" length="40334" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\block4a.png" lastModified="1476038060960" length="36481" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\block5t.png" lastModified="1476038060957" length="238652" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\block6b.png" lastModified="1476038060957" length="168880" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\block6t.png" lastModified="1476038060957" length="170220" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\bottomcurve1.png" lastModified="1476038060957" length="50987" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\explosiontop.png" lastModified="1476038060957" length="367559" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\ferretsign.png" lastModified="1476038060960" length="55660" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\import_png_blockabc\00000.png" lastModified="1476038060960" length="69182" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\import_png_blockabc\00001.png" lastModified="1476038060960" length="25506" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\import_png_blockabc\00002.png" lastModified="1476038060960" length="24923" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\import_png_blockabc\00003.png" lastModified="1476038060960" length="26418" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\import_png_blockabc\00004.png" lastModified="1476038060960" length="26328" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\import_png_blockabc\00005.png" lastModified="1476038060960" length="26991" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\import_png_blockabc\00006.png" lastModified="1476038060960" length="24570" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\import_png_blockabc\00007.png" lastModified="1476038060960" length="21982" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\import_png_blockabc\00008.png" lastModified="1476038060960" length="14872" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\import_png_blockabc\00009.png" lastModified="1476038060960" length="4103" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\import_png_blockabc\00010.png" lastModified="1476038060960" length="9061" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\import_png_blockabc\00011.png" lastModified="1476038060960" length="1045" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\import_png_blockabc\00012.png" lastModified="1476038060960" length="2360" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\import_png_cooltext800619440\00000.png" lastModified="1476038060957" length="44966" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\middlebottom.png" lastModified="1476038060957" length="30308" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\middletop.png" lastModified="1476038060964" length="27620" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\outer1.png" lastModified="1476038060950" length="48686" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\outer10.png" lastModified="1476038060964" length="32004" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\outer11.png" lastModified="1476038060960" length="62902" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\outer20.png" lastModified="1476038060957" length="50755" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\outer21.png" lastModified="1476038060964" length="35445" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\outer22.png" lastModified="1476038060957" length="48590" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\outer3.png" lastModified="1476038060957" length="60809" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\outer4.png" lastModified="1476038060957" length="60607" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\outer5b.png" lastModified="1476038060957" length="31777" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\outer6.png" lastModified="1476038060957" length="22190" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\pillarssign.png" lastModified="1476038060950" length="57702" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\images\snowsicklesign.png" lastModified="1476038060960" length="60049" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_radiation\tbd_coop_radiation.alte" lastModified="1476038061010" length="175978" />
+  </snapshots>
+</snapshots.txt>
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="a2.png" value="p5" />
+    <entry key="a4.png" value="p6" />
+    <entry key="a6.png" value="p3" />
+    <entry key="a8.png" value="p6" />
+    <entry key="a9.png" value="p6" />
+    <entry key="background4.png" value="p2" />
+    <entry key="backgroundtop.png" value="p0" />
+    <entry key="blanksign.png" value="p5" />
+    <entry key="block1.png" value="p4" />
+    <entry key="block3.png" value="p7" />
+    <entry key="block4a.png" value="p3" />
+    <entry key="block5t.png" value="p3" />
+    <entry key="block6b.png" value="p4" />
+    <entry key="block6t.png" value="p5" />
+    <entry key="bottomcurve1.png" value="p4" />
+    <entry key="explosiontop.png" value="p1" />
+    <entry key="ferretsign.png" value="p6" />
+    <entry key="middlebottom.png" value="p3" />
+    <entry key="middletop.png" value="p5" />
+    <entry key="outer1.png" value="p7" />
+    <entry key="outer10.png" value="p3" />
+    <entry key="outer11.png" value="p3" />
+    <entry key="outer20.png" value="p7" />
+    <entry key="outer21.png" value="p7" />
+    <entry key="outer22.png" value="p5" />
+    <entry key="outer3.png" value="p5" />
+    <entry key="outer4.png" value="p5" />
+    <entry key="outer5b.png" value="p5" />
+    <entry key="outer6.png" value="p4" />
+    <entry key="pillarssign.png" value="p6" />
+    <entry key="snowsicklesign.png" value="p6" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+
