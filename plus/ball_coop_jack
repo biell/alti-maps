@@ -16,7 +16,7 @@
 /add door Door < 4976,5232
 /add door Door < 4976,5264
 
-/add key Missle  Door < 657,5422
+/add key Missile Door < 657,5422
 /add key Control Door < 529,4494
 /add key EMP     Door < 144,496
 /add key Rush    Door < 528,271
