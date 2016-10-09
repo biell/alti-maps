@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_roll\_config\image-descriptors.txt" lastModified="1476040159991" length="2353" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_roll\images\import_png_Each\00000.png" lastModified="1476040159888" length="875" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_roll\images\import_png_Support\00000.png" lastModified="1476040159888" length="1779" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_roll\images\import_png_Wisely\00000.png" lastModified="1476040159888" length="2674" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_roll\images\import_png_all\00000.png" lastModified="1476040159888" length="5002" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_roll\images\import_png_basic\00000.png" lastModified="1476040159888" length="5437" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_roll\images\import_png_charge\00000.png" lastModified="1476040159888" length="2072" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_roll\images\import_png_emp\00000.png" lastModified="1476040159888" length="1120" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_roll\images\import_png_goodluck\00000.png" lastModified="1476040159888" length="3712" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_roll\images\import_png_images\00000.png" lastModified="1476040159885" length="54081" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_roll\images\import_png_is\00000.png" lastModified="1476040159888" length="384" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_roll\images\import_png_key\00000.png" lastModified="1476040159888" length="832" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_roll\images\import_png_loopy1\00000.png" lastModified="1476040159888" length="1304" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_roll\images\import_png_loopy\00000.png" lastModified="1476040159888" length="2091" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_roll\images\import_png_other\00000.png" lastModified="1476040159888" length="967" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_roll\images\import_png_patient\00000.png" lastModified="1476040159888" length="2101" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_roll\images\import_png_whale\00000.png" lastModified="1476040159885" length="1211" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_roll\tbd_coop_roll.alte" lastModified="1476040159895" length="213635" />
+  </snapshots>
+</snapshots.txt>
+
