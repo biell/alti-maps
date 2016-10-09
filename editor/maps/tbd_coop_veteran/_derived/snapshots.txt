@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\_config\image-descriptors.txt" lastModified="1476056293002" length="3926" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\1.png" lastModified="1476056292128" length="156314" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\16.png" lastModified="1476056292122" length="259724" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\17.png" lastModified="1476056292128" length="117695" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\4.png" lastModified="1476056292128" length="82343" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\8.png" lastModified="1476056292125" length="31107" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\9.png" lastModified="1476056292128" length="43387" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_background\00000.png" lastModified="1476056292125" length="266609" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_background\00001.png" lastModified="1476056292125" length="255798" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_background\00002.png" lastModified="1476056292122" length="179847" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_background\00003.png" lastModified="1476056292122" length="225554" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_background\00004.png" lastModified="1476056292125" length="226207" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_background\00005.png" lastModified="1476056292122" length="157597" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_background\00006.png" lastModified="1476056292122" length="232624" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_background\00007.png" lastModified="1476056292125" length="212001" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_background\00008.png" lastModified="1476056292125" length="209601" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_background\00009.png" lastModified="1476056292125" length="82663" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_background\00010.png" lastModified="1476056292125" length="57334" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_background\00011.png" lastModified="1476056292125" length="66792" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_cooltext831520950\00000.png" lastModified="1476056292122" length="26978" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_cooltext831520950\00001.png" lastModified="1476056292122" length="12945" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_cooltext831538260\00000.png" lastModified="1476056292125" length="34616" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_cooltext831538260\00001.png" lastModified="1476056292125" length="11793" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_cooltext831538260\00002.png" lastModified="1476056292125" length="969" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_cooltext831548573\00000.png" lastModified="1476056292128" length="8376" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_cooltext832610763\00000.png" lastModified="1476056292125" length="29117" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_cooltext832610763\00001.png" lastModified="1476056292125" length="30117" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\images\import_png_cooltext832610763\00002.png" lastModified="1476056292125" length="3697" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_veteran\tbd_coop_veteran.alte" lastModified="1476056292145" length="145134" />
+  </snapshots>
+</snapshots.txt>
+

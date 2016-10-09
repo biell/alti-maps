@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-descriptors.txt>
+  <descriptors>
+    <ImageDescriptor path="images/import_png_cooltext832610763/00001.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_cooltext832610763/00002.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_cooltext832610763/00000.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_cooltext831548573/00000.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_cooltext831538260/00001.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_cooltext831538260/00002.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_cooltext831538260/00000.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_cooltext831520950/00000.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_cooltext831520950/00001.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_background/00007.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_background/00003.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_background/00008.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_background/00010.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_background/00009.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_background/00002.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_background/00005.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_background/00004.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_background/00006.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_background/00000.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_background/00001.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/import_png_background/00011.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/4.png" wrapMode="CLAMP" filter="NEAREST" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/9.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/1.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/17.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/16.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/8.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+  </descriptors>
+</image-descriptors.txt>
+

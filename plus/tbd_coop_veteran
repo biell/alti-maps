@@ -1,0 +1,7 @@
+#tbd_coop_veteran
+
+#Modified by biell to close down cheats, added damage(99) inner walls
+
+/set assignTeam left
+/set spawnMode health
+
