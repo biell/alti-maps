@@ -1,0 +1,10 @@
+#1dm_punchout alti+ map settings
+
+#By Solikos, a few updates by biell
+
+#Basic settings:
+/set cameraScale 80
+/set planeScale 80
+/set gravity 3
+/set spawnHealth 500
+/set intro "Don't get cornered!"
