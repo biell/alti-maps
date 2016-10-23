@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_better_together_nb\_config\image-descriptors.txt" lastModified="1477190203452" length="985" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_better_together_nb\images\00000.png" lastModified="1477190200672" length="71594" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_better_together_nb\images\back.png" lastModified="1477190200675" length="3005298" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_better_together_nb\images\barre.png" lastModified="1477190200675" length="56852" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_better_together_nb\images\barre32.png" lastModified="1477190200675" length="32777" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_better_together_nb\images\barre4.png" lastModified="1477190200675" length="123071" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_better_together_nb\images\barre6.png" lastModified="1477190200675" length="45518" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_better_together_nb\images\cadreG.png" lastModified="1477190200675" length="118661" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_better_together_nb\tbd_coop_better_together_nb.alte" lastModified="1477190200705" length="343806" />
+  </snapshots>
+</snapshots.txt>
+
