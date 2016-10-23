@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_punchout\1dm_punchout.alte" lastModified="1477242862324" length="13149" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_punchout\_config\image-descriptors.txt" lastModified="1477242862367" length="1156" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_punchout\1dm_punchout.alte" lastModified="1477243039767" length="13149" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_punchout\_config\image-descriptors.txt" lastModified="1477243171224" length="1156" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_punchout\images\import_png_Punch-Out\00000.png" lastModified="1477242862320" length="13576" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_punchout\images\import_png_Punch-Out\00001.png" lastModified="1477242862320" length="1308" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1dm_punchout\images\import_png_Ring Corner Blue\00000.png" lastModified="1477242862320" length="19625" />
