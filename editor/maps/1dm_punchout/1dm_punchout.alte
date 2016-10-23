@@ -209,7 +209,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="2" x="777" y="749" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!16777215,1.0,1.0,-1.0,-540.0,-265.0,-541.0,!-16777216,-265.0,-749.0,223.0,-749.0,223.0,250.0,-297.0,251.0,!16777215,-297.0,1.0,">
+          <texturedPoly hull="!16777215,1.0,1.0,-1.0,-540.0,-265.0,-541.0,!-16777216,-265.0,-749.0,223.0,-749.0,223.0,251.0,-297.0,251.0,!16777215,-297.0,1.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
                 <translate x="223.0" y="-749.0" />
