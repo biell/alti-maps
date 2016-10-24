@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="ring_corner_blue.png" value="p0" />
+    <entry key="ring_corner_red.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+
