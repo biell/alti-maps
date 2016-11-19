@@ -3209,7 +3209,7 @@
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="8" x="592" y="2576" orientation="0.0" spawnTime="9999.0" neverFade="true" spawnAtRoundStart="true">
+        <powerupSpawner layer="1" x="592" y="2576" orientation="0.0" spawnTime="9999.0" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Shield" />
@@ -3311,7 +3311,7 @@
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="8" x="816" y="912" orientation="0.0" spawnTime="9999.0" neverFade="true" spawnAtRoundStart="true">
+        <powerupSpawner layer="1" x="816" y="912" orientation="0.0" spawnTime="9999.0" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Shield" />
@@ -3324,19 +3324,19 @@
             <String value="Bomb" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="8" x="2864" y="112" orientation="0.0" spawnTime="9999.0" neverFade="true" spawnAtRoundStart="true">
+        <powerupSpawner layer="1" x="2864" y="112" orientation="0.0" spawnTime="9999.0" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Shield" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="8" x="144" y="496" orientation="0.0" spawnTime="9999.0" neverFade="true" spawnAtRoundStart="true">
+        <powerupSpawner layer="1" x="144" y="496" orientation="0.0" spawnTime="9999.0" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Shield" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="8" x="2640" y="112" orientation="0.0" spawnTime="9999.0" neverFade="true" spawnAtRoundStart="true">
+        <powerupSpawner layer="1" x="2640" y="112" orientation="0.0" spawnTime="9999.0" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Shield" />
