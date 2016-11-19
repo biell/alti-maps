@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_snake_oil\1de_coop_snake_oil.alte" lastModified="1471916664079" length="96788" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_snake_oil\_config\image-descriptors.txt" lastModified="1477542765351" length="521" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_snake_oil\images\azure_base.png" lastModified="1477542760175" length="64559" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_snake_oil\1de_coop_snake_oil.alte" lastModified="1477543638247" length="97361" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_snake_oil\_config\image-descriptors.txt" lastModified="1478459201657" length="394" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_snake_oil\images\logo.png" lastModified="1469021265834" length="11070" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_snake_oil\textures\sci-fi_floor_texture1-512.jpg" lastModified="1468702469929" length="120062" />
   </snapshots>

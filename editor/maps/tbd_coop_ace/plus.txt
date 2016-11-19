@@ -1,0 +1,32 @@
+#ball_coop_jack alti+ map settings
+
+/set assignTeam left
+/set ballScore 5 0
+/set spawnMode portal
+/set intro Collect all 6 keys, then shoot the ball down to the goal
+
+/add note 5300,5872 Shoot the ball down the shaft to the goal
+/add note 5328,5872 Shoot the ball down the shaft to the goal
+/add note 5356,5872 Shoot the ball down the shaft to the goal
+
+/add door Door < 4944,5200
+/add door Door < 4944,5232
+/add door Door < 4944,5264
+/add door Door < 4976,5200
+/add door Door < 4976,5232
+/add door Door < 4976,5264
+
+/add key Missile Door < 657,5422
+/add key Control Door < 529,4494
+/add key EMP     Door < 144,496
+/add key Rush    Door < 528,271
+/add key Destroy Door < 1215,317
+/add key PowerUp Door < 2225,688
+
+/add portal Start 657,5422 4534,5100,e
+/add portal Start 529,4494 4534,5100,e
+/add portal Start 144,496 4534,5100,e
+/add portal Start 528,271 4534,5100,e
+/add portal Start 1215,317 4534,5100,e
+/add portal Start 2225,688 4534,5100,e
+

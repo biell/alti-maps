@@ -1,0 +1,29 @@
+#tbd_coop_ace of planes alti+ map settings
+
+/set assignTeam right
+/set spawnMode portal
+/set intro Collect all 5 plane keys, then drop the bomb down the shaft
+
+/add note 5904,5904 Drop the bomb down the shaft
+/add note 5904,5840 Drop the bomb down the shaft
+/add note 5904,5872 Drop the bomb down the shaft
+
+/add door Door < 5493,5556
+/add door Door < 5493,5586
+/add door Door < 5493,5616
+/add door Door < 5523,5556
+/add door Door < 5523,5586
+/add door Door < 5523,5616
+
+/add key Biplane  Door < 592,2576
+/add key Bomber   Door < 816,912
+/add key Loopy    Door < 144,496
+/add key Miranda  Door < 2640,112
+/add key Explodet Door < 2864,112
+
+/add portal Start 592,2576 5088,5792,w
+/add portal Start 816,912  5088,5792,w
+/add portal Start 144,496  5088,5792,w
+/add portal Start 2640,112 5088,5792,w
+/add portal Start 2864,112 5088,5792,w
+
