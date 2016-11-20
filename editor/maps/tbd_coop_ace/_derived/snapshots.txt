@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\_config\image-descriptors.txt" lastModified="1479657311118" length="989" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\images\biplane.png" lastModified="1479576193750" length="10873" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\_config\image-descriptors.txt" lastModified="1479660746001" length="989" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\images\biplane.png" lastModified="1479660732411" length="10681" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\images\bomber.png" lastModified="1479576819663" length="12510" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\images\door.png" lastModified="1479580640754" length="5915" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\images\explodet.png" lastModified="1479576612830" length="15172" />
