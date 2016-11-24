@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\_config\image-descriptors.txt" lastModified="1479923613492" length="1246" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\_config\image-descriptors.txt" lastModified="1480007030106" length="1246" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\images\biplane.png" lastModified="1479660732411" length="10681" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\images\bomber.png" lastModified="1479576819663" length="12510" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\images\door.png" lastModified="1479580640754" length="5915" />
@@ -10,7 +10,7 @@
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\images\miranda.png" lastModified="1479576471717" length="11395" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\images\title.png" lastModified="1479657304625" length="19545" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\plus.txt" lastModified="1478986056870" length="947" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\tbd_coop_ace.alte" lastModified="1479923606152" length="322074" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\tbd_coop_ace.alte" lastModified="1480006828819" length="322622" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\textures\background.png" lastModified="1479885081257" length="144282" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_ace\textures\texture.png" lastModified="1479861484583" length="332334" />
   </snapshots>

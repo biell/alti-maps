@@ -2825,13 +2825,13 @@
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="1" turnLeft="145.0" turnRight="145.0" maxDistance="490.0" x="4160" y="3312" health="1200" gunCooldownSeconds="0.4" bulletSpeed="18.0" bulletDirectDamage="10" bulletBlastDamage="30" bulletBlastRadius="80">
+        <Turret layer="1" turnLeft="145.0" turnRight="145.0" maxDistance="490.0" x="4160" y="3312" health="1200" gunCooldownSeconds="0.4" bulletSpeed="18.0" bulletDirectDamage="20" bulletBlastDamage="40" bulletBlastRadius="90">
           <team index="3" />
           <transformation scale="1.0" rotate="0.0" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="1" turnLeft="145.0" turnRight="145.0" maxDistance="490.0" x="4160" y="3274" health="1200" gunCooldownSeconds="0.4" bulletSpeed="18.0" bulletDirectDamage="10" bulletBlastDamage="30" bulletBlastRadius="80">
+        <Turret layer="1" turnLeft="145.0" turnRight="145.0" maxDistance="490.0" x="4160" y="3274" health="1200" gunCooldownSeconds="0.4" bulletSpeed="18.0" bulletDirectDamage="20" bulletBlastDamage="40" bulletBlastRadius="90">
           <team index="3" />
           <transformation scale="1.0" rotate="0.0" flipX="false" flipY="true">
             <translate x="0.0" y="0.0" />
