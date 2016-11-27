@@ -1,0 +1,7 @@
+#tbd_coop_nebula
+
+#Modified by biell to close down cheats, added damage(9) inner walls
+
+/set assignTeam left
+/set spawnMode health
+

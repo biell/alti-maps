@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\_config\image-descriptors.txt" lastModified="1480288970359" length="29961" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00000.png" lastModified="1480288966753" length="44635" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00001.png" lastModified="1480288966753" length="19295" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00002.png" lastModified="1480288966753" length="33091" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00003.png" lastModified="1480288966753" length="13289" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00004.png" lastModified="1480288966753" length="1222" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00005.png" lastModified="1480288966753" length="29795" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00006.png" lastModified="1480288966753" length="29995" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00007.png" lastModified="1480288966753" length="12422" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00008.png" lastModified="1480288966756" length="1319" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00009.png" lastModified="1480288966756" length="5418" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00010.png" lastModified="1480288966756" length="33755" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00011.png" lastModified="1480288966756" length="13034" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00012.png" lastModified="1480288966756" length="50255" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00013.png" lastModified="1480288966756" length="13696" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00014.png" lastModified="1480288966756" length="13478" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00015.png" lastModified="1480288966756" length="43122" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00016.png" lastModified="1480288966756" length="33995" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00017.png" lastModified="1480288966756" length="11994" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00018.png" lastModified="1480288966756" length="10611" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00019.png" lastModified="1480288966756" length="31702" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00020.png" lastModified="1480288966756" length="10721" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00021.png" lastModified="1480288966756" length="37139" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00022.png" lastModified="1480288966756" length="37054" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00023.png" lastModified="1480288966756" length="30821" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00024.png" lastModified="1480288966756" length="6463" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00025.png" lastModified="1480288966756" length="547" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00026.png" lastModified="1480288966756" length="3091" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00027.png" lastModified="1480288966756" length="20843" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00028.png" lastModified="1480288966756" length="4615" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00029.png" lastModified="1480288966756" length="736" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00030.png" lastModified="1480288966773" length="14027" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00031.png" lastModified="1480288966773" length="36048" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00032.png" lastModified="1480288966773" length="36832" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00033.png" lastModified="1480288966773" length="26245" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00034.png" lastModified="1480288966773" length="18581" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00035.png" lastModified="1480288966773" length="34483" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00036.png" lastModified="1480288966773" length="10415" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00037.png" lastModified="1480288966773" length="18327" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00038.png" lastModified="1480288966773" length="11075" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00039.png" lastModified="1480288966776" length="11772" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00040.png" lastModified="1480288966776" length="93529" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00041.png" lastModified="1480288966776" length="34848" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00042.png" lastModified="1480288966776" length="11420" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00043.png" lastModified="1480288966776" length="5496" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00044.png" lastModified="1480288966776" length="7810" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00045.png" lastModified="1480288966776" length="5014" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00046.png" lastModified="1480288966776" length="1940" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00047.png" lastModified="1480288966776" length="2682" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00048.png" lastModified="1480288966776" length="10735" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00049.png" lastModified="1480288966776" length="11421" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00050.png" lastModified="1480288966776" length="10307" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00051.png" lastModified="1480288966776" length="5305" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00052.png" lastModified="1480288966776" length="5071" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00053.png" lastModified="1480288966776" length="9774" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00054.png" lastModified="1480288966776" length="5399" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00055.png" lastModified="1480288966776" length="5414" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00056.png" lastModified="1480288966776" length="4363" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00057.png" lastModified="1480288966776" length="12923" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00058.png" lastModified="1480288966776" length="325" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00059.png" lastModified="1480288966779" length="7802" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00060.png" lastModified="1480288966779" length="25669" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00061.png" lastModified="1480288966779" length="30370" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00062.png" lastModified="1480288966779" length="7708" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00063.png" lastModified="1480288966779" length="879" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00064.png" lastModified="1480288966779" length="8830" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00065.png" lastModified="1480288966779" length="3134" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00066.png" lastModified="1480288966779" length="15679" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00067.png" lastModified="1480288966779" length="34319" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00068.png" lastModified="1480288966779" length="36339" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00069.png" lastModified="1480288966779" length="13780" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00070.png" lastModified="1480288966779" length="32042" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00071.png" lastModified="1480288966779" length="24592" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00072.png" lastModified="1480288966779" length="21979" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00073.png" lastModified="1480288966779" length="7006" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00074.png" lastModified="1480288966779" length="15874" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00075.png" lastModified="1480288966779" length="2771" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00076.png" lastModified="1480288966779" length="2988" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00077.png" lastModified="1480288966783" length="4676" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00078.png" lastModified="1480288966783" length="744" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00079.png" lastModified="1480288966783" length="17026" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00080.png" lastModified="1480288966783" length="1569" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00081.png" lastModified="1480288966783" length="73225" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00082.png" lastModified="1480288966783" length="20120" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00083.png" lastModified="1480288966783" length="13406" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00084.png" lastModified="1480288966783" length="8000" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00085.png" lastModified="1480288966783" length="8641" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00086.png" lastModified="1480288966783" length="8397" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00087.png" lastModified="1480288966783" length="13058" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00088.png" lastModified="1480288966783" length="1209" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00089.png" lastModified="1480288966783" length="8857" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00090.png" lastModified="1480288966783" length="1219" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00091.png" lastModified="1480288966783" length="8877" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00092.png" lastModified="1480288966783" length="15765" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00093.png" lastModified="1480288966783" length="29442" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00094.png" lastModified="1480288966786" length="6363" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00095.png" lastModified="1480288966786" length="5418" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00096.png" lastModified="1480288966786" length="11384" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00097.png" lastModified="1480288966786" length="10062" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00098.png" lastModified="1480288966786" length="6805" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00099.png" lastModified="1480288966786" length="6829" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00100.png" lastModified="1480288966786" length="27621" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00101.png" lastModified="1480288966786" length="4216" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00102.png" lastModified="1480288966786" length="15365" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00103.png" lastModified="1480288966786" length="1261" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00104.png" lastModified="1480288966786" length="5110" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00105.png" lastModified="1480288966786" length="8082" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00106.png" lastModified="1480288966786" length="5011" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00107.png" lastModified="1480288966786" length="6702" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00108.png" lastModified="1480288966786" length="12089" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00109.png" lastModified="1480288966786" length="7651" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00110.png" lastModified="1480288966786" length="129072" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00111.png" lastModified="1480288966789" length="21436" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00112.png" lastModified="1480288966789" length="3539" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00113.png" lastModified="1480288966789" length="8725" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00114.png" lastModified="1480288966789" length="6600" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00115.png" lastModified="1480288966789" length="7275" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00116.png" lastModified="1480288966789" length="2583" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00117.png" lastModified="1480288966789" length="11524" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00118.png" lastModified="1480288966789" length="5389" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00119.png" lastModified="1480288966789" length="5425" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00120.png" lastModified="1480288966789" length="10542" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00121.png" lastModified="1480288966789" length="5443" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00122.png" lastModified="1480288966789" length="4765" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00123.png" lastModified="1480288966789" length="49516" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00124.png" lastModified="1480288966789" length="14812" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00125.png" lastModified="1480288966789" length="1950" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00126.png" lastModified="1480288966789" length="4452" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00127.png" lastModified="1480288966789" length="10522" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00128.png" lastModified="1480288966793" length="5620" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00129.png" lastModified="1480288966793" length="2281" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00130.png" lastModified="1480288966793" length="14496" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00131.png" lastModified="1480288966793" length="17269" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00132.png" lastModified="1480288966793" length="14454" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00133.png" lastModified="1480288966793" length="7374" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00134.png" lastModified="1480288966793" length="12999" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00135.png" lastModified="1480288966793" length="60442" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00136.png" lastModified="1480288966793" length="8445" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00137.png" lastModified="1480288966793" length="35377" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00138.png" lastModified="1480288966793" length="41761" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00139.png" lastModified="1480288966793" length="34651" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00140.png" lastModified="1480288966793" length="718" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00141.png" lastModified="1480288966793" length="7809" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00142.png" lastModified="1480288966793" length="36779" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00143.png" lastModified="1480288966796" length="33238" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00144.png" lastModified="1480288966796" length="35361" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00145.png" lastModified="1480288966796" length="29126" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00146.png" lastModified="1480288966796" length="21524" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00147.png" lastModified="1480288966796" length="11398" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00148.png" lastModified="1480288966796" length="11493" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00149.png" lastModified="1480288966796" length="32599" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00150.png" lastModified="1480288966796" length="35614" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00151.png" lastModified="1480288966796" length="34099" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00152.png" lastModified="1480288966796" length="32225" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00153.png" lastModified="1480288966796" length="9182" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00154.png" lastModified="1480288966796" length="38547" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00155.png" lastModified="1480288966796" length="35116" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00156.png" lastModified="1480288966796" length="36117" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00157.png" lastModified="1480288966796" length="28871" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00158.png" lastModified="1480288966799" length="8682" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00159.png" lastModified="1480288966799" length="11496" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00160.png" lastModified="1480288966799" length="11898" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00161.png" lastModified="1480288966799" length="5581" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00162.png" lastModified="1480288966799" length="4123" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00163.png" lastModified="1480288966799" length="5525" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00164.png" lastModified="1480288966799" length="5383" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00165.png" lastModified="1480288966799" length="2757" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00166.png" lastModified="1480288966799" length="636" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00167.png" lastModified="1480288966799" length="77818" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00168.png" lastModified="1480288966799" length="71096" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00169.png" lastModified="1480288966799" length="71778" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00170.png" lastModified="1480288966799" length="73901" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Map2\00171.png" lastModified="1480288966799" length="7733" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Nebula small\00000.png" lastModified="1480288966803" length="9174" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Nebula small\00001.png" lastModified="1480288966803" length="10726" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Nebula small\00002.png" lastModified="1480288966803" length="82228" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Nebula small\00003.png" lastModified="1480288966803" length="59620" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Nebula small\00004.png" lastModified="1480288966803" length="55192" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Nebula small\00005.png" lastModified="1480288966803" length="30616" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_Nebula small\00006.png" lastModified="1480288966803" length="18884" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00000.png" lastModified="1480288966743" length="166574" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00001.png" lastModified="1480288966746" length="167410" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00002.png" lastModified="1480288966746" length="164082" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00003.png" lastModified="1480288966746" length="164793" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00004.png" lastModified="1480288966746" length="7499" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00005.png" lastModified="1480288966746" length="163430" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00006.png" lastModified="1480288966746" length="163468" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00007.png" lastModified="1480288966746" length="163368" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00008.png" lastModified="1480288966746" length="160762" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00009.png" lastModified="1480288966746" length="7633" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00010.png" lastModified="1480288966746" length="165042" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00011.png" lastModified="1480288966746" length="166498" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00012.png" lastModified="1480288966746" length="164711" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00013.png" lastModified="1480288966749" length="163650" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00014.png" lastModified="1480288966749" length="7649" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00015.png" lastModified="1480288966749" length="166849" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00016.png" lastModified="1480288966749" length="168580" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00017.png" lastModified="1480288966749" length="164095" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00018.png" lastModified="1480288966749" length="164335" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00019.png" lastModified="1480288966749" length="7506" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00020.png" lastModified="1480288966749" length="164328" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00021.png" lastModified="1480288966749" length="166964" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00022.png" lastModified="1480288966749" length="164624" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00023.png" lastModified="1480288966749" length="163674" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00024.png" lastModified="1480288966749" length="7660" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00025.png" lastModified="1480288966749" length="163524" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00026.png" lastModified="1480288966753" length="166349" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00027.png" lastModified="1480288966753" length="164961" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00028.png" lastModified="1480288966753" length="162493" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00029.png" lastModified="1480288966753" length="7479" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00030.png" lastModified="1480288966753" length="137213" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00031.png" lastModified="1480288966753" length="137045" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00032.png" lastModified="1480288966753" length="134983" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00033.png" lastModified="1480288966753" length="133470" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\images\import_png_bottom part\00034.png" lastModified="1480288966753" length="7234" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_nebula\tbd_coop_nebula.alte" lastModified="1480288966813" length="241907" />
+  </snapshots>
+</snapshots.txt>
+
