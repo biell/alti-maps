@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_castle_raid\_config\image-descriptors.txt" lastModified="1480387703140" length="2254" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_castle_raid\images\import_png_skull+and+crossbones\00000.png" lastModified="1480387702937" length="33609" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_castle_raid\images\import_png_skull+and+crossbones\00001.png" lastModified="1480387702937" length="64984" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_castle_raid\images\import_png_skull+and+crossbones\00002.png" lastModified="1480387702937" length="4017" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_castle_raid\images\import_png_skull+and+crossbones\00003.png" lastModified="1480387702937" length="3994" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_castle_raid\images\import_png_skull+and+crossbones\00004.png" lastModified="1480387702937" length="10523" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_castle_raid\images\import_png_skull+and+crossbones\00005.png" lastModified="1480387702937" length="119" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_castle_raid\images\import_png_skull+and+crossbones\00006.png" lastModified="1480387702937" length="5179" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_castle_raid\images\import_png_skull+and+crossbones\00007.png" lastModified="1480387702937" length="4105" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_castle_raid\images\import_png_skull+and+crossbones\00008.png" lastModified="1480387702937" length="111" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_castle_raid\images\import_png_skull+and+crossbones\00009.png" lastModified="1480387702937" length="1956" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_castle_raid\images\import_png_skull+and+crossbones\00010.png" lastModified="1480387702937" length="3815" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_castle_raid\images\import_png_white-snow\00000.png" lastModified="1480387702937" length="118271" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_castle_raid\images\import_png_white-snow\00001.png" lastModified="1480387702937" length="12198" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_castle_raid\images\import_png_white-snow\00002.png" lastModified="1480387702937" length="11033" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_castle_raid\tbd_coop_castle_raid.alte" lastModified="1480387702983" length="1013602" />
+  </snapshots>
+</snapshots.txt>
+
