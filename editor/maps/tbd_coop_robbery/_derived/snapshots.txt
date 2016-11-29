@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_robbery\_config\image-descriptors.txt" lastModified="1480292084053" length="66372" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_robbery\_config\image-descriptors.txt" lastModified="1480386144814" length="66372" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_robbery\images\import_png_Knob\00000.png" lastModified="1480292078450" length="187686" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_robbery\images\import_png_Knob\00001.png" lastModified="1480292078450" length="38236" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_robbery\images\import_png_Knob\00002.png" lastModified="1480292078450" length="43355" />
@@ -479,7 +479,7 @@
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_robbery\images\import_png_donottouch\00000.png" lastModified="1480292078446" length="4830" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_robbery\images\import_png_donottouch\00001.png" lastModified="1480292078446" length="3294" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_robbery\images\import_png_donottouch\00002.png" lastModified="1480292078446" length="1233" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_robbery\tbd_coop_robbery.alte" lastModified="1480292078550" length="361369" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_robbery\tbd_coop_robbery.alte" lastModified="1480294276656" length="365468" />
   </snapshots>
 </snapshots.txt>
 
