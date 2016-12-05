@@ -106,7 +106,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="4924" y="5359" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="1" x="4926" y="5359" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1426063361,-53.0,-53.0,-53.0,54.0,54.0,54.0,54.0,-53.0,">
             <texture>
               <image path="images/miranda.png" />
