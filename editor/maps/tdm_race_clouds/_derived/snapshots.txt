@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_race_clouds\_config\image-descriptors.txt" lastModified="1481989739257" length="1133" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_race_clouds\images\altitude_title.png" lastModified="1481989620264" length="24239" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_race_clouds\images\blue-sky-with-birds.png" lastModified="1481989620267" length="488676" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_race_clouds\images\cloud1.png" lastModified="1481989620270" length="18002" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_race_clouds\images\cloud2.png" lastModified="1481989620274" length="23052" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_race_clouds\images\cloud3.png" lastModified="1481989620274" length="15108" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_race_clouds\images\cloud4.png" lastModified="1481989620277" length="19992" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_race_clouds\images\cloud5.png" lastModified="1481989620277" length="13016" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_race_clouds\images\cloud6.png" lastModified="1481989620280" length="21823" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_race_clouds\tdm_race_clouds.alte" lastModified="1481989651140" length="65087" />
+  </snapshots>
+</snapshots.txt>
+

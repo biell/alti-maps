@@ -1,0 +1,34 @@
+#ball_race_clouds alti+ map settings
+
+#Basic settings:
+/set intro A race amongst the clouds
+/set spawnMode died
+/set spawnHealth 400
+/set planeScale 80
+/set weapons 3
+/set score 8 8
+
+#Checkpoints:
+/add powerup 1 * 1577,115
+/add powerup 1 * 1590,141
+/add powerup 1 * 1600,168
+/add powerup 1 * 1607,112
+/add powerup 1 * 1611,195
+/add powerup 1 * 1617,221
+/add powerup 1 * 1620,138
+/add powerup 1 * 1630,165
+/add powerup 1 * 1641,192
+
+/add powerup 2 * 672,111
+/add powerup 2 * 683,137
+/add powerup 2 * 693,162
+/add powerup 2 * 712,111
+/add powerup 2 * 720,139
+/add powerup 2 * 727,166
+
+
+#One-ways:
+/add oneway 672,111 e
+/add oneway 683,137 e
+/add oneway 693,162 e
+
