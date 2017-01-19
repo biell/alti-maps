@@ -1,0 +1,8 @@
+#tbd_up alti+ map settings
+
+#Basic settings:
+/set intro Level up
+/set assignTeam left
+/set planeScale 90
+/set spawnHealth 200
+
