@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_up\_config\image-descriptors.txt" lastModified="1484878481291" length="112" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_up\tbd_up.alte" lastModified="1484865802004" length="106600" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_up\_config\image-descriptors.txt" lastModified="1485618695725" length="112" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_up\tbd_up.alte" lastModified="1485134583262" length="106602" />
   </snapshots>
 </snapshots.txt>
 
