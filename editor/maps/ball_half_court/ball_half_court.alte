@@ -46,7 +46,7 @@
     <View name="Game" size="1280,720">
       <bounds minX="0" minY="0" maxX="1280" maxY="720" />
       <geometry>
-        <geometry layer="2" x="57" y="296" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="3" x="57" y="296" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-14.0,11.0,-14.0,-11.0,13.0,-10.0,15.0,6.0,11.0,11.0,">
             <texture>
               <image path="images/red_goal.png" />
@@ -88,6 +88,15 @@
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="64" y="416" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="25.0">
+          <texturedPoly hull="!-52429,-18.0,-2.0,-46.0,-19.0,-51.0,-56.0,-46.0,-94.0,-18.0,-111.0,-16.0,-113.0,-47.0,-94.0,-52.0,-56.0,-47.0,-19.0,-16.0,0.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-65.0" y="-416.0" />
               </xform>
             </texture>
           </texturedPoly>
