@@ -46,12 +46,12 @@
     <View name="Game" size="1280,720">
       <bounds minX="0" minY="0" maxX="1280" maxY="720" />
       <geometry>
-        <geometry layer="3" x="57" y="296" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-14.0,11.0,-14.0,-11.0,13.0,-10.0,15.0,6.0,11.0,11.0,">
+        <geometry layer="3" x="48" y="306" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-11.662809,9.163636,-11.662809,-9.163636,10.829752,-8.330579,12.495867,4.9983473,9.163636,9.163636,">
             <texture>
               <image path="images/red_goal.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-15.0" y="-11.0" />
+              <xform scale="0.8330579" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-12.495867" y="-9.163636" />
               </xform>
             </texture>
           </texturedPoly>
@@ -75,7 +75,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="4" x="0" y="0" orientation="0.0" visible="true" collidable="true" elasticity="0.5" damageModifier="0.5">
-          <texturedPoly hull="!-6724096,0.0,0.0,-2.0,309.0,-3.0,313.0,-3.0,406.0,0.0,412.0,0.0,720.0,40.0,720.0,40.0,435.0,39.0,425.0,3.0,411.0,0.0,407.0,0.0,312.0,4.0,308.0,39.0,294.0,40.0,285.0,40.0,0.0,">
+          <texturedPoly hull="!-6724096,0.0,0.0,-2.0,309.0,-3.0,313.0,-3.0,406.0,0.0,412.0,0.0,720.0,36.0,720.0,36.0,425.0,34.0,417.0,4.0,405.0,1.0,403.0,0.0,320.0,4.0,317.0,33.0,306.0,35.0,297.0,35.0,0.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
                 <translate x="1280.0" y="0.0" />
@@ -92,8 +92,8 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="64" y="416" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="25.0">
-          <texturedPoly hull="!-52429,-18.0,-2.0,-46.0,-19.0,-51.0,-56.0,-46.0,-94.0,-18.0,-111.0,-16.0,-113.0,-47.0,-94.0,-52.0,-56.0,-47.0,-19.0,-16.0,0.0,">
+        <geometry layer="5" x="62" y="416" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="25.0">
+          <texturedPoly hull="!-52429,-22.0,-9.0,-47.0,-24.0,-51.0,-56.0,-47.0,-87.0,-23.0,-101.0,-22.0,-102.0,-48.0,-87.0,-52.0,-56.0,-48.0,-24.0,-21.0,-8.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-65.0" y="-416.0" />
@@ -165,15 +165,15 @@
         </powerupSpawner>
       </powerupSpawner>
       <Goal>
-        <Goal layer="1" x="36" y="360">
+        <Goal layer="1" x="30" y="361">
           <team index="3" />
-          <transformation scale="1.0" rotate="0.0" flipX="false" flipY="false">
+          <transformation scale="0.84743124" rotate="0.0" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Goal>
-        <Goal layer="2" x="36" y="360">
+        <Goal layer="2" x="30" y="361">
           <team index="4" />
-          <transformation scale="1.0" rotate="0.0" flipX="false" flipY="false">
+          <transformation scale="0.84662575" rotate="0.0" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Goal>
