@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\_config\image-descriptors.txt" lastModified="1486092810641" length="496" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\ffa_coop_wrap_around.alte" lastModified="1486091698034" length="66344" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\images\title.png" lastModified="1486092806651" length="8721" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\textures\bg.png" lastModified="1486091698024" length="74818" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\textures\wall.png" lastModified="1486091698028" length="130906" />
+  </snapshots>
+</snapshots.txt>
+
