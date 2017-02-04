@@ -10,7 +10,27 @@
             <texture>
               <image path="textures/bg.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-0.0" y="-0.0" />
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="3839" y="802" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1107296257,-95.322914,-95.322914,-95.322914,95.886955,95.886955,95.886955,95.886955,-95.322914,">
+            <texture>
+              <image path="images/sparkle_png_by_pvs_by_pixievamp_stock.png" />
+              <xform scale="0.56404096" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-95.322914" y="-95.322914" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="3" x="3840" y="803" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-55.74193,-55.74193,-55.74193,55.921738,55.921738,55.921738,55.921738,-55.74193,">
+            <texture>
+              <image path="images/sun_png_by_pvs_by_pixievamp_stock.png" />
+              <xform scale="0.17981265" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-55.74193" y="-55.74193" />
               </xform>
             </texture>
           </texturedPoly>
@@ -954,6 +974,28 @@
           </selectedPowerups>
         </powerupSpawner>
       </powerupSpawner>
+      <Goal />
+    </View>
+    <View name="Over" size="4096,3072">
+      <bounds minX="0" minY="0" maxX="4096" maxY="3072" />
+      <geometry>
+        <geometry layer="3" x="3840" y="803" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-256,-19.735426,-19.735426,-19.735426,19.852205,19.852205,19.852205,19.852205,-19.735426,">
+            <texture>
+              <image path="images/sparkle_png_by_pvs_by_pixievamp_stock.png" />
+              <xform scale="0.11677767" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-19.735426" y="-19.735426" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+      </geometry>
+      <spawnPoints />
+      <Base />
+      <Turret />
+      <Hoop />
+      <objectiveDescriptor />
+      <powerupSpawner />
       <Goal />
     </View>
   </views>
