@@ -458,19 +458,19 @@
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="9" turnLeft="15.0" turnRight="10.0" maxDistance="2800.0" x="3157" y="2914" health="99999" gunCooldownSeconds="0.2" bulletSpeed="29.0" bulletDirectDamage="100" bulletBlastDamage="80" bulletBlastRadius="90">
+        <Turret layer="9" turnLeft="15.0" turnRight="10.0" maxDistance="2800.0" x="3157" y="2914" health="99999" gunCooldownSeconds="0.2" bulletSpeed="29.0" bulletDirectDamage="100" bulletBlastDamage="70" bulletBlastRadius="60">
           <team index="10" />
           <transformation scale="0.73333335" rotate="0.0" flipX="false" flipY="true">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="9" turnLeft="15.0" turnRight="15.0" maxDistance="900.0" x="3201" y="2914" health="99999" gunCooldownSeconds="0.2" bulletSpeed="29.0" bulletDirectDamage="100" bulletBlastDamage="80" bulletBlastRadius="90">
+        <Turret layer="9" turnLeft="15.0" turnRight="15.0" maxDistance="900.0" x="3201" y="2914" health="99999" gunCooldownSeconds="0.2" bulletSpeed="29.0" bulletDirectDamage="100" bulletBlastDamage="70" bulletBlastRadius="60">
           <team index="10" />
           <transformation scale="0.73333335" rotate="0.0" flipX="false" flipY="true">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="9" turnLeft="10.0" turnRight="15.0" maxDistance="2800.0" x="3244" y="2914" health="99999" gunCooldownSeconds="0.2" bulletSpeed="29.0" bulletDirectDamage="100" bulletBlastDamage="80" bulletBlastRadius="90">
+        <Turret layer="9" turnLeft="10.0" turnRight="15.0" maxDistance="2800.0" x="3244" y="2914" health="99999" gunCooldownSeconds="0.2" bulletSpeed="29.0" bulletDirectDamage="100" bulletBlastDamage="70" bulletBlastRadius="60">
           <team index="10" />
           <transformation scale="0.73333335" rotate="0.0" flipX="false" flipY="true">
             <translate x="0.0" y="0.0" />
@@ -674,19 +674,19 @@
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="9" turnLeft="10.0" turnRight="15.0" maxDistance="2800.0" x="3243" y="54" health="99999" gunCooldownSeconds="0.2" bulletSpeed="29.0" bulletDirectDamage="100" bulletBlastDamage="90" bulletBlastRadius="80">
+        <Turret layer="9" turnLeft="10.0" turnRight="15.0" maxDistance="2800.0" x="3243" y="54" health="99999" gunCooldownSeconds="0.2" bulletSpeed="29.0" bulletDirectDamage="100" bulletBlastDamage="80" bulletBlastRadius="60">
           <team index="10" />
           <transformation scale="0.73333335" rotate="0.0" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="9" turnLeft="15.0" turnRight="10.0" maxDistance="2800.0" x="3156" y="54" health="99999" gunCooldownSeconds="0.2" bulletSpeed="29.0" bulletDirectDamage="100" bulletBlastDamage="90" bulletBlastRadius="80">
+        <Turret layer="9" turnLeft="15.0" turnRight="10.0" maxDistance="2800.0" x="3156" y="54" health="99999" gunCooldownSeconds="0.2" bulletSpeed="29.0" bulletDirectDamage="100" bulletBlastDamage="80" bulletBlastRadius="60">
           <team index="10" />
           <transformation scale="0.73333335" rotate="0.0" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="9" turnLeft="15.0" turnRight="15.0" maxDistance="900.0" x="3200" y="54" health="99999" gunCooldownSeconds="0.2" bulletSpeed="29.0" bulletDirectDamage="100" bulletBlastDamage="90" bulletBlastRadius="80">
+        <Turret layer="9" turnLeft="15.0" turnRight="15.0" maxDistance="900.0" x="3200" y="54" health="99999" gunCooldownSeconds="0.2" bulletSpeed="29.0" bulletDirectDamage="100" bulletBlastDamage="80" bulletBlastRadius="60">
           <team index="10" />
           <transformation scale="0.73333335" rotate="0.0" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
