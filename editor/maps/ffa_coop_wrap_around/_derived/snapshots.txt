@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\_config\image-descriptors.txt" lastModified="1486267657254" length="1287" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\ffa_coop_wrap_around.alte" lastModified="1486267608184" length="78196" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\_config\image-descriptors.txt" lastModified="1486311352577" length="1533" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\ffa_coop_wrap_around.alte" lastModified="1486311078437" length="75096" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\images\sparkle_png_by_pvs_by_pixievamp_stock.png" lastModified="1486176747886" length="147679" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\images\speed.png" lastModified="1486310681151" length="2286" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\images\star.png" lastModified="1486102283461" length="512" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\images\sun_png_by_pvs_by_pixievamp_stock.png" lastModified="1486177965540" length="333602" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\images\title.png" lastModified="1486092806651" length="8721" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\images\together.png" lastModified="1486267649418" length="3314" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\images\turrets.png" lastModified="1486311346984" length="4534" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\images\use.png" lastModified="1486266817594" length="2095" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\images\wait.png" lastModified="1486266766178" length="2466" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\textures\bg.png" lastModified="1486091698024" length="74818" />

@@ -35,72 +35,12 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="2492" y="2613" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-128.0,-32.0,-128.0,32.0,128.0,32.0,128.0,-32.0,">
+        <geometry layer="5" x="2448" y="2624" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1140850689,-100.0,-25.0,-100.0,25.0,100.0,25.0,100.0,-25.0,">
             <texture>
-              <image path="images/use.png" />
+              <image path="images/speed.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-128.0" y="-32.0" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
-        <geometry layer="5" x="2493" y="2613" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1140850689,-128.0,-32.0,-128.0,32.0,128.0,32.0,128.0,-32.0,">
-            <texture>
-              <image path="images/use.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-128.0" y="-32.0" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
-        <geometry layer="5" x="2490" y="1685" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1140850689,-128.0,-32.0,-128.0,32.0,128.0,32.0,128.0,-32.0,">
-            <texture>
-              <image path="images/use.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-128.0" y="-32.0" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
-        <geometry layer="5" x="2490" y="600" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1140850689,-128.0,-32.0,-128.0,32.0,128.0,32.0,128.0,-32.0,">
-            <texture>
-              <image path="images/use.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-128.0" y="-32.0" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
-        <geometry layer="5" x="3049" y="2412" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1140850689,-128.0,-32.0,-128.0,32.0,128.0,32.0,128.0,-32.0,">
-            <texture>
-              <image path="images/wait.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-128.0" y="-32.0" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
-        <geometry layer="5" x="3049" y="1484" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1140850689,-128.0,-32.0,-128.0,32.0,128.0,32.0,128.0,-32.0,">
-            <texture>
-              <image path="images/wait.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-128.0" y="-32.0" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
-        <geometry layer="5" x="3049" y="396" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1140850689,-128.0,-32.0,-128.0,32.0,128.0,32.0,128.0,-32.0,">
-            <texture>
-              <image path="images/wait.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-128.0" y="-32.0" />
+                <translate x="-100.0" y="-25.0" />
               </xform>
             </texture>
           </texturedPoly>
@@ -451,7 +391,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="3415" y="2848" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+        <geometry layer="9" x="3431" y="2848" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
           <texturedPoly hull="!-6710887,0.0,0.0,0.0,6.0,-15.0,6.0,-15.0,10.0,81.0,10.0,81.0,6.0,64.0,6.0,64.0,0.0,53.0,0.0,53.0,6.0,11.0,6.0,11.0,0.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
@@ -484,6 +424,16 @@
               <image path="images/together.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-21.0" y="-47.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="692" y="1696" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1996488705,-76.0,-64.0,-76.0,64.0,76.0,64.0,76.0,-64.0,">
+            <texture>
+              <image path="images/turrets.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-76.0" y="-64.0" />
               </xform>
             </texture>
           </texturedPoly>
@@ -1107,7 +1057,7 @@
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="9" x="3448" y="2880" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="9" x="3464" y="2880" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
