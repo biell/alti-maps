@@ -5,6 +5,9 @@
     <entry key="star.png" value="p2" />
     <entry key="sun_png_by_pvs_by_pixievamp_stock.png" value="p0" />
     <entry key="title.png" value="p1" />
+    <entry key="together.png" value="p2" />
+    <entry key="use.png" value="p2" />
+    <entry key="wait.png" value="p3" />
   </pack-path-by-image-path>
 </image-lookup-map.txt>
 
