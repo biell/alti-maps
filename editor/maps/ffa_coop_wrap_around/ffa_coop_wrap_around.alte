@@ -288,7 +288,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="4" x="0" y="2240" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,0.0,-33.0,159.0,-192.0,448.0,-192.0,448.0,-1024.0,640.0,-1024.0,640.0,-800.0,768.0,-800.0,768.0,-1120.0,1984.0,-1120.0,1984.0,-1024.0,2048.0,-1024.0,2048.0,-928.0,2112.0,-928.0,2112.0,-832.0,3104.0,-832.0,!-3618596,3104.0,-896.0,3040.0,-896.0,3040.0,-1664.0,3104.0,-1664.0,!-1,3104.0,-1728.0,2624.0,-1728.0,2624.0,-1568.0,2272.0,-1568.0,2272.0,-1728.0,2112.0,-1728.0,2112.0,-1536.0,2816.0,-1536.0,2816.0,-1184.0,1728.0,-1184.0,1728.0,-1952.0,1376.0,-1952.0,1376.0,-1184.0,768.0,-1184.0,768.0,-1952.0,448.0,-1952.0,448.0,-1632.0,192.0,-1632.0,192.0,-1600.0,448.0,-1600.0,448.0,-1279.0,0.0,-831.0,!855638015,0.0,-864.0,416.0,-1280.0,416.0,-1568.0,160.0,-1568.0,160.0,-1664.0,416.0,-1664.0,!889192447,416.0,-1984.0,800.0,-1984.0,!872415231,800.0,-1216.0,1344.0,-1216.0,!889192447,1344.0,-1984.0,1760.0,-1984.0,!872415231,1760.0,-1216.0,2784.0,-1216.0,2784.0,-1504.0,2080.0,-1504.0,2080.0,-1760.0,2304.0,-1760.0,2304.0,-1600.0,2592.0,-1600.0,2592.0,-1760.0,3136.0,-1760.0,!868796636,3136.0,-1632.0,3072.0,-1632.0,3072.0,-928.0,3136.0,-928.0,3136.0,-800.0,!889192447,2080.0,-800.0,!872415231,2080.0,-896.0,!889192447,2016.0,-896.0,2016.0,-992.0,!872415231,1952.0,-992.0,1952.0,-1088.0,800.0,-1088.0,800.0,-768.0,608.0,-768.0,608.0,-992.0,480.0,-992.0,480.0,-160.0,160.0,-160.0,!889192447,0.0,0.0,">
+          <texturedPoly hull="!-1,0.0,-33.0,159.0,-192.0,448.0,-192.0,448.0,-1024.0,640.0,-1024.0,640.0,-800.0,768.0,-800.0,768.0,-1120.0,1984.0,-1120.0,1984.0,-1024.0,2048.0,-1024.0,2048.0,-928.0,2112.0,-928.0,2112.0,-832.0,3104.0,-832.0,!-3618596,3104.0,-896.0,3040.0,-896.0,3040.0,-1568.0,3104.0,-1568.0,!-1,3104.0,-1632.0,2624.0,-1632.0,2624.0,-1472.0,2272.0,-1472.0,2272.0,-1632.0,2112.0,-1632.0,2112.0,-1440.0,2816.0,-1440.0,2816.0,-1152.0,1728.0,-1152.0,1728.0,-1952.0,1376.0,-1952.0,1376.0,-1184.0,768.0,-1184.0,768.0,-1952.0,448.0,-1952.0,448.0,-1632.0,192.0,-1632.0,192.0,-1600.0,448.0,-1600.0,448.0,-1279.0,0.0,-831.0,!855638015,0.0,-864.0,416.0,-1280.0,416.0,-1568.0,160.0,-1568.0,160.0,-1664.0,416.0,-1664.0,!889192447,416.0,-1984.0,800.0,-1984.0,!872415231,800.0,-1216.0,1344.0,-1216.0,!889192447,1344.0,-1984.0,1760.0,-1984.0,!872415231,1760.0,-1184.0,2784.0,-1184.0,2784.0,-1408.0,2080.0,-1408.0,2080.0,-1664.0,2304.0,-1664.0,2304.0,-1504.0,2592.0,-1504.0,2592.0,-1664.0,3136.0,-1664.0,!868796636,3136.0,-1536.0,3072.0,-1536.0,3072.0,-928.0,3136.0,-928.0,3136.0,-800.0,!889192447,2080.0,-800.0,!872415231,2080.0,-896.0,!889192447,2016.0,-896.0,2016.0,-992.0,!872415231,1952.0,-992.0,1952.0,-1088.0,800.0,-1088.0,800.0,-768.0,608.0,-768.0,608.0,-992.0,480.0,-992.0,480.0,-160.0,160.0,-160.0,!889192447,0.0,0.0,">
             <texture>
               <image path="textures/wall.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
@@ -298,7 +298,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="3" x="0" y="2206" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="9.0">
-          <texturedPoly hull="!-1,159.0,-158.0,448.0,-158.0,448.0,-990.0,640.0,-990.0,640.0,-766.0,768.0,-766.0,768.0,-1086.0,1984.0,-1086.0,1984.0,-990.0,2048.0,-990.0,2048.0,-894.0,2112.0,-894.0,2112.0,-798.0,3104.0,-798.0,!-3618596,3104.0,-862.0,3040.0,-862.0,3040.0,-1630.0,3104.0,-1630.0,!-1,3104.0,-1694.0,2624.0,-1694.0,2624.0,-1534.0,2272.0,-1534.0,2272.0,-1694.0,2112.0,-1694.0,2112.0,-1502.0,2816.0,-1502.0,2816.0,-1150.0,1728.0,-1150.0,1728.0,-1918.0,1376.0,-1918.0,1376.0,-1150.0,768.0,-1150.0,768.0,-1918.0,448.0,-1918.0,448.0,-1598.0,192.0,-1598.0,192.0,-1566.0,448.0,-1566.0,448.0,-1245.0,0.0,-797.0,0.0,1.0,">
+          <texturedPoly hull="!-1,159.0,-158.0,448.0,-158.0,448.0,-990.0,640.0,-990.0,640.0,-766.0,768.0,-766.0,768.0,-1086.0,1984.0,-1086.0,1984.0,-990.0,2048.0,-990.0,2048.0,-894.0,2112.0,-894.0,2112.0,-798.0,3104.0,-798.0,!-3618596,3104.0,-862.0,3040.0,-862.0,3040.0,-1534.0,3104.0,-1534.0,!-1,3104.0,-1598.0,2624.0,-1598.0,2624.0,-1438.0,2272.0,-1438.0,2272.0,-1598.0,2112.0,-1598.0,2112.0,-1406.0,2816.0,-1406.0,2816.0,-1118.0,1728.0,-1118.0,1728.0,-1918.0,1376.0,-1918.0,1376.0,-1150.0,768.0,-1150.0,768.0,-1918.0,448.0,-1918.0,448.0,-1598.0,192.0,-1598.0,192.0,-1566.0,448.0,-1566.0,448.0,-1245.0,0.0,-797.0,0.0,1.0,">
             <texture>
               <image path="textures/wall.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
@@ -308,7 +308,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="5" x="0" y="1248" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,0.0,-33.0,256.0,-289.0,256.0,-448.0,32.0,-448.0,32.0,-800.0,288.0,-800.0,288.0,-1152.0,928.0,-1152.0,928.0,-352.0,1216.0,-352.0,1216.0,-1120.0,1888.0,-1120.0,1888.0,-352.0,2656.0,-352.0,2656.0,-384.0,1952.0,-384.0,1952.0,-928.0,3104.0,-928.0,3104.0,-992.0,3040.0,-992.0,3040.0,-1216.0,3360.0,-1216.0,3360.0,-1024.0,3296.0,-1024.0,3296.0,-960.0,3936.0,-960.0,3936.0,-640.0,4064.0,-640.0,4064.0,-320.0,3616.0,-320.0,3616.0,-640.0,3744.0,-640.0,3744.0,-768.0,3296.0,-768.0,3296.0,-704.0,3360.0,-704.0,!-3618596,3360.0,64.0,3296.0,64.0,!-1,3296.0,128.0,3935.0,128.0,4096.0,-33.0,!855638015,4096.0,0.0,!872415231,3936.0,161.0,3264.0,160.0,!868796636,3264.0,32.0,3328.0,32.0,3328.0,-672.0,3264.0,-672.0,!872415231,3264.0,-800.0,3776.0,-800.0,!855638015,3776.0,-608.0,3648.0,-608.0,3648.0,-352.0,4032.0,-352.0,4032.0,-608.0,3904.0,-608.0,!872415231,3904.0,-928.0,3264.0,-928.0,3264.0,-1056.0,3328.0,-1056.0,3328.0,-1184.0,3072.0,-1184.0,3072.0,-1024.0,3136.0,-1024.0,3136.0,-896.0,1984.0,-896.0,1984.0,-416.0,2688.0,-416.0,2688.0,-320.0,1856.0,-320.0,1856.0,-1088.0,1248.0,-1088.0,1248.0,-320.0,896.0,-320.0,!855638015,896.0,-1120.0,320.0,-1120.0,320.0,-768.0,64.0,-768.0,64.0,-480.0,288.0,-480.0,288.0,-288.0,!872415231,0.0,0.0,">
+          <texturedPoly hull="!-1,0.0,-33.0,256.0,-289.0,256.0,-448.0,32.0,-448.0,32.0,-800.0,288.0,-800.0,288.0,-1152.0,928.0,-1152.0,928.0,-352.0,1216.0,-352.0,1216.0,-1120.0,1888.0,-1120.0,1888.0,-288.0,2656.0,-288.0,2656.0,-320.0,1952.0,-320.0,1952.0,-832.0,3104.0,-832.0,3104.0,-896.0,3040.0,-896.0,3040.0,-1216.0,3360.0,-1216.0,3360.0,-928.0,3296.0,-928.0,3296.0,-864.0,3936.0,-864.0,3936.0,-544.0,4064.0,-544.0,4064.0,-224.0,3616.0,-224.0,3616.0,-544.0,3744.0,-544.0,3744.0,-672.0,3296.0,-672.0,3296.0,-608.0,3360.0,-608.0,!-3618596,3360.0,64.0,3296.0,64.0,!-1,3296.0,128.0,3935.0,128.0,4096.0,-33.0,!855638015,4096.0,0.0,!872415231,3936.0,161.0,3264.0,160.0,!868796636,3264.0,32.0,3328.0,32.0,3328.0,-576.0,3264.0,-576.0,!872415231,3264.0,-704.0,3776.0,-704.0,!855638015,3776.0,-512.0,3648.0,-512.0,3648.0,-256.0,4032.0,-256.0,4032.0,-512.0,3904.0,-512.0,!872415231,3904.0,-832.0,3264.0,-832.0,3264.0,-960.0,3328.0,-960.0,3328.0,-1184.0,3072.0,-1184.0,3072.0,-928.0,3136.0,-928.0,3136.0,-800.0,1984.0,-800.0,1984.0,-352.0,2688.0,-352.0,2688.0,-256.0,1856.0,-256.0,1856.0,-1088.0,1248.0,-1088.0,1248.0,-320.0,896.0,-320.0,!855638015,896.0,-1120.0,320.0,-1120.0,320.0,-768.0,64.0,-768.0,64.0,-480.0,288.0,-480.0,288.0,-288.0,!872415231,0.0,0.0,">
             <texture>
               <image path="textures/wall.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
@@ -318,7 +318,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="6" x="0" y="1215" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="9.0">
-          <texturedPoly hull="!-1,0.0,0.0,256.0,-256.0,256.0,-415.0,32.0,-415.0,32.0,-767.0,288.0,-767.0,288.0,-1119.0,928.0,-1119.0,928.0,-319.0,1216.0,-319.0,1216.0,-1087.0,1888.0,-1087.0,1888.0,-319.0,2656.0,-319.0,2656.0,-351.0,1952.0,-351.0,1952.0,-895.0,3104.0,-895.0,3104.0,-959.0,3040.0,-959.0,3040.0,-1183.0,3360.0,-1183.0,3360.0,-991.0,3296.0,-991.0,3296.0,-927.0,3936.0,-927.0,3936.0,-607.0,4064.0,-607.0,4064.0,-287.0,3616.0,-287.0,3616.0,-607.0,3744.0,-607.0,3744.0,-735.0,3296.0,-735.0,3296.0,-671.0,3360.0,-671.0,3360.0,97.0,3296.0,97.0,3296.0,161.0,3935.0,161.0,4096.0,0.0,4096.0,-1215.0,0.0,-1215.0,">
+          <texturedPoly hull="!-1,0.0,0.0,256.0,-256.0,256.0,-415.0,32.0,-415.0,32.0,-767.0,288.0,-767.0,288.0,-1119.0,928.0,-1119.0,928.0,-319.0,1216.0,-319.0,1216.0,-1087.0,1888.0,-1087.0,1888.0,-255.0,2656.0,-255.0,2656.0,-287.0,1952.0,-287.0,1952.0,-799.0,3104.0,-799.0,3104.0,-863.0,3040.0,-863.0,3040.0,-1183.0,3360.0,-1183.0,3360.0,-895.0,3296.0,-895.0,3296.0,-831.0,3936.0,-831.0,3936.0,-511.0,4064.0,-511.0,4064.0,-191.0,3616.0,-191.0,3616.0,-511.0,3744.0,-511.0,3744.0,-639.0,3296.0,-639.0,3296.0,-575.0,3360.0,-575.0,3360.0,97.0,3296.0,97.0,3296.0,161.0,3935.0,161.0,4096.0,0.0,4096.0,-1215.0,0.0,-1215.0,">
             <texture>
               <image path="textures/wall.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
@@ -337,10 +337,10 @@
           </texturedPoly>
         </geometry>
         <geometry layer="2" x="0" y="1248" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-3618596,0.0,0.0,288.0,-288.0,288.0,-480.0,64.0,-480.0,64.0,-768.0,320.0,-768.0,320.0,-1120.0,896.0,-1120.0,896.0,-320.0,1248.0,-320.0,1248.0,-1088.0,1856.0,-1088.0,1856.0,-320.0,2688.0,-320.0,2688.0,-416.0,1984.0,-416.0,1984.0,-896.0,3136.0,-896.0,3136.0,-1024.0,3072.0,-1024.0,3072.0,-1184.0,3328.0,-1184.0,3328.0,-1056.0,3264.0,-1056.0,3264.0,-928.0,3904.0,-928.0,3904.0,-608.0,4032.0,-608.0,4032.0,-352.0,3648.0,-352.0,3648.0,-608.0,3776.0,-608.0,3776.0,-800.0,3264.0,-800.0,3264.0,-672.0,3328.0,-672.0,3328.0,32.0,3264.0,32.0,3264.0,160.0,3936.0,161.0,4096.0,0.0,4096.0,-1248.0,0.0,-1248.0,">
+          <texturedPoly hull="!-3618596,0.0,0.0,288.0,-288.0,288.0,-480.0,64.0,-480.0,64.0,-768.0,320.0,-768.0,320.0,-1120.0,896.0,-1120.0,896.0,-320.0,1248.0,-320.0,1248.0,-1088.0,1856.0,-1088.0,1856.0,-256.0,2688.0,-256.0,2688.0,-352.0,1984.0,-352.0,1984.0,-800.0,3136.0,-800.0,3136.0,-928.0,3072.0,-928.0,3072.0,-1184.0,3328.0,-1184.0,3328.0,-960.0,3264.0,-960.0,3264.0,-832.0,3904.0,-832.0,3904.0,-512.0,4032.0,-512.0,4032.0,-256.0,3648.0,-256.0,3648.0,-512.0,3776.0,-512.0,3776.0,-704.0,3264.0,-704.0,3264.0,-576.0,3328.0,-576.0,3328.0,32.0,3264.0,32.0,3264.0,160.0,3936.0,161.0,4096.0,0.0,4096.0,-1248.0,0.0,-1248.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-0.0" y="-1248.0" />
+                <translate x="0.0" y="-1248.0" />
               </xform>
             </texture>
           </texturedPoly>
@@ -355,7 +355,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="1" x="0" y="2240" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-3618596,0.0,0.0,160.0,-160.0,480.0,-160.0,480.0,-992.0,608.0,-992.0,608.0,-768.0,800.0,-768.0,800.0,-1088.0,1952.0,-1088.0,1952.0,-992.0,2016.0,-992.0,2016.0,-896.0,2080.0,-896.0,2080.0,-800.0,3136.0,-800.0,3136.0,-928.0,3072.0,-928.0,3072.0,-1632.0,3136.0,-1632.0,3136.0,-1760.0,2592.0,-1760.0,2592.0,-1600.0,2304.0,-1600.0,2304.0,-1760.0,2080.0,-1760.0,2080.0,-1504.0,2784.0,-1504.0,2784.0,-1216.0,1760.0,-1216.0,1760.0,-1984.0,1344.0,-1984.0,1344.0,-1216.0,800.0,-1216.0,800.0,-1984.0,416.0,-1984.0,416.0,-1664.0,160.0,-1664.0,160.0,-1568.0,416.0,-1568.0,416.0,-1280.0,0.0,-864.0,">
+          <texturedPoly hull="!-3618596,0.0,0.0,160.0,-160.0,480.0,-160.0,480.0,-992.0,608.0,-992.0,608.0,-768.0,800.0,-768.0,800.0,-1088.0,1952.0,-1088.0,1952.0,-992.0,2016.0,-992.0,2016.0,-896.0,2080.0,-896.0,2080.0,-800.0,3136.0,-800.0,3136.0,-928.0,3072.0,-928.0,3072.0,-1536.0,3136.0,-1536.0,3136.0,-1664.0,2592.0,-1664.0,2592.0,-1504.0,2304.0,-1504.0,2304.0,-1664.0,2080.0,-1664.0,2080.0,-1408.0,2784.0,-1408.0,2784.0,-1184.0,1760.0,-1184.0,1760.0,-1984.0,1344.0,-1984.0,1344.0,-1216.0,800.0,-1216.0,800.0,-1984.0,416.0,-1984.0,416.0,-1664.0,160.0,-1664.0,160.0,-1568.0,416.0,-1568.0,416.0,-1280.0,0.0,-864.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="0.0" y="-2240.0" />
@@ -382,15 +382,6 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="3055" y="2368" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
-          <texturedPoly hull="!-6710887,0.0,0.0,0.0,6.0,-15.0,6.0,-15.0,10.0,81.0,10.0,81.0,6.0,64.0,6.0,64.0,0.0,53.0,0.0,53.0,6.0,11.0,6.0,11.0,0.0,">
-            <texture>
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-3029.0" y="-2368.0" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
         <geometry layer="9" x="3431" y="2848" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
           <texturedPoly hull="!-6710887,0.0,0.0,0.0,6.0,-15.0,6.0,-15.0,10.0,81.0,10.0,81.0,6.0,64.0,6.0,64.0,0.0,53.0,0.0,53.0,6.0,11.0,6.0,11.0,0.0,">
             <texture>
@@ -400,17 +391,8 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="3055" y="1440" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
-          <texturedPoly hull="!-6710887,0.0,0.0,0.0,6.0,-15.0,6.0,-15.0,10.0,81.0,10.0,81.0,6.0,64.0,6.0,64.0,0.0,53.0,0.0,53.0,6.0,11.0,6.0,11.0,0.0,">
-            <texture>
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-3029.0" y="-2368.0" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
-        <geometry layer="9" x="3055" y="352" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
-          <texturedPoly hull="!-6710887,0.0,0.0,0.0,6.0,-15.0,6.0,-15.0,10.0,81.0,10.0,81.0,6.0,64.0,6.0,64.0,0.0,53.0,0.0,53.0,6.0,11.0,6.0,11.0,0.0,">
+        <geometry layer="9" x="3055" y="448" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-6710887,0.0,0.0,0.0,6.0,-15.0,6.0,-15.0,11.0,54.0,11.0,55.0,9.0,58.0,8.0,59.0,8.0,62.0,9.0,63.0,11.0,81.0,11.0,81.0,6.0,64.0,6.0,64.0,0.0,53.0,0.0,53.0,6.0,11.0,6.0,11.0,0.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-3029.0" y="-2368.0" />
@@ -434,6 +416,24 @@
               <image path="images/turrets.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-76.0" y="-64.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="3055" y="1440" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-6710887,0.0,0.0,0.0,6.0,-15.0,6.0,-15.0,11.0,54.0,11.0,55.0,9.0,58.0,8.0,59.0,8.0,62.0,9.0,63.0,11.0,81.0,11.0,81.0,6.0,64.0,6.0,64.0,0.0,53.0,0.0,53.0,6.0,11.0,6.0,11.0,0.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-3029.0" y="-2368.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="3055" y="2368" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-6710887,0.0,0.0,0.0,6.0,-15.0,6.0,-15.0,11.0,54.0,11.0,55.0,9.0,58.0,8.0,59.0,8.0,62.0,9.0,63.0,11.0,81.0,11.0,81.0,6.0,64.0,6.0,64.0,0.0,53.0,0.0,53.0,6.0,11.0,6.0,11.0,0.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-3029.0" y="-2368.0" />
               </xform>
             </texture>
           </texturedPoly>
@@ -584,37 +584,37 @@
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="1" turnLeft="20.0" turnRight="5.0" maxDistance="300.0" x="3578" y="768" health="99999" gunCooldownSeconds="0.9" bulletSpeed="25.0" bulletDirectDamage="1" bulletBlastDamage="1" bulletBlastRadius="550">
+        <Turret layer="1" turnLeft="20.0" turnRight="5.0" maxDistance="300.0" x="3578" y="864" health="99999" gunCooldownSeconds="0.9" bulletSpeed="25.0" bulletDirectDamage="1" bulletBlastDamage="1" bulletBlastRadius="550">
           <team index="3" />
           <transformation scale="1.0" rotate="-90.0" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="1" turnLeft="5.0" turnRight="20.0" maxDistance="300.0" x="4103" y="770" health="99999" gunCooldownSeconds="0.9" bulletSpeed="25.0" bulletDirectDamage="1" bulletBlastDamage="1" bulletBlastRadius="550">
+        <Turret layer="1" turnLeft="5.0" turnRight="20.0" maxDistance="300.0" x="4103" y="866" health="99999" gunCooldownSeconds="0.9" bulletSpeed="25.0" bulletDirectDamage="1" bulletBlastDamage="1" bulletBlastRadius="550">
           <team index="3" />
           <transformation scale="1.0" rotate="-90.0" flipX="true" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="1" turnLeft="20.0" turnRight="5.0" maxDistance="250.0" x="3735" y="971" health="99999" gunCooldownSeconds="0.9" bulletSpeed="25.0" bulletDirectDamage="1" bulletBlastDamage="1" bulletBlastRadius="550">
+        <Turret layer="1" turnLeft="20.0" turnRight="5.0" maxDistance="250.0" x="3735" y="1067" health="99999" gunCooldownSeconds="0.9" bulletSpeed="25.0" bulletDirectDamage="1" bulletBlastDamage="1" bulletBlastRadius="550">
           <team index="3" />
           <transformation scale="1.0" rotate="-148.09528" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="1" turnLeft="5.0" turnRight="20.0" maxDistance="250.0" x="3956" y="976" health="99999" gunCooldownSeconds="0.8" bulletSpeed="25.0" bulletDirectDamage="1" bulletBlastDamage="1" bulletBlastRadius="550">
+        <Turret layer="1" turnLeft="5.0" turnRight="20.0" maxDistance="250.0" x="3956" y="1072" health="99999" gunCooldownSeconds="0.8" bulletSpeed="25.0" bulletDirectDamage="1" bulletBlastDamage="1" bulletBlastRadius="550">
           <team index="3" />
           <transformation scale="1.0" rotate="-149.85767" flipX="true" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="1" turnLeft="20.0" turnRight="5.0" maxDistance="300.0" x="3691" y="574" health="99999" gunCooldownSeconds="0.8" bulletSpeed="25.0" bulletDirectDamage="1" bulletBlastDamage="1" bulletBlastRadius="550">
+        <Turret layer="1" turnLeft="20.0" turnRight="5.0" maxDistance="300.0" x="3691" y="670" health="99999" gunCooldownSeconds="0.8" bulletSpeed="25.0" bulletDirectDamage="1" bulletBlastDamage="1" bulletBlastRadius="550">
           <team index="3" />
           <transformation scale="1.0" rotate="-148.09528" flipX="false" flipY="true">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="1" turnLeft="5.0" turnRight="20.0" maxDistance="300.0" x="3989" y="575" health="99999" gunCooldownSeconds="0.9" bulletSpeed="25.0" bulletDirectDamage="1" bulletBlastDamage="1" bulletBlastRadius="550">
+        <Turret layer="1" turnLeft="5.0" turnRight="20.0" maxDistance="300.0" x="3989" y="671" health="99999" gunCooldownSeconds="0.9" bulletSpeed="25.0" bulletDirectDamage="1" bulletBlastDamage="1" bulletBlastRadius="550">
           <team index="3" />
           <transformation scale="1.0" rotate="-148.09528" flipX="true" flipY="true">
             <translate x="0.0" y="0.0" />
@@ -680,25 +680,25 @@
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="9" turnLeft="15.0" turnRight="15.0" maxDistance="600.0" x="1758" y="994" health="600" gunCooldownSeconds="0.3" bulletSpeed="23.0" bulletDirectDamage="20" bulletBlastDamage="50" bulletBlastRadius="120">
+        <Turret layer="9" turnLeft="15.0" turnRight="15.0" maxDistance="600.0" x="1758" y="1025" health="600" gunCooldownSeconds="0.3" bulletSpeed="23.0" bulletDirectDamage="20" bulletBlastDamage="50" bulletBlastRadius="120">
           <team index="7" />
           <transformation scale="1.0" rotate="89.10483" flipX="true" flipY="true">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="9" turnLeft="15.0" turnRight="15.0" maxDistance="600.0" x="2754" y="1026" health="600" gunCooldownSeconds="0.3" bulletSpeed="23.0" bulletDirectDamage="20" bulletBlastDamage="50" bulletBlastRadius="120">
+        <Turret layer="9" turnLeft="15.0" turnRight="15.0" maxDistance="600.0" x="2753" y="1058" health="600" gunCooldownSeconds="0.3" bulletSpeed="23.0" bulletDirectDamage="20" bulletBlastDamage="50" bulletBlastRadius="120">
           <team index="7" />
           <transformation scale="1.0" rotate="180.0" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="9" turnLeft="15.0" turnRight="15.0" maxDistance="600.0" x="2786" y="766" health="600" gunCooldownSeconds="0.3" bulletSpeed="23.0" bulletDirectDamage="20" bulletBlastDamage="50" bulletBlastRadius="120">
+        <Turret layer="9" turnLeft="15.0" turnRight="15.0" maxDistance="600.0" x="2786" y="864" health="600" gunCooldownSeconds="0.3" bulletSpeed="23.0" bulletDirectDamage="20" bulletBlastDamage="50" bulletBlastRadius="120">
           <team index="7" />
           <transformation scale="1.0" rotate="89.10483" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="9" turnLeft="15.0" turnRight="15.0" maxDistance="600.0" x="2014" y="834" health="600" gunCooldownSeconds="0.3" bulletSpeed="23.0" bulletDirectDamage="20" bulletBlastDamage="50" bulletBlastRadius="120">
+        <Turret layer="9" turnLeft="15.0" turnRight="15.0" maxDistance="600.0" x="2015" y="898" health="600" gunCooldownSeconds="0.3" bulletSpeed="23.0" bulletDirectDamage="20" bulletBlastDamage="50" bulletBlastRadius="120">
           <team index="7" />
           <transformation scale="1.0" rotate="180.0" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
@@ -1021,7 +1021,7 @@
             <String value="Homing Missile" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="3840" y="803" orientation="0.0" spawnTime="300.0" neverFade="true" spawnAtRoundStart="true">
+        <powerupSpawner layer="1" x="3840" y="899" orientation="0.0" spawnTime="300.0" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Shield" />
@@ -1033,7 +1033,7 @@
             <String value="Homing Missile" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="9" x="2448" y="560" orientation="0.0" spawnTime="4.0" neverFade="true" spawnAtRoundStart="true">
+        <powerupSpawner layer="9" x="2448" y="656" orientation="0.0" spawnTime="4.0" neverFade="true" spawnAtRoundStart="true">
           <team index="2" />
           <selectedPowerups>
             <String value="Homing Missile" />
@@ -1051,13 +1051,19 @@
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="9" x="3088" y="384" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="9" x="3088" y="480" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="9" x="3464" y="2880" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="3328" y="480" orientation="0.0" spawnTime="30.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
