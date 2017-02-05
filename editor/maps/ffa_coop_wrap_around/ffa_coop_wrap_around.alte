@@ -392,7 +392,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="9" x="3055" y="448" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
-          <texturedPoly hull="!-6710887,0.0,0.0,0.0,6.0,-15.0,6.0,-15.0,11.0,51.0,11.0,52.0,9.0,55.0,8.0,56.0,8.0,59.0,9.0,60.0,11.0,81.0,11.0,81.0,6.0,64.0,6.0,64.0,0.0,53.0,0.0,53.0,6.0,11.0,6.0,11.0,0.0,">
+          <texturedPoly hull="!-6710887,0.0,0.0,0.0,6.0,-15.0,6.0,-15.0,11.0,49.0,11.0,50.0,9.0,53.0,8.0,54.0,8.0,57.0,9.0,58.0,11.0,81.0,11.0,81.0,6.0,64.0,6.0,64.0,0.0,53.0,0.0,53.0,6.0,11.0,6.0,11.0,0.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-3029.0" y="-2368.0" />
@@ -421,7 +421,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="9" x="3055" y="1440" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
-          <texturedPoly hull="!-6710887,0.0,0.0,0.0,6.0,-15.0,6.0,-15.0,11.0,51.0,11.0,52.0,9.0,55.0,8.0,56.0,8.0,59.0,9.0,60.0,11.0,81.0,11.0,81.0,6.0,64.0,6.0,64.0,0.0,53.0,0.0,53.0,6.0,11.0,6.0,11.0,0.0,">
+          <texturedPoly hull="!-6710887,0.0,0.0,0.0,6.0,-15.0,6.0,-15.0,11.0,49.0,11.0,50.0,9.0,53.0,8.0,54.0,8.0,57.0,9.0,58.0,11.0,81.0,11.0,81.0,6.0,64.0,6.0,64.0,0.0,53.0,0.0,53.0,6.0,11.0,6.0,11.0,0.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-3029.0" y="-2368.0" />
@@ -430,7 +430,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="9" x="3055" y="2368" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
-          <texturedPoly hull="!-6710887,0.0,0.0,0.0,6.0,-15.0,6.0,-15.0,11.0,47.0,11.0,48.0,9.0,51.0,8.0,52.0,8.0,55.0,9.0,56.0,11.0,81.0,11.0,81.0,6.0,64.0,6.0,64.0,0.0,53.0,0.0,53.0,6.0,11.0,6.0,11.0,0.0,">
+          <texturedPoly hull="!-6710887,0.0,0.0,0.0,6.0,-15.0,6.0,-15.0,11.0,45.0,11.0,46.0,9.0,49.0,8.0,50.0,8.0,53.0,9.0,54.0,11.0,81.0,11.0,81.0,6.0,64.0,6.0,64.0,0.0,53.0,0.0,53.0,6.0,11.0,6.0,11.0,0.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-3029.0" y="-2368.0" />
@@ -704,13 +704,13 @@
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="9" turnLeft="7.0" turnRight="15.0" maxDistance="2800.0" x="3243" y="54" health="99999" gunCooldownSeconds="0.25" bulletSpeed="29.0" bulletDirectDamage="80" bulletBlastDamage="80" bulletBlastRadius="50">
+        <Turret layer="9" turnLeft="6.0" turnRight="15.0" maxDistance="2800.0" x="3243" y="54" health="99999" gunCooldownSeconds="0.25" bulletSpeed="29.0" bulletDirectDamage="80" bulletBlastDamage="80" bulletBlastRadius="50">
           <team index="10" />
           <transformation scale="0.73333335" rotate="0.0" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Turret>
-        <Turret layer="9" turnLeft="15.0" turnRight="8.0" maxDistance="2800.0" x="3156" y="54" health="99999" gunCooldownSeconds="0.25" bulletSpeed="29.0" bulletDirectDamage="80" bulletBlastDamage="80" bulletBlastRadius="50">
+        <Turret layer="9" turnLeft="15.0" turnRight="7.0" maxDistance="2800.0" x="3156" y="54" health="99999" gunCooldownSeconds="0.25" bulletSpeed="29.0" bulletDirectDamage="80" bulletBlastDamage="80" bulletBlastRadius="50">
           <team index="10" />
           <transformation scale="0.73333335" rotate="0.0" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
@@ -1039,19 +1039,19 @@
             <String value="Homing Missile" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="9" x="3088" y="2399" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="9" x="3090" y="2399" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="9" x="3088" y="1472" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="9" x="3090" y="1472" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="9" x="3088" y="480" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="9" x="3090" y="480" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
