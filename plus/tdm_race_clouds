@@ -2,7 +2,7 @@
 
 #Basic settings:
 /set intro A race amongst the clouds
-/set spawnMode died
+/set spawnMode map
 /set spawnHealth 400
 /set planeScale 80
 /set weapons 3
