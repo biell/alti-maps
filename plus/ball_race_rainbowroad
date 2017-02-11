@@ -3,7 +3,7 @@
 
 #Basic settings:
 /set intro Rainbow Road Mario Kart track
-/set spawnMode died
+/set spawnMode map
 /set spawnHealth 400
 /set weapons 3
 
