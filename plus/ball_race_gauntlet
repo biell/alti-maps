@@ -2,7 +2,7 @@
 
 #Basic settings:
 /set intro Make multiple passes through the guantlet
-/set spawnMode died
+/set spawnMode map
 /set cameraScale 90
 /set planeScale 80
 
