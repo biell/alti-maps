@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_rainbowroad\_config\image-descriptors.txt" lastModified="1486912440436" length="47212" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_rainbowroad\ball_race_rainbowroad.alte" lastModified="1486851588682" length="246779" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_rainbowroad\_config\image-descriptors.txt" lastModified="1486913613003" length="47212" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_rainbowroad\ball_race_rainbowroad.alte" lastModified="1486913474157" length="252308" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_rainbowroad\images\STARBOT.png" lastModified="1454811472867" length="24995" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_rainbowroad\images\STARS2.png" lastModified="1454811472777" length="168693" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_rainbowroad\images\STARS3.png" lastModified="1454811472777" length="323635" />
