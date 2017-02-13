@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\_config\image-descriptors.txt" lastModified="1486530080358" length="1533" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\ffa_coop_wrap_around.alte" lastModified="1486330723789" length="76068" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\_config\image-descriptors.txt" lastModified="1486946193204" length="1533" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\ffa_coop_wrap_around.alte" lastModified="1486929895903" length="83973" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\images\sparkle_png_by_pvs_by_pixievamp_stock.png" lastModified="1486176747886" length="147679" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\images\speed.png" lastModified="1486310681151" length="2286" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_coop_wrap_around\images\star.png" lastModified="1486102283461" length="512" />
