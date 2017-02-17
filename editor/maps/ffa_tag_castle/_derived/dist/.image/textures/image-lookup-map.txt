@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="cobblestone.png" value="p0" />
+    <entry key="fence down.png" value="p1" />
+    <entry key="fence right.png" value="p2" />
+    <entry key="grass6.png" value="p3" />
+    <entry key="rug tile.png" value="p4" />
+    <entry key="rug tile2.png" value="p5" />
+    <entry key="stone2.png" value="p6" />
+    <entry key="tile.png" value="p7" />
+    <entry key="wall down tile.png" value="p8" />
+    <entry key="wall horiz tile.png" value="p9" />
+    <entry key="walltop.png" value="p10" />
+    <entry key="water.png" value="p11" />
+    <entry key="wood2.png" value="p12" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

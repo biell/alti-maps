@@ -1,0 +1,7 @@
+#ffa_tag_castle
+#Originally by Oyster, modified for tag by biell
+
+/set cameraScale 90
+/set planeScale 80
+/set gravity 3
+

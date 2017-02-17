@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="banner.png" value="p0" />
+    <entry key="banner2.png" value="p0" />
+    <entry key="barrel.png" value="p0" />
+    <entry key="barrel2.png" value="p0" />
+    <entry key="barrel3.png" value="p0" />
+    <entry key="barrel4.png" value="p0" />
+    <entry key="beer.png" value="p0" />
+    <entry key="bookcase.png" value="p0" />
+    <entry key="bookcase2.png" value="p0" />
+    <entry key="bookcase3.png" value="p0" />
+    <entry key="boxes.png" value="p0" />
+    <entry key="bush.png" value="p0" />
+    <entry key="bush2.png" value="p0" />
+    <entry key="candlestick.png" value="p0" />
+    <entry key="chair.png" value="p0" />
+    <entry key="drawbridge.png" value="p0" />
+    <entry key="knife.png" value="p0" />
+    <entry key="plant.png" value="p0" />
+    <entry key="plate.png" value="p0" />
+    <entry key="rug2.png" value="p0" />
+    <entry key="rug5.png" value="p0" />
+    <entry key="table.png" value="p0" />
+    <entry key="table2.png" value="p0" />
+    <entry key="table3.png" value="p0" />
+    <entry key="table4.png" value="p0" />
+    <entry key="throne.png" value="p0" />
+    <entry key="throne2.png" value="p0" />
+    <entry key="treasure.png" value="p0" />
+    <entry key="tree.png" value="p0" />
+    <entry key="water2.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

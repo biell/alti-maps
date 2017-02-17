@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\_config\image-descriptors.txt" lastModified="1487223495303" length="5496" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\ffa_tag_castle.alte" lastModified="1487222843063" length="387819" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\banner.png" lastModified="1487220963737" length="2929" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\banner2.png" lastModified="1487220963741" length="2964" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\barrel.png" lastModified="1487220963741" length="3054" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\barrel2.png" lastModified="1487220963741" length="3192" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\barrel3.png" lastModified="1487220963741" length="3286" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\barrel4.png" lastModified="1487220963741" length="3171" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\beer.png" lastModified="1487220963741" length="614" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\bookcase.png" lastModified="1487220963741" length="11545" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\bookcase2.png" lastModified="1487220963741" length="8326" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\bookcase3.png" lastModified="1487220963741" length="11881" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\boxes.png" lastModified="1487220963741" length="15541" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\bush.png" lastModified="1487220963741" length="4568" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\bush2.png" lastModified="1487220963741" length="9119" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\candlestick.png" lastModified="1487220963741" length="4365" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\chair.png" lastModified="1487220963741" length="1745" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\drawbridge.png" lastModified="1487220963741" length="45240" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\knife.png" lastModified="1487220963741" length="864" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\plant.png" lastModified="1487220963741" length="3592" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\plate.png" lastModified="1487220963741" length="481" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\rug2.png" lastModified="1487220963741" length="5178" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\rug5.png" lastModified="1487220963741" length="5299" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\table.png" lastModified="1487220963741" length="5066" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\table2.png" lastModified="1487220963741" length="3840" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\table3.png" lastModified="1487220963744" length="1545" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\table4.png" lastModified="1487220963744" length="3249" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\throne.png" lastModified="1487220963744" length="9499" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\throne2.png" lastModified="1487220963744" length="10121" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\treasure.png" lastModified="1487220963744" length="3357" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\tree.png" lastModified="1487220963744" length="21145" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\water2.png" lastModified="1487220963744" length="2853" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\textures\cobblestone.png" lastModified="1487220963744" length="5583" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\textures\fence down.png" lastModified="1487220963744" length="835" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\textures\fence right.png" lastModified="1487220963744" length="1597" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\textures\grass6.png" lastModified="1487220963744" length="9471" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\textures\rug tile.png" lastModified="1487220963744" length="930" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\textures\rug tile2.png" lastModified="1487220963744" length="830" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\textures\stone2.png" lastModified="1487220963744" length="3697" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\textures\tile.png" lastModified="1487220963744" length="889" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\textures\wall down tile.png" lastModified="1487220963744" length="1007" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\textures\wall horiz tile.png" lastModified="1487220963744" length="1221" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\textures\walltop.png" lastModified="1487220963744" length="549" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\textures\water.png" lastModified="1487220963744" length="387" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\textures\wood2.png" lastModified="1487220963744" length="22518" />
+  </snapshots>
+</snapshots.txt>
+

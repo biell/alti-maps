@@ -2,4 +2,4 @@
 
 /set intro Be careful not to kill each other
 /set spawnHealth 200
-/add timer 0 * 3840,898
+/add timer 1 * 3840,898
