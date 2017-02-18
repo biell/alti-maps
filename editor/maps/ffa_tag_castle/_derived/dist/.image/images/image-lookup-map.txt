@@ -26,7 +26,9 @@
     <entry key="table2.png" value="p0" />
     <entry key="table3.png" value="p0" />
     <entry key="table4.png" value="p0" />
+    <entry key="throne-outer.png" value="p0" />
     <entry key="throne.png" value="p0" />
+    <entry key="throne2-outer.png" value="p0" />
     <entry key="throne2.png" value="p0" />
     <entry key="treasure.png" value="p0" />
     <entry key="tree.png" value="p0" />
