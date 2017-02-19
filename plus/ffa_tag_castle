@@ -4,3 +4,8 @@
 /set planeScale 80
 /set gravity 3
 
+/add zone bl bot 64,64,e
+/add zone br bot 5936,64,w
+/add zone tl bot 64,4936,e
+/add zone tr bot 5936,4936,w
+
