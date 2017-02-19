@@ -8191,7 +8191,7 @@
       <Hoop />
       <objectiveDescriptor />
       <powerupSpawner>
-        <powerupSpawner layer="1" x="3500" y="2631" orientation="0.0" spawnTime="40.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="3500" y="2631" orientation="0.0" spawnTime="36.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Bomb" />
