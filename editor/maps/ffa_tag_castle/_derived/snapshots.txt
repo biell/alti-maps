@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\_config\image-descriptors.txt" lastModified="1487650703637" length="5755" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\ffa_tag_castle.alte" lastModified="1487531708057" length="529245" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\_config\image-descriptors.txt" lastModified="1487735024149" length="5755" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\ffa_tag_castle.alte" lastModified="1487656312119" length="531686" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\banner.png" lastModified="1487220963737" length="2929" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\banner2.png" lastModified="1487220963741" length="2964" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_castle\images\barrel.png" lastModified="1487220963741" length="3054" />

@@ -2331,6 +2331,15 @@
             </texture>
           </texturedPoly>
         </geometry>
+        <geometry layer="2" x="8076" y="822" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-16469069,0.0,-2.0,-4.0,-2.0,-21.0,14.0,-91.0,29.0,-91.0,31.0,-16.0,16.0,0.0,1.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-8077.0" y="-823.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
       </geometry>
       <spawnPoints>
         <spawnPoints layer="1" x="160" y="192" orientation="0.0">
@@ -2340,6 +2349,9 @@
           <team index="9" />
         </spawnPoints>
         <spawnPoints layer="1" x="160" y="1088" orientation="0.0">
+          <team index="6" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="7368" y="1211" orientation="0.0">
           <team index="6" />
         </spawnPoints>
       </spawnPoints>
@@ -3392,6 +3404,12 @@
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="7614" y="1215" orientation="0.0" spawnTime="9999.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Demolition Charge" />
           </selectedPowerups>
         </powerupSpawner>
       </powerupSpawner>
