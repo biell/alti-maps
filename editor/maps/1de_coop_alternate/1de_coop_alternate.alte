@@ -2351,9 +2351,6 @@
         <spawnPoints layer="1" x="160" y="1088" orientation="0.0">
           <team index="6" />
         </spawnPoints>
-        <spawnPoints layer="1" x="7368" y="1211" orientation="0.0">
-          <team index="6" />
-        </spawnPoints>
       </spawnPoints>
       <Base>
         <Base layer="1" x="7921" y="829">
@@ -3404,12 +3401,6 @@
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
-          </selectedPowerups>
-        </powerupSpawner>
-        <powerupSpawner layer="1" x="7614" y="1215" orientation="0.0" spawnTime="9999.0" neverFade="true" spawnAtRoundStart="true">
-          <team index="2" />
-          <selectedPowerups>
-            <String value="Demolition Charge" />
           </selectedPowerups>
         </powerupSpawner>
       </powerupSpawner>
