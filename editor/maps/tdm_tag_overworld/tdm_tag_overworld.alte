@@ -1207,7 +1207,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="1793" y="2399" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+        <geometry layer="5" x="1793" y="2399" orientation="0.0" visible="true" collidable="false" elasticity="0.0" damageModifier="0.0">
           <texturedPoly hull="!-1,-31.981945,21.321299,-42.642597,14.214199,-42.642597,-19.544525,-37.31227,-19.544525,-30.205175,-12.437423,-17.767748,-10.660649,30.205175,-10.660649,42.642597,-19.544525,42.642597,14.214199,37.31227,14.214199,31.981945,19.544525,">
             <texture>
               <image path="images/zelda/villageheader.png" />
@@ -1847,7 +1847,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="1793" y="2400" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+        <geometry layer="1" x="1793" y="2400" orientation="0.0" visible="true" collidable="false" elasticity="0.0" damageModifier="0.0">
           <texturedPoly hull="!-1,1.2810451,40.993443,1.2810451,38.43135,3.843135,38.43135,3.843135,35.869263,1.2810451,35.869263,1.2810451,30.74508,24.339853,25.6209,29.464037,21.777767,33.30717,14.091496,40.993443,11.529405,39.712395,-39.712395,-40.993443,-38.43135,-40.993443,11.529405,-33.30717,14.091496,-26.901945,24.339853,-1.2810451,30.74508,-1.2810451,35.869263,-3.843135,35.869263,-1.2810451,40.993443,">
             <texture>
               <image path="images/reg/WALLFENCE.png" />
@@ -3305,6 +3305,15 @@
             </texture>
           </texturedPoly>
         </geometry>
+        <geometry layer="1" x="1544" y="2564" orientation="0.0" visible="false" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-1711276033,1.0,-6.0,503.0,-6.0,503.0,23.0,3.0,23.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-1544.0" y="-2564.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
       </geometry>
       <spawnPoints>
         <spawnPoints layer="1" x="3417" y="1655" orientation="-180.0">
@@ -3325,7 +3334,7 @@
         <spawnPoints layer="1" x="1805" y="139" orientation="91.847595">
           <team index="4" />
         </spawnPoints>
-        <spawnPoints layer="1" x="1793" y="2268" orientation="-89.36794">
+        <spawnPoints layer="1" x="1791" y="2504" orientation="-89.36794">
           <team index="3" />
         </spawnPoints>
         <spawnPoints layer="1" x="141" y="478" orientation="0.0">
