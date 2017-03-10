@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <image-descriptors.txt>
   <descriptors>
+    <ImageDescriptor path="images/zelda/foresthouse10-2.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/reg/TREE4-2.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
     <ImageDescriptor path="images/WIZROBE.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
     <ImageDescriptor path="images/SKELETON.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
     <ImageDescriptor path="textures/darksidewallhoriz.png" wrapMode="REPEAT" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />

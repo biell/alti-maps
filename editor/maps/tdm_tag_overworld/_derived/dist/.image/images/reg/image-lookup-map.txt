@@ -6,6 +6,7 @@
     <entry key="TREE13.png" value="p0" />
     <entry key="TREE18.png" value="p0" />
     <entry key="TREE2.png" value="p0" />
+    <entry key="TREE4-2.png" value="p0" />
     <entry key="TREE4.png" value="p0" />
     <entry key="TREE6.png" value="p0" />
     <entry key="TREE7.png" value="p0" />

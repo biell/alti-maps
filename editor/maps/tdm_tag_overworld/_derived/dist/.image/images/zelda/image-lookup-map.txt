@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <image-lookup-map.txt>
   <pack-path-by-image-path>
+    <entry key="foresthouse10-2.png" value="p0" />
     <entry key="foresthouse10.png" value="p0" />
     <entry key="foresthouse12.png" value="p0" />
     <entry key="foresthouse13.png" value="p0" />
