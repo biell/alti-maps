@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="FLOWERS2.png" value="p0" />
+    <entry key="FLOWERS4.png" value="p1" />
+    <entry key="FLOWERS6.png" value="p2" />
+    <entry key="GRASS.png" value="p3" />
+    <entry key="GRASS2.png" value="p4" />
+    <entry key="cobblestone3.png" value="p5" />
+    <entry key="cobblestone4.png" value="p6" />
+    <entry key="cobblestone6.png" value="p7" />
+    <entry key="darksidebackground.png" value="p8" />
+    <entry key="darksidebackground2.png" value="p9" />
+    <entry key="darksidewallhoriz.png" value="p10" />
+    <entry key="darksidewallvert.png" value="p11" />
+    <entry key="forestbones.png" value="p12" />
+    <entry key="villagefence2horiz.png" value="p13" />
+    <entry key="villagefence2vert.png" value="p14" />
+    <entry key="villagewall.png" value="p15" />
+    <entry key="villagewallvert.png" value="p16" />
+    <entry key="wall down tile.png" value="p17" />
+    <entry key="wall horiz tile.png" value="p18" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

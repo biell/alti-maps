@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="foresthouse10.png" value="p0" />
+    <entry key="foresthouse12.png" value="p0" />
+    <entry key="foresthouse13.png" value="p0" />
+    <entry key="foresthouse14.png" value="p0" />
+    <entry key="foresthouse15.png" value="p0" />
+    <entry key="foresthouse17.png" value="p0" />
+    <entry key="foresthouse18.png" value="p0" />
+    <entry key="forestmonster2.png" value="p0" />
+    <entry key="forestshrub.png" value="p0" />
+    <entry key="forestskull3.png" value="p0" />
+    <entry key="forestskullpost.png" value="p0" />
+    <entry key="foreststatue.png" value="p0" />
+    <entry key="foreststatue2.png" value="p0" />
+    <entry key="foreststatue3.png" value="p0" />
+    <entry key="foreststatue5.png" value="p0" />
+    <entry key="foreststatue6.png" value="p0" />
+    <entry key="forestsymble.png" value="p0" />
+    <entry key="foresttree.png" value="p0" />
+    <entry key="foresttree2.png" value="p0" />
+    <entry key="foresttree6.png" value="p0" />
+    <entry key="foresttree7.png" value="p0" />
+    <entry key="forestwallend.png" value="p0" />
+    <entry key="villagebuilding3.png" value="p0" />
+    <entry key="villagebuilding4.png" value="p0" />
+    <entry key="villagebuilding5.png" value="p0" />
+    <entry key="villagebuilding6.png" value="p0" />
+    <entry key="villagebuilding9.png" value="p0" />
+    <entry key="villagecolumn4.png" value="p0" />
+    <entry key="villagegrave.png" value="p0" />
+    <entry key="villagegrave2.png" value="p0" />
+    <entry key="villagegrave3.png" value="p0" />
+    <entry key="villagegrave4.png" value="p0" />
+    <entry key="villageheader.png" value="p0" />
+    <entry key="villagerock.png" value="p0" />
+    <entry key="villagerock2.png" value="p0" />
+    <entry key="villageskull.png" value="p0" />
+    <entry key="villagestatue.png" value="p0" />
+    <entry key="villagetree.png" value="p0" />
+    <entry key="villagetree2.png" value="p0" />
+    <entry key="villagetree3.png" value="p0" />
+    <entry key="villagetree4.png" value="p0" />
+    <entry key="villagetree5.png" value="p0" />
+    <entry key="villagetree6.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

@@ -1,0 +1,7 @@
+#tdm_tag_overworld
+#Originally by Oyster, modified for tag by biell
+
+/set spawnHealth 75
+/set planeScale 80
+/set gravity 3
+

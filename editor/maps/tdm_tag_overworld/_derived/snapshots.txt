@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\_config\image-descriptors.txt" lastModified="1489121347195" length="11034" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\SKELETON.png" lastModified="1487913822935" length="9222" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\WIZROBE.png" lastModified="1487913822935" length="14038" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\castle\banner.png" lastModified="1487913822932" length="2739" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\castle\banner2.png" lastModified="1487913822932" length="3174" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\castle\wall1.png" lastModified="1487913822932" length="3023" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\column.png" lastModified="1487913822932" length="11770" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\columnbip.png" lastModified="1487913822932" length="11862" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\columnbomber.png" lastModified="1487913822932" length="11690" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\columnloopy.png" lastModified="1487913822932" length="11654" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\columnranda.png" lastModified="1487913822932" length="12552" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\columnwhale.png" lastModified="1487913822932" length="12234" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\reg\TREE10.png" lastModified="1487913822932" length="6847" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\reg\TREE11.png" lastModified="1487913822932" length="7180" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\reg\TREE13.png" lastModified="1487913822935" length="6036" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\reg\TREE18.png" lastModified="1487913822935" length="1770" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\reg\TREE2.png" lastModified="1487913822935" length="20796" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\reg\TREE4.png" lastModified="1487913822935" length="23906" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\reg\TREE6.png" lastModified="1487913822935" length="16395" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\reg\TREE7.png" lastModified="1487913822935" length="15010" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\reg\WALLFENCE.png" lastModified="1487913822935" length="2748" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\foresthouse10.png" lastModified="1487913822935" length="13226" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\foresthouse12.png" lastModified="1487913822935" length="20910" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\foresthouse13.png" lastModified="1487913822935" length="15885" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\foresthouse14.png" lastModified="1487913822935" length="32379" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\foresthouse15.png" lastModified="1487913822935" length="29202" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\foresthouse17.png" lastModified="1487913822935" length="9967" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\foresthouse18.png" lastModified="1487913822935" length="20078" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\forestmonster2.png" lastModified="1487913822935" length="4216" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\forestshrub.png" lastModified="1487913822935" length="19807" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\forestskull3.png" lastModified="1487913822935" length="709" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\forestskullpost.png" lastModified="1487913822935" length="1211" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\foreststatue.png" lastModified="1487913822935" length="7823" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\foreststatue2.png" lastModified="1487913822935" length="1959" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\foreststatue3.png" lastModified="1487913822935" length="800" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\foreststatue5.png" lastModified="1487913822935" length="4255" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\foreststatue6.png" lastModified="1487913822939" length="2870" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\forestsymble.png" lastModified="1487913822939" length="1280" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\foresttree.png" lastModified="1487913822939" length="13083" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\foresttree2.png" lastModified="1487913822939" length="12160" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\foresttree6.png" lastModified="1487913822939" length="10720" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\foresttree7.png" lastModified="1487913822939" length="12651" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\forestwallend.png" lastModified="1487913822939" length="1024" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagebuilding3.png" lastModified="1487913822939" length="16869" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagebuilding4.png" lastModified="1487913822939" length="16397" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagebuilding5.png" lastModified="1487913822939" length="15939" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagebuilding6.png" lastModified="1487913822939" length="15535" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagebuilding9.png" lastModified="1487913822939" length="8066" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagecolumn4.png" lastModified="1487913822939" length="1524" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagegrave.png" lastModified="1487913822939" length="2059" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagegrave2.png" lastModified="1487913822939" length="2038" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagegrave3.png" lastModified="1487913822939" length="1907" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagegrave4.png" lastModified="1487913822939" length="2083" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villageheader.png" lastModified="1487913822939" length="4330" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagerock.png" lastModified="1487913822939" length="9675" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagerock2.png" lastModified="1487913822939" length="9041" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villageskull.png" lastModified="1487913822939" length="1322" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagestatue.png" lastModified="1487913822939" length="3042" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagetree.png" lastModified="1487913822939" length="10811" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagetree2.png" lastModified="1487913822939" length="10563" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagetree3.png" lastModified="1487913822942" length="11449" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagetree4.png" lastModified="1487913822942" length="2792" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagetree5.png" lastModified="1487913822942" length="3040" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagetree6.png" lastModified="1487913822942" length="1242" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\tdm_tag_overworld.alte" lastModified="1489121039112" length="263974" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\FLOWERS2.png" lastModified="1487913822942" length="3284" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\FLOWERS4.png" lastModified="1487913822942" length="3413" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\FLOWERS6.png" lastModified="1487913822942" length="10558" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\GRASS.png" lastModified="1487913822942" length="852" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\GRASS2.png" lastModified="1487913822942" length="3553" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\cobblestone3.png" lastModified="1487913822942" length="2250" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\cobblestone4.png" lastModified="1487913822942" length="1710" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\cobblestone6.png" lastModified="1487913822942" length="1692" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\darksidebackground.png" lastModified="1487913822942" length="74" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\darksidebackground2.png" lastModified="1487913822942" length="74" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\darksidewallhoriz.png" lastModified="1487913822942" length="678" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\darksidewallvert.png" lastModified="1487913822942" length="341" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\forestbones.png" lastModified="1487913822942" length="4479" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\villagefence2horiz.png" lastModified="1487913822942" length="2081" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\villagefence2vert.png" lastModified="1487913822942" length="773" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\villagewall.png" lastModified="1487913822942" length="2143" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\villagewallvert.png" lastModified="1487913822942" length="963" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\wall down tile.png" lastModified="1487913822942" length="1007" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\wall horiz tile.png" lastModified="1487913822942" length="1221" />
+  </snapshots>
+</snapshots.txt>
+

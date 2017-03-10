@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="TREE10.png" value="p0" />
+    <entry key="TREE11.png" value="p0" />
+    <entry key="TREE13.png" value="p0" />
+    <entry key="TREE18.png" value="p0" />
+    <entry key="TREE2.png" value="p0" />
+    <entry key="TREE4.png" value="p0" />
+    <entry key="TREE6.png" value="p0" />
+    <entry key="TREE7.png" value="p0" />
+    <entry key="WALLFENCE.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+
