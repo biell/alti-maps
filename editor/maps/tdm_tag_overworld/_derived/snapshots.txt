@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\_config\image-descriptors.txt" lastModified="1489130331617" length="11300" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\_config\image-descriptors.txt" lastModified="1489130626037" length="11300" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\SKELETON.png" lastModified="1487913822935" length="9222" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\WIZROBE.png" lastModified="1487913822935" length="14038" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\castle\banner.png" lastModified="1487913822932" length="2739" />
@@ -67,7 +67,7 @@
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagetree4.png" lastModified="1487913822942" length="2792" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagetree5.png" lastModified="1487913822942" length="3040" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagetree6.png" lastModified="1487913822942" length="1242" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\tdm_tag_overworld.alte" lastModified="1489130201344" length="267035" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\tdm_tag_overworld.alte" lastModified="1489130364344" length="267031" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\FLOWERS2.png" lastModified="1487913822942" length="3284" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\FLOWERS4.png" lastModified="1487913822942" length="3413" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\FLOWERS6.png" lastModified="1487913822942" length="10558" />
