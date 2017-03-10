@@ -3309,7 +3309,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="1833" y="2412" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="1" x="1845" y="2412" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1711276033,2.0,-6.0,2.0,149.0,27.0,150.0,27.0,-6.0,">
             <texture>
               <image path="textures/FLOWERS4.png" />
