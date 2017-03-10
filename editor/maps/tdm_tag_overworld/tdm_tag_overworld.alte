@@ -3299,7 +3299,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="1750" y="2425" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="1" x="1750" y="2425" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
           <texturedPoly hull="!-1711276033,0.0,-13.0,0.0,140.0,-24.0,140.0,-24.0,-13.0,">
             <texture>
               <image path="textures/FLOWERS2.png" />
@@ -3309,7 +3309,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="1845" y="2412" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="1" x="1845" y="2412" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
           <texturedPoly hull="!-1711276033,2.0,-6.0,2.0,149.0,27.0,150.0,27.0,-6.0,">
             <texture>
               <image path="textures/FLOWERS4.png" />
