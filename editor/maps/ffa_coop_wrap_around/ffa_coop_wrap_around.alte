@@ -35,8 +35,8 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="2448" y="2624" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1140850689,-100.0,-25.0,-100.0,25.0,100.0,25.0,100.0,-25.0,">
+        <geometry layer="5" x="2449" y="2624" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1224736769,-100.0,-25.0,-100.0,25.0,100.0,25.0,100.0,-25.0,">
             <texture>
               <image path="images/speed.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">

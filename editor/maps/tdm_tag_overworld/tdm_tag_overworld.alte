@@ -3338,7 +3338,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="2" x="1661" y="1449" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
+        <geometry layer="3" x="1661" y="1449" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
           <texturedPoly hull="!-1,-23.498295,45.430035,-23.498295,-45.430035,21.931742,-45.430035,25.064848,-42.296936,23.498295,45.430035,">
             <texture>
               <image path="images/castle/wall1.png" />
@@ -3348,7 +3348,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="2" x="1935" y="1449" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
+        <geometry layer="3" x="1935" y="1449" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
           <texturedPoly hull="!-1,23.498295,45.430035,23.498295,-45.430035,-21.931742,-45.430035,-25.064848,-42.296936,-23.498295,45.430035,">
             <texture>
               <image path="images/castle/wall1.png" />
