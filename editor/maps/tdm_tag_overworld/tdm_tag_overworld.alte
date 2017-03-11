@@ -829,6 +829,16 @@
             </texture>
           </texturedPoly>
         </geometry>
+        <geometry layer="9" x="1646" y="2532" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1459617793,-89.00001,-22.250002,-89.00001,22.250002,89.00001,22.250002,89.00001,-22.250002,">
+            <texture>
+              <image path="images/logo.png" />
+              <xform scale="0.69531256" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-89.00001" y="-22.250002" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
       </geometry>
       <spawnPoints />
       <Base />
@@ -1201,26 +1211,6 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="3544" y="86" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
-          <texturedPoly hull="!-1,-7.8893623,18.93447,-20.512344,11.045107,-20.512344,-15.778725,-17.356598,-18.93447,17.356598,-18.93447,20.512344,-15.778725,20.512344,11.045107,7.8893623,18.93447,">
-            <texture>
-              <image path="images/zelda/villagegrave.png" />
-              <xform scale="1.5778725" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-20.512344" y="-18.93447" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
-        <geometry layer="1" x="3481" y="88" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
-          <texturedPoly hull="!-1,-7.8893623,18.93447,-20.512344,11.045107,-20.512344,-15.778725,-17.356598,-18.93447,17.356598,-18.93447,20.512344,-15.778725,20.512344,11.045107,7.8893623,18.93447,">
-            <texture>
-              <image path="images/zelda/villagegrave2.png" />
-              <xform scale="1.5778725" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-20.512344" y="-18.93447" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
         <geometry layer="1" x="3544" y="39" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
           <texturedPoly hull="!-1,-7.8893623,18.93447,-20.512344,11.045107,-20.512344,-15.778725,-17.356598,-18.93447,17.356598,-18.93447,20.512344,-15.778725,20.512344,11.045107,7.8893623,18.93447,">
             <texture>
@@ -1261,7 +1251,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="95" y="77" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
+        <geometry layer="1" x="87" y="65" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
           <texturedPoly hull="!-1,-29.884481,31.876781,-31.876781,21.915287,-25.899885,13.94609,-29.884481,-21.915287,-19.922987,-31.876781,19.922987,-31.876781,29.884481,-21.915287,29.884481,11.953792,25.899885,17.930687,31.876781,29.884481,21.915287,31.876781,11.953792,21.915287,3.9845977,29.884481,-3.9845977,31.876781,-13.94609,21.915287,-21.915287,31.876781,">
             <texture>
               <image path="images/zelda/villagestatue.png" />
@@ -2251,26 +2241,6 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="1" x="16" y="72" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
-          <texturedPoly hull="!-1,-7.0,19.0,-12.0,12.0,-14.0,12.0,-18.0,5.0,-20.0,-3.0,-17.0,-7.0,-18.0,-9.0,-14.0,-11.0,-11.0,-16.0,-8.0,-16.0,-9.0,-17.0,-3.0,-19.0,-2.0,-22.0,3.0,-23.0,5.0,-19.0,10.0,-19.0,10.0,-17.0,19.0,-9.0,18.0,-5.0,21.0,0.0,19.0,2.0,20.0,5.0,17.0,10.0,14.0,11.0,8.0,19.0,2.0,21.0,1.0,23.0,">
-            <texture>
-              <image path="images/reg/TREE13.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-20.0" y="-23.0" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
-        <geometry layer="1" x="172" y="72" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
-          <texturedPoly hull="!-1,-7.0,19.0,-12.0,12.0,-14.0,12.0,-18.0,5.0,-20.0,-3.0,-17.0,-7.0,-18.0,-9.0,-14.0,-11.0,-11.0,-16.0,-8.0,-16.0,-9.0,-17.0,-3.0,-19.0,-2.0,-22.0,3.0,-23.0,5.0,-19.0,10.0,-19.0,10.0,-17.0,19.0,-9.0,18.0,-5.0,21.0,0.0,19.0,2.0,20.0,5.0,17.0,10.0,14.0,11.0,8.0,19.0,2.0,21.0,1.0,23.0,">
-            <texture>
-              <image path="images/reg/TREE13.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-20.0" y="-23.0" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
         <geometry layer="6" x="204" y="196" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
           <texturedPoly hull="!-1,-21.0,34.125,-21.0,21.0,-15.75,13.125,-21.0,2.625,-21.0,-28.875,18.375,-31.5,21.0,10.5,15.75,15.75,21.0,34.125,5.25,28.875,-10.5,28.875,-13.125,34.125,">
             <texture>
@@ -3218,7 +3188,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="9" x="267" y="1728" orientation="0.0" visible="false" collidable="true" elasticity="0.0" damageModifier="0.1">
-          <texturedPoly hull="!-1711276033,2.0,0.0,130.0,0.0,130.0,39.0,20.0,39.0,20.0,85.0,1.0,85.0,">
+          <texturedPoly hull="!-1711276033,2.0,1.0,130.0,1.0,130.0,33.0,17.0,34.0,18.0,85.0,1.0,85.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-267.0" y="-1728.0" />
@@ -3227,7 +3197,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="9" x="268" y="1874" orientation="0.0" visible="false" collidable="true" elasticity="0.0" damageModifier="0.1">
-          <texturedPoly hull="!-1711276033,0.0,0.0,20.0,0.0,20.0,43.0,129.0,43.0,130.0,82.0,0.0,82.0,">
+          <texturedPoly hull="!-1711276033,0.0,0.0,17.0,0.0,18.0,49.0,129.0,49.0,130.0,80.0,2.0,81.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-267.0" y="-1728.0" />
@@ -3236,7 +3206,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="9" x="456" y="1913" orientation="0.0" visible="false" collidable="true" elasticity="0.0" damageModifier="0.1">
-          <texturedPoly hull="!-1711276033,0.0,2.0,69.0,2.0,69.0,-42.0,86.0,-42.0,86.0,43.0,0.0,43.0,">
+          <texturedPoly hull="!-1711276033,0.0,9.0,68.0,9.0,69.0,-42.0,86.0,-42.0,84.0,42.0,0.0,42.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-267.0" y="-1728.0" />
@@ -3245,7 +3215,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="9" x="455" y="1727" orientation="0.0" visible="false" collidable="true" elasticity="0.0" damageModifier="0.1">
-          <texturedPoly hull="!-1711276033,3.0,2.0,87.0,2.0,87.0,86.0,70.0,86.0,70.0,39.0,3.0,39.0,">
+          <texturedPoly hull="!-1711276033,2.0,4.0,86.0,3.0,87.0,86.0,71.0,85.0,71.0,35.0,2.0,35.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-267.0" y="-1728.0" />
@@ -3364,6 +3334,26 @@
               <image path="images/reg/TREE4-2.png" />
               <xform scale="1.9330066" rotate="0.0" flipX="false" flipY="false">
                 <translate x="-90.8513" y="-92.78432" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="1661" y="1449" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
+          <texturedPoly hull="!-1,-23.498295,45.430035,-23.498295,-45.430035,21.931742,-45.430035,25.064848,-42.296936,23.498295,45.430035,">
+            <texture>
+              <image path="images/castle/wall1.png" />
+              <xform scale="1.566553" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-25.064848" y="-45.430035" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="1935" y="1449" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.5">
+          <texturedPoly hull="!-1,23.498295,45.430035,23.498295,-45.430035,-21.931742,-45.430035,-25.064848,-42.296936,-23.498295,45.430035,">
+            <texture>
+              <image path="images/castle/wall1.png" />
+              <xform scale="1.566553" rotate="0.0" flipX="true" flipY="false">
+                <translate x="25.064848" y="-45.430035" />
               </xform>
             </texture>
           </texturedPoly>

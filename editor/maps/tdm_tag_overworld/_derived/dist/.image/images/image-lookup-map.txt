@@ -9,6 +9,7 @@
     <entry key="columnloopy.png" value="p0" />
     <entry key="columnranda.png" value="p0" />
     <entry key="columnwhale.png" value="p0" />
+    <entry key="logo.png" value="p0" />
   </pack-path-by-image-path>
 </image-lookup-map.txt>
 

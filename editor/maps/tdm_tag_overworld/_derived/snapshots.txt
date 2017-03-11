@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\_config\image-descriptors.txt" lastModified="1489130626037" length="11300" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\_config\image-descriptors.txt" lastModified="1489202785015" length="11294" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\SKELETON.png" lastModified="1487913822935" length="9222" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\WIZROBE.png" lastModified="1487913822935" length="14038" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\castle\banner.png" lastModified="1487913822932" length="2739" />
@@ -13,9 +13,9 @@
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\columnloopy.png" lastModified="1487913822932" length="11654" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\columnranda.png" lastModified="1487913822932" length="12552" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\columnwhale.png" lastModified="1487913822932" length="12234" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\logo.png" lastModified="1489202780542" length="3015" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\reg\TREE10.png" lastModified="1487913822932" length="6847" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\reg\TREE11.png" lastModified="1487913822932" length="7180" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\reg\TREE13.png" lastModified="1487913822935" length="6036" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\reg\TREE18.png" lastModified="1487913822935" length="1770" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\reg\TREE2.png" lastModified="1489129581344" length="17417" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\reg\TREE4-2.png" lastModified="1489127558049" length="19213" />
@@ -67,7 +67,7 @@
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagetree4.png" lastModified="1487913822942" length="2792" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagetree5.png" lastModified="1487913822942" length="3040" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\images\zelda\villagetree6.png" lastModified="1487913822942" length="1242" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\tdm_tag_overworld.alte" lastModified="1489130364344" length="267031" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\tdm_tag_overworld.alte" lastModified="1489186723380" length="268224" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\FLOWERS2.png" lastModified="1487913822942" length="3284" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\FLOWERS4.png" lastModified="1487913822942" length="3413" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_overworld\textures\FLOWERS6.png" lastModified="1487913822942" length="10558" />

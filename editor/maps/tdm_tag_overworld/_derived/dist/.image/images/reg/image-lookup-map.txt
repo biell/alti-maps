@@ -3,7 +3,6 @@
   <pack-path-by-image-path>
     <entry key="TREE10.png" value="p0" />
     <entry key="TREE11.png" value="p0" />
-    <entry key="TREE13.png" value="p0" />
     <entry key="TREE18.png" value="p0" />
     <entry key="TREE2.png" value="p0" />
     <entry key="TREE4-2.png" value="p0" />
