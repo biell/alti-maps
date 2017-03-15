@@ -2,5 +2,6 @@
 
 /set intro Be careful not to kill each other
 /set spawnHealth 200
+/set botCount 0
 /set roundTime 1200
 /add timer 1 * 3840,898
