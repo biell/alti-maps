@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="grass_and_water_0.png" value="p0" />
+    <entry key="grass_and_water_1.png" value="p0" />
+    <entry key="grass_and_water_10.png" value="p0" />
+    <entry key="grass_and_water_11.png" value="p0" />
+    <entry key="grass_and_water_12.png" value="p0" />
+    <entry key="grass_and_water_13.png" value="p0" />
+    <entry key="grass_and_water_14.png" value="p0" />
+    <entry key="grass_and_water_15.png" value="p0" />
+    <entry key="grass_and_water_16.png" value="p0" />
+    <entry key="grass_and_water_17.png" value="p0" />
+    <entry key="grass_and_water_18.png" value="p0" />
+    <entry key="grass_and_water_19.png" value="p0" />
+    <entry key="grass_and_water_2.png" value="p0" />
+    <entry key="grass_and_water_20.png" value="p0" />
+    <entry key="grass_and_water_21.png" value="p0" />
+    <entry key="grass_and_water_22.png" value="p0" />
+    <entry key="grass_and_water_23.png" value="p0" />
+    <entry key="grass_and_water_3.png" value="p0" />
+    <entry key="grass_and_water_4.png" value="p0" />
+    <entry key="grass_and_water_5.png" value="p0" />
+    <entry key="grass_and_water_6.png" value="p0" />
+    <entry key="grass_and_water_7.png" value="p0" />
+    <entry key="grass_and_water_8.png" value="p0" />
+    <entry key="grass_and_water_9.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

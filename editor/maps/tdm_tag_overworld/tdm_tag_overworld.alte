@@ -3,7 +3,7 @@
   <levelModeConfig objectiveGameTimeSeconds="120" />
   <views>
     <View name="bg" size="3600,2560">
-      <bounds minX="0" minY="1" maxX="3600" maxY="2561" />
+      <bounds minX="0" minY="1" maxX="3600" maxY="2560" />
       <geometry>
         <geometry layer="5" x="3179" y="1092" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1711276033,99.0,190.0,98.0,-63.0,81.0,-65.0,81.0,-81.0,-314.0,-79.0,-316.0,-11.0,-47.0,-3.0,-48.0,229.0,-62.0,229.0,-68.0,233.0,-78.0,386.0,165.0,385.0,164.0,208.0,151.0,209.0,133.0,207.0,128.0,210.0,115.0,209.0,114.0,193.0,">

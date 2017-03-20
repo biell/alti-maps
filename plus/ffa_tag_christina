@@ -1,0 +1,21 @@
+#ffa_tag_christina
+#FFA tag around the Christina River
+
+#Trees: http://opengameart.org/users/bleed
+#	http://opengameart.org/content/tree-collection-v26-bleeds-game-art
+#	https://creativecommons.org/licenses/by/3.0/
+
+#Grass and Water: http://opengameart.org/users/clint-bellanger
+#	http://opengameart.org/content/grass-and-water-tiles
+#	https://creativecommons.org/licenses/by/3.0/
+
+
+#Fence: http://opengameart.org/users/silver-iv
+#	http://opengameart.org/content/basic-map-32x32-by-silver-iv
+#	https://creativecommons.org/licenses/by/3.0/
+
+/set spawnHealth 80
+/set planeScale 80
+/set gravity 3
+
+

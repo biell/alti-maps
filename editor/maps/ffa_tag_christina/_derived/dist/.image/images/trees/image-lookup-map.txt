@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="tree_01_00000.png" value="p1" />
+    <entry key="tree_01_10000.png" value="p2" />
+    <entry key="tree_01_50000.png" value="p3" />
+    <entry key="tree_02_00000.png" value="p3" />
+    <entry key="tree_02_30000.png" value="p5" />
+    <entry key="tree_05_00000.png" value="p0" />
+    <entry key="tree_05_70000.png" value="p0" />
+    <entry key="tree_06_50000.png" value="p1" />
+    <entry key="tree_06_60000.png" value="p2" />
+    <entry key="tree_07_00000.png" value="p6" />
+    <entry key="tree_07_30000.png" value="p6" />
+    <entry key="tree_07_60000.png" value="p6" />
+    <entry key="tree_08_00000.png" value="p4" />
+    <entry key="tree_08_10000.png" value="p4" />
+    <entry key="tree_08_30000.png" value="p4" />
+    <entry key="tree_08_70000.png" value="p4" />
+    <entry key="tree_09_10000.png" value="p3" />
+    <entry key="tree_09_20000.png" value="p4" />
+    <entry key="tree_09_40000.png" value="p4" />
+    <entry key="tree_10_00000.png" value="p5" />
+    <entry key="tree_10_30000.png" value="p5" />
+    <entry key="tree_10_50000.png" value="p5" />
+    <entry key="tree_10_70000.png" value="p5" />
+    <entry key="tree_11_00000.png" value="p0" />
+    <entry key="tree_11_30000.png" value="p0" />
+    <entry key="tree_11_70000.png" value="p1" />
+    <entry key="tree_12_00000.png" value="p1" />
+    <entry key="tree_12_40000.png" value="p2" />
+    <entry key="tree_12_60000.png" value="p2" />
+    <entry key="tree_13_00000.png" value="p3" />
+    <entry key="tree_13_50000.png" value="p5" />
+    <entry key="tree_14_30000.png" value="p3" />
+    <entry key="tree_14_40000.png" value="p3" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+
