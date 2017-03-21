@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <image-descriptors.txt>
   <descriptors>
+    <ImageDescriptor path="images/trees/log2.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/trees/log.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/tiles/edge1.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/tiles/edge.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="textures/path.png" wrapMode="REPEAT" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
     <ImageDescriptor path="images/fence/dock.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
     <ImageDescriptor path="images/fence/mid.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
     <ImageDescriptor path="images/fence/mid-down.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />

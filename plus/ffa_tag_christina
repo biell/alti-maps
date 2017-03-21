@@ -14,8 +14,9 @@
 #	http://opengameart.org/content/basic-map-32x32-by-silver-iv
 #	https://creativecommons.org/licenses/by/3.0/
 
-/set spawnHealth 80
+/set spawnHealth 90
 /set planeScale 80
 /set gravity 3
-
+/set intro Tag around the Christina River
+/add plane -Loopy
 

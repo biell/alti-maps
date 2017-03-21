@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <image-lookup-map.txt>
   <pack-path-by-image-path>
+    <entry key="log.png" value="p7" />
+    <entry key="log2.png" value="p7" />
     <entry key="tree_01_00000.png" value="p1" />
     <entry key="tree_01_10000.png" value="p2" />
     <entry key="tree_01_50000.png" value="p3" />

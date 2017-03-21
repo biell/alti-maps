@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <image-lookup-map.txt>
   <pack-path-by-image-path>
+    <entry key="edge.png" value="p0" />
+    <entry key="edge1.png" value="p0" />
     <entry key="grass_and_water_0.png" value="p0" />
     <entry key="grass_and_water_1.png" value="p0" />
     <entry key="grass_and_water_10.png" value="p0" />

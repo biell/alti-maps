@@ -2,7 +2,8 @@
 <image-lookup-map.txt>
   <pack-path-by-image-path>
     <entry key="grass_texture.png" value="p0" />
-    <entry key="water_texture.png" value="p1" />
+    <entry key="path.png" value="p1" />
+    <entry key="water_texture.png" value="p2" />
   </pack-path-by-image-path>
 </image-lookup-map.txt>
 
