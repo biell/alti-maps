@@ -4,6 +4,7 @@
     <entry key="dock-end.png" value="p0" />
     <entry key="dock.png" value="p0" />
     <entry key="down.png" value="p0" />
+    <entry key="left-break.png" value="p0" />
     <entry key="left-down.png" value="p0" />
     <entry key="left.png" value="p0" />
     <entry key="mid-down.png" value="p0" />
