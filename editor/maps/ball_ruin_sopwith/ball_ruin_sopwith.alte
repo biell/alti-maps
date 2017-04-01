@@ -1952,10 +1952,10 @@
         </geometry>
       </geometry>
       <spawnPoints>
-        <spawnPoints layer="1" x="3556" y="223" orientation="0.0">
+        <spawnPoints layer="1" x="3555" y="223" orientation="0.0">
           <team index="9" />
         </spawnPoints>
-        <spawnPoints layer="1" x="4909" y="257" orientation="-180.0">
+        <spawnPoints layer="1" x="4910" y="257" orientation="-180.0">
           <team index="8" />
         </spawnPoints>
       </spawnPoints>

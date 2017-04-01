@@ -4,4 +4,4 @@
 /set intro Destroy all the buildings and bring ruin to the town
 /set assignTeam left
 /set botCount 2 hard
-
+/add plane =Biplane,Dogfighter,Rubber,Ace
