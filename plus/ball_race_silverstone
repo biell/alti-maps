@@ -2,7 +2,7 @@
 
 #Basic settings:
 /set intro The Home of British Motor Racing
-/set spawnMode died
+/set spawnMode map
 /set spawnHealth 400
 /set weapons 3
 /set gravity 3
