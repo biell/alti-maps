@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_christina\_config\image-descriptors.txt" lastModified="1491055429162" length="10285" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_christina\ffa_tag_christina.alte" lastModified="1490330387499" length="590044" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_christina\_config\image-descriptors.txt" lastModified="1491262013594" length="10535" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_christina\ffa_tag_christina.alte" lastModified="1491261893927" length="601289" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_christina\images\cloud.png" lastModified="1490055613803" length="170148" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_christina\images\concrete.png" lastModified="1491261441974" length="3281" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_christina\images\fence\dock-end.png" lastModified="1489972511607" length="679" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_christina\images\fence\dock.png" lastModified="1489972541077" length="594" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_christina\images\fence\down.png" lastModified="1489972184284" length="199" />
@@ -13,6 +14,7 @@
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_christina\images\fence\mid-down.png" lastModified="1489972062914" length="367" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_christina\images\fence\mid.png" lastModified="1489972237790" length="373" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_christina\images\logo.png" lastModified="1490233097813" length="3795" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_christina\images\pavilion.png" lastModified="1491262006161" length="38181" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_christina\images\sign.png" lastModified="1490232355033" length="10472" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_christina\images\tiles\.directory" lastModified="1296502857000" length="66" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_tag_christina\images\tiles\edge.png" lastModified="1490058185196" length="5594" />

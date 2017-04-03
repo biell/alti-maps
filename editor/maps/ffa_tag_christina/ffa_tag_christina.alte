@@ -16,7 +16,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="5" x="0" y="0" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,102.0,1164.0,210.0,1172.0,275.0,1153.0,373.0,1132.0,491.0,1139.0,547.0,1139.0,715.0,1076.0,749.0,1087.0,879.0,1053.0,1110.0,925.0,1232.0,922.0,1307.0,893.0,1350.0,878.0,1392.0,853.0,1408.0,845.0,1425.0,847.0,1448.0,846.0,1478.0,838.0,1483.0,854.0,1479.0,863.0,1485.0,877.0,1485.0,886.0,1488.0,896.0,1497.0,904.0,1497.0,915.0,1496.0,924.0,1499.0,935.0,1505.0,946.0,1514.0,960.0,1531.0,964.0,1545.0,978.0,1581.0,974.0,1572.0,967.0,1562.0,956.0,1540.0,941.0,1530.0,907.0,1523.0,892.0,1527.0,886.0,1525.0,879.0,1524.0,853.0,1534.0,837.0,1611.0,834.0,1710.0,815.0,1765.0,800.0,1815.0,770.0,1890.0,822.0,1983.0,881.0,2003.0,915.0,1964.0,946.0,1937.0,972.0,1933.0,1000.0,1921.0,1044.0,1899.0,1072.0,1815.0,1084.0,1771.0,1112.0,1721.0,1157.0,1740.0,1174.0,1764.0,1189.0,1766.0,1210.0,1741.0,1240.0,1705.0,1275.0,1703.0,1280.0,1686.0,1291.0,1675.0,1319.0,1697.0,1336.0,1712.0,1351.0,1748.0,1375.0,1755.0,1391.0,1754.0,1421.0,1731.0,1438.0,1713.0,1460.0,1701.0,1473.0,1674.0,1507.0,1632.0,1536.0,1624.0,1572.0,1610.0,1581.0,1585.0,1587.0,1527.0,1623.0,1545.0,1667.0,1545.0,1709.0,1545.0,1711.0,1573.0,1747.0,1653.0,1785.0,1717.0,1799.0,1769.0,1797.0,1799.0,1807.0,1950.0,1843.0,1983.0,1828.0,2024.0,1806.0,2043.0,1793.0,2057.0,1806.0,2063.0,1825.0,2127.0,1853.0,2195.0,1844.0,2303.0,1867.0,2430.0,1832.0,2554.0,1865.0,2653.0,1833.0,2690.0,1833.0,2700.0,1800.0,2686.0,1755.0,2653.0,1737.0,2649.0,1690.0,2623.0,1669.0,2605.0,1655.0,2597.0,1642.0,2568.0,1624.0,2553.0,1588.0,2564.0,1557.0,2597.0,1529.0,2587.0,1508.0,2555.0,1483.0,2544.0,1463.0,2543.0,1436.0,2554.0,1369.0,2534.0,1343.0,2527.0,1328.0,2472.0,1295.0,2450.0,1274.0,2421.0,1209.0,2404.0,1189.0,2367.0,1167.0,2294.0,1113.0,2270.0,1030.0,2253.0,1016.0,2224.0,994.0,2273.0,965.0,2264.0,912.0,2324.0,873.0,2321.0,844.0,2363.0,812.0,2418.0,784.0,2474.0,762.0,2515.0,781.0,2568.0,804.0,2648.0,794.0,2742.0,840.0,2785.0,865.0,2825.0,881.0,2874.0,883.0,2919.0,873.0,2962.0,904.0,3105.0,998.0,3105.0,1046.0,3170.0,1095.0,3220.0,1131.0,3289.0,1170.0,3337.0,1194.0,3441.0,1198.0,3500.0,1198.0,3500.0,2500.0,0.0,2500.0,0.0,1216.0,0.0,1201.0,67.0,1169.0,">
+          <texturedPoly hull="!-1,102.0,1164.0,210.0,1172.0,275.0,1153.0,373.0,1132.0,491.0,1139.0,547.0,1139.0,715.0,1076.0,749.0,1087.0,879.0,1053.0,1110.0,925.0,1232.0,922.0,1307.0,893.0,1350.0,878.0,1392.0,853.0,1408.0,845.0,1425.0,847.0,1448.0,846.0,1478.0,838.0,1483.0,854.0,1479.0,863.0,1485.0,877.0,1485.0,886.0,1488.0,896.0,1496.0,905.0,1497.0,915.0,1503.0,925.0,1517.0,934.0,1536.0,937.0,1543.0,927.0,1530.0,907.0,1523.0,892.0,1527.0,886.0,1525.0,879.0,1524.0,853.0,1534.0,837.0,1611.0,834.0,1710.0,815.0,1765.0,800.0,1815.0,770.0,1890.0,822.0,1983.0,881.0,2003.0,915.0,1964.0,946.0,1937.0,972.0,1933.0,1000.0,1921.0,1044.0,1899.0,1072.0,1815.0,1084.0,1771.0,1112.0,1721.0,1157.0,1740.0,1174.0,1764.0,1189.0,1766.0,1210.0,1741.0,1240.0,1705.0,1275.0,1703.0,1280.0,1686.0,1291.0,1675.0,1319.0,1697.0,1336.0,1712.0,1351.0,1748.0,1375.0,1755.0,1391.0,1754.0,1421.0,1731.0,1438.0,1713.0,1460.0,1701.0,1473.0,1674.0,1507.0,1632.0,1536.0,1624.0,1572.0,1610.0,1581.0,1585.0,1587.0,1527.0,1623.0,1545.0,1667.0,1545.0,1709.0,1545.0,1711.0,1573.0,1747.0,1653.0,1785.0,1717.0,1799.0,1769.0,1797.0,1799.0,1807.0,1950.0,1843.0,1983.0,1828.0,2024.0,1806.0,2043.0,1793.0,2057.0,1806.0,2063.0,1825.0,2127.0,1853.0,2195.0,1844.0,2303.0,1867.0,2430.0,1832.0,2554.0,1865.0,2653.0,1833.0,2690.0,1833.0,2700.0,1800.0,2686.0,1755.0,2653.0,1737.0,2649.0,1690.0,2623.0,1669.0,2605.0,1655.0,2597.0,1642.0,2568.0,1624.0,2553.0,1588.0,2564.0,1557.0,2597.0,1529.0,2587.0,1508.0,2555.0,1483.0,2544.0,1463.0,2543.0,1436.0,2554.0,1369.0,2534.0,1343.0,2527.0,1328.0,2472.0,1295.0,2450.0,1274.0,2421.0,1209.0,2404.0,1189.0,2367.0,1167.0,2294.0,1113.0,2270.0,1030.0,2253.0,1016.0,2224.0,994.0,2273.0,965.0,2264.0,912.0,2324.0,873.0,2321.0,844.0,2363.0,812.0,2418.0,784.0,2474.0,762.0,2515.0,781.0,2568.0,804.0,2648.0,794.0,2742.0,840.0,2785.0,865.0,2825.0,881.0,2874.0,883.0,2919.0,873.0,2962.0,904.0,3105.0,998.0,3105.0,1046.0,3170.0,1095.0,3220.0,1131.0,3289.0,1170.0,3337.0,1194.0,3441.0,1198.0,3500.0,1198.0,3500.0,2500.0,0.0,2500.0,0.0,1216.0,0.0,1201.0,67.0,1169.0,">
             <texture>
               <image path="textures/grass_texture.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
@@ -26,7 +26,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="1" x="0" y="0" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,353.0,938.0,702.0,901.0,989.0,784.0,1218.0,713.0,1371.0,610.0,1602.0,496.0,1821.0,451.0,2100.0,469.0,2447.0,567.0,2888.0,671.0,3037.0,735.0,3146.0,791.0,3206.0,855.0,3260.0,903.0,3310.0,933.0,3405.0,954.0,3500.0,958.0,3500.0,1200.0,3398.0,1201.0,3323.0,1189.0,3214.0,1151.0,3127.0,1081.0,3024.0,979.0,2773.0,873.0,2476.0,795.0,2398.0,816.0,2329.0,882.0,2302.0,948.0,2296.0,1017.0,2311.0,1110.0,2383.0,1163.0,2503.0,1209.0,2633.0,1367.0,2645.0,1647.0,2667.0,1699.0,2695.0,1742.0,2686.0,1809.0,2570.0,1852.0,2467.0,1835.0,2309.0,1875.0,1959.0,1859.0,1671.0,1797.0,1549.0,1757.0,1521.0,1685.0,1517.0,1475.0,1547.0,1341.0,1597.0,1209.0,1723.0,1122.0,1789.0,1068.0,1900.0,1047.0,1915.0,1020.0,1924.0,972.0,1900.0,942.0,1819.0,918.0,1729.0,921.0,1681.0,951.0,1642.0,969.0,1590.0,970.0,1551.0,985.0,1457.0,963.0,1360.0,924.0,1045.0,1041.0,796.0,1119.0,493.0,1170.0,172.0,1218.0,-17.0,1230.0,-9.0,970.0,">
+          <texturedPoly hull="!-1,353.0,938.0,702.0,901.0,989.0,784.0,1218.0,713.0,1371.0,610.0,1602.0,496.0,1821.0,451.0,2100.0,469.0,2447.0,567.0,2888.0,671.0,3037.0,735.0,3146.0,791.0,3206.0,855.0,3260.0,903.0,3310.0,933.0,3405.0,954.0,3500.0,958.0,3500.0,1200.0,3398.0,1201.0,3323.0,1189.0,3214.0,1151.0,3127.0,1081.0,3024.0,979.0,2773.0,873.0,2476.0,795.0,2398.0,816.0,2329.0,882.0,2302.0,948.0,2296.0,1017.0,2311.0,1110.0,2383.0,1163.0,2503.0,1209.0,2633.0,1367.0,2645.0,1647.0,2667.0,1699.0,2695.0,1742.0,2686.0,1809.0,2570.0,1852.0,2467.0,1835.0,2309.0,1875.0,1959.0,1859.0,1671.0,1797.0,1549.0,1757.0,1521.0,1685.0,1517.0,1475.0,1547.0,1341.0,1597.0,1209.0,1723.0,1122.0,1789.0,1068.0,1900.0,1047.0,1915.0,1020.0,1924.0,972.0,1900.0,942.0,1819.0,918.0,1729.0,921.0,1681.0,951.0,1642.0,969.0,1590.0,970.0,1527.0,926.0,1484.0,924.0,1360.0,924.0,1045.0,1041.0,796.0,1119.0,493.0,1170.0,172.0,1218.0,-17.0,1230.0,-9.0,970.0,">
             <texture>
               <image path="textures/water_texture.png" />
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
@@ -1115,7 +1115,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="2" x="1550" y="972" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="2" x="1531" y="931" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-32.0,-32.0,-32.0,32.0,32.0,32.0,32.0,-32.0,">
             <texture>
               <image path="images/tiles/grass_and_water_4.png" />
@@ -3705,27 +3705,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="8" x="1516" y="920" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-32.0,-32.0,-32.0,32.0,32.0,32.0,32.0,-32.0,">
-            <texture>
-              <image path="images/tiles/grass_and_water_21.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-32.0" y="-32.0" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
-        <geometry layer="3" x="1521" y="938" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-32.0,-32.0,-32.0,32.0,32.0,32.0,32.0,-32.0,">
-            <texture>
-              <image path="images/tiles/grass_and_water_21.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-32.0" y="-32.0" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
-        <geometry layer="4" x="1507" y="958" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="4" x="1492" y="921" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-27.1529,-36.203865,-36.203865,27.1529,27.1529,36.203865,36.203865,-27.1529,">
             <texture>
               <image path="images/tiles/grass_and_water_1.png" />
@@ -3755,7 +3735,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="1559" y="956" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="9" x="1535" y="910" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,33.605362,-8.525242,21.235767,27.405151,-33.605362,8.525242,-21.235767,-27.405151,">
             <texture>
               <image path="images/tiles/edge.png" />
@@ -3765,7 +3745,17 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="1547" y="921" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="9" x="1537" y="925" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,29.0,19.0,29.0,-19.0,-29.0,-19.0,-29.0,19.0,">
+            <texture>
+              <image path="images/tiles/edge.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="true">
+                <translate x="29.0" y="19.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="1538" y="895" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,29.0,-19.0,29.0,19.0,-29.0,19.0,-29.0,-19.0,">
             <texture>
               <image path="images/tiles/edge.png" />
@@ -3775,7 +3765,17 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="1540" y="897" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="9" x="1500" y="1388" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-855328,-72.0,-61.0,-72.0,62.0,72.0,62.0,72.0,-61.0,">
+            <texture>
+              <image path="images/concrete.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-72.0" y="-61.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="1532" y="862" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,29.0,-19.0,29.0,19.0,-29.0,19.0,-29.0,-19.0,">
             <texture>
               <image path="images/tiles/edge.png" />
@@ -6335,16 +6335,6 @@
               <image path="images/trees/log.png" />
               <xform scale="0.6725539" rotate="-55.12285" flipX="false" flipY="false">
                 <translate x="-107.94287" y="-58.022034" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
-        <geometry layer="3" x="1393" y="1346" orientation="0.0" visible="true" collidable="true" elasticity="0.1" damageModifier="0.3">
-          <texturedPoly hull="!-1,-125.37772,77.483826,-81.94545,47.7721,-80.97946,49.235943,-78.7837,47.78695,-79.749695,46.323105,-64.86235,35.44826,-49.989857,27.735172,-19.000244,6.2343984,-12.178883,3.8342674,-17.272625,0.89173126,-16.525852,-2.7530212,-6.806509,-0.7616261,10.510672,-11.138626,24.432026,-23.477318,51.264183,-40.13327,99.60068,-78.334564,104.49004,-83.66236,104.270836,-88.77096,109.36458,-85.82843,111.56034,-87.277435,112.52632,-85.813576,114.7221,-87.26258,116.90301,-85.54981,118.366844,-86.51579,122.96274,-81.14342,122.4649,-78.713585,128.74384,-69.19861,127.28001,-68.23262,128.48006,-64.82193,126.76731,-62.64103,112.15858,-59.30461,30.198278,-8.370752,30.168573,-2.0472383,17.0237,0.32318735,-6.6318474,13.832239,-11.302003,24.268648,-15.927603,25.21979,-14.931902,20.360117,-16.878742,20.594189,-19.32343,23.258097,-32.483154,28.79028,-63.940903,46.397373,-92.485825,65.23424,-100.068825,74.44088,-103.47951,75.640945,-110.081635,83.149666,-113.72639,82.4029,-107.12425,74.894165,-108.09024,73.43033,-119.80098,81.158264,">
-            <texture>
-              <image path="images/trees/log2.png" />
-              <xform scale="0.8769231" rotate="56.57908" flipX="false" flipY="false">
-                <translate x="113.551735" y="-96.99676" />
               </xform>
             </texture>
           </texturedPoly>
@@ -8977,16 +8967,6 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="1343" y="1374" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,-10.684211,-7.0,-10.684211,7.0,10.684211,7.0,10.684211,-7.0,">
-            <texture>
-              <image path="images/tiles/edge.png" />
-              <xform scale="0.36842105" rotate="0.0" flipX="false" flipY="false">
-                <translate x="-10.684211" y="-7.0" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
         <geometry layer="5" x="1103" y="1377" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,15.572935,-18.78065,23.437008,6.7775893,-15.572935,18.78065,-23.437008,-6.7775893,">
             <texture>
@@ -9320,6 +9300,231 @@
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
                 <translate x="493.0" y="-344.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1283" y="1879" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-1,-2.0,16.0,-2.0,-16.0,2.0,-16.0,2.0,16.0,">
+            <texture>
+              <image path="images/fence/down.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-2.0" y="-16.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1455" y="1854" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-1,9.0,9.0,9.0,-9.0,5.0,-9.0,5.0,-4.0,-9.0,-4.0,-9.0,1.0,5.0,1.0,-9.0,2.0,-9.0,7.0,5.0,7.0,5.0,9.0,">
+            <texture>
+              <image path="images/fence/left.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="9.0" y="-9.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1315" y="1977" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-1,-2.0,9.0,-2.0,7.0,-16.0,7.0,-16.0,2.0,-2.0,2.0,-16.0,1.0,-16.0,-4.0,-2.0,-4.0,-2.0,-9.0,2.0,-9.0,2.0,-4.0,16.0,-4.0,16.0,1.0,2.0,1.0,16.0,2.0,16.0,7.0,2.0,7.0,2.0,9.0,">
+            <texture>
+              <image path="images/fence/mid.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-16.0" y="-9.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1290" y="1970" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-1,-9.0,16.0,-9.0,-16.0,-5.0,-16.0,-5.0,3.0,9.0,3.0,9.0,8.0,-5.0,8.0,9.0,9.0,9.0,14.0,-5.0,14.0,-5.0,16.0,">
+            <texture>
+              <image path="images/fence/left-down.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-9.0" y="-16.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1462" y="1879" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-1,2.0,16.0,2.0,-16.0,-2.0,-16.0,-2.0,16.0,">
+            <texture>
+              <image path="images/fence/down.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="2.0" y="-16.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1430" y="1854" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-1,2.0,9.0,2.0,7.0,16.0,7.0,16.0,2.0,2.0,2.0,16.0,1.0,16.0,-4.0,2.0,-4.0,2.0,-9.0,-2.0,-9.0,-2.0,-4.0,-16.0,-4.0,-16.0,1.0,-2.0,1.0,-16.0,2.0,-16.0,7.0,-2.0,7.0,-2.0,9.0,">
+            <texture>
+              <image path="images/fence/mid.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="16.0" y="-9.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1340" y="1854" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-1,9.0,9.0,9.0,-9.0,5.0,-9.0,5.0,-4.0,-9.0,-4.0,-9.0,1.0,5.0,1.0,-9.0,2.0,-9.0,7.0,5.0,7.0,5.0,9.0,">
+            <texture>
+              <image path="images/fence/left.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="9.0" y="-9.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1315" y="1854" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-1,-2.0,9.0,-2.0,7.0,-16.0,7.0,-16.0,2.0,-2.0,2.0,-16.0,1.0,-16.0,-4.0,-2.0,-4.0,-2.0,-9.0,2.0,-9.0,2.0,-4.0,16.0,-4.0,16.0,1.0,2.0,1.0,16.0,2.0,16.0,7.0,2.0,7.0,2.0,9.0,">
+            <texture>
+              <image path="images/fence/mid.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-16.0" y="-9.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1462" y="1945" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-1,-2.0,9.0,-2.0,-9.0,2.0,-9.0,2.0,9.0,">
+            <texture>
+              <image path="images/fence/left-break.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-2.0" y="-9.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1290" y="1854" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-1,-9.0,9.0,-9.0,-9.0,-5.0,-9.0,-5.0,-4.0,9.0,-4.0,9.0,1.0,-5.0,1.0,9.0,2.0,9.0,7.0,-5.0,7.0,-5.0,9.0,">
+            <texture>
+              <image path="images/fence/left.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-9.0" y="-9.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1405" y="1977" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-1,-9.0,9.0,-9.0,-9.0,-5.0,-9.0,-5.0,-4.0,9.0,-4.0,9.0,1.0,-5.0,1.0,9.0,2.0,9.0,7.0,-5.0,7.0,-5.0,9.0,">
+            <texture>
+              <image path="images/fence/left.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-9.0" y="-9.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1283" y="1945" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-1,-2.0,9.0,-2.0,-9.0,2.0,-9.0,2.0,9.0,">
+            <texture>
+              <image path="images/fence/left-break.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-2.0" y="-9.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1430" y="1977" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-1,2.0,9.0,2.0,7.0,16.0,7.0,16.0,2.0,2.0,2.0,16.0,1.0,16.0,-4.0,2.0,-4.0,2.0,-9.0,-2.0,-9.0,-2.0,-4.0,-16.0,-4.0,-16.0,1.0,-2.0,1.0,-16.0,2.0,-16.0,7.0,-2.0,7.0,-2.0,9.0,">
+            <texture>
+              <image path="images/fence/mid.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="16.0" y="-9.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1455" y="1970" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-1,9.0,16.0,9.0,-16.0,5.0,-16.0,5.0,3.0,-9.0,3.0,-9.0,8.0,5.0,8.0,-9.0,9.0,-9.0,14.0,5.0,14.0,5.0,16.0,">
+            <texture>
+              <image path="images/fence/left-down.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="9.0" y="-16.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1405" y="1854" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-1,-9.0,9.0,-9.0,-9.0,-5.0,-9.0,-5.0,-4.0,9.0,-4.0,9.0,1.0,-5.0,1.0,9.0,2.0,9.0,7.0,-5.0,7.0,-5.0,9.0,">
+            <texture>
+              <image path="images/fence/left.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-9.0" y="-9.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1340" y="1977" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-1,9.0,9.0,9.0,-9.0,5.0,-9.0,5.0,-4.0,-9.0,-4.0,-9.0,1.0,5.0,1.0,-9.0,2.0,-9.0,7.0,5.0,7.0,5.0,9.0,">
+            <texture>
+              <image path="images/fence/left.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="9.0" y="-9.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1378" y="1965" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-130.0,-120.0,-130.0,120.0,130.0,120.0,130.0,-120.0,">
+            <texture>
+              <image path="images/trees/tree_12_00000.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-130.0" y="-120.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="8" x="1372" y="1902" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!1140850688,-1.0,-1.0,1.0,-2.0,4.0,-2.0,9.0,0.0,8.0,4.0,7.0,18.0,0.0,18.0,0.0,4.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-1370.0" y="-2103.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1500" y="1429" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-4.0,98.0,-68.0,55.0,-68.0,-56.0,-59.0,-50.0,-58.0,-51.0,-58.0,-98.0,-50.0,-98.0,-49.0,-53.0,-25.0,-40.0,24.0,-39.0,48.0,-53.0,48.0,-98.0,56.0,-98.0,56.0,-50.0,68.0,-58.0,68.0,53.0,63.0,55.0,2.0,98.0,">
+            <texture>
+              <image path="images/pavilion.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-70.0" y="-100.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="8" x="1441" y="1331" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!1140850688,0.0,-1.0,8.0,-1.0,8.0,20.0,0.0,20.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-1276.0" y="-1621.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="8" x="1548" y="1331" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!1140850688,0.0,-1.0,8.0,-1.0,8.0,20.0,0.0,20.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-1276.0" y="-1621.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="8" x="1441" y="1440" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!1140850688,0.0,-1.0,8.0,-1.0,8.0,18.0,0.0,18.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-1276.0" y="-1621.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="8" x="1548" y="1440" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!1140850688,0.0,-1.0,8.0,-1.0,8.0,18.0,0.0,18.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-1276.0" y="-1621.0" />
               </xform>
             </texture>
           </texturedPoly>
