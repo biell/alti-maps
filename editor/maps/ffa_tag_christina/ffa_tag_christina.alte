@@ -9464,7 +9464,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="4" x="1378" y="1965" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="4" x="1378" y="1965" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-130.0,-120.0,-130.0,120.0,130.0,120.0,130.0,-120.0,">
             <texture>
               <image path="images/trees/tree_12_00000.png" />
