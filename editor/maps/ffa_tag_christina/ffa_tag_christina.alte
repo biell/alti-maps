@@ -1115,7 +1115,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="2" x="1531" y="931" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="3" x="1531" y="931" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-32.0,-32.0,-32.0,32.0,32.0,32.0,32.0,-32.0,">
             <texture>
               <image path="images/tiles/grass_and_water_4.png" />
@@ -3695,7 +3695,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="4" x="1511" y="898" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="1" x="1511" y="898" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-32.0,-32.0,-32.0,32.0,32.0,32.0,32.0,-32.0,">
             <texture>
               <image path="images/tiles/grass_and_water_21.png" />
@@ -3735,7 +3735,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="1535" y="910" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="9" x="1533" y="905" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,33.605362,-8.525242,21.235767,27.405151,-33.605362,8.525242,-21.235767,-27.405151,">
             <texture>
               <image path="images/tiles/edge.png" />
@@ -3745,7 +3745,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="1537" y="925" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="9" x="1514" y="944" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,29.0,19.0,29.0,-19.0,-29.0,-19.0,-29.0,19.0,">
             <texture>
               <image path="images/tiles/edge.png" />
@@ -3755,7 +3755,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="1538" y="895" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="9" x="1539" y="887" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,29.0,-19.0,29.0,19.0,-29.0,19.0,-29.0,-19.0,">
             <texture>
               <image path="images/tiles/edge.png" />
