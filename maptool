@@ -34,8 +34,20 @@ case "$command" in
 		done
 		git commit -am "Update $*"
 		;;
+	rename)
+		if [ -n "$1" ] && [ -n "$2" ] && [ -r "editor/maps/$1" ]; then
+			git mv "editor/maps/$1" "editor/maps/$2"
+			git mv "editor/maps/$2/$1.alte" "editor/maps/$2/$2.alte"
+			git mv "plus/$1" "plus/$2"
+			git mv "editor_screenshots/${1}_collapsed.png" "editor_screenshots/${2}_collapsed.png"
+			git mv "maps/$1.altx" "maps/$2.altx"
+		else
+			echo Could not change map "'$1'" to "'$2'" 1>&2
+			exit 1
+		fi
+		;;
 	*)
-		echo "Syntax: $0 <add|delete|finish> <map>"
+		echo "Syntax: $0 <add|delete|finish|rename> <map>"
 		exit 1
 		;;
 esac
