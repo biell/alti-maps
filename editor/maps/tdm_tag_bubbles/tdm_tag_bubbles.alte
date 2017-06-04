@@ -3512,22 +3512,22 @@
       </geometry>
       <spawnPoints>
         <spawnPoints layer="1" x="411" y="277" orientation="0.0">
-          <team index="3" />
+          <team index="4" />
         </spawnPoints>
         <spawnPoints layer="1" x="3518" y="322" orientation="-180.0">
-          <team index="4" />
+          <team index="3" />
         </spawnPoints>
         <spawnPoints layer="1" x="169" y="2919" orientation="-40.81508">
-          <team index="3" />
+          <team index="4" />
         </spawnPoints>
         <spawnPoints layer="1" x="3904" y="2901" orientation="-154.359">
-          <team index="4" />
+          <team index="3" />
         </spawnPoints>
         <spawnPoints layer="1" x="3892" y="1285" orientation="-180.0">
-          <team index="4" />
+          <team index="3" />
         </spawnPoints>
         <spawnPoints layer="1" x="320" y="1041" orientation="31.607498">
-          <team index="3" />
+          <team index="4" />
         </spawnPoints>
         <spawnPoints layer="1" x="2044" y="241" orientation="90.0">
           <team index="4" />
