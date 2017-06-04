@@ -1,0 +1,8 @@
+#tdm_tag_bubbles
+#based on the Altitude tutorial map
+
+/set spawnHealth 75
+/set planeScale 80
+/set gravity 3
+/set botCount 0
+

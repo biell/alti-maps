@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="float-base-fore.png" value="p2" />
+    <entry key="float-base.png" value="p2" />
+    <entry key="gear-hard.png" value="p0" />
+    <entry key="gear-soft.png" value="p0" />
+    <entry key="green-closed.png" value="p2" />
+    <entry key="green-open.png" value="p3" />
+    <entry key="light-blue-closed.png" value="p0" />
+    <entry key="light-blue-open.png" value="p1" />
+    <entry key="orange-yellow-open.png" value="p4" />
+    <entry key="purple-closed.png" value="p5" />
+    <entry key="purple-open.png" value="p6" />
+    <entry key="red-closed.png" value="p7" />
+    <entry key="red-open.png" value="p8" />
+    <entry key="yellow-orange-closed.png" value="p9" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+
