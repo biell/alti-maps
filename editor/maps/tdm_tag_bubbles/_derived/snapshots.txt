@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_bubbles\_config\image-descriptors.txt" lastModified="1496618754169" length="23658" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_bubbles\_config\image-descriptors.txt" lastModified="1496620276917" length="23658" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_bubbles\images\float-base-fore.png" lastModified="1496593881944" length="33394" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_bubbles\images\float-base.png" lastModified="1496593842394" length="35585" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_bubbles\images\gear-hard.png" lastModified="1496599363814" length="3958" />
@@ -160,7 +160,7 @@
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_bubbles\images\red-closed.png" lastModified="1496593842401" length="17996" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_bubbles\images\red-open.png" lastModified="1496593842397" length="17175" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_bubbles\images\yellow-orange-closed.png" lastModified="1496593842401" length="17619" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_bubbles\tdm_tag_bubbles.alte" lastModified="1496614513081" length="250575" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_tag_bubbles\tdm_tag_bubbles.alte" lastModified="1496619079599" length="255355" />
   </snapshots>
 </snapshots.txt>
 

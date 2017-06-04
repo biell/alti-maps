@@ -1989,7 +1989,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="1664" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="6" x="1664" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,85.0,0.0,85.0,">
             <texture>
               <image path="images/import_png_foreground_rocks/00051.png" />
@@ -1999,7 +1999,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="5" x="2176" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="6" x="2176" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,85.0,0.0,85.0,">
             <texture>
               <image path="images/import_png_foreground_rocks/00036.png" />
