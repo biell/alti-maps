@@ -9,6 +9,7 @@
     <entry key="green-open.png" value="p3" />
     <entry key="light-blue-closed.png" value="p0" />
     <entry key="light-blue-open.png" value="p1" />
+    <entry key="logo.png" value="p0" />
     <entry key="orange-yellow-open.png" value="p4" />
     <entry key="purple-closed.png" value="p5" />
     <entry key="purple-open.png" value="p6" />
