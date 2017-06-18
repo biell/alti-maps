@@ -1,0 +1,9 @@
+#tdm_ruin_sopwith alti+ map settings
+
+#Basic settings:
+/set intro Destroy all the buildings and bring ruin to the town, before dying 10 times
+/set score 17 10
+/set roundTime 240
+/set assignTeam left
+/set botCount 2 hard
+/add plane =Biplane,Dogfighter,Rubber,Ace

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_ruin_sopwith\_config\image-descriptors.txt" lastModified="1497801864371" length="249" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_ruin_sopwith\images\logo.png" lastModified="1497801639951" length="5867" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tdm_ruin_sopwith\tdm_ruin_sopwith.alte" lastModified="1497801446011" length="136659" />
+  </snapshots>
+</snapshots.txt>
+
