@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_subway\1de_coop_subway.alte" lastModified="1498941450376" length="144745" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_subway\_config\image-descriptors.txt" lastModified="1498941450386" length="112" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_subway\1de_coop_subway.alte" lastModified="1498941621951" length="144745" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_subway\_config\image-descriptors.txt" lastModified="1498941630485" length="112" />
   </snapshots>
 </snapshots.txt>
 
