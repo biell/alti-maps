@@ -6,7 +6,7 @@
 /set spawnHealth 400
 /set planeScale 80
 /set weapons 3
-/set score 8 8
+/set win 8 8
 
 #Checkpoints:
 /add powerup 1 * 1577,115
