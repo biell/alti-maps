@@ -1,0 +1,6 @@
+#ball_3v3_v1 alti+ map settings
+
+#Basic settings:
+/set maxPlayers 6
+/set spawnMode died
+

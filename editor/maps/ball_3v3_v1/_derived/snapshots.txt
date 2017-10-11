@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3v3_v1\_config\image-descriptors.txt" lastModified="1507688345143" length="112" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3v3_v1\ball_3v3_v1.alte" lastModified="1507688345119" length="16269" />
+  </snapshots>
+</snapshots.txt>
+
