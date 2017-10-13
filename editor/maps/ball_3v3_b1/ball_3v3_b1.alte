@@ -71,15 +71,6 @@
     <View name="Game" size="2048,1024">
       <bounds minX="0" minY="0" maxX="2048" maxY="1024" />
       <geometry>
-        <geometry layer="3" x="2048" y="1024" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-285252096,0.0,-1024.0,-1024.0,-1024.0,-1024.0,-832.0,-992.0,-832.0,-960.0,-836.0,-928.0,-847.0,-897.0,-864.0,-800.0,-927.0,-768.0,-940.0,-736.0,-949.0,-704.0,-956.0,-671.0,-960.0,-352.0,-960.0,-256.0,-948.0,-192.0,-928.0,-128.0,-896.0,-64.0,-832.0,-47.0,-799.0,-32.0,-736.0,-32.0,-128.0,-41.0,-101.0,-52.0,-86.0,-72.0,-71.0,-96.0,-64.0,-181.0,-64.0,-192.0,-65.0,-210.0,-70.0,-228.0,-78.0,-248.0,-89.0,-295.0,-114.0,-338.0,-140.0,-363.0,-156.0,-388.0,-172.0,-401.0,-180.0,-411.0,-186.0,-424.0,-192.0,-432.0,-192.0,-442.0,-186.0,-448.0,-176.0,-448.0,-165.0,-434.0,-152.0,-224.0,-32.0,-448.0,-32.0,-671.0,-160.0,-768.0,-160.0,-800.0,-151.0,-831.0,-135.0,-864.0,-96.0,-897.0,-73.0,-928.0,-64.0,-1024.0,-64.0,-1024.0,0.0,0.0,0.0,">
-            <texture>
-              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
-                <translate x="0.0" y="-1024.0" />
-              </xform>
-            </texture>
-          </texturedPoly>
-        </geometry>
         <geometry layer="4" x="1023" y="831" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-301976628,1.0,1.0,-94.0,1.0,-126.0,-8.0,-159.0,-31.0,-191.0,-69.0,-191.0,-70.0,-190.0,-70.0,-159.0,-55.0,-127.0,-45.0,-95.0,-38.0,-63.0,-34.0,-31.0,-32.0,1.0,-31.0,">
             <texture>
@@ -126,7 +117,7 @@
           </texturedPoly>
         </geometry>
         <geometry layer="3" x="0" y="1024" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-301976628,0.0,-1024.0,1024.0,-1024.0,1024.0,-832.0,992.0,-832.0,960.0,-836.0,928.0,-847.0,897.0,-864.0,800.0,-927.0,768.0,-940.0,736.0,-949.0,704.0,-956.0,671.0,-960.0,352.0,-960.0,256.0,-948.0,192.0,-928.0,128.0,-896.0,64.0,-832.0,47.0,-799.0,32.0,-736.0,32.0,-128.0,41.0,-101.0,52.0,-86.0,72.0,-71.0,96.0,-64.0,181.0,-64.0,192.0,-65.0,210.0,-70.0,228.0,-78.0,248.0,-89.0,295.0,-114.0,338.0,-140.0,363.0,-156.0,388.0,-172.0,401.0,-180.0,411.0,-186.0,424.0,-192.0,432.0,-192.0,442.0,-186.0,448.0,-176.0,448.0,-165.0,434.0,-152.0,224.0,-32.0,448.0,-32.0,671.0,-160.0,768.0,-160.0,800.0,-151.0,831.0,-135.0,864.0,-96.0,897.0,-73.0,928.0,-64.0,1024.0,-64.0,1024.0,0.0,0.0,0.0,">
+          <texturedPoly hull="!-301976628,0.0,-1024.0,1024.0,-1024.0,1024.0,-832.0,992.0,-832.0,960.0,-836.0,928.0,-847.0,897.0,-864.0,800.0,-927.0,768.0,-940.0,736.0,-949.0,704.0,-956.0,671.0,-960.0,352.0,-960.0,256.0,-948.0,192.0,-928.0,128.0,-896.0,64.0,-832.0,47.0,-799.0,32.0,-736.0,32.0,-128.0,41.0,-101.0,52.0,-86.0,72.0,-71.0,96.0,-64.0,181.0,-64.0,480.0,-64.0,512.0,-74.0,544.0,-95.0,576.0,-126.0,608.0,-141.0,640.0,-152.0,671.0,-160.0,768.0,-160.0,800.0,-151.0,831.0,-135.0,864.0,-96.0,897.0,-73.0,928.0,-64.0,1024.0,-64.0,1024.0,0.0,0.0,0.0,">
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="0.0" y="-1024.0" />
@@ -233,24 +224,51 @@
             </texture>
           </texturedPoly>
         </geometry>
+        <geometry layer="7" x="243" y="844" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-301976628,-17.412403,-14.346013,21.902588,5.4107876,46.503796,3.2243762,63.063305,-3.0031977,71.105,1.0379655,58.981518,25.163076,37.49635,34.511208,10.214573,35.350563,-34.461555,12.899654,-50.517883,-8.599053,-56.28289,-32.760265,-44.159397,-56.885384,-35.22418,-52.3952,-30.783648,-36.73373,">
+            <texture>
+              <xform scale="1.0" rotate="-116.68072" flipX="false" flipY="true">
+                <translate x="-397.54254" y="-1344.6819" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="3" x="2048" y="1024" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-285252096,0.0,-1024.0,-1024.0,-1024.0,-1024.0,-832.0,-992.0,-832.0,-960.0,-836.0,-928.0,-847.0,-897.0,-864.0,-800.0,-927.0,-768.0,-940.0,-736.0,-949.0,-704.0,-956.0,-671.0,-960.0,-352.0,-960.0,-256.0,-948.0,-192.0,-928.0,-128.0,-896.0,-64.0,-832.0,-47.0,-799.0,-32.0,-736.0,-32.0,-128.0,-41.0,-101.0,-52.0,-86.0,-72.0,-71.0,-96.0,-64.0,-181.0,-64.0,-480.0,-64.0,-512.0,-74.0,-544.0,-95.0,-576.0,-126.0,-608.0,-141.0,-640.0,-152.0,-671.0,-160.0,-768.0,-160.0,-800.0,-151.0,-831.0,-135.0,-864.0,-96.0,-897.0,-73.0,-928.0,-64.0,-1024.0,-64.0,-1024.0,0.0,0.0,0.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="-1024.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="1805" y="844" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-285252096,17.412403,-14.346013,-21.902588,5.4107876,-46.503796,3.2243762,-63.063305,-3.0031977,-71.105,1.0379655,-58.981518,25.163076,-37.49635,34.511208,-10.214573,35.350563,34.461555,12.899654,50.517883,-8.599053,56.28289,-32.760265,44.159397,-56.885384,35.22418,-52.3952,30.783648,-36.73373,">
+            <texture>
+              <xform scale="1.0" rotate="-116.68072" flipX="true" flipY="true">
+                <translate x="397.54254" y="-1344.6819" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
       </geometry>
       <spawnPoints>
-        <spawnPoints layer="1" x="429" y="952" orientation="-30.534607">
+        <spawnPoints layer="1" x="266" y="256" orientation="14.711594">
           <team index="4" />
         </spawnPoints>
-        <spawnPoints layer="1" x="462" y="890" orientation="-30.534607">
+        <spawnPoints layer="1" x="267" y="800" orientation="-23.734528">
           <team index="4" />
         </spawnPoints>
-        <spawnPoints layer="1" x="380" y="943" orientation="-30.534607">
+        <spawnPoints layer="1" x="343" y="448" orientation="-0.19136047">
           <team index="4" />
         </spawnPoints>
-        <spawnPoints layer="1" x="1619" y="952" orientation="-149.4654">
+        <spawnPoints layer="1" x="1705" y="448" orientation="-179.80865">
           <team index="7" />
         </spawnPoints>
-        <spawnPoints layer="1" x="1668" y="943" orientation="-149.4654">
+        <spawnPoints layer="1" x="1782" y="256" orientation="165.28839">
           <team index="7" />
         </spawnPoints>
-        <spawnPoints layer="1" x="1586" y="890" orientation="-149.4654">
+        <spawnPoints layer="1" x="1781" y="800" orientation="-156.26547">
           <team index="7" />
         </spawnPoints>
       </spawnPoints>
@@ -356,13 +374,13 @@
       <Hoop />
       <objectiveDescriptor />
       <powerupSpawner>
-        <powerupSpawner layer="1" x="608" y="800" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="544" y="608" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
           <team index="4" />
           <selectedPowerups>
             <String value="Ball" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="1440" y="800" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="1504" y="608" orientation="0.0" spawnTime="10.0" neverFade="true" spawnAtRoundStart="false">
           <team index="7" />
           <selectedPowerups>
             <String value="Ball" />
