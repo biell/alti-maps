@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\_config\image-descriptors.txt" lastModified="1507867777432" length="3395" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\ball_3asteroids_reset.alte" lastModified="1507867776622" length="41162" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\asteroids_02.png" lastModified="1507867776608" length="97467" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\asteroids_09.png" lastModified="1507867776608" length="19675" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\asteroids_10.png" lastModified="1507867776608" length="10902" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\asteroids_12.png" lastModified="1507867776608" length="12808" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\asteroids_13.png" lastModified="1507867776608" length="13090" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\asteroids_21.png" lastModified="1507867776608" length="31119" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\asteroids_24.png" lastModified="1507867776608" length="40042" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\asteroids_25.png" lastModified="1507867776608" length="3363" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\import_png_asteroids_stars\00000.png" lastModified="1507867776608" length="110806" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\import_png_asteroids_stars\00001.png" lastModified="1507867776612" length="228859" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\import_png_asteroids_stars\00002.png" lastModified="1507867776612" length="18905" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\import_png_asteroids_stars\00003.png" lastModified="1507867776612" length="73689" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\import_png_asteroids_stars\00004.png" lastModified="1507867776612" length="68371" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\import_png_asteroids_stars\00005.png" lastModified="1507867776612" length="22605" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\import_png_asteroids_stars\00006.png" lastModified="1507867776612" length="65163" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\import_png_asteroids_stars\00007.png" lastModified="1507867776612" length="21138" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\import_png_asteroids_stars\00008.png" lastModified="1507867776612" length="42796" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\import_png_asteroids_stars\00009.png" lastModified="1507867776612" length="185718" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\import_png_asteroids_stars\00010.png" lastModified="1507867776612" length="187239" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\import_png_asteroids_stars\00011.png" lastModified="1507867776615" length="46068" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\import_png_asteroids_stars\00012.png" lastModified="1507867776615" length="27295" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\import_png_asteroids_stars\00013.png" lastModified="1507867776618" length="98586" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_3asteroids_reset\images\import_png_asteroids_stars\00014.png" lastModified="1507867776618" length="10417" />
+  </snapshots>
+</snapshots.txt>
+

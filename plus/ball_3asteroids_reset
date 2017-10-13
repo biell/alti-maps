@@ -1,0 +1,16 @@
+#ball_3asteroids_reset alti+ map settings
+
+#Basic settings:
+/set maxPlayers 6
+/set cameraScale 150
+/set spawnMode near
+
+
+/add zone top    < 281,938,se
+/add zone center < 599,540,c
+/add zone bot    < 281,142,ne
+
+/add zone top    > 1919,938,sw
+/add zone center > 1601,540,c
+/add zone bot    > 1919,142,nw
+
