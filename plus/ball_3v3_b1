@@ -6,11 +6,11 @@
 /set spawnMode near
 
 
-/add zone top    < 267,800
-/add zone center < 343,448
-/add zone bot    < 266,256
+/add zone top    < 267,800,c
+/add zone center < 343,448,c
+/add zone bot    < 266,256,c
 
-/add zone top    > 1781,800
-/add zone center > 1705,448
-/add zone bot    > 1782,256
+/add zone top    > 1781,800,c
+/add zone center > 1705,448,c
+/add zone bot    > 1782,256,c
 
