@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_tixe\_config\image-descriptors.txt" lastModified="1494547378432" length="2501" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_tixe\_config\image-descriptors.txt" lastModified="1514519466939" length="2501" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_tixe\images\import_png_00_1\00000.png" lastModified="1494547378148" length="7960" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_tixe\images\import_png_RTS_Crate_0\00000.png" lastModified="1494547378152" length="15871" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_tixe\images\import_png_b1\00000.png" lastModified="1494547378148" length="10123" />
@@ -19,7 +19,7 @@
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_tixe\images\import_png_ivy\00003.png" lastModified="1494547378152" length="8873" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_tixe\images\import_png_ivy\00004.png" lastModified="1494547378152" length="13439" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_tixe\images\import_png_shape1\00000.png" lastModified="1494547378152" length="19463" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_tixe\tbd_coop_tixe.alte" lastModified="1494547378168" length="424162" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_tixe\tbd_coop_tixe.alte" lastModified="1514519029692" length="424169" />
   </snapshots>
 </snapshots.txt>
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Level backgroundColor="-6250241" nameTextColor="-16777216" useBlackSmokeForPlaneDamage="true" backgroundClearRequired="true">
+<Level backgroundColor="-10066330" nameTextColor="-16777216" useBlackSmokeForPlaneDamage="true" backgroundClearRequired="true">
   <levelModeConfig objectiveGameTimeSeconds="1200" />
   <views>
     <View name="Background" size="3000,1500">
@@ -1221,11 +1221,11 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="480" y="1440" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
-          <texturedPoly hull="!-1,0.0,0.0,60.0,0.0,60.0,60.0,0.0,60.0,">
+        <geometry layer="9" x="386" y="1300" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,76.0,0.0,76.0,76.0,0.0,76.0,">
             <texture>
               <image path="images/import_png_00_1/00000.png" />
-              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+              <xform scale="1.2666667" rotate="0.0" flipX="false" flipY="false">
                 <translate x="0.0" y="0.0" />
               </xform>
             </texture>
