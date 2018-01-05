@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_bunker_buster\1de_coop_bunker_buster.alte" lastModified="1515126380656" length="35034" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_bunker_buster\_config\image-descriptors.txt" lastModified="1515126424726" length="272" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_bunker_buster\1de_coop_bunker_buster.alte" lastModified="1515126872323" length="35034" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_bunker_buster\_config\image-descriptors.txt" lastModified="1515127606413" length="272" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1de_coop_bunker_buster\textures\concrete_texture_tilable.png" lastModified="1515126268126" length="492511" />
   </snapshots>
 </snapshots.txt>
