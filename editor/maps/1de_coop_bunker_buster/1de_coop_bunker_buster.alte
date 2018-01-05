@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Level backgroundColor="-10066330" nameTextColor="-1645340" useBlackSmokeForPlaneDamage="true" backgroundClearRequired="true">
-  <levelModeConfig objectiveGameTimeSeconds="120" />
+  <levelModeConfig objectiveGameTimeSeconds="300" />
   <views>
     <View name="Background" size="1280,5160">
       <bounds minX="0" minY="0" maxX="1280" maxY="5160" />
