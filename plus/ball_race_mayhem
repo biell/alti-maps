@@ -29,11 +29,11 @@
 /add oneway 3623,661 w
 /add oneway 3623,627 w
 
-/add oneway 983,1083 e
-/add oneway 983,1049 e
-/add oneway 983,1117 e
-/add oneway 974,1083 e
-/add oneway 974,1049 e
-/add oneway 974,1117 e
+/add oneway 983,1083 se
+/add oneway 983,1049 se
+/add oneway 983,1117 se
+/add oneway 974,1083 se
+/add oneway 974,1049 se
+/add oneway 974,1117 se
 
 
