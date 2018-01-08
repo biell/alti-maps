@@ -33,7 +33,28 @@
 
 
 #Oneways:
+/add oneway 1696,2292 se
+/add oneway 1698,2251 se
+/add oneway 1734,2335 se
+/add oneway 1737,2294 se
+/add oneway 1739,2254 se
+/add oneway 1774,2337 se
+/add oneway 1777,2297 se
+
+/add oneway 5654,1911 nw
+/add oneway 5665,1871 nw
+/add oneway 5682,1961 nw
+/add oneway 5693,1922 nw
+/add oneway 5704,1882 nw
+/add oneway 5721,1972 nw
+/add oneway 5732,1932 nw
+
 /add oneway 781,3682 e
 /add oneway 781,3739 e
+/add oneway 810,3711 e
+/add oneway 810,3768 e
+/add oneway 810,3653 e
+/add oneway 839,3739 e
+/add oneway 839,3682 e
 
 

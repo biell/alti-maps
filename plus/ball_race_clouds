@@ -27,6 +27,19 @@
 
 
 #One-ways:
+/add oneway 1577,115 e
+/add oneway 1590,141 e
+/add oneway 1600,168 e
+/add oneway 1607,112 e
+/add oneway 1611,195 e
+/add oneway 1617,221 e
+/add oneway 1620,138 e
+/add oneway 1630,165 e
+/add oneway 1641,192 e
+
 /add oneway 672,111 e
 /add oneway 683,137 e
 /add oneway 693,162 e
+/add oneway 712,111 e
+/add oneway 720,139 e
+/add oneway 727,166 e

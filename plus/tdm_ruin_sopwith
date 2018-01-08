@@ -2,6 +2,7 @@
 
 #Basic settings:
 /set intro Destroy all the buildings and bring ruin to the town, before dying 10 times
+/set spawnMode team
 /set score 17 10
 /set roundTime 240
 /set assignTeam left

@@ -22,6 +22,18 @@
 /add powerup 2 * 974,1117
 
 #One-ways:
+/add oneway 3587,695 w
+/add oneway 3587,661 w
+/add oneway 3587,627 w
+/add oneway 3623,695 w
+/add oneway 3623,661 w
+/add oneway 3623,627 w
+
+/add oneway 983,1083 e
+/add oneway 983,1049 e
+/add oneway 983,1117 e
 /add oneway 974,1083 e
 /add oneway 974,1049 e
 /add oneway 974,1117 e
+
+

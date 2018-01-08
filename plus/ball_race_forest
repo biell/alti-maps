@@ -50,10 +50,32 @@
 
 
 #Oneways:
+/add oneway 2980,2391 sw
+/add oneway 2980,2361 sw
+/add oneway 3010,2368 sw
+/add oneway 3010,2338 sw
+/add oneway 3010,2398 sw
+/add oneway 3040,2308 sw
+/add oneway 3040,2398 sw
+/add oneway 3040,2368 sw
+/add oneway 3040,2338 sw
+/add oneway 3058,2278 sw
+/add oneway 3070,2308 sw
+/add oneway 3070,2368 sw
+/add oneway 3070,2338 sw
+/add oneway 3100,2338 sw
+/add oneway 3100,2308 sw
+
+/add oneway 1241,593 w
+/add oneway 1241,646 w
+/add oneway 1264,619 w
 /add oneway 1264,566 w
 /add oneway 1264,671 w
-/add oneway 1264,619 w
-/add oneway 1285,646 w 
+/add oneway 1285,646 w
 /add oneway 1285,593 w
-
+/add oneway 1309,566 w
+/add oneway 1309,671 w
+/add oneway 1309,619 w
+/add oneway 1332,646 w
+/add oneway 1332,593 w
 

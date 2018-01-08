@@ -25,6 +25,11 @@
 /add powerup 2 * 569,1296
 
 #One-ways:
+/add oneway 2105,1746 n
+/add oneway 2134,1717 n
+/add oneway 2134,1775 n
+/add oneway 2163,1746 n
+
 /add oneway 308,1267 s
 /add oneway 366,1267 s
 /add oneway 424,1267 s

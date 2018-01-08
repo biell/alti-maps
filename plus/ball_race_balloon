@@ -27,5 +27,14 @@
 /add powerup 3 * 780,300
 
 #One-ways:
+/add oneway 2242,1487 w
+/add oneway 2242,1547 w
+/add oneway 2272,1517 w
+/add oneway 2302,1487 w
+/add oneway 2302,1547 w
+
 /add oneway 720,240 e
 /add oneway 720,300 e
+/add oneway 750,270 e
+/add oneway 780,240 e
+/add oneway 780,300 e

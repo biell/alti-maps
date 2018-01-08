@@ -21,6 +21,11 @@
 /add powerup 2 * 2366,1585
 
 #One-ways:
+/add oneway 1259,1239 sw
+/add oneway 1287,1267 sw
+/add oneway 1287,1211 sw
+/add oneway 1315,1239 sw
+
 /add oneway 2226,1613 n
 /add oneway 2254,1585 n
 /add oneway 2282,1613 n

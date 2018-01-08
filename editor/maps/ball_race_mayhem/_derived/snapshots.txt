@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\_config\image-descriptors.txt" lastModified="1451497881110" length="5129" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\ball_race_mayhem.alte" lastModified="1446263188109" length="111995" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\_config\image-descriptors.txt" lastModified="1515448561235" length="5129" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\ball_race_mayhem.alte" lastModified="1451498026513" length="112549" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\images\background4.png" lastModified="1445746174242" length="5920620" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\images\block1.png" lastModified="1445746174235" length="131983" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_mayhem\images\block2.png" lastModified="1445746174249" length="86279" />
