@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_balloon\_config\image-descriptors.txt" lastModified="1515886477844" length="619" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_balloon\ball_race_balloon.alte" lastModified="1498700557789" length="263773" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_balloon\_config\image-descriptors.txt" lastModified="1515886798249" length="619" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_balloon\ball_race_balloon.alte" lastModified="1515886564114" length="264378" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_balloon\images\ballon-in-sky.jpg" lastModified="1498700557792" length="1084230" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_balloon\images\beacon1.png" lastModified="1498700557796" length="6075" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_balloon\images\beacon2.png" lastModified="1498700557796" length="5869" />
