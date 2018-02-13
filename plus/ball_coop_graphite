@@ -1,6 +1,6 @@
 #ball_coop_graphite alti+ map settings
 
 /set assignTeam left
-/set win 1 0
+/set win 1 1
 /set planeScale 90
 

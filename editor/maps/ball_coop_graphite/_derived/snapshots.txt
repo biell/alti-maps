@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\_config\image-descriptors.txt" lastModified="1518498052759" length="2717" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\ball_coop_graphite.alte" lastModified="1518497723459" length="281697" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\_config\image-descriptors.txt" lastModified="1518502452607" length="2717" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\ball_coop_graphite.alte" lastModified="1518501836334" length="176260" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_diamond_1.png" lastModified="1518498048016" length="1403" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_diamond_2.png" lastModified="1518498048016" length="2898" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_diamond_3.png" lastModified="1518498048016" length="2251" />
@@ -20,7 +20,7 @@
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_wall_3.png" lastModified="1518498048016" length="177034" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_wall_4.png" lastModified="1518498048016" length="277778" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_wall_5.png" lastModified="1518498048016" length="104431" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_wall_6.png" lastModified="1518498048016" length="236332" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_wall_6.png" lastModified="1518500714760" length="236332" />
   </snapshots>
 </snapshots.txt>
 
