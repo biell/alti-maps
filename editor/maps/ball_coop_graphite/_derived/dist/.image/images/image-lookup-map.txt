@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="ball_coop_graphite_diamond_1.png" value="p7" />
+    <entry key="ball_coop_graphite_diamond_2.png" value="p7" />
+    <entry key="ball_coop_graphite_diamond_3.png" value="p7" />
+    <entry key="ball_coop_graphite_diamond_4.png" value="p7" />
+    <entry key="ball_coop_graphite_diamond_5.png" value="p7" />
+    <entry key="ball_coop_graphite_diamond_6.png" value="p7" />
+    <entry key="ball_coop_graphite_diamond_7.png" value="p7" />
+    <entry key="ball_coop_graphite_diamond_8.png" value="p7" />
+    <entry key="ball_coop_graphite_diamond_9.png" value="p7" />
+    <entry key="ball_coop_graphite_diamond_a.png" value="p7" />
+    <entry key="ball_coop_graphite_diamond_b.png" value="p7" />
+    <entry key="ball_coop_graphite_inside.png" value="p0" />
+    <entry key="ball_coop_graphite_wall_1.png" value="p1" />
+    <entry key="ball_coop_graphite_wall_2.png" value="p2" />
+    <entry key="ball_coop_graphite_wall_3.png" value="p3" />
+    <entry key="ball_coop_graphite_wall_4.png" value="p4" />
+    <entry key="ball_coop_graphite_wall_5.png" value="p5" />
+    <entry key="ball_coop_graphite_wall_6.png" value="p6" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\_config\image-descriptors.txt" lastModified="1518498052759" length="2717" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\ball_coop_graphite.alte" lastModified="1518497723459" length="281697" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_diamond_1.png" lastModified="1518498048016" length="1403" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_diamond_2.png" lastModified="1518498048016" length="2898" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_diamond_3.png" lastModified="1518498048016" length="2251" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_diamond_4.png" lastModified="1518498048016" length="1849" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_diamond_5.png" lastModified="1518498048016" length="1807" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_diamond_6.png" lastModified="1518498048016" length="1848" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_diamond_7.png" lastModified="1518498048016" length="1725" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_diamond_8.png" lastModified="1518498048016" length="1431" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_diamond_9.png" lastModified="1518495434487" length="1353" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_diamond_a.png" lastModified="1518498048016" length="1102" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_diamond_b.png" lastModified="1518498048016" length="1005" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_inside.png" lastModified="1518498048016" length="100366" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_wall_1.png" lastModified="1518498048016" length="183161" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_wall_2.png" lastModified="1518498048016" length="250785" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_wall_3.png" lastModified="1518498048016" length="177034" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_wall_4.png" lastModified="1518498048016" length="277778" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_wall_5.png" lastModified="1518498048016" length="104431" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_wall_6.png" lastModified="1518498048016" length="236332" />
+  </snapshots>
+</snapshots.txt>
+
