@@ -833,7 +833,7 @@
             <String value="Homing Missile" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="1608" y="1439" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="2952" y="1429" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
@@ -852,6 +852,12 @@
           </selectedPowerups>
         </powerupSpawner>
         <powerupSpawner layer="1" x="1321" y="164" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="111" y="1828" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
