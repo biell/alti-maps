@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\1bd_better_apart.alte" lastModified="1518759247151" length="25091" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\_config\image-descriptors.txt" lastModified="1518760095523" length="985" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\images\00000.png" lastModified="1518757983606" length="71857" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\images\back.png" lastModified="1518757983609" length="3009819" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\images\barre.png" lastModified="1518757983609" length="56991" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\images\barre32.png" lastModified="1518757983609" length="32894" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\images\barre4.png" lastModified="1518757983609" length="123902" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\images\barre6.png" lastModified="1518757983613" length="45659" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\images\cadreG.png" lastModified="1518757983613" length="119090" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\plus.txt" lastModified="1518757983613" length="135" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\1bd_better_apart.alte" lastModified="1518761882713" length="26353" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\_config\image-descriptors.txt" lastModified="1518762467846" length="985" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\images\00000.png" lastModified="1518762457586" length="62809" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\images\back.png" lastModified="1518761882846" length="3009819" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\images\barre.png" lastModified="1518761882846" length="56991" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\images\barre32.png" lastModified="1518761882846" length="32894" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\images\barre4.png" lastModified="1518761882846" length="123902" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\images\barre6.png" lastModified="1518761882846" length="45659" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\images\cadreG.png" lastModified="1518761882849" length="119090" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_better_apart\plus.txt" lastModified="1518761882849" length="135" />
   </snapshots>
 </snapshots.txt>
 
