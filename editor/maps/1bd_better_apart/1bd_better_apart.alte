@@ -347,6 +347,26 @@
             </texture>
           </texturedPoly>
         </geometry>
+        <geometry layer="1" x="647" y="842" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,23.239672,73.388435,25.685951,71.55372,25.685951,-72.77686,-22.6281,-74.0,-25.685951,-72.16529,-26.297522,71.55372,-25.07438,72.77686,-16.512398,74.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="0.6115703" rotate="0.0" flipX="true" flipY="false">
+                <translate x="26.297522" y="-74.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="262" y="843" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-23.239672,73.388435,-25.685951,71.55372,-25.685951,-72.77686,22.6281,-74.0,25.685951,-72.16529,26.297522,71.55372,25.07438,72.77686,16.512398,74.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="0.6115703" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-26.297522" y="-74.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
       </geometry>
       <spawnPoints>
         <spawnPoints layer="1" x="192" y="1185" orientation="0.0">
@@ -375,7 +395,7 @@
         </spawnPoints>
       </spawnPoints>
       <Base>
-        <Base layer="1" x="456" y="898">
+        <Base layer="1" x="445" y="898">
           <team index="4" />
           <transformation scale="1.0" rotate="0.0" flipX="false" flipY="false">
             <translate x="0.0" y="0.0" />
