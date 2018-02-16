@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\_config\image-descriptors.txt" lastModified="1518748161479" length="2717" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\ball_coop_graphite.alte" lastModified="1518748123632" length="173628" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\_config\image-descriptors.txt" lastModified="1518754573680" length="2717" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\ball_coop_graphite.alte" lastModified="1518750132445" length="104185" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_diamond_1.png" lastModified="1518748123632" length="1403" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_diamond_2.png" lastModified="1518748123632" length="2898" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_graphite\images\ball_coop_graphite_diamond_3.png" lastModified="1518748123632" length="2251" />

@@ -1,0 +1,7 @@
+#tbd_coop_better_together_nb
+
+#Original by Wellington
+#Modified by biell to work on servers with Bot count of 0
+
+/set assignTeam left
+

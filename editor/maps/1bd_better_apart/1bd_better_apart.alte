@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Level backgroundColor="-6710887" nameTextColor="-16777216" useBlackSmokeForPlaneDamage="true" backgroundClearRequired="true">
+  <levelModeConfig objectiveGameTimeSeconds="120" />
+  <views>
+    <View name="Background" size="2560,1536">
+      <bounds minX="0" minY="0" maxX="2560" maxY="1536" />
+      <geometry>
+        <geometry layer="1" x="1717" y="770" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-1870.0573,-720.6387,-1870.0573,720.6387,1870.0573,720.6387,1870.0573,-720.6387,">
+            <texture>
+              <image path="images/back.png" />
+              <xform scale="0.72063863" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-1870.0573" y="-720.6387" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="450" y="410" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!1476395007,-43.0,-121.0,-43.0,121.0,43.0,121.0,43.0,-121.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-43.0" y="-121.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="1678" y="174" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!1476395007,43.0,-121.0,43.0,121.0,-43.0,121.0,-43.0,-121.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="43.0" y="-121.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="1184" y="617" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!1476395007,-43.0,-121.0,-43.0,121.0,43.0,121.0,43.0,-121.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-43.0" y="-121.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="1580" y="843" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!1476395007,-43.0,-121.0,-43.0,121.0,43.0,121.0,43.0,-121.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-43.0" y="-121.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2037" y="568" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!1476395007,-43.0,-121.0,-43.0,121.0,43.0,121.0,43.0,-121.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-43.0" y="-121.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2187" y="567" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!1476395007,43.0,-121.0,43.0,121.0,-43.0,121.0,-43.0,-121.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="43.0" y="-121.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+      </geometry>
+      <spawnPoints />
+      <Base />
+      <Turret />
+      <Hoop />
+      <objectiveDescriptor />
+      <powerupSpawner />
+      <Goal />
+    </View>
+    <View name="Game" size="2560,1536">
+      <bounds minX="0" minY="0" maxX="2560" maxY="1536" />
+      <geometry>
+        <geometry layer="2" x="37" y="767" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-36.362644,717.1521,-36.362644,-717.1521,36.362644,-717.1521,36.362644,717.1521,">
+            <texture>
+              <image path="images/cadreG.png" />
+              <xform scale="1.0100734" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-36.362644" y="-717.1521" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="3" x="384" y="27" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,423.0,25.0,425.0,19.0,426.0,-19.0,423.0,-26.0,-421.0,-27.0,-426.0,-23.0,-427.0,22.0,-424.0,26.0,411.0,27.0,">
+            <texture>
+              <image path="images/barre.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="426.0" y="-27.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="1227" y="27" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-423.0,25.0,-425.0,19.0,-426.0,-19.0,-423.0,-26.0,421.0,-27.0,426.0,-23.0,427.0,22.0,424.0,26.0,-411.0,27.0,">
+            <texture>
+              <image path="images/barre.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-426.0" y="-27.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="3" x="386" y="1509" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,423.0,25.0,425.0,19.0,426.0,-19.0,423.0,-26.0,-421.0,-27.0,-426.0,-23.0,-427.0,22.0,-424.0,26.0,411.0,27.0,">
+            <texture>
+              <image path="images/barre.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="426.0" y="-27.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="1227" y="1509" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-423.0,-25.0,-425.0,-19.0,-426.0,19.0,-423.0,26.0,421.0,27.0,426.0,23.0,427.0,-22.0,424.0,-26.0,-411.0,-27.0,">
+            <texture>
+              <image path="images/barre.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="true">
+                <translate x="-426.0" y="27.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="2762" y="1509" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-423.0,-25.0,-425.0,-19.0,-426.0,19.0,-423.0,26.0,421.0,27.0,426.0,23.0,427.0,-22.0,424.0,-26.0,-411.0,-27.0,">
+            <texture>
+              <image path="images/barre.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="true">
+                <translate x="-426.0" y="27.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="2762" y="27" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-423.0,25.0,-425.0,19.0,-426.0,-19.0,-423.0,-26.0,421.0,-27.0,426.0,-23.0,427.0,22.0,424.0,26.0,-411.0,27.0,">
+            <texture>
+              <image path="images/barre.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-426.0" y="-27.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="3" x="2037" y="1509" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-423.0,-25.0,-425.0,-19.0,-426.0,19.0,-423.0,26.0,421.0,27.0,426.0,23.0,427.0,-22.0,424.0,-26.0,-411.0,-27.0,">
+            <texture>
+              <image path="images/barre.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="true">
+                <translate x="-426.0" y="27.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="3" x="2037" y="27" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-423.0,25.0,-425.0,19.0,-426.0,-19.0,-423.0,-26.0,421.0,-27.0,426.0,-23.0,427.0,22.0,424.0,26.0,-411.0,27.0,">
+            <texture>
+              <image path="images/barre.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-426.0" y="-27.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2523" y="767" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,36.362644,717.1521,36.362644,-717.1521,-36.362644,-717.1521,-36.362644,717.1521,">
+            <texture>
+              <image path="images/cadreG.png" />
+              <xform scale="1.0100734" rotate="0.0" flipX="true" flipY="false">
+                <translate x="36.362644" y="-717.1521" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="333" y="811" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,120.0,37.999996,117.0,41.999996,-119.0,42.000004,-121.0,-36.999996,-118.0,-41.999996,117.0,-43.000004,119.0,-41.000004,121.0,-27.000006,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="-90.0" flipX="false" flipY="false">
+                <translate x="-121.0" y="43.000004" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="569" y="811" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,120.0,37.999996,117.0,41.999996,-119.0,42.000004,-121.0,-36.999996,-118.0,-41.999996,117.0,-43.000004,119.0,-41.000004,121.0,-27.000006,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="-90.0" flipX="false" flipY="false">
+                <translate x="-121.0" y="43.000004" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="450" y="649" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-38.0,120.0,-42.0,117.0,-42.0,-119.0,37.0,-121.0,42.0,-118.0,43.0,117.0,41.0,119.0,27.0,121.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-43.0" y="-121.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="277" y="731" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-38.0,120.0,-42.0,117.0,-42.0,-119.0,37.0,-121.0,42.0,-118.0,43.0,117.0,41.0,119.0,27.0,121.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-43.0" y="-121.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="632" y="732" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,38.0,120.0,42.0,117.0,42.0,-119.0,-37.0,-121.0,-42.0,-118.0,-43.0,117.0,-41.0,119.0,-27.0,121.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="43.0" y="-121.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="450" y="171" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-38.0,120.0,-42.0,117.0,-42.0,-119.0,37.0,-121.0,42.0,-118.0,43.0,117.0,41.0,119.0,27.0,121.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-43.0" y="-121.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="939" y="1367" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-38.0,120.0,-42.0,117.0,-42.0,-119.0,37.0,-121.0,42.0,-118.0,43.0,117.0,41.0,119.0,27.0,121.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-43.0" y="-121.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1667" y="395" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,648.0,102.0,655.0,98.0,658.0,64.0,656.0,54.0,653.0,51.0,645.0,50.0,53.0,49.0,53.0,-101.0,-29.0,-102.0,-31.0,-101.0,-31.0,49.0,-649.0,50.0,-655.0,54.0,-656.0,58.0,-658.0,91.0,-657.0,96.0,-653.0,101.0,116.0,103.0,">
+            <texture>
+              <image path="images/barre4.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="658.0" y="-103.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="1580" y="607" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-38.0,120.0,-42.0,117.0,-42.0,-119.0,37.0,-121.0,42.0,-118.0,43.0,117.0,41.0,119.0,27.0,121.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-43.0" y="-121.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="1184" y="857" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-38.0,120.0,-42.0,117.0,-42.0,-119.0,37.0,-121.0,42.0,-118.0,43.0,117.0,41.0,119.0,27.0,121.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-43.0" y="-121.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1276" y="97" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-38.0,120.0,-42.0,117.0,-42.0,-119.0,37.0,-121.0,42.0,-118.0,43.0,117.0,41.0,119.0,27.0,121.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-43.0" y="-121.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="2169" y="89" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,38.0,120.0,42.0,117.0,42.0,-119.0,-37.0,-121.0,-42.0,-118.0,-43.0,117.0,-41.0,119.0,-27.0,121.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="43.0" y="-121.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="2518" y="1524" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-40.533333,7.8933334,-40.746666,6.4,-40.533333,-4.9066668,-39.893333,-5.76,-35.84,-5.9733334,-35.2,-5.5466666,-34.133335,-2.7733333,-33.920002,-4.9066668,-33.280003,-5.76,-29.226667,-5.9733334,-28.586668,-5.5466666,-27.093334,-1.9200001,-26.880001,-3.8400002,-26.026667,-5.5466666,-19.413334,-5.9733334,-18.560001,-5.5466666,-18.346666,-4.9066668,-17.92,-4.9066668,-17.493334,-5.76,-13.866667,-5.9733334,-13.440001,-5.76,-13.440001,-5.3333335,-13.013333,-5.3333335,-12.373334,-5.76,-9.173333,-5.9733334,-8.746667,-5.76,-8.746667,-5.3333335,-8.320001,-5.76,-4.6933336,-5.9733334,-4.266667,-5.76,-4.266667,-5.3333335,-3.8400002,-5.76,0.0,-5.9733334,0.64,-5.12,1.0666667,-5.76,4.266667,-5.9733334,4.48,-7.4666667,5.76,-7.8933334,12.16,-7.8933334,13.866667,-6.4,14.293334,-4.9066668,14.933333,-5.76,20.48,-5.9733334,21.333334,-5.5466666,21.546667,-4.6933336,22.186666,-5.3333335,26.026667,-5.9733334,27.946667,-5.5466666,29.653334,-4.48,30.08,-5.76,33.920002,-5.9733334,34.56,-5.12,34.986668,-5.76,38.826668,-5.9733334,39.253334,-5.76,40.96,4.0533333,40.106667,5.3333335,35.84,5.76,32.0,5.76,31.573334,5.5466666,31.36,4.0533333,30.506668,5.12,25.813334,5.76,24.746668,5.5466666,23.04,4.48,22.826668,5.5466666,21.333334,5.76,21.12,7.2533336,18.986668,7.4666667,17.92,5.9733334,15.786667,5.3333335,9.386667,5.76,7.6800003,5.12,6.826667,4.266667,6.186667,5.3333335,5.3333335,5.5466666,-1.9200001,5.76,-1.9200001,7.04,-2.3466668,7.6800003,-5.76,7.8933334,-6.186667,7.6800003,-6.4,6.826667,-6.826667,7.8933334,-10.666667,8.106667,-11.093333,7.8933334,-11.093333,7.4666667,-11.52,7.4666667,-11.52,7.8933334,-15.786667,7.8933334,-16.426666,4.266667,-16.853334,5.12,-18.773335,5.5466666,-23.466667,5.5466666,-23.253334,6.826667,-23.68,7.8933334,-27.52,8.106667,-27.946667,7.8933334,-28.16,6.4,-29.013334,4.48,-29.44,7.8933334,-33.493336,8.106667,-33.920002,7.8933334,-35.413334,4.266667,-35.626667,7.2533336,-36.48,8.106667,">
+            <texture>
+              <image path="images/00000.png" />
+              <xform scale="0.21333334" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-41.38667" y="-10.666667" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="1580" y="1255" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-38.0,120.0,-42.0,117.0,-42.0,-119.0,37.0,-121.0,42.0,-118.0,43.0,117.0,41.0,119.0,27.0,121.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-43.0" y="-121.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="3" x="1580" y="1079" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-38.0,120.0,-42.0,117.0,-42.0,-119.0,37.0,-121.0,42.0,-118.0,43.0,117.0,41.0,119.0,27.0,121.0,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-43.0" y="-121.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="2111" y="647" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,120.0,37.999996,117.0,41.999996,-119.0,42.000004,-121.0,-36.999996,-118.0,-41.999996,117.0,-43.000004,119.0,-41.000004,121.0,-27.000006,">
+            <texture>
+              <image path="images/barre32.png" />
+              <xform scale="1.0" rotate="-90.0" flipX="false" flipY="false">
+                <translate x="-121.0" y="43.000004" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+      </geometry>
+      <spawnPoints>
+        <spawnPoints layer="1" x="192" y="1185" orientation="0.0">
+          <team index="4" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="191" y="1248" orientation="0.0">
+          <team index="4" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="256" y="1152" orientation="0.0">
+          <team index="4" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="256" y="1216" orientation="0.0">
+          <team index="4" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="2304" y="1216" orientation="-180.0">
+          <team index="3" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="2304" y="1152" orientation="-180.0">
+          <team index="3" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="2368" y="1185" orientation="-180.0">
+          <team index="3" />
+        </spawnPoints>
+        <spawnPoints layer="1" x="2369" y="1248" orientation="-180.0">
+          <team index="3" />
+        </spawnPoints>
+      </spawnPoints>
+      <Base>
+        <Base layer="1" x="456" y="898">
+          <team index="4" />
+          <transformation scale="1.0" rotate="0.0" flipX="false" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Base>
+        <Base layer="1" x="2734" y="897">
+          <team index="3" />
+          <transformation scale="1.0" rotate="0.0" flipX="false" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Base>
+      </Base>
+      <Turret />
+      <Hoop />
+      <objectiveDescriptor />
+      <powerupSpawner>
+        <powerupSpawner layer="1" x="2592" y="1570" orientation="0.0" spawnTime="9999.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="3" />
+          <selectedPowerups>
+            <String value="Demolition Charge" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="2112" y="552" orientation="0.0" spawnTime="90.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="3" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="2375" y="161" orientation="0.0" spawnTime="60.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Wall" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="256" y="192" orientation="0.0" spawnTime="45.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="1056" y="1408" orientation="0.0" spawnTime="60.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="160" y="1408" orientation="0.0" spawnTime="20.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="2399" y="1408" orientation="0.0" spawnTime="20.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+      </powerupSpawner>
+      <Goal />
+    </View>
+  </views>
+</Level>
+
