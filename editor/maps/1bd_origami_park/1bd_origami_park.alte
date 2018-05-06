@@ -1,0 +1,2937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Level backgroundColor="-10066330" nameTextColor="-16777216" useBlackSmokeForPlaneDamage="true" backgroundClearRequired="true">
+  <levelModeConfig objectiveGameTimeSeconds="120" />
+  <views>
+    <View name="background" size="3700,1376">
+      <bounds minX="-250" minY="0" maxX="3450" maxY="1373" />
+      <geometry>
+        <geometry layer="9" x="0" y="861" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,512.0,0.0,512.0,">
+            <texture>
+              <image path="images/import_png_background/00000.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="0" y="349" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,512.0,0.0,512.0,">
+            <texture>
+              <image path="images/import_png_background/00001.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="0" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,349.0,0.0,349.0,">
+            <texture>
+              <image path="images/import_png_background/00002.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="512" y="861" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,512.0,0.0,512.0,">
+            <texture>
+              <image path="images/import_png_background/00003.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="512" y="349" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,512.0,0.0,512.0,">
+            <texture>
+              <image path="images/import_png_background/00004.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="512" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,349.0,0.0,349.0,">
+            <texture>
+              <image path="images/import_png_background/00005.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="1024" y="861" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,512.0,0.0,512.0,">
+            <texture>
+              <image path="images/import_png_background/00006.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="1024" y="349" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,512.0,0.0,512.0,">
+            <texture>
+              <image path="images/import_png_background/00007.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="1024" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,349.0,0.0,349.0,">
+            <texture>
+              <image path="images/import_png_background/00008.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="1536" y="861" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,512.0,0.0,512.0,">
+            <texture>
+              <image path="images/import_png_background/00009.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="1536" y="349" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,512.0,0.0,512.0,">
+            <texture>
+              <image path="images/import_png_background/00010.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="1536" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,349.0,0.0,349.0,">
+            <texture>
+              <image path="images/import_png_background/00011.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="2048" y="861" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,512.0,0.0,512.0,">
+            <texture>
+              <image path="images/import_png_background/00012.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="2048" y="349" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,512.0,0.0,512.0,">
+            <texture>
+              <image path="images/import_png_background/00013.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="2048" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,349.0,0.0,349.0,">
+            <texture>
+              <image path="images/import_png_background/00014.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="2560" y="861" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,512.0,0.0,512.0,">
+            <texture>
+              <image path="images/import_png_background/00015.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="2560" y="349" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,512.0,0.0,512.0,">
+            <texture>
+              <image path="images/import_png_background/00016.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="2560" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,349.0,0.0,349.0,">
+            <texture>
+              <image path="images/import_png_background/00017.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="3072" y="861" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,512.0,0.0,512.0,">
+            <texture>
+              <image path="images/import_png_background/00018.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="3072" y="349" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,512.0,0.0,512.0,">
+            <texture>
+              <image path="images/import_png_background/00019.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="3072" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,349.0,0.0,349.0,">
+            <texture>
+              <image path="images/import_png_background/00020.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="3584" y="861" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,116.0,0.0,116.0,512.0,0.0,512.0,">
+            <texture>
+              <image path="images/import_png_background/00021.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="3584" y="349" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,116.0,0.0,116.0,512.0,0.0,512.0,">
+            <texture>
+              <image path="images/import_png_background/00022.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="3584" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,116.0,0.0,116.0,349.0,0.0,349.0,">
+            <texture>
+              <image path="images/import_png_background/00023.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+      </geometry>
+      <spawnPoints />
+      <Base />
+      <Turret />
+      <Hoop />
+      <objectiveDescriptor />
+      <powerupSpawner />
+      <Goal />
+    </View>
+    <View name="Game" size="3200,1373">
+      <bounds minX="0" minY="0" maxX="3200" maxY="1373" />
+      <geometry>
+        <geometry layer="7" x="-8" y="947" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,-247.0,195.0,-158.0,195.0,6.0,210.0,151.0,155.0,236.0,111.0,309.0,160.0,449.0,212.0,383.0,99.0,416.0,23.0,739.0,113.0,454.0,-70.0,430.0,-123.0,237.0,-46.0,114.0,-121.0,92.0,-188.0,4.0,-204.0,-243.0,-203.0,-243.0,-509.0,-242.0,-591.0,-245.0,-786.0,-242.0,-838.0,-242.0,-935.0,8.0,-928.0,120.0,-940.0,374.0,-877.0,373.0,-885.0,495.0,-835.0,403.0,-894.0,408.0,-897.0,510.0,-921.0,654.0,-895.0,667.0,-891.0,742.0,-932.0,890.0,-880.0,902.0,-910.0,1009.0,-936.0,1130.0,-913.0,1147.0,-911.0,1211.0,-864.0,1247.0,-917.0,1420.0,-920.0,1533.0,-837.0,1535.0,-843.0,1608.0,-759.0,1608.0,-947.0,-249.0,-947.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-242.0" y="-947.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="383" y="1340" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,-634.0,36.0,-634.0,-23.0,-568.0,3.0,-291.0,-30.0,-163.0,-17.0,-46.0,-61.0,-30.0,-59.0,93.0,-28.0,93.0,-29.0,113.0,-28.0,364.0,10.0,418.0,-43.0,425.0,-46.0,462.0,-44.0,550.0,1.0,900.0,-29.0,976.0,-121.0,969.0,-226.0,1048.0,-164.0,1087.0,-96.0,1201.0,-13.0,1215.0,-17.0,1216.0,-17.0,1216.0,36.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-634.0" y="-1340.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="899" y="1148" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,-62.0,47.0,50.0,7.0,151.0,28.0,152.0,24.0,78.0,-51.0,-3.0,-69.0,-11.0,-68.0,-34.0,-13.0,-212.0,3.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-1149.0" y="-1148.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="671" y="671" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,49.0,115.0,149.0,68.0,150.0,64.0,60.0,29.0,53.0,25.0,38.0,16.0,36.0,8.0,-46.0,-134.0,-168.0,-120.0,-48.0,-44.0,-28.0,45.0,-25.0,52.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-948.0" y="-672.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="1002" y="423" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,2.0,42.0,31.0,-12.0,-37.0,-31.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-1209.0" y="-424.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="1097" y="280" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,-44.0,99.0,75.0,-14.0,71.0,-18.0,69.0,-24.0,45.0,-75.0,-23.0,-66.0,-28.0,-63.0,-63.0,31.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-1305.0" y="-285.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="613" y="293" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,7.0,32.0,46.0,69.0,46.0,68.0,45.0,68.0,17.0,-33.0,12.0,-34.0,-104.0,-26.0,2.0,30.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-881.0" y="-294.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="1096" y="849" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,-36.0,44.0,-32.0,47.0,62.0,61.0,47.0,-7.0,55.0,-72.0,-15.0,-45.0,-19.0,-43.0,-77.0,-30.0,-39.0,42.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-1337.0" y="-840.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="1464" y="973" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,-23.0,27.0,60.0,46.0,60.0,39.0,47.0,-13.0,-57.0,-58.0,-65.0,-58.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-1714.0" y="-973.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="1600" y="779" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,-2.0,81.0,2.0,81.0,47.0,18.0,116.0,-33.0,27.0,-26.0,2.0,-81.0,-2.0,-81.0,-27.0,-26.0,-115.0,-33.0,-46.0,19.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-1850.0" y="-780.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="1597" y="398" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,-133.0,36.0,-51.0,60.0,-46.0,60.0,12.0,47.0,90.0,52.0,141.0,31.0,189.0,-26.0,91.0,-4.0,90.0,-4.0,43.0,-35.0,7.0,-87.0,-1.0,-83.0,-96.0,2.0,-188.0,-18.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-1847.0" y="-398.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="710" y="1340" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_esq/00003.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1698" y="1212" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,192.0,0.0,192.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_dir/00003.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1414" y="1148" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_topo_esq/00012.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="2722" y="1276" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,224.0,0.0,224.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_dir/00012.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="262" y="1308" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,448.0,0.0,448.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_topo_esq/00002.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1318" y="1212" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,160.0,0.0,160.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_esq/00009.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1254" y="1276" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,320.0,0.0,320.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_topo_esq/00007.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1602" y="1308" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_topo_dir/00000.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="3010" y="1308" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,440.0,0.0,440.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_dir/00014.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="774" y="1276" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,96.0,0.0,96.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_esq/00005.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1286" y="1244" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,256.0,0.0,256.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_esq/00008.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="742" y="1308" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_esq/00004.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1350" y="1116" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,96.0,0.0,96.0,">
+            <texture>
+              <image path="images/import_png_topo_esq/00010.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1794" y="1116" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_dir/00006.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="2672" y="1325" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-173.0,44.0,173.0,-43.0,26.0,36.0,14.0,44.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="2306" y="1276" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,128.0,0.0,128.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_dir/00009.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1730" y="1180" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,128.0,0.0,128.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_dir/00004.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="531" y="1326" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-17.0,43.0,-37.0,32.0,-37.0,30.0,-41.0,30.0,-60.0,20.0,-64.0,17.0,-64.0,15.0,-69.0,15.0,-70.0,12.0,-74.0,12.0,-76.0,11.0,-76.0,9.0,-80.0,9.0,-82.0,8.0,-82.0,6.0,-88.0,5.0,-88.0,3.0,-91.0,3.0,-91.0,0.0,-97.0,0.0,-97.0,-3.0,-102.0,-3.0,-103.0,-6.0,-108.0,-6.0,-109.0,-9.0,-114.0,-9.0,-115.0,-12.0,-118.0,-12.0,-118.0,-15.0,-124.0,-15.0,-124.0,-18.0,-130.0,-18.0,-130.0,-21.0,-136.0,-21.0,-136.0,-24.0,-141.0,-24.0,-142.0,-27.0,-145.0,-27.0,-145.0,-30.0,-151.0,-30.0,-151.0,-33.0,-157.0,-33.0,-157.0,-36.0,-163.0,-36.0,-163.0,-39.0,-169.0,-39.0,-169.0,-42.0,103.0,25.0,170.0,43.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1634" y="1276" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,288.0,0.0,288.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_dir/00001.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="2466" y="1340" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_dir/00010.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1350" y="1113" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,3.0,0.0,3.0,">
+            <texture>
+              <image path="images/import_png_topo_esq/00011.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="-250" y="1308" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_topo_esq/00000.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1947" y="1314" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-8.0,0.0,0.0,-1.0,9.0,1.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1574" y="1308" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,24.0,0.0,24.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_esq/00014.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="2114" y="1308" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,352.0,0.0,352.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_topo_dir/00008.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1222" y="1340" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,376.0,0.0,376.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_esq/00006.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1666" y="1244" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,224.0,0.0,224.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_dir/00002.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1252" y="1314" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-8.0,0.0,9.0,-1.0,-7.0,2.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1762" y="1148" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,96.0,0.0,96.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_dir/00005.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1826" y="1113" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,3.0,0.0,3.0,">
+            <texture>
+              <image path="images/import_png_topo_dir/00007.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="2498" y="1308" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_dir/00011.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="230" y="1276" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,256.0,0.0,256.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_esq/00001.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="2978" y="1340" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,472.0,0.0,472.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_dir/00013.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="-14" y="1003" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-43.0,68.0,-73.0,-67.0,73.0,-41.0,-41.0,66.0,-41.0,68.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="-110" y="1009" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-48.0,68.0,-48.0,65.0,17.0,-67.0,48.0,65.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="582" y="979" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,96.0,0.0,96.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_esq1/00019.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="-191" y="851" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-55.0,54.0,-13.0,-54.0,56.0,18.0,-39.0,48.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="422" y="883" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,96.0,0.0,96.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_esq1/00017.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="-169" y="965" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,30.0,50.0,30.0,48.0,27.0,47.0,27.0,45.0,24.0,44.0,24.0,42.0,21.0,41.0,21.0,39.0,18.0,38.0,18.0,36.0,15.0,35.0,15.0,33.0,12.0,32.0,12.0,30.0,9.0,29.0,9.0,27.0,6.0,27.0,6.0,24.0,3.0,24.0,3.0,21.0,1.0,21.0,0.0,18.0,-3.0,18.0,-3.0,15.0,-6.0,15.0,-6.0,12.0,-9.0,12.0,-9.0,9.0,-12.0,9.0,-12.0,6.0,-15.0,6.0,-62.0,-39.0,-66.0,-45.0,-68.0,-45.0,-74.0,-51.0,-71.0,-52.0,74.0,-30.0,34.0,52.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="70" y="787" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,352.0,0.0,352.0,">
+            <texture>
+              <image path="images/import_png_esq1/00005.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="-110" y="869" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-2.0,18.0,-5.0,17.0,-11.0,3.0,-14.0,2.0,-14.0,-2.0,5.0,-48.0,15.0,48.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="134" y="851" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,256.0,0.0,256.0,">
+            <texture>
+              <image path="images/import_png_esq1/00007.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="42" y="1032" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-94.0,43.0,23.0,-67.0,94.0,68.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="134" y="819" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_esq1/00008.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="198" y="851" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_esq1/00010.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="-38" y="769" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-67.0,39.0,-136.0,-51.0,135.0,50.0,137.0,52.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="-250" y="723" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,320.0,0.0,320.0,448.0,0.0,448.0,">
+            <texture>
+              <image path="images/import_png_esq1/00000.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="198" y="883" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,224.0,0.0,224.0,192.0,0.0,192.0,">
+            <texture>
+              <image path="images/import_png_esq1/00009.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="230" y="1075" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,192.0,0.0,192.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_esq1/00011.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2" y="871" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-102.0,-58.0,102.0,-45.0,96.0,-44.0,96.0,-41.0,90.0,-41.0,90.0,-38.0,87.0,-38.0,87.0,-36.0,75.0,-32.0,74.0,-29.0,69.0,-29.0,68.0,-26.0,63.0,-26.0,62.0,-23.0,57.0,-23.0,57.0,-20.0,51.0,-20.0,51.0,-17.0,42.0,-14.0,42.0,-12.0,36.0,-11.0,35.0,-8.0,30.0,-8.0,29.0,-5.0,24.0,-5.0,24.0,-2.0,18.0,-2.0,18.0,1.0,9.0,4.0,9.0,6.0,3.0,7.0,3.0,9.0,-3.0,10.0,-4.0,13.0,-9.0,13.0,-10.0,16.0,-15.0,16.0,-15.0,19.0,-18.0,19.0,-30.0,25.0,-30.0,27.0,-36.0,28.0,-37.0,31.0,-42.0,31.0,-43.0,34.0,-48.0,34.0,-49.0,37.0,-54.0,37.0,-54.0,40.0,-57.0,40.0,-69.0,46.0,-69.0,48.0,-75.0,49.0,-75.0,51.0,-81.0,52.0,-82.0,55.0,-87.0,55.0,-87.0,58.0,-89.0,59.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="-230" y="714" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-20.0,84.0,-20.0,-84.0,21.0,77.0,4.0,79.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="550" y="1011" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,160.0,0.0,160.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_esq1/00018.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="262" y="851" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,224.0,0.0,224.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_esq1/00012.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="358" y="1139" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,96.0,0.0,96.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_esq1/00015.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="422" y="915" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,160.0,0.0,160.0,96.0,0.0,96.0,">
+            <texture>
+              <image path="images/import_png_esq1/00016.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="70" y="755" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_esq1/00006.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="-230" y="848" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-20.0,-45.0,21.0,-52.0,-19.0,52.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="326" y="819" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,128.0,0.0,128.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_esq1/00014.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="340" y="971" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-101.0,85.0,102.0,-85.0,47.0,49.0,37.0,70.0,-81.0,82.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="646" y="1043" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,86.0,0.0,86.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_esq1/00021.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="-167" y="901" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-72.0,8.0,39.0,-28.0,73.0,29.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="10" y="894" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-93.0,38.0,93.0,-63.0,54.0,63.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="148" y="1035" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-5.0,67.0,-32.0,14.0,-76.0,-66.0,77.0,23.0,77.0,25.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="294" y="1107" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,160.0,0.0,160.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_esq1/00013.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="582" y="947" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_esq1/00020.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="180" y="1011" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,50.0,45.0,49.0,42.0,45.0,42.0,43.0,41.0,43.0,39.0,34.0,36.0,34.0,33.0,29.0,33.0,28.0,30.0,24.0,30.0,22.0,29.0,22.0,27.0,19.0,27.0,19.0,24.0,14.0,24.0,13.0,21.0,7.0,20.0,7.0,18.0,-1.0,15.0,-2.0,12.0,-6.0,12.0,-8.0,11.0,-8.0,9.0,-12.0,9.0,-22.0,3.0,-23.0,0.0,-27.0,0.0,-37.0,-6.0,-38.0,-9.0,-44.0,-10.0,-44.0,-12.0,-47.0,-12.0,-56.0,-17.0,-59.0,-19.0,-59.0,-21.0,-63.0,-21.0,-73.0,-27.0,-74.0,-30.0,-78.0,-30.0,-80.0,-31.0,-80.0,-33.0,-83.0,-33.0,-95.0,-40.0,-95.0,-42.0,-104.0,-45.0,-95.0,-45.0,104.0,-2.0,58.0,38.0,52.0,45.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="179" y="952" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-107.0,7.0,50.0,-51.0,108.0,52.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="-151" y="832" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,21.0,35.0,18.0,30.0,-3.0,9.0,-4.0,6.0,-7.0,6.0,-7.0,3.0,-10.0,3.0,-10.0,0.0,-12.0,0.0,-13.0,-3.0,-15.0,-3.0,-16.0,-6.0,-18.0,-6.0,-19.0,-9.0,-21.0,-9.0,-22.0,-12.0,-24.0,-12.0,-25.0,-15.0,-27.0,-15.0,-28.0,-18.0,-30.0,-18.0,-31.0,-21.0,-45.0,-35.0,45.0,-18.0,42.0,-9.0,40.0,-9.0,40.0,-4.0,37.0,-3.0,36.0,6.0,34.0,6.0,34.0,10.0,33.0,12.0,31.0,12.0,31.0,18.0,28.0,18.0,28.0,25.0,27.0,27.0,25.0,27.0,24.0,35.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="3076" y="947" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,374.0,0.0,374.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_dir1/00016.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="3388" y="1000" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-25.0,74.0,-50.0,22.0,50.0,-74.0,50.0,-71.0,-23.0,74.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2859" y="971" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-36.0,70.0,-38.0,68.0,-68.0,-9.0,-70.0,-9.0,-74.0,-24.0,-76.0,-24.0,-77.0,-30.0,-79.0,-30.0,-83.0,-45.0,-85.0,-45.0,-86.0,-51.0,-92.0,-66.0,-94.0,-66.0,-98.0,-81.0,-100.0,-81.0,-101.0,-85.0,74.0,60.0,102.0,85.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="3214" y="1003" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,41.0,68.0,41.0,66.0,39.0,66.0,26.0,54.0,25.0,51.0,23.0,51.0,22.0,48.0,20.0,48.0,19.0,45.0,17.0,45.0,16.0,42.0,14.0,42.0,13.0,39.0,11.0,39.0,10.0,36.0,7.0,35.0,7.0,33.0,4.0,33.0,4.0,30.0,1.0,30.0,1.0,27.0,-2.0,27.0,-2.0,24.0,-5.0,24.0,-5.0,21.0,-8.0,21.0,-8.0,18.0,-11.0,18.0,-11.0,15.0,-15.0,15.0,-29.0,2.0,-29.0,0.0,-32.0,-1.0,-32.0,-3.0,-35.0,-4.0,-35.0,-6.0,-38.0,-7.0,-38.0,-9.0,-41.0,-10.0,-41.0,-12.0,-44.0,-13.0,-44.0,-15.0,-47.0,-15.0,-47.0,-18.0,-50.0,-18.0,-50.0,-21.0,-53.0,-21.0,-53.0,-24.0,-56.0,-24.0,-56.0,-27.0,-59.0,-27.0,-59.0,-30.0,-62.0,-30.0,-62.0,-33.0,-65.0,-33.0,-65.0,-36.0,-69.0,-36.0,-73.0,-40.0,73.0,-67.0,43.0,68.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2468" y="1011" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_dir1/00000.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2820" y="1107" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,96.0,0.0,96.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_dir1/00010.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="3369" y="965" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-42.0,33.0,-74.0,-30.0,74.0,-52.0,0.0,19.0,-8.0,29.0,-12.0,30.0,-12.0,32.0,-15.0,33.0,-15.0,35.0,-18.0,36.0,-18.0,38.0,-21.0,39.0,-21.0,41.0,-24.0,42.0,-24.0,44.0,-27.0,45.0,-27.0,47.0,-30.0,48.0,-30.0,50.0,-33.0,52.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="3172" y="979" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,278.0,0.0,278.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_dir1/00021.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="3020" y="1010" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-52.0,46.0,-57.0,41.0,-57.0,39.0,-60.0,39.0,-60.0,36.0,-63.0,36.0,-63.0,33.0,-69.0,31.0,-78.0,23.0,-78.0,21.0,-81.0,20.0,-81.0,18.0,-84.0,17.0,-84.0,15.0,-87.0,15.0,-87.0,12.0,-90.0,12.0,-104.0,0.0,104.0,-45.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="3044" y="819" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,406.0,0.0,406.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_dir1/00015.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="3108" y="723" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,342.0,0.0,342.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_dir1/00018.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2756" y="1107" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_dir1/00007.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="3020" y="952" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-107.0,52.0,-49.0,-51.0,108.0,6.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2532" y="979" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,128.0,0.0,128.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_dir1/00001.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2724" y="851" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,224.0,0.0,224.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_dir1/00006.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2564" y="947" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_dir1/00002.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="3044" y="1107" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,406.0,0.0,406.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_dir1/00014.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="3140" y="1139" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,310.0,0.0,310.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_dir1/00019.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2980" y="1075" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,470.0,0.0,470.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_dir1/00012.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2628" y="915" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_dir1/00003.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="3310" y="1009" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-48.0,65.0,-48.0,60.0,-18.0,-67.0,48.0,68.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2788" y="1011" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,160.0,0.0,160.0,96.0,0.0,96.0,">
+            <texture>
+              <image path="images/import_png_dir1/00009.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2948" y="1011" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,502.0,0.0,502.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_dir1/00011.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2756" y="819" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,96.0,0.0,96.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_dir1/00008.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2863" y="942" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,43.0,61.0,40.0,56.0,37.0,56.0,37.0,53.0,33.0,53.0,25.0,46.0,25.0,44.0,22.0,44.0,22.0,41.0,19.0,41.0,19.0,38.0,15.0,38.0,10.0,34.0,10.0,32.0,7.0,31.0,7.0,29.0,4.0,29.0,4.0,26.0,1.0,26.0,1.0,23.0,-3.0,23.0,-8.0,19.0,-8.0,17.0,-11.0,16.0,-11.0,14.0,-14.0,14.0,-14.0,11.0,-17.0,11.0,-17.0,8.0,-21.0,8.0,-26.0,4.0,-26.0,2.0,-29.0,1.0,-29.0,-1.0,-32.0,-1.0,-32.0,-4.0,-35.0,-4.0,-35.0,-7.0,-39.0,-7.0,-44.0,-11.0,-44.0,-13.0,-47.0,-13.0,-47.0,-16.0,-50.0,-16.0,-50.0,-19.0,-53.0,-19.0,-53.0,-22.0,-59.0,-23.0,-62.0,-28.0,-65.0,-28.0,-65.0,-31.0,-68.0,-31.0,-68.0,-34.0,-72.0,-34.0,-77.0,-38.0,-77.0,-40.0,-80.0,-41.0,-80.0,-43.0,-83.0,-43.0,-83.0,-46.0,-86.0,-46.0,-86.0,-49.0,-90.0,-49.0,-95.0,-53.0,-95.0,-55.0,-98.0,-56.0,-98.0,-58.0,-102.0,-59.0,-99.0,-60.0,102.0,-41.0,45.0,61.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2980" y="851" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,470.0,0.0,470.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_dir1/00013.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="3204" y="883" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,246.0,0.0,246.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_dir1/00022.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="3140" y="915" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,310.0,0.0,310.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_dir1/00020.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="3076" y="755" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,374.0,0.0,374.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_dir1/00017.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2660" y="979" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_dir1/00004.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="2692" y="883" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_dir1/00005.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="2" x="3366" y="901" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-72.0,29.0,-38.0,-28.0,73.0,7.0,-57.0,26.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="3" x="-250" y="5" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,183.0,0.0,183.0,92.0,0.0,92.0,">
+            <texture>
+              <image path="images/import_png_esq2/00001.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="3" x="3299" y="129" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,151.0,0.0,151.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_dir2/00001.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="3" x="3267" y="5" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,183.0,0.0,183.0,124.0,0.0,124.0,">
+            <texture>
+              <image path="images/import_png_dir2/00000.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1391" y="12" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,10.0,10.0,10.0,8.0,5.0,8.0,-11.0,1.0,-11.0,-1.0,-17.0,-2.0,-17.0,-4.0,-22.0,-4.0,-35.0,-10.0,35.0,-11.0,16.0,12.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="852" y="61" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_esq/00008.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="436" y="93" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_esq/00004.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="-236" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,29.0,0.0,29.0,">
+            <texture>
+              <image path="images/import_png_fundo_esq/00000.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1396" y="29" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,206.0,0.0,206.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_esq/00012.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="756" y="29" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,192.0,0.0,192.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_esq/00006.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1492" y="93" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,110.0,0.0,110.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_esq/00014.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1524" y="125" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,78.0,0.0,78.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_esq/00015.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="788" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,29.0,0.0,29.0,">
+            <texture>
+              <image path="images/import_png_fundo_esq/00007.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="180" y="29" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_esq/00001.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="692" y="29" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_esq/00005.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1428" y="61" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,174.0,0.0,174.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_esq/00013.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="308" y="61" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,160.0,0.0,160.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_esq/00003.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="802" y="33" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-105.0,-31.0,106.0,-33.0,80.0,33.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1076" y="29" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,256.0,0.0,256.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_esq/00009.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1556" y="157" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,46.0,0.0,46.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_esq/00016.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1172" y="61" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_esq/00010.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="276" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,29.0,0.0,29.0,">
+            <texture>
+              <image path="images/import_png_fundo_esq/00002.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1300" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,302.0,0.0,302.0,29.0,0.0,29.0,">
+            <texture>
+              <image path="images/import_png_fundo_esq/00011.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="-33" y="13" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-36.0,13.0,-194.0,-11.0,195.0,-12.0,-25.0,13.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="2687" y="93" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,96.0,0.0,96.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_dir/00012.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="2975" y="29" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_dir/00015.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1631" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,157.0,0.0,157.0,">
+            <texture>
+              <image path="images/import_png_fundo_dir/00001.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1791" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,29.0,0.0,29.0,">
+            <texture>
+              <image path="images/import_png_fundo_dir/00005.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="2303" y="61" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_dir/00009.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1727" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,93.0,0.0,93.0,">
+            <texture>
+              <image path="images/import_png_fundo_dir/00003.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1599" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,189.0,0.0,189.0,">
+            <texture>
+              <image path="images/import_png_fundo_dir/00000.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1951" y="61" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,96.0,0.0,96.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_dir/00007.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="2271" y="29" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,160.0,0.0,160.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_dir/00008.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1663" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,125.0,0.0,125.0,">
+            <texture>
+              <image path="images/import_png_fundo_dir/00002.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="2303" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,29.0,0.0,29.0,">
+            <texture>
+              <image path="images/import_png_fundo_dir/00010.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="2463" y="29" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_dir/00011.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1759" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,61.0,0.0,61.0,">
+            <texture>
+              <image path="images/import_png_fundo_dir/00004.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="1855" y="29" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,256.0,0.0,256.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_dir/00006.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="2815" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,512.0,0.0,512.0,29.0,0.0,29.0,">
+            <texture>
+              <image path="images/import_png_fundo_dir/00014.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="3327" y="0" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,110.0,0.0,110.0,29.0,0.0,29.0,">
+            <texture>
+              <image path="images/import_png_fundo_dir/00016.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="4" x="2719" y="61" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,160.0,0.0,160.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_fundo_dir/00013.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1120" y="229" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,28.0,19.0,28.0,17.0,19.0,15.0,-44.0,-14.0,20.0,-23.0,22.0,-25.0,45.0,26.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1397" y="364" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,384.0,0.0,384.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00040.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1045" y="204" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,128.0,0.0,128.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00034.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="533" y="588" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,160.0,0.0,160.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00007.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1557" y="716" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00049.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1525" y="780" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,96.0,0.0,96.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00046.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="853" y="1068" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,128.0,0.0,128.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00018.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1525" y="332" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,128.0,0.0,128.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00047.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="629" y="684" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,160.0,0.0,160.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00011.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1429" y="1004" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,128.0,0.0,128.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00041.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="981" y="1164" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,96.0,0.0,96.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00022.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="693" y="780" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00014.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="597" y="620" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,96.0,0.0,96.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00009.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1141" y="748" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00037.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1013" y="812" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,160.0,0.0,160.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00026.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1781" y="364" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,6.0,0.0,6.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00052.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1141" y="268" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00038.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="999" y="428" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-33.0,-36.0,34.0,-17.0,5.0,36.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1557" y="812" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00048.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1045" y="364" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00033.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1557" y="300" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00050.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="597" y="332" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00010.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="661" y="748" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,160.0,0.0,160.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00013.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="725" y="1164" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,224.0,0.0,224.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00016.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="981" y="1100" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00023.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="501" y="236" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,160.0,0.0,160.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00006.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="949" y="364" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00021.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1397" y="908" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,96.0,0.0,96.0,96.0,0.0,96.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00039.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="981" y="428" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00025.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="565" y="300" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,96.0,0.0,96.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00008.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="789" y="716" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00017.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1589" y="684" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00051.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1429" y="428" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,320.0,0.0,320.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00042.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="501" y="524" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,160.0,0.0,160.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00005.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1013" y="396" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00027.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1141" y="908" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00036.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1461" y="748" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,160.0,0.0,160.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00043.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="693" y="652" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00015.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1493" y="940" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00045.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1013" y="268" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,96.0,0.0,96.0,96.0,0.0,96.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00028.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1109" y="268" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00035.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1045" y="780" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,128.0,0.0,128.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00030.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="661" y="1132" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,384.0,0.0,384.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00012.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1461" y="716" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00044.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1045" y="876" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,128.0,0.0,128.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00029.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2091" y="268" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-32.0,0.0,-32.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00035.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1611" y="684" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-32.0,0.0,-32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00051.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2155" y="876" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-128.0,0.0,-128.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00029.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2143" y="643" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-64.0,0.0,-64.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00031.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1643" y="812" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-64.0,0.0,-64.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00048.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2143" y="611" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-32.0,0.0,-32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00032.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2207" y="707" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-160.0,0.0,-160.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00024.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2219" y="1164" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-96.0,0.0,-96.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00022.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2271" y="547" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-96.0,0.0,-96.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00020.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2411" y="716" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-64.0,0.0,-64.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00017.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2219" y="1100" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-32.0,0.0,-32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00023.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1739" y="716" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-64.0,0.0,-64.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00044.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2201" y="428" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,33.0,-36.0,-34.0,-17.0,-5.0,36.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2347" y="1068" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-128.0,0.0,-128.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00018.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1803" y="908" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-96.0,0.0,-96.0,96.0,0.0,96.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00039.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2251" y="364" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-64.0,0.0,-64.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00021.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2571" y="684" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-160.0,0.0,-160.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00011.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2155" y="204" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-128.0,0.0,-128.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00034.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2699" y="524" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-160.0,0.0,-160.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00005.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2539" y="748" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-160.0,0.0,-160.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00013.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2603" y="332" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-64.0,0.0,-64.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00010.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2080" y="229" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-28.0,19.0,-28.0,17.0,-19.0,15.0,44.0,-14.0,-20.0,-23.0,-22.0,-25.0,-45.0,26.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2187" y="812" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-160.0,0.0,-160.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00026.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1643" y="716" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-64.0,0.0,-64.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00049.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2155" y="364" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-32.0,0.0,-32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00033.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2126" y="694" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,49.0,13.0,-31.0,-41.0,-50.0,42.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2603" y="620" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-96.0,0.0,-96.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00009.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2507" y="652" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-32.0,0.0,-32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00015.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2059" y="268" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-32.0,0.0,-32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00038.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1771" y="1004" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-128.0,0.0,-128.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00041.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2219" y="428" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-32.0,0.0,-32.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00025.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1707" y="940" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-32.0,0.0,-32.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00045.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2155" y="780" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-128.0,0.0,-128.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00030.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2699" y="236" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-160.0,0.0,-160.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00006.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2475" y="1164" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-224.0,0.0,-224.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00016.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2187" y="268" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-96.0,0.0,-96.0,96.0,0.0,96.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00028.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2303" y="579" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-160.0,0.0,-160.0,128.0,0.0,128.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00019.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2667" y="588" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-160.0,0.0,-160.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00007.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1675" y="780" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-96.0,0.0,-96.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00046.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2635" y="300" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-96.0,0.0,-96.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00008.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2059" y="908" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-32.0,0.0,-32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00036.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2187" y="396" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-32.0,0.0,-32.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00027.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2507" y="780" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-64.0,0.0,-64.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00014.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2539" y="1132" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-384.0,0.0,-384.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00012.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="2059" y="748" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-32.0,0.0,-32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00037.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1739" y="748" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,-160.0,0.0,-160.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00043.png" />
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="9" x="1446" y="1180" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_topo_esq/00013.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="2817" y="1340" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,634.0,36.0,634.0,-23.0,568.0,3.0,291.0,-30.0,163.0,-17.0,46.0,-61.0,30.0,-59.0,-93.0,-28.0,-93.0,-29.0,-113.0,-28.0,-364.0,10.0,-418.0,-43.0,-425.0,-46.0,-462.0,-44.0,-550.0,1.0,-900.0,-29.0,-976.0,-121.0,-969.0,-226.0,-1048.0,-164.0,-1087.0,-96.0,-1201.0,-13.0,-1215.0,-17.0,-1216.0,-17.0,-1216.0,36.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="634.0" y="-1340.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="3208" y="947" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,247.0,195.0,158.0,195.0,-7.0,210.0,-151.0,155.0,-236.0,111.0,-309.0,160.0,-449.0,212.0,-383.0,99.0,-416.0,23.0,-739.0,113.0,-454.0,-70.0,-430.0,-123.0,-237.0,-46.0,-114.0,-121.0,-92.0,-188.0,-8.0,-203.0,244.0,-201.0,243.0,-931.0,-6.0,-928.0,-120.0,-940.0,-374.0,-877.0,-373.0,-885.0,-495.0,-835.0,-403.0,-894.0,-408.0,-897.0,-510.0,-921.0,-654.0,-895.0,-667.0,-891.0,-742.0,-932.0,-890.0,-880.0,-902.0,-910.0,-1009.0,-936.0,-1130.0,-913.0,-1147.0,-911.0,-1211.0,-864.0,-1247.0,-917.0,-1420.0,-920.0,-1533.0,-837.0,-1535.0,-843.0,-1608.0,-759.0,-1608.0,-947.0,249.0,-947.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="242.0" y="-947.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="2198" y="423" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,-2.0,42.0,-31.0,-12.0,37.0,-31.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="1209.0" y="-424.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="2198" y="645" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,89.0,53.0,-15.0,59.0,-122.0,90.0,-103.0,6.0,-99.0,7.0,-33.0,-15.0,-30.0,-22.0,12.0,-99.0,82.0,-51.0,95.0,50.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="1197.0" y="-593.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="2103" y="280" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,44.0,99.0,-75.0,-14.0,-71.0,-18.0,-69.0,-24.0,-45.0,-75.0,23.0,-66.0,28.0,-63.0,63.0,31.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="1305.0" y="-285.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="2301" y="1148" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,62.0,47.0,-50.0,7.0,-151.0,28.0,-152.0,24.0,-78.0,-51.0,3.0,-69.0,11.0,-68.0,34.0,-13.0,212.0,3.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="1149.0" y="-1148.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="1736" y="973" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,23.0,27.0,-60.0,46.0,-60.0,39.0,-47.0,-13.0,57.0,-58.0,65.0,-58.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="1714.0" y="-973.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="2104" y="849" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,36.0,44.0,32.0,47.0,-62.0,61.0,-47.0,-7.0,-55.0,-72.0,15.0,-45.0,19.0,-43.0,77.0,-30.0,39.0,42.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="1337.0" y="-840.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="2529" y="671" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,-49.0,115.0,-149.0,68.0,-150.0,64.0,-60.0,29.0,-53.0,25.0,-38.0,16.0,-36.0,8.0,46.0,-134.0,168.0,-120.0,48.0,-44.0,28.0,45.0,25.0,52.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="948.0" y="-672.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="2587" y="293" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,-7.0,32.0,-46.0,69.0,-46.0,68.0,-45.0,68.0,-17.0,-33.0,-12.0,-34.0,104.0,-26.0,-2.0,30.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="881.0" y="-294.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1057" y="643" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,64.0,0.0,64.0,64.0,0.0,64.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00031.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="897" y="579" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,160.0,0.0,160.0,128.0,0.0,128.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00019.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1074" y="694" orientation="0.0" visible="false" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-49.0,13.0,31.0,-41.0,50.0,42.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="929" y="547" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,96.0,0.0,96.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00020.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1057" y="611" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,32.0,0.0,32.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00032.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="993" y="707" orientation="0.0" visible="true" collidable="false" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,0.0,0.0,160.0,0.0,160.0,32.0,0.0,32.0,">
+            <texture>
+              <image path="images/import_png_objectos_esq/00024.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="0.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="7" x="1002" y="645" orientation="0.0" visible="false" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!872415231,-89.0,53.0,15.0,59.0,122.0,90.0,103.0,6.0,99.0,7.0,33.0,-15.0,30.0,-22.0,-12.0,-99.0,-82.0,-51.0,-95.0,50.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-1197.0" y="-593.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+      </geometry>
+      <spawnPoints>
+        <spawnPoints layer="9" x="62" y="479" orientation="-180.0">
+          <team index="5" />
+        </spawnPoints>
+        <spawnPoints layer="9" x="60" y="586" orientation="-180.0">
+          <team index="5" />
+        </spawnPoints>
+        <spawnPoints layer="9" x="61" y="432" orientation="-180.0">
+          <team index="5" />
+        </spawnPoints>
+        <spawnPoints layer="9" x="60" y="642" orientation="-180.0">
+          <team index="5" />
+        </spawnPoints>
+        <spawnPoints layer="9" x="62" y="330" orientation="-180.0">
+          <team index="5" />
+        </spawnPoints>
+        <spawnPoints layer="9" x="60" y="530" orientation="-180.0">
+          <team index="5" />
+        </spawnPoints>
+        <spawnPoints layer="9" x="61" y="381" orientation="-180.0">
+          <team index="5" />
+        </spawnPoints>
+        <spawnPoints layer="9" x="1645" y="609" orientation="-180.0">
+          <team index="9" />
+        </spawnPoints>
+        <spawnPoints layer="9" x="1645" y="665" orientation="-180.0">
+          <team index="9" />
+        </spawnPoints>
+        <spawnPoints layer="9" x="1645" y="553" orientation="-180.0">
+          <team index="9" />
+        </spawnPoints>
+        <spawnPoints layer="9" x="1555" y="553" orientation="0.0">
+          <team index="9" />
+        </spawnPoints>
+        <spawnPoints layer="9" x="1555" y="609" orientation="0.0">
+          <team index="9" />
+        </spawnPoints>
+        <spawnPoints layer="9" x="1555" y="665" orientation="0.0">
+          <team index="9" />
+        </spawnPoints>
+      </spawnPoints>
+      <Base>
+        <Base layer="9" x="1602" y="515">
+          <team index="9" />
+          <transformation scale="0.79999995" rotate="0.30052757" flipX="false" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Base>
+      </Base>
+      <Turret>
+        <Turret layer="8" turnLeft="105.0" turnRight="70.0" maxDistance="600.0" x="1438" y="418" health="600" gunCooldownSeconds="0.6" bulletSpeed="17.0" bulletDirectDamage="10" bulletBlastDamage="30" bulletBlastRadius="80">
+          <team index="9" />
+          <transformation scale="1.0" rotate="43.561012" flipX="false" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="8" turnLeft="105.0" turnRight="105.0" maxDistance="600.0" x="1656" y="805" health="600" gunCooldownSeconds="0.6" bulletSpeed="17.0" bulletDirectDamage="10" bulletBlastDamage="30" bulletBlastRadius="80">
+          <team index="9" />
+          <transformation scale="1.0" rotate="-45.382732" flipX="false" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="8" turnLeft="105.0" turnRight="110.0" maxDistance="600.0" x="1650" y="356" health="1000" gunCooldownSeconds="0.6" bulletSpeed="17.0" bulletDirectDamage="10" bulletBlastDamage="30" bulletBlastRadius="80">
+          <team index="9" />
+          <transformation scale="1.0" rotate="226.0" flipX="false" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="8" turnLeft="105.0" turnRight="110.0" maxDistance="600.0" x="1536" y="358" health="1000" gunCooldownSeconds="0.6" bulletSpeed="17.0" bulletDirectDamage="10" bulletBlastDamage="30" bulletBlastRadius="80">
+          <team index="9" />
+          <transformation scale="1.0" rotate="219.34558" flipX="true" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="8" turnLeft="105.0" turnRight="70.0" maxDistance="600.0" x="1765" y="407" health="600" gunCooldownSeconds="0.6" bulletSpeed="17.0" bulletDirectDamage="10" bulletBlastDamage="30" bulletBlastRadius="80">
+          <team index="9" />
+          <transformation scale="1.0" rotate="51.350525" flipX="true" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+        <Turret layer="8" turnLeft="105.0" turnRight="105.0" maxDistance="600.0" x="1544" y="805" health="600" gunCooldownSeconds="0.6" bulletSpeed="17.0" bulletDirectDamage="10" bulletBlastDamage="30" bulletBlastRadius="80">
+          <team index="9" />
+          <transformation scale="1.0" rotate="-45.382732" flipX="true" flipY="false">
+            <translate x="0.0" y="0.0" />
+          </transformation>
+        </Turret>
+      </Turret>
+      <Hoop />
+      <objectiveDescriptor />
+      <powerupSpawner>
+        <powerupSpawner layer="9" x="1600" y="1157" orientation="0.0" spawnTime="25.0" neverFade="true" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="9" x="500" y="60" orientation="0.0" spawnTime="60.0" neverFade="true" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="9" x="1539" y="719" orientation="0.0" spawnTime="60.0" neverFade="true" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Shield" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="9" x="2955" y="788" orientation="0.0" spawnTime="60.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="5" />
+          <selectedPowerups>
+            <String value="Bomb" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="9" x="1661" y="719" orientation="0.0" spawnTime="60.0" neverFade="true" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="9" x="2700" y="60" orientation="0.0" spawnTime="60.0" neverFade="true" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Homing Missile" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="9" x="3162" y="1428" orientation="0.0" spawnTime="9999.0" neverFade="true" spawnAtRoundStart="true">
+          <team index="5" />
+          <selectedPowerups>
+            <String value="Demolition Charge" />
+          </selectedPowerups>
+        </powerupSpawner>
+      </powerupSpawner>
+      <Goal />
+    </View>
+  </views>
+</Level>
+

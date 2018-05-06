@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="00000.png" value="p0" />
+    <entry key="00001.png" value="p0" />
+    <entry key="00002.png" value="p0" />
+    <entry key="00003.png" value="p0" />
+    <entry key="00004.png" value="p0" />
+    <entry key="00005.png" value="p0" />
+    <entry key="00006.png" value="p0" />
+    <entry key="00007.png" value="p0" />
+    <entry key="00008.png" value="p0" />
+    <entry key="00009.png" value="p0" />
+    <entry key="00010.png" value="p0" />
+    <entry key="00011.png" value="p0" />
+    <entry key="00012.png" value="p0" />
+    <entry key="00013.png" value="p0" />
+    <entry key="00014.png" value="p0" />
+    <entry key="00015.png" value="p0" />
+    <entry key="00016.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+
