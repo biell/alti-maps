@@ -3,5 +3,6 @@
 #Basic settings:
 /set intro Asymmetric Game: multiple Orange against one Blue
 /set assignTeam left
+/set spawnMode zone
 
 /add zone spawn right 2800,900,nw
