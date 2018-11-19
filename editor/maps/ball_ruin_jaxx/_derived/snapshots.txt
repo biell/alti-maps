@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_jaxx\_config\image-descriptors.txt" lastModified="1542604495217" length="249" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_jaxx\ball_ruin_jaxx.alte" lastModified="1542604393310" length="28644" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_jaxx\_config\image-descriptors.txt" lastModified="1542606717651" length="249" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_jaxx\ball_ruin_jaxx.alte" lastModified="1542605958413" length="29269" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_jaxx\images\jaxx.png" lastModified="1542604187705" length="1846" />
   </snapshots>
 </snapshots.txt>
