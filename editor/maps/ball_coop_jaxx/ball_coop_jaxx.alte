@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Level backgroundColor="-991779" nameTextColor="-3355444" useBlackSmokeForPlaneDamage="true" backgroundClearRequired="true">
+<Level backgroundColor="-995634" nameTextColor="-3355444" useBlackSmokeForPlaneDamage="true" backgroundClearRequired="true">
   <levelModeConfig objectiveGameTimeSeconds="120" />
   <views>
     <View name="Game" size="1280,720">
@@ -580,7 +580,7 @@
         </Goal>
         <Goal layer="2" x="641" y="219">
           <team index="10" />
-          <transformation scale="0.8780488" rotate="90.0" flipX="true" flipY="false">
+          <transformation scale="0.76829267" rotate="90.0" flipX="true" flipY="false">
             <translate x="0.0" y="0.0" />
           </transformation>
         </Goal>
