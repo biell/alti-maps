@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_jaxx\_config\image-descriptors.txt" lastModified="1542607354335" length="249" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_jaxx\ball_coop_jaxx.alte" lastModified="1542607354288" length="29275" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_jaxx\images\jaxx.png" lastModified="1542607354285" length="1846" />
+  </snapshots>
+</snapshots.txt>
+

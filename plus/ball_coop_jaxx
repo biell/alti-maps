@@ -1,0 +1,5 @@
+#ball_coop alti+ map settings
+
+#Basic settings:
+/set intro Destroy the big pink turret
+/set assignTeam left
