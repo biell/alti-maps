@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_origami_park\1bd_origami_park.alte" lastModified="1525647394209" length="159796" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_origami_park\_config\image-descriptors.txt" lastModified="1525647396235" length="28724" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_origami_park\1bd_origami_park.alte" lastModified="1525648398601" length="160075" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_origami_park\_config\image-descriptors.txt" lastModified="1538849959029" length="28724" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_origami_park\images\import_png_background\00000.png" lastModified="1525647393225" length="240638" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_origami_park\images\import_png_background\00001.png" lastModified="1525647393235" length="231786" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\1bd_origami_park\images\import_png_background\00002.png" lastModified="1525647393254" length="141422" />
