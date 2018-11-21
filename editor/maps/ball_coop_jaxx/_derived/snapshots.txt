@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_jaxx\_config\image-descriptors.txt" lastModified="1542832265739" length="384" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_jaxx\ball_coop_jaxx.alte" lastModified="1542608061673" length="29276" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_jaxx\_config\image-descriptors.txt" lastModified="1542840420536" length="384" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_jaxx\ball_coop_jaxx.alte" lastModified="1542835319421" length="38830" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_jaxx\images\Pink_Poison_Bottle.png" lastModified="1542832136098" length="3000" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_coop_jaxx\images\jaxx.png" lastModified="1542607354285" length="1846" />
   </snapshots>

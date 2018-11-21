@@ -2,6 +2,36 @@
 <Level backgroundColor="-995634" nameTextColor="-10066330" useBlackSmokeForPlaneDamage="true" backgroundClearRequired="true">
   <levelModeConfig objectiveGameTimeSeconds="120" />
   <views>
+    <View name="Under" size="1280,720">
+      <bounds minX="0" minY="0" maxX="1280" maxY="720" />
+      <geometry>
+        <geometry layer="1" x="4" y="-8" orientation="0.0" visible="true" collidable="true" elasticity="0.0" damageModifier="0.0">
+          <texturedPoly hull="!-995634,-4.0,8.0,60.0,8.0,92.0,8.0,124.0,8.0,1148.0,8.0,1180.0,8.0,1212.0,8.0,1276.0,8.0,1276.0,728.0,1212.0,728.0,1180.0,728.0,1148.0,728.0,124.0,728.0,92.0,728.0,60.0,728.0,-4.0,728.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="2.0" y="-91.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="1" y="224" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!142750515,0.0,0.0,1279.0,0.0,1279.0,2.0,-1.0,2.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-1.0" y="-223.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+      </geometry>
+      <spawnPoints />
+      <Base />
+      <Turret />
+      <Hoop />
+      <objectiveDescriptor />
+      <powerupSpawner />
+      <Goal />
+    </View>
     <View name="Game" size="1280,720">
       <bounds minX="0" minY="0" maxX="1280" maxY="720" />
       <geometry>
@@ -724,6 +754,24 @@
             <texture>
               <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
                 <translate x="2.0" y="-91.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="0" y="719" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!1719808819,0.0,81.0,0.0,-719.0,!13675435,96.0,-719.0,96.0,81.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="0.0" y="-719.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="5" x="1280" y="719" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!13675435,-96.0,81.0,-96.0,-719.0,!1719808819,0.0,-719.0,0.0,81.0,">
+            <texture>
+              <xform scale="1.0" rotate="0.0" flipX="true" flipY="false">
+                <translate x="0.0" y="-719.0" />
               </xform>
             </texture>
           </texturedPoly>
