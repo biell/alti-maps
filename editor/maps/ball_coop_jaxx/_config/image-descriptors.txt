@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <image-descriptors.txt>
   <descriptors>
+    <ImageDescriptor path="images/Pink_Poison_Bottle.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
     <ImageDescriptor path="images/jaxx.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
   </descriptors>
 </image-descriptors.txt>
