@@ -1,0 +1,32 @@
+#tbd_volleyball_beach alti+ map settings
+
+#Basic settings:
+/set intro Do not cross center line, no weapons, bomb their sand
+/set weapons 1
+
+#Center line boundary:
+/add bound 1025,732
+/add bound 1025,766
+/add bound 1025,800
+/add bound 1025,834
+/add bound 1025,868
+/add bound 1025,902
+/add bound 1025,936
+/add bound 1025,970
+/add bound 1025,1004
+/add bound 1025,1038
+/add bound 1025,1072
+/add bound 1025,1106
+/add bound 1025,1140
+/add bound 1025,1174
+/add bound 1025,1208
+/add bound 1025,1242
+/add bound 1025,1276
+/add bound 1025,1310
+/add bound 1025,1346
+/add bound 1025,1380
+/add bound 1025,1412
+/add bound 1025,1446
+/add bound 1025,1480
+/add bound 1025,1514
+

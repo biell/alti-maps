@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-descriptors.txt>
+  <descriptors>
+    <ImageDescriptor path="images/vg3..png" wrapMode="CLAMP" filter="NEAREST" internalFormat="DXT5" packQualifier="" />
+    <ImageDescriptor path="images/backline.png" wrapMode="CLAMP" filter="NEAREST" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/pole.png" wrapMode="CLAMP" filter="NEAREST" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/rules.png" wrapMode="CLAMP" filter="NEAREST" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/sand.png" wrapMode="CLAMP" filter="NEAREST" internalFormat="RGBA8" packQualifier="" />
+  </descriptors>
+</image-descriptors.txt>
+

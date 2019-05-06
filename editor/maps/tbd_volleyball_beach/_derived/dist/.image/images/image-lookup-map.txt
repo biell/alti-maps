@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="backline.png" value="p0" />
+    <entry key="pole.png" value="p1" />
+    <entry key="rules.png" value="p2" />
+    <entry key="sand.png" value="p3" />
+    <entry key="vg3..png" value="p4" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+
