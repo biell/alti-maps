@@ -3,6 +3,7 @@
 #Basic settings:
 /set intro Do not cross center line, no weapons, bomb their sand
 /set weapons 1
+/set botCount 0
 
 #Center line boundary:
 /add bound 1025,732
