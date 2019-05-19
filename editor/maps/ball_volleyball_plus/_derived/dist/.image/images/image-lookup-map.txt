@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="bg.png" value="p2" />
+    <entry key="inner1.png" value="p0" />
+    <entry key="inner2.png" value="p4" />
+    <entry key="net.png" value="p1" />
+    <entry key="outer.png" value="p3" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

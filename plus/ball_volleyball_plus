@@ -1,0 +1,8 @@
+#ball_volleyball_plus alti+ map settings
+
+#Basic settings:
+/set intro Do not cross center line, work together to score a goal
+/set botCount 0
+/set planeScale 90
+
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_volleyball_plus\_config\image-descriptors.txt" lastModified="1558300321211" length="737" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_volleyball_plus\ball_volleyball_plus.alte" lastModified="1558300317274" length="74638" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_volleyball_plus\images\bg.png" lastModified="1558300317268" length="2801124" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_volleyball_plus\images\inner1.png" lastModified="1558300317268" length="100943" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_volleyball_plus\images\inner2.png" lastModified="1558300317268" length="46740" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_volleyball_plus\images\net.png" lastModified="1558300317271" length="81454" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_volleyball_plus\images\outer.png" lastModified="1558300317271" length="1101484" />
+  </snapshots>
+</snapshots.txt>
+

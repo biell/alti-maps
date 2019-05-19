@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-descriptors.txt>
+  <descriptors>
+    <ImageDescriptor path="images/bg.png" wrapMode="CLAMP" filter="NEAREST" internalFormat="DXT5" packQualifier="" />
+    <ImageDescriptor path="images/net.png" wrapMode="CLAMP" filter="NEAREST" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/outer.png" wrapMode="CLAMP" filter="NEAREST" internalFormat="DXT5" packQualifier="" />
+    <ImageDescriptor path="images/inner1.png" wrapMode="CLAMP" filter="NEAREST" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/inner2.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+  </descriptors>
+</image-descriptors.txt>
+
