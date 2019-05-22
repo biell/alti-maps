@@ -14,7 +14,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="160" y="960" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="9" x="76" y="736" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-24.0,-24.0,-24.0,24.0,24.0,24.0,24.0,-24.0,">
             <texture>
               <image path="images/shield.png" />
@@ -24,7 +24,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="320" y="960" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="9" x="77" y="960" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-24.0,-24.0,-24.0,24.0,24.0,24.0,24.0,-24.0,">
             <texture>
               <image path="images/health.png" />
@@ -44,7 +44,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="160" y="64" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="9" x="76" y="288" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-24.0,-24.0,-24.0,24.0,24.0,24.0,24.0,-24.0,">
             <texture>
               <image path="images/wall.png" />
@@ -54,7 +54,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="320" y="64" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="9" x="76" y="64" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-24.0,-24.0,-24.0,24.0,24.0,24.0,24.0,-24.0,">
             <texture>
               <image path="images/missle.png" />
@@ -64,7 +64,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="2144" y="65" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="9" x="2228" y="288" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-24.0,-24.0,-24.0,24.0,24.0,24.0,24.0,-24.0,">
             <texture>
               <image path="images/wall.png" />
@@ -74,7 +74,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="2144" y="960" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="9" x="2228" y="736" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-24.0,-24.0,-24.0,24.0,24.0,24.0,24.0,-24.0,">
             <texture>
               <image path="images/shield.png" />
@@ -84,7 +84,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="1984" y="65" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="9" x="2228" y="64" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-24.0,-24.0,-24.0,24.0,24.0,24.0,24.0,-24.0,">
             <texture>
               <image path="images/missle.png" />
@@ -104,7 +104,7 @@
             </texture>
           </texturedPoly>
         </geometry>
-        <geometry layer="9" x="1984" y="960" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+        <geometry layer="9" x="2228" y="960" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
           <texturedPoly hull="!-1,-24.0,-24.0,-24.0,24.0,24.0,24.0,24.0,-24.0,">
             <texture>
               <image path="images/health.png" />
@@ -701,25 +701,25 @@
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="160" y="960" orientation="0.0" spawnTime="8.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="76" y="736" orientation="0.0" spawnTime="8.0" neverFade="true" spawnAtRoundStart="false">
           <team index="3" />
           <selectedPowerups>
             <String value="Shield" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="320" y="960" orientation="0.0" spawnTime="9.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="76" y="960" orientation="0.0" spawnTime="9.0" neverFade="true" spawnAtRoundStart="false">
           <team index="3" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="160" y="64" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="76" y="288" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="false">
           <team index="3" />
           <selectedPowerups>
             <String value="Wall" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="320" y="64" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="76" y="64" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
           <team index="3" />
           <selectedPowerups>
             <String value="Homing Missile" />
@@ -731,25 +731,25 @@
             <String value="Bomb" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="1984" y="64" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="2228" y="64" orientation="0.0" spawnTime="6.0" neverFade="true" spawnAtRoundStart="false">
           <team index="4" />
           <selectedPowerups>
             <String value="Homing Missile" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="2144" y="64" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="2228" y="288" orientation="0.0" spawnTime="7.0" neverFade="true" spawnAtRoundStart="false">
           <team index="4" />
           <selectedPowerups>
             <String value="Wall" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="1984" y="960" orientation="0.0" spawnTime="9.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="2228" y="960" orientation="0.0" spawnTime="9.0" neverFade="true" spawnAtRoundStart="false">
           <team index="4" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="2144" y="960" orientation="0.0" spawnTime="8.0" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="2228" y="736" orientation="0.0" spawnTime="8.0" neverFade="true" spawnAtRoundStart="false">
           <team index="4" />
           <selectedPowerups>
             <String value="Shield" />
