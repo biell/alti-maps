@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_101\_config\image-descriptors.txt" lastModified="1566148131668" length="1665" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_101\images\lesson01-01.png" lastModified="1566147503563" length="1081944" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_101\images\lesson01-02.png" lastModified="1566147503563" length="149053" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_101\images\lesson02-01.png" lastModified="1566147503563" length="1165265" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_101\images\lesson02-02.png" lastModified="1566147503567" length="254977" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_101\images\lesson02-03.png" lastModified="1566147503567" length="391550" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_101\images\lesson03-01.png" lastModified="1566147503567" length="1123812" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_101\images\lesson03-02.png" lastModified="1566147503567" length="345936" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_101\images\lesson03-03.png" lastModified="1566147503570" length="1037327" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_101\images\meganjuin01.png" lastModified="1566147503570" length="766323" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_101\images\meganjuin02.png" lastModified="1566147503570" length="313954" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_101\images\meganjuin03.png" lastModified="1566147503573" length="306525" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_101\images\wall01.png" lastModified="1566147503573" length="3478" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_coop_101\tbd_coop_101.alte" lastModified="1566148042744" length="115548" />
+  </snapshots>
+</snapshots.txt>
+

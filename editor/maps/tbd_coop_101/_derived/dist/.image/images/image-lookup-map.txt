@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="lesson01-01.png" value="p6" />
+    <entry key="lesson01-02.png" value="p0" />
+    <entry key="lesson02-01.png" value="p7" />
+    <entry key="lesson02-02.png" value="p1" />
+    <entry key="lesson02-03.png" value="p8" />
+    <entry key="lesson03-01.png" value="p9" />
+    <entry key="lesson03-02.png" value="p2" />
+    <entry key="lesson03-03.png" value="p10" />
+    <entry key="meganjuin01.png" value="p3" />
+    <entry key="meganjuin02.png" value="p4" />
+    <entry key="meganjuin03.png" value="p5" />
+    <entry key="wall01.png" value="p11" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

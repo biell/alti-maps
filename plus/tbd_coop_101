@@ -1,0 +1,10 @@
+#tbd_coop_101 alti+ map settings
+
+/set assignTeam left
+/set spawnMode after
+/set intro This is Coop, work together
+
+/add zone bottom * 2060,1010 s
+/add zone lesson_2 * 2020,1828 e
+/add zone lesson_3 * 6120,1108 e
+
