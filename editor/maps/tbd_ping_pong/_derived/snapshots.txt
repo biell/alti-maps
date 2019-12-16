@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_ping_pong\_config\image-descriptors.txt" lastModified="1566146723958" length="875" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_ping_pong\images\bomb.png" lastModified="1558484374992" length="3028" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_ping_pong\images\health.png" lastModified="1558484374992" length="3266" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_ping_pong\images\missle.png" lastModified="1558484374992" length="3016" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_ping_pong\images\shield.png" lastModified="1558484374995" length="2696" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_ping_pong\images\wall.png" lastModified="1558484374995" length="3004" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_ping_pong\plus.txt" lastModified="1558484374995" length="775" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_ping_pong\tbd_ping_pong.alte" lastModified="1558561538999" length="42671" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_ping_pong\textures\green_background.png" lastModified="1558484374995" length="302288" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_ping_pong\_config\image-descriptors.txt" lastModified="1576467129427" length="875" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_ping_pong\images\bomb.png" lastModified="1576467024951" length="3028" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_ping_pong\images\health.png" lastModified="1576467024951" length="3266" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_ping_pong\images\missle.png" lastModified="1576467024951" length="3016" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_ping_pong\images\shield.png" lastModified="1576467024951" length="2696" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_ping_pong\images\wall.png" lastModified="1576467024951" length="3004" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_ping_pong\plus.txt" lastModified="1576467024951" length="775" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_ping_pong\tbd_ping_pong.alte" lastModified="1576467024951" length="42671" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\tbd_ping_pong\textures\green_background.png" lastModified="1576467024951" length="302288" />
   </snapshots>
 </snapshots.txt>
 

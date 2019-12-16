@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\_config\image-descriptors.txt" lastModified="1576467482505" length="2748" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\ffa_1fa_minicores.alte" lastModified="1576465637760" length="99659" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\bgffa3.png" lastModified="1576465169666" length="7121311" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\bottom.png" lastModified="1576465169693" length="46969" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\bottomcurve1.png" lastModified="1576465169696" length="20671" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\bottoml.png" lastModified="1576465169696" length="76024" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\bottompiece.png" lastModified="1576465169696" length="8598" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\bottompiece2.png" lastModified="1576465169696" length="38833" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\bottompiece4.png" lastModified="1576465169703" length="10345" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\bottomr.png" lastModified="1576465169703" length="75892" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\maimer.png" lastModified="1576465169706" length="10815" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\outerbottoml.png" lastModified="1576465169706" length="73160" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\outertopl.png" lastModified="1576465169706" length="73588" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\redshift.png" lastModified="1576465169706" length="3638" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\side.png" lastModified="1576465169706" length="57009" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\side2.png" lastModified="1576465169706" length="56172" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\top.png" lastModified="1576465169709" length="46122" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\topcurve1.png" lastModified="1576465169709" length="20560" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\topl.png" lastModified="1576465169709" length="67746" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\toppiece.png" lastModified="1576465169709" length="39109" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\toppiece2.png" lastModified="1576465169709" length="8638" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\toppiece3.png" lastModified="1576465169709" length="10759" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\topr.png" lastModified="1576465169713" length="76181" />
+  </snapshots>
+</snapshots.txt>
+

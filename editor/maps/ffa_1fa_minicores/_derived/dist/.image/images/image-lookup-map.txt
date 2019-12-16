@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="bgffa3.png" value="p0" />
+    <entry key="bottom.png" value="p1" />
+    <entry key="bottomcurve1.png" value="p7" />
+    <entry key="bottoml.png" value="p2" />
+    <entry key="bottompiece.png" value="p2" />
+    <entry key="bottompiece2.png" value="p6" />
+    <entry key="bottompiece4.png" value="p2" />
+    <entry key="bottomr.png" value="p3" />
+    <entry key="maimer.png" value="p3" />
+    <entry key="outerbottoml.png" value="p5" />
+    <entry key="outertopl.png" value="p5" />
+    <entry key="redshift.png" value="p1" />
+    <entry key="side.png" value="p1" />
+    <entry key="side2.png" value="p1" />
+    <entry key="top.png" value="p2" />
+    <entry key="topcurve1.png" value="p7" />
+    <entry key="topl.png" value="p1" />
+    <entry key="toppiece.png" value="p6" />
+    <entry key="toppiece2.png" value="p2" />
+    <entry key="toppiece3.png" value="p2" />
+    <entry key="topr.png" value="p4" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+
