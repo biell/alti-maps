@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\_config\image-descriptors.txt" lastModified="1576467482505" length="2748" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\ffa_1fa_minicores.alte" lastModified="1576465637760" length="99659" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\_config\image-descriptors.txt" lastModified="1576469252018" length="2748" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\ffa_1fa_minicores.alte" lastModified="1576469022049" length="102167" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\bgffa3.png" lastModified="1576465169666" length="7121311" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\bottom.png" lastModified="1576465169693" length="46969" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_1fa_minicores\images\bottomcurve1.png" lastModified="1576465169696" length="20671" />
