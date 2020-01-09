@@ -11543,49 +11543,55 @@
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="1298" y="1314" orientation="0.0" spawnTime="0.5" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="1298" y="1314" orientation="0.0" spawnTime="0.25" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="4176" y="1442" orientation="0.0" spawnTime="0.5" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="4116" y="1458" orientation="0.0" spawnTime="0.25" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="4348" y="1791" orientation="0.0" spawnTime="0.5" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="4348" y="1791" orientation="0.0" spawnTime="0.25" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="5176" y="3799" orientation="0.0" spawnTime="0.5" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="5059" y="3799" orientation="0.0" spawnTime="0.25" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="4674" y="3791" orientation="0.0" spawnTime="0.5" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="4621" y="3791" orientation="0.0" spawnTime="0.25" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="5630" y="3806" orientation="0.0" spawnTime="0.5" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="5530" y="3807" orientation="0.0" spawnTime="0.25" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="2112" y="2655" orientation="0.0" spawnTime="0.5" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="2112" y="2655" orientation="0.0" spawnTime="0.25" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
           </selectedPowerups>
         </powerupSpawner>
-        <powerupSpawner layer="1" x="5666" y="471" orientation="0.0" spawnTime="0.5" neverFade="true" spawnAtRoundStart="false">
+        <powerupSpawner layer="1" x="5666" y="471" orientation="0.0" spawnTime="0.25" neverFade="true" spawnAtRoundStart="false">
+          <team index="2" />
+          <selectedPowerups>
+            <String value="Health" />
+          </selectedPowerups>
+        </powerupSpawner>
+        <powerupSpawner layer="1" x="490" y="152" orientation="0.0" spawnTime="0.25" neverFade="true" spawnAtRoundStart="false">
           <team index="2" />
           <selectedPowerups>
             <String value="Health" />
@@ -11606,6 +11612,108 @@
           </transformation>
         </Goal>
       </Goal>
+    </View>
+    <View name="Boost" size="6000,4000">
+      <bounds minX="0" minY="0" maxX="6000" maxY="4000" />
+      <geometry>
+        <geometry layer="1" x="1298" y="1314" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-14.999999,15.000001,15.000001,14.999999,14.999999,-15.000001,-15.000001,-14.999999,">
+            <texture>
+              <image path="images/boost.png" />
+              <xform scale="1.0" rotate="-90.0" flipX="false" flipY="false">
+                <translate x="-14.999999" y="15.000001" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="5666" y="471" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,14.0651,-15.879953,-15.879953,-14.0651,-14.0651,15.879953,15.879953,14.0651,">
+            <texture>
+              <image path="images/boost.png" />
+              <xform scale="1.0" rotate="86.53177" flipX="false" flipY="false">
+                <translate x="14.0651" y="-15.879953" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="4116" y="1458" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-17.862055,-11.443209,-11.443209,17.862055,17.862055,11.443209,11.443209,-17.862055,">
+            <texture>
+              <image path="images/boost.png" />
+              <xform scale="1.0" rotate="-12.354613" flipX="false" flipY="false">
+                <translate x="-17.862055" y="-11.443209" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="4348" y="1791" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,18.255587,10.804329,10.804329,-18.255587,-18.255587,-10.804329,-10.804329,18.255587,">
+            <texture>
+              <image path="images/boost.png" />
+              <xform scale="1.0" rotate="165.6186" flipX="false" flipY="false">
+                <translate x="18.255587" y="10.804329" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="2112" y="2655" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,9.812507,-18.807304,-18.807304,-9.812507,-9.812507,18.807304,18.807304,9.812507,">
+            <texture>
+              <image path="images/boost.png" />
+              <xform scale="1.0" rotate="72.55281" flipX="false" flipY="false">
+                <translate x="9.812507" y="-18.807304" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="4621" y="3791" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-15.0,-15.0,-15.0,15.0,15.0,15.0,15.0,-15.0,">
+            <texture>
+              <image path="images/boost.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-15.0" y="-15.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="5059" y="3799" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-15.0,-15.0,-15.0,15.0,15.0,15.0,15.0,-15.0,">
+            <texture>
+              <image path="images/boost.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-15.0" y="-15.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="5530" y="3807" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,-15.0,-15.0,-15.0,15.0,15.0,15.0,15.0,-15.0,">
+            <texture>
+              <image path="images/boost.png" />
+              <xform scale="1.0" rotate="0.0" flipX="false" flipY="false">
+                <translate x="-15.0" y="-15.0" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+        <geometry layer="1" x="490" y="152" orientation="0.0" visible="true" collidable="true" elasticity="0.125" damageModifier="1.0">
+          <texturedPoly hull="!-1,15.287982,-14.706383,-14.706383,-15.287982,-15.287982,14.706383,14.706383,15.287982,">
+            <texture>
+              <image path="images/boost.png" />
+              <xform scale="1.0" rotate="91.11085" flipX="false" flipY="false">
+                <translate x="15.287982" y="-14.706383" />
+              </xform>
+            </texture>
+          </texturedPoly>
+        </geometry>
+      </geometry>
+      <spawnPoints />
+      <Base />
+      <Turret />
+      <Hoop />
+      <objectiveDescriptor />
+      <powerupSpawner />
+      <Goal />
     </View>
   </views>
 </Level>

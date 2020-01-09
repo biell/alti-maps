@@ -35,6 +35,7 @@
     <entry key="asteroids_planet_01_05.png" value="p7" />
     <entry key="asteroids_planet_02.png" value="p5" />
     <entry key="asteroids_stars.png" value="p1" />
+    <entry key="boost.png" value="p6" />
     <entry key="logo.png" value="p8" />
   </pack-path-by-image-path>
 </image-lookup-map.txt>

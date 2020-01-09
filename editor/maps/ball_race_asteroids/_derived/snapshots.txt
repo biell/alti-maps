@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\_config\image-descriptors.txt" lastModified="1486849887673" length="5822" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\ball_race_asteroids.alte" lastModified="1486841361983" length="946690" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\_config\image-descriptors.txt" lastModified="1578608130989" length="5944" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\ball_race_asteroids.alte" lastModified="1578548759896" length="948993" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\images\asteroids_01_01.png" lastModified="1446677658629" length="25347" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\images\asteroids_01_02b.png" lastModified="1446677658629" length="25976" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\images\asteroids_01_03.png" lastModified="1446677658629" length="64263" />
@@ -37,6 +37,7 @@
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\images\asteroids_planet_01_05.png" lastModified="1446677658629" length="184527" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\images\asteroids_planet_02.png" lastModified="1446677658629" length="662407" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\images\asteroids_stars.png" lastModified="1446677658633" length="2732687" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\images\boost.png" lastModified="1578608119163" length="17138" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\images\import_png_surface\00000.png" lastModified="1446604677654" length="36929" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\images\import_png_surface\00001.png" lastModified="1446604677654" length="3059" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_asteroids\images\import_png_surface\00002.png" lastModified="1446604677654" length="38899" />

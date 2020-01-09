@@ -59,11 +59,13 @@
 
 
 #Boosters:
+/add force 490,152 -1,15
 /add force 1298,1314 2,-15
 /add force 5666,471 2,15
 /add force 4348,1791 -15,4
 /add force 2112,2655 4,15
-/add force 4674,3791 15,1
-/add force 5176,3799 15,1
-/add force 5630,3806 15,1
+/add force 4116,1458 15,-6
+/add force 4621,3791 15,1
+/add force 5059,3799 15,1
+/add force 5530,3807 15,1
 
