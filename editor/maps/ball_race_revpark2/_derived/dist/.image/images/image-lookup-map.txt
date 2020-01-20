@@ -2,6 +2,7 @@
 <image-lookup-map.txt>
   <pack-path-by-image-path>
     <entry key="boost.png" value="p0" />
+    <entry key="jersey-wall-caution.png" value="p0" />
   </pack-path-by-image-path>
 </image-lookup-map.txt>
 

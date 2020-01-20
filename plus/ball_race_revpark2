@@ -89,7 +89,10 @@
 
 
 #Boosters:
+/add force 2315,1180 -14,-15
 /add force 198,469 14,15
 /add force 665,1845 14,15
+/add force 837,1252 14,15
+/add force 926,1161 14,15
 /add force 1563,4056 0,15
 

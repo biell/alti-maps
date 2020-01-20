@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_revpark2\_config\image-descriptors.txt" lastModified="1579496466933" length="12094" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_revpark2\ball_race_revpark2.alte" lastModified="1579496022118" length="98133" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_revpark2\_config\image-descriptors.txt" lastModified="1579530580200" length="12230" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_revpark2\ball_race_revpark2.alte" lastModified="1579530458494" length="97936" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_revpark2\images\boost.png" lastModified="1579494193802" length="17138" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_revpark2\images\import_png_revpark\00000.png" lastModified="1579493189800" length="177529" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_revpark2\images\import_png_revpark\00001.png" lastModified="1579493189804" length="190265" />
@@ -88,6 +88,7 @@
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_revpark2\images\import_png_revpark\00081.png" lastModified="1579493189937" length="30367" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_revpark2\images\import_png_revpark\00082.png" lastModified="1579493189937" length="3940" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_revpark2\images\import_png_revpark\00083.png" lastModified="1579493189940" length="785" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_revpark2\images\jersey-wall-caution.png" lastModified="1579530574093" length="3392" />
   </snapshots>
 </snapshots.txt>
 
