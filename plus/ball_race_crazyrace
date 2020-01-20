@@ -1,0 +1,55 @@
+#ball_race_revpark2 alti+ map settings
+
+#Basic settings:
+/set intro Race through the track
+/set weapons 3
+/set spawnMode map
+/set spawnHealth 400
+
+#Checkpoints:
+/add powerup 1 * 1423,1243
+/add powerup 1 * 1423,1273
+/add powerup 1 * 1423,1303
+/add powerup 1 * 1423,1333
+/add powerup 1 * 1423,1363
+/add powerup 1 * 1452,1243
+/add powerup 1 * 1452,1273
+/add powerup 1 * 1452,1303
+/add powerup 1 * 1452,1333
+/add powerup 1 * 1452,1363
+
+/add powerup 2 * 2790,115
+/add powerup 2 * 2790,143
+/add powerup 2 * 2790,171
+/add powerup 2 * 2790,199
+/add powerup 2 * 2790,227
+/add powerup 2 * 2818,115
+/add powerup 2 * 2818,143
+/add powerup 2 * 2818,171
+/add powerup 2 * 2818,199
+/add powerup 2 * 2818,227
+
+
+#Oneways:
+/add oneway 1423,1243 e
+/add oneway 1423,1273 e
+/add oneway 1423,1303 e
+/add oneway 1423,1333 e
+/add oneway 1423,1363 e
+/add oneway 1452,1243 e
+/add oneway 1452,1273 e
+/add oneway 1452,1303 e
+/add oneway 1452,1333 e
+/add oneway 1452,1363 e
+
+/add oneway 2790,115 w
+/add oneway 2790,143 w
+/add oneway 2790,171 w
+/add oneway 2790,199 w
+/add oneway 2790,227 w
+/add oneway 2818,115 w
+/add oneway 2818,143 w
+/add oneway 2818,171 w
+/add oneway 2818,199 w
+/add oneway 2818,227 w
+
