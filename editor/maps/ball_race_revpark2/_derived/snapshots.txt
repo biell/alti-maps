@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_revpark2\_config\image-descriptors.txt" lastModified="1579530580200" length="12230" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_revpark2\ball_race_revpark2.alte" lastModified="1579530458494" length="97936" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_revpark2\_config\image-descriptors.txt" lastModified="1579535900623" length="12230" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_revpark2\ball_race_revpark2.alte" lastModified="1579531599236" length="103418" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_revpark2\images\boost.png" lastModified="1579494193802" length="17138" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_revpark2\images\import_png_revpark\00000.png" lastModified="1579493189800" length="177529" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_revpark2\images\import_png_revpark\00001.png" lastModified="1579493189804" length="190265" />
