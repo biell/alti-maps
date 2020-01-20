@@ -1,0 +1,95 @@
+#ball_race_revpark2 alti+ map settings
+
+#Basic settings:
+/set intro Race through the track
+/set weapons 3
+/set spawnMode map
+/set spawnHealth 400
+
+#Checkpoints:
+/add powerup 1 * 1061,871
+/add powerup 1 * 1091,871
+/add powerup 1 * 1121,871
+/add powerup 1 * 1151,871
+/add powerup 1 * 1181,871
+/add powerup 1 * 1211,871
+/add powerup 1 * 1061,901
+/add powerup 1 * 1091,901
+/add powerup 1 * 1121,901
+/add powerup 1 * 1151,901
+/add powerup 1 * 1181,901
+/add powerup 1 * 1211,901
+
+/add powerup 2 * 589,4655
+/add powerup 2 * 619,4655
+/add powerup 2 * 649,4655
+/add powerup 2 * 679,4655
+/add powerup 2 * 709,4655
+/add powerup 2 * 739,4655
+/add powerup 2 * 589,4685
+/add powerup 2 * 619,4685
+/add powerup 2 * 649,4685
+/add powerup 2 * 679,4685
+/add powerup 2 * 709,4685
+/add powerup 2 * 739,4685
+
+/add powerup 3 * 2951,2982
+/add powerup 3 * 2981,2982
+/add powerup 3 * 3011,2982
+/add powerup 3 * 3041,2982
+/add powerup 3 * 3071,2982
+/add powerup 3 * 3101,2982
+/add powerup 3 * 2951,3012
+/add powerup 3 * 2981,3012
+/add powerup 3 * 3011,3012
+/add powerup 3 * 3041,3012
+/add powerup 3 * 3071,3012
+/add powerup 3 * 3101,3012
+
+
+#Oneways:
+/add oneway 1061,871 s
+/add oneway 1091,871 s
+/add oneway 1121,871 s
+/add oneway 1151,871 s
+/add oneway 1181,871 s
+/add oneway 1211,871 s
+/add oneway 1061,901 s
+/add oneway 1091,901 s
+/add oneway 1121,901 s
+/add oneway 1151,901 s
+/add oneway 1181,901 s
+/add oneway 1211,901 s
+
+/add oneway 589,4655 n
+/add oneway 619,4655 n
+/add oneway 649,4655 n
+/add oneway 679,4655 n
+/add oneway 709,4655 n
+/add oneway 739,4655 n
+/add oneway 589,4685 n
+/add oneway 619,4685 n
+/add oneway 649,4685 n
+/add oneway 679,4685 n
+/add oneway 709,4685 n
+/add oneway 739,4685 n
+
+/add oneway 2951,2982 s
+/add oneway 2981,2982 s
+/add oneway 3011,2982 s
+/add oneway 3041,2982 s
+/add oneway 3071,2982 s
+/add oneway 3101,2982 s
+/add oneway 2951,3012 s
+/add oneway 2981,3012 s
+/add oneway 3011,3012 s
+/add oneway 3041,3012 s
+/add oneway 3071,3012 s
+/add oneway 3101,3012 s
+
+
+#Boosters:
+/add force 198,469 14,15
+/add force 665,1845 14,15
+/add force 1563,4056 0,15
+
