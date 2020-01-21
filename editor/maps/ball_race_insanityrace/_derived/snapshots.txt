@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_insanityrace\_config\image-descriptors.txt" lastModified="1579634807531" length="497" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_insanityrace\ball_race_insanityrace.alte" lastModified="1579634807208" length="386378" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_insanityrace\images\dirt.png" lastModified="1579634807168" length="375232" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_insanityrace\images\startline.png" lastModified="1579634807171" length="840" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_insanityrace\images\tire.png" lastModified="1579634807171" length="17512" />
+  </snapshots>
+</snapshots.txt>
+
