@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_crazyrace\_config\image-descriptors.txt" lastModified="1579533072717" length="498" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_crazyrace\ball_race_crazyrace.alte" lastModified="1579533072364" length="319050" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_crazyrace\_config\image-descriptors.txt" lastModified="1579650515502" length="498" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_crazyrace\ball_race_crazyrace.alte" lastModified="1579535869273" length="331220" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_crazyrace\images\dirt.png" lastModified="1579533072320" length="1469012" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_crazyrace\images\startline.png" lastModified="1579533072324" length="854" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_race_crazyrace\images\tire.png" lastModified="1579533072324" length="17279" />
