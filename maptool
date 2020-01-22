@@ -7,11 +7,10 @@ case "$command" in
 	add)
 		for map in "$@"; do
 			../alti-server/altx-tool -p maps/$map.altx plus/$map
-			git add								\
-				editor/maps/$map					\
-				plus/$map							\
-				editor_screenshots/${map}_collapsed.png	\
-				maps/$map.altx
+			git add editor/maps/$map
+			git add plus/$map
+			git add editor_screenshots/${map}_collapsed.png
+			git add maps/$map.altx
 		done
 
 		git commit -am "Add $*"

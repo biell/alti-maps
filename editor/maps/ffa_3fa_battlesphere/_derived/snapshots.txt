@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snapshots.txt>
   <snapshots>
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_3fa_battlesphere\_config\image-descriptors.txt" lastModified="1579652418354" length="45035" />
-    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_3fa_battlesphere\ffa_3fa_battlesphere.alte" lastModified="1579652414887" length="248545" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_3fa_battlesphere\_config\image-descriptors.txt" lastModified="1579653052823" length="45035" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_3fa_battlesphere\ffa_3fa_battlesphere.alte" lastModified="1579652540743" length="248504" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_3fa_battlesphere\images\import_png_bgnebula\00000.png" lastModified="1579652414604" length="317526" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_3fa_battlesphere\images\import_png_bgnebula\00001.png" lastModified="1579652414607" length="361070" />
     <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ffa_3fa_battlesphere\images\import_png_bgnebula\00002.png" lastModified="1579652414607" length="326772" />

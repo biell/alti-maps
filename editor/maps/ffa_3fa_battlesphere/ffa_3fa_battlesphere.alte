@@ -4439,7 +4439,7 @@
         <spawnPoints layer="1" x="1075" y="488" orientation="0.0">
           <team index="2" />
         </spawnPoints>
-        <spawnPoints layer="1" x="4605" y="1040" orientation="-180.0">
+        <spawnPoints layer="1" x="4621" y="1040" orientation="-180.0">
           <team index="2" />
         </spawnPoints>
         <spawnPoints layer="1" x="3935" y="506" orientation="-180.0">
