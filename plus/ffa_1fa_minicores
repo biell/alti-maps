@@ -1,6 +1,6 @@
 #ffa_1fa_minicores alti+ map settings
 
 #Basic settings:
-/set lives 2
-/set spawnHealth 105
+/set lives 3
+/set spawnHealth 95
 
