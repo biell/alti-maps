@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="1.png" value="p13" />
+    <entry key="10.png" value="p0" />
+    <entry key="11.png" value="p1" />
+    <entry key="12.png" value="p8" />
+    <entry key="13.png" value="p17" />
+    <entry key="2.png" value="p2" />
+    <entry key="3.png" value="p3" />
+    <entry key="4.png" value="p16" />
+    <entry key="6.png" value="p19" />
+    <entry key="7.png" value="p16" />
+    <entry key="8.png" value="p18" />
+    <entry key="9.png" value="p4" />
+    <entry key="buildingbase1.png" value="p5" />
+    <entry key="cat1.png" value="p19" />
+    <entry key="foreground_clouds_1.png" value="p6" />
+    <entry key="foreground_clouds_2.png" value="p21" />
+    <entry key="foreground_clouds_4.png" value="p21" />
+    <entry key="graphic1.png" value="p14" />
+    <entry key="hiero.png" value="p20" />
+    <entry key="hiero2.png" value="p17" />
+    <entry key="midground_clouds_1.png" value="p17" />
+    <entry key="midground_clouds_11.png" value="p20" />
+    <entry key="midground_clouds_2.png" value="p16" />
+    <entry key="midground_clouds_7.png" value="p20" />
+    <entry key="midground_clouds_8.png" value="p16" />
+    <entry key="midground_clouds_9.png" value="p16" />
+    <entry key="mummystomb.png" value="p7" />
+    <entry key="palm1.png" value="p9" />
+    <entry key="palm2.png" value="p12" />
+    <entry key="palmback1.png" value="p16" />
+    <entry key="palmback2.png" value="p16" />
+    <entry key="pyramidbackground.png" value="p10" />
+    <entry key="sand1.png" value="p18" />
+    <entry key="sand2.png" value="p15" />
+    <entry key="sunset2.png" value="p11" />
+    <entry key="treasure.png" value="p8" />
+    <entry key="wall bottom.png" value="p17" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

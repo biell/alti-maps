@@ -1,0 +1,8 @@
+#ball_ruin_pyramid alti+ map settings
+#This is an update from the tbd_coop_pyramid for coop-ruin
+
+#Basic settings:
+/set intro Destroy all structures to win
+/set assignTeam left
+/set botCount 0 easy
+

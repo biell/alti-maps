@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\_config\image-descriptors.txt" lastModified="1607296467120" length="4777" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\ball_ruin_pyramid.alte" lastModified="1607296384079" length="195222" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\1.png" lastModified="1607296318196" length="271886" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\10.png" lastModified="1607296318196" length="73088" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\11.png" lastModified="1607296318196" length="457877" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\12.png" lastModified="1607296318199" length="146710" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\13.png" lastModified="1607296318199" length="30968" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\2.png" lastModified="1607296318199" length="249273" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\3.png" lastModified="1607296318202" length="1090795" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\4.png" lastModified="1607296318202" length="138965" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\6.png" lastModified="1607296318202" length="71489" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\7.png" lastModified="1607296318206" length="92093" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\8.png" lastModified="1607296318206" length="115337" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\9.png" lastModified="1607296318206" length="455196" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\buildingbase1.png" lastModified="1607296318209" length="100577" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\cat1.png" lastModified="1607296318209" length="77888" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\foreground_clouds_1.png" lastModified="1607296318209" length="295259" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\foreground_clouds_2.png" lastModified="1607296318212" length="84958" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\foreground_clouds_4.png" lastModified="1607296318212" length="73715" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\graphic1.png" lastModified="1607296318212" length="249619" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\hiero.png" lastModified="1607296318216" length="81408" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\hiero2.png" lastModified="1607296318216" length="74185" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\midground_clouds_1.png" lastModified="1607296318216" length="10089" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\midground_clouds_11.png" lastModified="1607296318219" length="36667" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\midground_clouds_2.png" lastModified="1607296318219" length="22471" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\midground_clouds_7.png" lastModified="1607296318219" length="24346" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\midground_clouds_8.png" lastModified="1607296318219" length="10339" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\midground_clouds_9.png" lastModified="1607296318222" length="24280" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\mummystomb.png" lastModified="1607296318222" length="459969" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\palm1.png" lastModified="1607296318222" length="72234" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\palm2.png" lastModified="1607296318232" length="57506" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\palmback1.png" lastModified="1607296318232" length="7078" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\palmback2.png" lastModified="1607296318232" length="9783" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\pyramidbackground.png" lastModified="1607296318236" length="3695380" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\sand1.png" lastModified="1607296318239" length="69737" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\sand2.png" lastModified="1607296318239" length="81277" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\sunset2.png" lastModified="1607296318242" length="481091" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\treasure.png" lastModified="1607296318242" length="149145" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_pyramid\images\wall bottom.png" lastModified="1607296318242" length="48806" />
+  </snapshots>
+</snapshots.txt>
+
