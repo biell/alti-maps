@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snapshots.txt>
+  <snapshots>
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_shadow\_config\image-descriptors.txt" lastModified="1607229566790" length="1342" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_shadow\ball_ruin_shadow.alte" lastModified="1607229565873" length="110992" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_shadow\images\abc123.png" lastModified="1607229565860" length="5441" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_shadow\images\as23.png" lastModified="1607229565860" length="1236" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_shadow\images\bg1.png" lastModified="1607229565863" length="630058" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_shadow\images\im.png" lastModified="1607229565863" length="30415" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_shadow\images\im011.png" lastModified="1607229565863" length="2485" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_shadow\images\im012.png" lastModified="1607229565863" length="1175" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_shadow\images\im03.png" lastModified="1607229565863" length="35610" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_shadow\images\im07.png" lastModified="1607229565866" length="6264" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_shadow\images\jh6.png" lastModified="1607229565866" length="2756" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_shadow\images\mini.png" lastModified="1607229565866" length="4071" />
+    <FileSnapshot path="C:\Program Files (x86)\Altitude\editor\maps\ball_ruin_shadow\plus.txt" lastModified="1607229565866" length="111" />
+  </snapshots>
+</snapshots.txt>
+

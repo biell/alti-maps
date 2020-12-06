@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-descriptors.txt>
+  <descriptors>
+    <ImageDescriptor path="images/bg1.png" wrapMode="CLAMP" filter="NEAREST" internalFormat="DXT5" packQualifier="" />
+    <ImageDescriptor path="images/abc123.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/mini.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/as23.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/im012.png" wrapMode="CLAMP" filter="NEAREST" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/im.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/im011.png" wrapMode="CLAMP" filter="NEAREST" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/im07.png" wrapMode="CLAMP" filter="NEAREST" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/im03.png" wrapMode="CLAMP" filter="LINEAR" internalFormat="RGBA8" packQualifier="" />
+    <ImageDescriptor path="images/jh6.png" wrapMode="CLAMP" filter="NEAREST" internalFormat="RGBA8" packQualifier="" />
+  </descriptors>
+</image-descriptors.txt>
+
